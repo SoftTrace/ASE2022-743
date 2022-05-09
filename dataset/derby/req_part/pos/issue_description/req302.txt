@@ -1,0 +1,5 @@
+hash:NN valu:NNS return:VBN construct:VBN perform:VBG bitwis:NN xor:NN signific:JJ bit:NNS record:NN number:NN page:NN number:NN segment:NN 
+valu:NNS tend:VBP small:JJ posit:JJ integ:NNS hash:NN valu:NNS tend:VBP cluster:VBN small:JJ rang:NN 
+lead:VBZ higher:JJR frequenc:NN hash:NN collis:NNS lock:NN tabl:NN hash:NN tabl:NNS work:VBP reduc:VBZ perform:NN 
+simpl:JJ join:VB load:NN test:NN client:NN attach:VBN tabl:NNS tenktup:NN onektup:NN row:NNS row:NNS 
+row:NNS map:VBP distinct:JJ hash:NN code:NNS 

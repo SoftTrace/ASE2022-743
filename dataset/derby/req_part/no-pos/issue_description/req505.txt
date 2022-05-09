@@ -1,0 +1,3 @@
+constructor lob stream control emb connect byte buffer size equal lob size effect creat extra fulli materi copi lob memori 
+assumpt lob materi small lob smaller fit singl page typic materi read store materi lob lot bigger trigger access lob materi size comment dml write result set constructor detail larg lob sound unreason alloc buffer size lob 
+suggest chang constructor alloc buffer larger behaviour preserv lob fetch store lob don fit singl page temporari file creat prevent larg lob access trigger duplic memori overflow temporari file 

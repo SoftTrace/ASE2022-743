@@ -1,0 +1,5 @@
+derbi:NNP generat:VBP sqlchar:NN sqlvarchar:NN sqllongvarchar:NN sqlclob:NN sql:NN charact:NN type:NNS 
+dvd:NNS default:NN collat:NN 
+start:VBG collat:NN type:NN dtd:NN decid:VBG kind:NN dvd:NN generat:VBN sql:NN charact:NN type:NNS 
+collat:NN type:NN charact:NN type:NN terriotri:NN base:VBN collat:NN generat:VB collatorsqlchar:NN collatorsqlvarchar:NN collatorsqllongvarchar:NN collatorsqlclob:NN sqlchar:NN sqlvarchar:NN sqllongvarchar:NN sqlclob:NN 
+dvd:NNS territori:NN base:VBN collat:NN associ:VBN collat:NN order:NN dvd:NNS dvd:NNS default:NN collat:NN 

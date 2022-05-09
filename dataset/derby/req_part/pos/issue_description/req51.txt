@@ -1,0 +1,3 @@
+product:NN jar:NNS carri:VBP version:NN stamp:NNS properti:NN file:NNS store:VBN org:NN apach:NN derbi:NN info:NN directori:NN 
+good:JJ test:NN jar:NN carri:VB version:NN stamp:NN 
+verifi:VBG test:NNS revis:NN level:NN product:NN test:VBN 

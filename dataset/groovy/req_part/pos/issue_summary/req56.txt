@@ -1,0 +1,1 @@
+groovi:JJ provid:VB turn:VB turn:VBG packag:NN scop:VBD field:NNS properti:NNS 

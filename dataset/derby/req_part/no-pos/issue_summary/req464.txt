@@ -1,0 +1,1 @@
+support drda strong password substitut authent usrssbpwd scheme 

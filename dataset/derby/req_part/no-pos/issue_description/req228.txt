@@ -1,0 +1,2 @@
+jira entri task involv implement 
+exist sql char datatyp derbi default collat uc basic defin derbi support addit collat char datatyp base territori jira issu placehold creat subclass sql char pass collat collat current class derbi territori base collat class futur kind collat case insensit 

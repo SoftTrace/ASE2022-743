@@ -1,0 +1,3 @@
+expos:VBZ inform:NN global:JJ cach:NNS cach:NN manag:NN inform:NN specif:JJ cach:NN 
+idea:NN expos:VB global:JJ inform:NN mbean:NN address:NN cluster:NN member:NNS 
+rest:NN stuff:NN cach:NN specif:JJ expos:VB rpc:NN manag:NN mbean:NN 

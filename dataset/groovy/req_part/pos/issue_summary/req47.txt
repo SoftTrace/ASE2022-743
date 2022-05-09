@@ -1,0 +1,1 @@
+generifi:JJ collect:NNS relat:VBN method:NNS gdk:NNP 

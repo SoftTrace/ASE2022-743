@@ -1,0 +1,2 @@
+test fail didn clean resourc proper case destroy cach manag test run thread exist cluster block method fail 
+fwk report cluster proper shutdown test creat cluster 

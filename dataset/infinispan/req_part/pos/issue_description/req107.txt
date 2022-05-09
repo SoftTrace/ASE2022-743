@@ -1,0 +1,6 @@
+enhanc:VB api:NN defin:VB configur:NNS base:VBN cach:NNS default:NN retriev:VB configur:NN instanc:NNS start:VBG cach:NN 
+redefin:VB definecach:NN method:NNS 
+configur:NN defineconfigur:NN string:NN configurationnam:NN configur:NN overrid:VBZ 
+regist:VBZ configur:NN base:VBN default:NN cfg:NN overrid:VBZ pass:VBN 
+configur:NN defineconfigur:NN string:NN configurationnam:NN string:NN templatenam:NN configur:NN overrid:VBZ 
+regist:VBZ configur:NN base:VBN exist:VBG predefin:JJ configur:NN overrid:VBZ pass:VBN 

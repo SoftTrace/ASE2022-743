@@ -1,0 +1,5 @@
+infinispan:NN server:NN cluster:NN reachabl:JJ reason:NN network:NN disconnect:VB hot:JJ rod:NN client:NN lose:VBN connect:NNS 
+client:NN librari:NN retri:VB fix:VBN calcul:NN base:VBN max:NN number:NNS connect:NNS pool:NN multipli:VBN number:NN server:NNS 
+lead:VB long:JJ time:NN applic:NN continu:VB react:VB wait:VB read:NN connect:VB timeout:NN 
+improv:VB behaviour:NN configur:JJ limit:NN retri:NNS server:NN timeout:NN total:NN 
+give:VB applic:NN chanc:NN handl:VB remot:JJ cach:NN failur:NN repli:NN user:NN hang:VBG minut:NNS default:NN set:NNS 

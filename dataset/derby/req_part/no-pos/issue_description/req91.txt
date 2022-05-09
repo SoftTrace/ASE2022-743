@@ -1,0 +1,9 @@
+ram transact add column conglomer piec code 
+remov entri conglomer directori add 
+temp conglom null 
+temp conglom remov long conglom 
+temp conglom put long conglom conglom 
+code coverag report line test test cover ad regress suit 
+null check unnecessari case inspect code incomplet line throw null pointer check temp conglom null 
+call remov put redund hash map put remov map implicit 
+object put hash map remov line delet 

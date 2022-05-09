@@ -1,0 +1,21 @@
+seam:NN gen:NN generat:VBN class:NN deriv:VBN modifi:VBN accept:VB queri:NN pass:VBN call:VBG object:NN 
+public:JJ class:NN extend:VBZ 
+privat:JJ categori:NNPS categori:NNPS categori:NNPS 
+privat:JJ string:NN queri:NN 
+privat:JJ integ:NN maxresult:NNS 
+public:JJ 
+queri:NN select:JJ subcategori:NNS categori:NNPS categori:NNPS 
+public:JJ string:NN getejbql:NN 
+return:NN queri:NN 
+public:JJ integ:NN getmaxresult:NNS 
+return:NN 
+public:JJ categori:NNPS categori:NNPS 
+return:NN subcategori:NNS 
+public:JJ list:NN string:NN getrestrict:NNS 
+return:VB restrict:NNS 
+public:JJ list:NN categori:NNPS categori:NNPS string:NN categoryid:NN 
+queri:NN select:JJ subcategori:NNS categori:NNPS categori:NNPS categoryid:NN 
+return:NN getresultlist:NN 
+call:NN object:NN instanti:VBP class:NN method:NN forcategori:NN list:NN subcategori:NNS give:VBN categori:NN 
+reus:VBP object:NN call:VBG refresh:NN pass:VB categori:NN give:VBZ resultlist:NN 
+queri:NNP class:NNS refresh:NN nullifi:VB parsedejbql:NN createqueri:NN queri:NN everytim:NN resultlist:NN 

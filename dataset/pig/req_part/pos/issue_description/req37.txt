@@ -1,0 +1,2 @@
+emb:VB pig:NNP call:NNS script:NN languag:NN function:NNS defin:VBN script:NN udf:NNS 
+spin:NN user:NNS defin:VB udf:NNS script:NN languag:NNS 

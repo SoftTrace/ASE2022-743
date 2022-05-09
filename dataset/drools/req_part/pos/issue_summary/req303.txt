@@ -1,0 +1,1 @@
+pattern:NN bind:VBG variabl:JJ field:NN constraint:NNS 

@@ -1,0 +1,1 @@
+page:NN paramet:NN wilcard:JJ view:NN 

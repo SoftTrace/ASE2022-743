@@ -1,0 +1,4 @@
+hot:JJ rod:NN server:NN generat:VBZ version:NN number:NNS cach:NN entri:NNS base:VBN group:NNPS view:VBP view:NN rank:NN locat:NN current:JJ server:NN view:NN 
+rank:NN calcul:VBN version:NN generat:VBN wast:JJ 
+view:NN rank:NN calcul:VBN view:NN chang:NN reus:VBN view:NN chang:NN 
+speed:VB version:NN generat:NN 

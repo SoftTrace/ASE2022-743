@@ -1,0 +1,1 @@
+parser:NN detect:VB assign:VBG set:VBD field:NN call:VBN staticfieldvalu:NN true:JJ 

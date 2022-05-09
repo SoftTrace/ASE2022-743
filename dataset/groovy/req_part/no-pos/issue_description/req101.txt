@@ -1,0 +1,8 @@
+develop ast transform difficult check transform perform type check verifi type checker perform work ast node metadata infer type check requir compil trickeri user friend propos add ast transform embed test test field ast transform 
+import groovi transform 
+ast test valu 
+def owner node declar class 
+assert owner field 
+
+field int 
+

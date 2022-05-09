@@ -1,0 +1,1 @@
+support:VBN node:NNS win:VBD copi:NN valu:NN unabl:JJ scan:VB annot:NNS recogn:VB servic:NNS start:VBN 

@@ -1,0 +1,1 @@
+expand:NN session:NN scope:NN compon:NNS inject:VBN lifecycl:NN particip:NNS 

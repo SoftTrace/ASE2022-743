@@ -1,0 +1,6 @@
+input stream url file text method don byte patch add method byte 
+
+content file readm txt byte 
+content url http www googl byte 
+content byte array input stream byte byte 
+

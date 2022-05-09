@@ -1,0 +1,1 @@
+expos:VB cach:NNP cach:NNP unwrap:NN method:NNS 

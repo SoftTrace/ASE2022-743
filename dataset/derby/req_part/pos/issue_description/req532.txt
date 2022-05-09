@@ -1,0 +1,5 @@
+code:NN add:VBN class:NNS generat:VBN derbi:NNP queri:NN compil:NN 
+static:JJ field:NNS statist:NNS check:VB plan:NN stale:JJ getter:NN setter:NN method:NNS field:NNS 
+field:NNS accessor:NN method:NNS byte:NNS generat:VBN class:NN 
+factor:VB code:NN singl:JJ share:VBN copi:NN 
+advantag:NNS complic:JJ byte:NN code:NN generat:NN memori:NN occupi:VBN generat:VBN class:NNS statement:NN cach:NN smaller:JJR disk:NN footprint:NN store:VBN prepar:JJ statement:NNS 

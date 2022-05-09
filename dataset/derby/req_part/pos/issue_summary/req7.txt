@@ -1,0 +1,1 @@
+memori:NN backend:JJ storag:NN support:NN 

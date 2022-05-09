@@ -1,0 +1,13 @@
+jmx oper suppress state transfer 
+featur request expos jmx oper node suppress state transfer period time flag fals default 
+case flag eas bring cluster mainten work typic workflow 
+shut applic request data grid 
+suppress state transfer node jmx 
+bring node 
+perform mainten work 
+bring node time node disabl state transfer node jmx 
+node enabl state transfer node jmx 
+applic request reach grid 
+purpos smooth fast shutdown startup remov risk oom error bring grid 
+small subset full manual state transfer defin 
+control cluster shutdown data restor persist storag 

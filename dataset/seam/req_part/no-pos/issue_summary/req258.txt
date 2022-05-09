@@ -1,0 +1,1 @@
+add bpm configur jndi 

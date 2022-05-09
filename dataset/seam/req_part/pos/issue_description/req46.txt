@@ -1,0 +1,5 @@
+easi:JJ redirect:NN url:NNS paramet:NNS 
+redirect:VB compon:NN follow:VBG oper:NNS 
+string:NN object:NN 
+string:NN 
+redirect:VB convers:NN scope:NN compon:NN stack:NN viewid:NN paramet:NNS redirect:VB login:NN page:NN seam:NNP page:NN action:NN redirect:VB request:VBN page:NN 

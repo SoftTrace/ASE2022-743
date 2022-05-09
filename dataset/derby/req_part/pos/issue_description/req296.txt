@@ -1,0 +1,10 @@
+explicit:JJ mechan:NNS start:VB network:NN server:NN mention:NN instal:VBP default:NN secur:NN manag:NN polici:NN 
+javadoc:NN 
+summari:NN start:NN command:NN command:NN line:NN 
+main:JJ method:NN 
+start:VB method:NN 
+start:NN mechan:NN state:VB instal:VBP instal:VB default:NN secur:NN manag:NN polici:NN 
+start:NNS command:NNS 
+java:NN jar:NN 
+java:NN jar:NN server:NN start:NN 
+didn:VBP document:NN default:NN polici:NN document:VBN 

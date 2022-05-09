@@ -1,0 +1,5 @@
+retriev:VBG node:NN xml:NN easi:JJ clone:VB node:NN process:NN chang:VBG origin:JJ xml:NN 
+workaround:NN 
+clonednod:NN 
+parsetext:NN xmlnode:NN 
+lot:NN easier:JJR node:NNP object:NN copi:NN constructor:NN clone:NN support:VBN 

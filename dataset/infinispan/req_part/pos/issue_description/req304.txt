@@ -1,0 +1,1 @@
+implement:VB flush:JJ cach:NN oper:NN regist:VBN cach:NN type:NN passiv:NN enabl:VBN evict:VBZ entri:NNS store:NN write:NN cach:NN store:NN enabl:VBN wait:VBZ complet:NN 

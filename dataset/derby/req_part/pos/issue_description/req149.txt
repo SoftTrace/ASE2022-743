@@ -1,0 +1,2 @@
+work:NN discov:VBN load:VBD provier:NNP multipl:JJ time:NNS load:VBG store:VBN dependeci:NNS convert:VBG memori:NN form:NN 
+load:VB provid:NN pass:VBN call:NN result:VBZ load:NN store:VBN depend:NNS 

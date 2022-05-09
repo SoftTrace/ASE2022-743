@@ -1,0 +1,1 @@
+disallow code instal jar resolv class org apach derbi namespac public api 

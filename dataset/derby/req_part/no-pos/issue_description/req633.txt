@@ -1,0 +1,18 @@
+improv perform page alloc longer requir sync alloc page reason sync 
+redo recoveri handl case redo alloc find space 
+disk task singl user load sync alloc signific perform issu 
+case insert transact total time aproach close durabl test sync 
+system 
+instanc test load meg number tabl index ghz laptop ide disk 
+sun jdk window 
+type result 
+default system minut 
+alloc sync minut 
+sync minut 
+sync disabl recoveri enhanc handl space condit recoveri 
+handl space undo handl error stop recoveri produc error 
+indic user add disk space rerun recoveri system brought onlin 
+jvm won happen system jvm space sync valu 
+page disk point reserv space file tabl grab space 
+project space recoveri path test redo recoveri encount garbag 
+newli alloc page redo creat page test 

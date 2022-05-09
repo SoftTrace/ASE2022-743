@@ -1,0 +1,8 @@
+network server support secur mechan 
+usridonl userid 
+usridpwd clear text userid password 
+eusridpwd encrypt userid password 
+encrypt userid password secur mechan secur respect userid password sent wire setup network server ensur accept connect secur mechan reason amp server accept connect client secur mechan encrypt userid password reject usridpwd clear text userid password 
+jira add support ad properti enabl server accept connect client secur mechan 
+
+couldnt find rank secur mechan drda spec properti set minimum secur mechan accept server 

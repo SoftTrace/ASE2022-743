@@ -1,0 +1,9 @@
+creat:VB implement:NN interfac:NN class:NN 
+goal:NN enrich:VB log:NN messag:NN add:VBG inform:NN 
+string:NN boolean:JJ method:NN default:NN access:NN mode:NN callabl:JJ class:NN packag:NN case:NN 
+featur:NN request:NN string:NN boolean:JJ method:NN public:JJ 
+workaround:NN call:VB method:NN introspect:NN 
+method:NN getlogprovid:NN class:NN 
+true:JJ 
+log:NN null:JJ object:NN 
+categori:NN wrap:VBN 

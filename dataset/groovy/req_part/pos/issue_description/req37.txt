@@ -1,0 +1,11 @@
+fire:VB propertychangeev:NNS put:VBN putal:NN call:VBN 
+work:VB decor:NN map:NNPS pass:VBN argument:NN wrap:VB 
+jochen:NNP suggest:VBD closur:NN discrimin:VB properti:NN fire:VB event:NN valu:NN chang:NNS construct:VBG observ:JJ expando:NNS follow:VBG code:NN 
+filter:VB method:NNS add:VBD expando:NNP 
+bean:NN expando:NNP 
+instanceof:VBD closur:NNP 
+java:NNP trigger:VB previous:JJ valu:NN null:JJ 
+groovi:JJ trigger:VB previousvalu:JJ 
+newvalu:NN 
+trigger:VB valu:NN closur:NNP 
+idem:NN valu:NN chang:VBN 

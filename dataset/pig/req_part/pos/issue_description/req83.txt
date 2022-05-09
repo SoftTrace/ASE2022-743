@@ -1,0 +1,2 @@
+order:NN test:VB hive:NNP write:VBN udf:NNS mimic:VB behavior:NN sql:NN claus:NN 
+share:VB 

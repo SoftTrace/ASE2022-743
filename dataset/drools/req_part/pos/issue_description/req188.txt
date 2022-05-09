@@ -1,0 +1,65 @@
+rewriten:NN integr:NN test:NN testdynamicruleremov:NNS yield:VBZ 
+testcod:NNP trace:NN 
+origin:JJ testcas:NNP leap:NNS compat:JJ creat:VB 
+public:JJ void:NN testdynamicruleremov:NNS throw:VBZ 
+packag:NNP pkg:NN 
+rulebas:NN 
+pkg:NN 
+nativ:JJ method:NN 
+protect:VB 
+test:VB code:NN modifi:VBN 
+public:JJ void:NN testdynamicruleremovalsunusedworkingmemori:NN throw:VBZ 
+builder:NN 
+class:NNP 
+drl:NN 
+class:NNP 
+drl:NN 
+class:NNP 
+drl:NN 
+class:NNP 
+drl:NN 
+packag:NNP pkg:NN 
+reteoorulebas:NN null:JJ 
+leapsrulebas:NN null:JJ 
+rulebas:NN getrulebas:NN 
+rulebas:NN 
+rulebas:NN instanceof:NN 
+reteoorulebas:NN rulebas:NN 
+rulebas:NN instanceof:NN 
+leapsrulebas:NN rulebas:NN 
+pkg:NN 
+workingmemori:NN 
+reteoorulebas:NN 
+null:JJ 
+assertequ:NNS 
+length:NN 
+assertequ:NNS 
+getrul:NNS 
+length:NN 
+stilton:NNP 
+assertequ:NNS 
+getrul:NNS 
+length:NN 
+chees:NN 
+assertequ:NNS 
+getrul:NNS 
+length:NN 
+assertequ:NNS 
+length:NN 
+leapsrulebas:NN 
+null:JJ 
+assertequ:NNS 
+length:NN 
+assertequ:NNS 
+getrul:NNS 
+length:NN 
+stilton:NNP 
+assertequ:NNS 
+getrul:NNS 
+length:NN 
+chees:NN 
+assertequ:NNS 
+getrul:NNS 
+length:NN 
+assertequ:NNS 
+length:NN 

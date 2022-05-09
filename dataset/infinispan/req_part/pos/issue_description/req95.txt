@@ -1,0 +1,13 @@
+index:NN config:NN xml:NN 
+default:NN 
+invocationbatch:NN enabl:VBD true:JJ 
+index:NN enabl:VBD true:JJ indexlocalon:NN true:JJ 
+properti:NNS 
+properti:NN valu:NN ram:NN 
+properti:NNS 
+index:NN 
+default:NN 
+infinispan:NN 
+queri:NN modul:NN depend:NNS classpath:NN 
+expect:VB warn:VBN case:NN 
+happen:VBZ isn:NNP add:VBD interceptor:NN chain:NN index:NN report:VBN 

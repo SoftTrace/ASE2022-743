@@ -1,0 +1,3 @@
+investig sql execut layer prevent scale multi cpu machin wrote multi thread test continu execut valu prepar statement ran test machin cpu expect throughput proport number concurr client client number cpu throughput small increas client ad client increas throughput test profil thread spend lot time wait enter synchron block generic prepar statement date base activ check statement valid synchron generic prepar statement object 
+chang test slight append comment uniqu thread valu statement thread work thread plan generic prepar statement object statement cach didn regard sql text string ident chang test scale perfect concurr thread 
+find scalabl thread share plan 

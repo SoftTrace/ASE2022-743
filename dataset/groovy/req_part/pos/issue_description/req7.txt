@@ -1,0 +1,8 @@
+url:NNP file:NN gettext:NN method:NN don:VBP byte:NN 
+patch:NN add:VB method:NN getbyt:NNS 
+content:NN file:NN 
+byte:NNS 
+content:NN url:NN 
+byte:NNS 
+content:NN byte:NN 
+byte:NNS 

@@ -1,0 +1,2 @@
+seam:NNP manag:VBN persist:NN context:NN assum:VBN default:NN hibern:NNP hibernatesess:NN session:NN 
+seam:NNP java:NNP servlet:NNP api:NN session:NN overload:JJ 

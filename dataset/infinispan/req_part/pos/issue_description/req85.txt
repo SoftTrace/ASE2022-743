@@ -1,0 +1,2 @@
+transact:NN regist:VBN transact:JJ invoc:NN 
+enlist:NN code:NN verifi:VB enlist:VB regist:VB synchron:NN 

@@ -1,0 +1,5 @@
+wii:NNP 
+input:NN output:NN 
+similar:JJ suggest:NN mirror:NN object:NN variant:NNS 
+oi:NN oo:NN 
+set:VBG proxi:NN type:NN object:NNS socket:NNS streamlin:JJ 

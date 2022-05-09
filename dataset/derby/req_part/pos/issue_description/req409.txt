@@ -1,0 +1,7 @@
+check:NNS hashtabl:NNP tran:NN transact:NN add:VBN 
+add:VB 
+transact:NN creat:VBN put:VBN hashtabl:NNP 
+call:VBN transact:NN add:VBN tabl:NN 
+case:NN point:NN check:VBG hashtabl:NNP 
+creat:VB add:VB 
+reduc:VB number:NN synchron:VBN hashtabl:JJ call:NNS improv:VB perform:NN scenario:NNS describ:VBN 

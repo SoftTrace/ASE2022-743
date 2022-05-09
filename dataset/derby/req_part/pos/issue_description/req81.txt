@@ -1,0 +1,8 @@
+iso:NNP iec:NNP sql:NN standard:JJ describ:VBZ kind:NNS case:NN express:NNS simpl:JJ case:NN search:VBD case:NN 
+current:JJ derbi:NNP version:NN support:VBZ search:VBN case:NN simpl:JJ case:NN 
+syntax:NN simpl:JJ case:NN 
+case:NN express:NN 
+express:NN express:NN 
+express:NNP 
+valu:NNS 
+case:NN 

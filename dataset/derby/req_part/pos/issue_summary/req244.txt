@@ -1,0 +1,3 @@
+dtd:NN collat:NN type:NN collat:NN deriv:NN 
+field:NNS appli:VB charact:NN string:NN type:NNS 
+type:NNS ignor:VB 

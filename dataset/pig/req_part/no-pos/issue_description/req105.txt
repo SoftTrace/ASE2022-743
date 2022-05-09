@@ -1,0 +1,9 @@
+sume user job broke easili piec assum piec easili express pig piec written map reduc reason perform pig easili express legaci job import chang today user map reduc entir job manual handl stitch pig map reduc job pig nativ keyword script pass data stream system case map reduc semant nativ vari system map reduc case assum collect fulli map reduc job pig store data invok map reduc job read result data continu 
+load myfil 
+load myotherfil 
+group 
+foreach generat group myudf 
+nativ jar mymr jar infil frompig outfil topig 
+join 
+differ stream user insert arbitrari amount nativ process stream insert binari differ stream data pipe binari part pig pipelin pipelin broken data written disk nativ block invok data read disk 
+altern unnecessari user coordin java server interfac run pig call map reduc job explicit advantag nativ keyword user worri coordin job pig care user exist java applic java programm 

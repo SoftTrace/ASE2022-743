@@ -1,0 +1,15 @@
+ident:NN column:NN reach:VBZ maximum:JJ valu:NN produc:VB error:NN 
+tabl:NNS transact:NN log:NNS event:NN log:NNS sens:NN tabl:NN start:VB ident:NN valu:NN max:NN reach:VBN 
+similar:JJ cycl:NN option:NN oracl:NNP sequenc:NN defin:VBN sql:NN 
+derbi:NNP purpos:NN guess:VBP rdbmss:NNS 
+moment:NN develop:NN program:VB logic:NN 
+propos:VBP introduc:VB cycl:NN option:NN 
+idea:NN cycl:NN base:VBN assumpt:NN prior:JJ cleanup:NN tabl:NN row:NNS 
+case:NN rollov:NN happen:VBZ duplic:JJ valu:NN error:NN occur:VB 
+sens:NN argu:VBN cycl:NN option:NN trade:VB error:NN potenti:JJ error:NN 
+derbi:NNP user:NNS accept:VB bargain:NN 
+word:NNS option:NN enhanc:VB usabl:NN ident:NN column:NNS 
+current:JJ implement:NN ident:NN column:NNS sql:NN grammar:NN derbi:NNP subset:NN sql:NN standard:NN sql:NN standard:NNS defin:VB ident:NN column:NNS 
+standard:NN defin:VBZ cycl:NN option:NN implement:VBN derbi:NNP 
+scroll:VB 
+word:NNS propos:NN implement:VB cycl:NN defin:VBN sql:NN 

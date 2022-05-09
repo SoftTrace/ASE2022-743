@@ -1,0 +1,1 @@
+java nio byte buffer byte array org apach derbi client net request similar ddm writer byte buffer helper method simplifi code put multi byte valu buffer byte buffer put short put int put long step charset encod encod string intermedi throw byte array detail 

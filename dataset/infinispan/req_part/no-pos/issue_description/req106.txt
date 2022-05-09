@@ -1,0 +1,3 @@
+run unit test system infinispan log fill messag 
+info ispn infinispan version infinispan brahma beta 
+log time infinispan cach manag instanti nice static initi class chang product system 

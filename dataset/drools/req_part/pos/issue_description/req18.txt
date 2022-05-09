@@ -1,0 +1,11 @@
+expos:VB statefulrulesess:NN 
+fireallrul:NNS 
+int:NN firelimit:NN 
+fireallrul:NNS int:NN firelimit:NN expos:VBN 
+class:NN 
+extend:VBZ api:NN 
+function:NN class:NN 
+extend:VBZ 
+doesn:VBD method:NN fireallrul:NNS 
+int:NN firelimit:NN 
+api:NN add:VBD switch:VB rule:NN base:NN knowledg:NN base:NN 

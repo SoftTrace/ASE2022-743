@@ -1,0 +1,9 @@
+direct properti access pattern bound variabl 
+usag direct properti access pattern bound variabl 
+rule test auto bind 
+
+person 
+chees type price price 
+
+result add 
+

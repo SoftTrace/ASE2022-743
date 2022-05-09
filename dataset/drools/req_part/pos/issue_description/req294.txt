@@ -1,0 +1,1 @@
+lock:NN attribut:NN stop:VBZ activ:JJ ruleflow:NN agendagroup:NN evalu:VBG rule:NN reveiv:VBG activ:NNS 

@@ -1,0 +1,14 @@
+find:VBG conveni:JJ storag:NN data:NN interchang:NN compress:VBZ import:NNS excel:NNP analysi:NN environ:NNS 
+pain:NN mainten:NN column:NNS fix:VBN locat:NNS add:VB column:NNS case:NNS 
+great:JJ load:NN pigstorag:NN read:VB default:NN schema:NN 
+schema:NN file:NN store:VBN datum:NNS store:NN pigstorag:NN store:VB 
+schema:NN file:NN datum:NNS 
+test:VBN hadoop:NNP hdfs:NNP pig:NNP exectyp:NN local:JJ mode:NN ignor:VB file:NN call:VBN 
+schema:NN directori:NN part:NN file:NNS 
+chain:NN pig:NNP script:NNS execut:VBP 
+load:NN data:NN pigstorag:NN int:NN int:NN 
+store:NN data:NN pigstorag:NN 
+load:NN data:NN pigstorag:NN 
+describ:VB 
+describ:VB output:NN 
+int:NN int:NN 

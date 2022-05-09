@@ -1,0 +1,2 @@
+base:VBN jason:NNP design:NNS 
+dig:VB doc:NNS put:VB 

@@ -1,0 +1,12 @@
+string:NN 
+object:NN replac:VB deriv:VB string:NN 
+exist:VBG replac:NN method:NN 
+replac:VB replac:VB replac:VB replac:VB 
+propos:VBN udf:NNP method:NN 
+general:NNP syntax:NNP 
+sourcestr:NN 
+advantag:NN 
+function:NN call:NNS reduc:VBN 
+eas:VB code:VB readabl:JJ 
+thought:NNS input:NNS udf:NNP piggi:NNP bank:NNP 
+base:VBN 

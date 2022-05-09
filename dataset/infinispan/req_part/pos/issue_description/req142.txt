@@ -1,0 +1,5 @@
+expir:NN 
+lifespan:NN configurationbuild:NN 
+expir:NN 
+lifespan:NN 
+interv:NN unit:NN obvious:JJ 

@@ -1,0 +1,2 @@
+provid:VBZ mechan:NN retriev:VB defin:VBN cach:NN configur:NN start:VBG correspond:VBG cach:NN 
+achiev:VB defineconfigur:NN string:NN configur:NN method:NN pass:VBG empti:JJ configur:NN object:NN work:VB configur:NN api:NN return:VBN object:NN equival:JJ pass:VBN 

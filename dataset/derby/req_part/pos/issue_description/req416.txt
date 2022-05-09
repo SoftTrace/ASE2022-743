@@ -1,0 +1,11 @@
+pattern:NN derbi:NNP follow:VBG piec:NN code:NN determin:VB datum:NNS valu:NN stream:NN 
+null:JJ 
+stream:NN mutabl:JJ state:NN obtain:VBG refer:NN check:VB null:JJ reason:NNS 
+throw:VB datum:NNS type:NNS support:VBG stream:NNS 
+stream:NN refer:NN leak:VBN requir:VBN guarante:VB stream:NN state:NN instanc:NN descriptor:NN sync:NN stream:NN 
+case:NNS investig:VB state:NN stream:NN unnecessari:JJ work:NN 
+harder:JJR write:VB debug:NN code:NN stream:NN refer:NN obtain:VBN datum:NNS valu:NN descriptor:NN 
+plan:VBP introduc:VB method:NN return:VBG boolean:JJ 
+addit:NN obvious:JJ check:NN stream:NN variabl:NN instruct:VB derbi:NNP treat:VB datum:NNS valu:NNS valu:NN stream:NN 
+char:NNP varchar:NNP maximum:JJ length:NNS small:JJ materi:VBN avoid:VB add:VBN complex:NN stream:NNS stream:NN state:NN isol:NN level:NNS extra:JJ lock:NN stream:NN stabl:JJ 
+clone:NN 

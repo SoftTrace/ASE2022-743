@@ -1,0 +1,4 @@
+statement:NNP flag:NNS call:VBN 
+flag:NNS function:NN fals:JJ 
+statement:NNS code:NN read:VB 
+remov:VBG flag:NNS code:NN execut:VBN flag:NNS true:JJ simplifi:VB code:NN maintain:JJ 

@@ -1,0 +1,1 @@
+expos:VB physic:JJ address:NN manag:NN purpous:NNS 

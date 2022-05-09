@@ -1,0 +1,3 @@
+case:NN runtim:NN inspect:VB rule:NN attribut:NNS rule:NNS salienc:NN ruleflow:NN group:NN drool:NNPS api:NN 
+retriev:VB kind:NN inform:NN intern:JJ drool:NNPS api:NN 
+nice:JJ expos:VB rule:NN attribut:VBZ public:JJ api:NN 

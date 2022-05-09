@@ -1,0 +1,1 @@
+network:NN server:NN reject:VB client:NN connect:NNS derbi:NNP network:NNP client:NNP 

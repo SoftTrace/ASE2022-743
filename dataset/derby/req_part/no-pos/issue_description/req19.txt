@@ -1,0 +1,18 @@
+client driver treat boolean column embed driver 
+oper boolean column select system tabl instanc queri select boolean valu 
+select systemalia sys sysalias 
+discrep embed client driver handl boolean column embed behavior correct client behavior conform attach spec describ 
+function return boolean valu 
+part expand support boolean datatyp nice function return boolean valu 
+explicit cast string valu boolean 
+sql standard string explicit cast boolean valu string type boolean cast boolean part expand support boolean datatyp cast 
+cast string type boolean defin part section cast specif general rule 
+trim whitespac string 
+appli rule section liter trim string true fals unknown case 
+rais 
+routin argument boolean type 
+routin boolean argument part expand support boolean datatyp 
+tabl function return boolean column 
+function return tabl boolean column 
+enabl boolean type column 
+tabl boolean column 

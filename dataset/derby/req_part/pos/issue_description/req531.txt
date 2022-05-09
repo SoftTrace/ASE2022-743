@@ -1,0 +1,3 @@
+reflect:NN servic:NN code:NN creat:VBG factori:NN class:NNS class:NN generat:VBN sql:NN queri:NNS code:NN disabl:JJ memori:NN concern:NNS 
+remov:VB code:NN reduc:VB code:NN complex:NN engin:NN jar:NN footprint:NN 
+enabl:VB code:NN reviv:VB svn:NN histori:NN 

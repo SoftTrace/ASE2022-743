@@ -1,0 +1,10 @@
+derbi user class pluggabl modul 
+case verifi class implement expect interfac creat instanc class specif authenticact servic impl 
+class sas class class specif authent scheme 
+authent class assign sas class 
+throw standard sql state authent implement 
+specif authent scheme org apach derbi authent authent 
+
+authent scheme authent sas class instanc 
+case creat instanc check fail class cast instanc incorrect type exampl java system procedur sysc regist tool jce cipher factori sequenc updat prealloc 
+good similar check case give clearer error messag explain problem safer limit constructor user forc derbi engin invok 

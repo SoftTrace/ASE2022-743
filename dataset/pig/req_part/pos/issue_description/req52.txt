@@ -1,0 +1,14 @@
+exist:VBG pig:NN merg:NN join:VBP follow:VBG limit:NNS 
+assum:VBZ side:NN tabl:NN access:VBN record:NN record:NN 
+perform:VB larg:JJ spars:JJ tabl:NNS 
+current:JJ implement:NN merg:NN join:VB introduc:VBN interfac:NN 
+support:VBZ abil:NN seeknear:VB give:VBN key:NN read:VBG record:NN 
+merg:NN join:VB physic:JJ oper:NN call:VBZ seeknear:NN key:NN split:NN elimin:VBG split:NNS 
+subsequ:JJ key:NNS find:VBN 
+subsequ:JJ join:VBZ find:VBN read:VBG 
+record:NNS tabl:NN match:NNS left:JJ tabl:NN 
+method:NN work:VBZ dens:JJ join:VBP tabl:NNS perform:VBZ larg:JJ spars:JJ tabl:NNS datum:NNS sourc:NNS support:VBP 
+point:NN lookup:NNS hbase:NN 
+propos:VBN enhanc:NN add:VB join:VB type:NN merg:NN spars:JJ pig:NNP latin:JJ 
+pig:NN script:NN join:VB type:NN 
+merg:NN join:VB oper:NN call:VB seeknear:NN key:NN split:NN 

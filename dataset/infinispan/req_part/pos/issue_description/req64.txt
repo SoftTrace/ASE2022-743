@@ -1,0 +1,6 @@
+creat:VB event:NN logger:NN manag:NN interfac:NN show:VB event:NNS 
+day:NN retent:NN 
+task:NNP execut:NN 
+cluster:NN event:NNS node:NN join:VB leav:VB split:NN merg:NN rebal:VB start:NN stop:NN mass:NN index:NN start:NN stop:NN server:NN shutdown:NN start:NN remot:JJ site:NN 
+cach:NN event:NNS start:VB stop:VB 
+secur:NN audit:NN 

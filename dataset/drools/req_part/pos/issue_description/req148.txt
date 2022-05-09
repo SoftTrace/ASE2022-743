@@ -1,0 +1,5 @@
+dynam:JJ node:NN act:VBZ node:NN node:NNS connect:VBN model:VBN separ:JJ fragment:NNS link:VBN 
+default:NN node:NNS incom:JJ connect:NN trigger:VBN dynam:JJ node:NN trigger:VBN node:NN wait:VB node:NN instanc:NNS complet:VBN continu:VBG 
+strategi:NNS 
+rule:NN code:NN constriant:NNS defin:VBP fragment:NNS activ:VBN 
+user:NN add:VB addit:JJ node:NN instanc:NNS runtim:NN model:VBN part:NN process:NN node:NN wait:VB complet:VBN 

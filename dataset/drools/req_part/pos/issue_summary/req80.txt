@@ -1,0 +1,1 @@
+time:NNP machin:NNP set:NN effect:JJ current:JJ time:NN rule:NN 

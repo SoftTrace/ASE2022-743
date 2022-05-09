@@ -1,0 +1,1 @@
+function:NN jbpm:NN navig:VB process:NN entiti:NN relat:VBN process:NN 

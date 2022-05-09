@@ -1,0 +1,2 @@
+remov deprec jdk variabl machineri build javadoc 
+jdk variabl longer derbi compil deprec part longer jdk variabl build javadoc 

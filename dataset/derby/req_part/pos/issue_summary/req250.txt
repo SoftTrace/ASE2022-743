@@ -1,0 +1,1 @@
+check:NN datatypedescriptor:NNS dtd:NNS compar:JJ collat:NN decis:NN 

@@ -1,0 +1,1 @@
+support map trait core class field 

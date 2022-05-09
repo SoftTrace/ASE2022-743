@@ -1,0 +1,16 @@
+nicer:JJR imho:NN nice:JJ spi:NN plug:NN point:NN applic:NNS extend:VB set:NN command:NNS 
+app:NN creat:VB extensioncommand:NN channel:NN pass:VB handler:NN applic:NN regist:VBD 
+solut:NN 
+hhh:NN cach:NN notif:NN vehicl:NN bit:NN hack:NN limit:NNS implement:VB similar:JJ solut:NN evict:NN key:NN 
+case:NN http:JJ session:NN ownership:NN brian:NNP stansberri:NNP 
+server:NN time:NN session:NN 
+failov:NN send:VBP extens:NN command:NN request:VBG ownership:NN 
+servlet:NN spec:NN requir:NN server:NN time:NN access:NN session:NN 
+ejb:NN spec:NN 
+don:VBP handl:VB 
+lock:NN 
+distribut:VBN lock:NN 
+distribut:VBN lock:NN give:VBP 
+request:NN acquir:VBZ subsequ:JJ request:NNS server:NN local:JJ lock:NN 
+key:JJ cluster:NN wide:JJ oper:NN session:NN 
+failov:NN 

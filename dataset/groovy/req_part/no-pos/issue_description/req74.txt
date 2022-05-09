@@ -1,0 +1,33 @@
+iter date interv code 
+def start gregorian calendar calendar januari time 
+def gregorian calendar calendar decemb time 
+def current start 
+current 
+println current 
+current 
+
+style number iter groovier code 
+start 
+println 
+
+start 
+println 
+
+propos implement 
+date meta class 
+date closur 
+def deleg 
+
+call 
+
+
+
+date start closur 
+def deleg 
+start 
+call 
+
+
+
+
+

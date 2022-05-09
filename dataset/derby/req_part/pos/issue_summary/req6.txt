@@ -1,0 +1,7 @@
+store:VBG java:NN object:NNS databas:NN 
+lay:NNP symonett:NNP email:NN thread:NN call:VBN store:NNP java:NNP object:NNPS tabl:NN octob:NNP request:NNS abil:NN store:VB java:NN object:NNS databas:NN 
+releas:NNS cloudscap:NNP user:NNS declar:VB column:NN type:NN serializ:NNP class:NN 
+featur:NN remov:VBN derbi:NNP syntax:NN 
+machineri:NN support:VB object:NNS serial:VBN column:NNS derbi:NNP system:NN tabl:NNS 
+agre:VB standard:JJ syntax:NN featur:NN 
+subset:NN ansi:NNP adt:NN syntax:NN cumbersom:JJ 

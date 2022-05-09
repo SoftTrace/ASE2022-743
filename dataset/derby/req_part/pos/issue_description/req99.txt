@@ -1,0 +1,2 @@
+resolv:VBN user:NNS updat:VB statist:NNS commit:VBN maintain:VBG statist:NNS doesn:VBD improv:VB perform:NN difficulti:NN maintain:VBG statist:NNS regular:JJ basi:NN 
+good:JJ drop:VB statist:NNS inform:NN user:NNS revert:VB prior:JJ behavior:NN 

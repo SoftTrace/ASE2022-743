@@ -1,0 +1,7 @@
+api specif tabl function provid inform implement tabl function detail queri 
+defin tabl function function column amp 
+bind tabl function proper creat function sql 
+execut sql 
+select tabl function 
+pass column list claus argument tabl function implement column row 
+tabl function built integr distant legaci data cost queri prohibit inform column select restrict claus pass develop 

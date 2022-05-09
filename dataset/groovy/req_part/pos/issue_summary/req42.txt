@@ -1,0 +1,1 @@
+add:VB newinputstream:NN withinputstream:NN deal:VBG binari:JJ file:NNS 

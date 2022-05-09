@@ -1,0 +1,25 @@
+sql:NN add:VBN syntax:NN support:VB direct:JJ limit:VB 
+return:VBN set:NN row:NNS result:NN set:NN 
+applic:NN 
+retriev:VB row:NNS larger:JJR result:NN set:NN similar:JJ 
+popular:JJ limit:NN claus:NNS databas:NNS 
+derbi:NNP sql:NN 
+function:NN nest:VBN subqueri:NN achiev:VB effect:NN fetch:VB 
+claus:NN method:NN indirect:JJ 
+effici:JJ intend:VBN olap:NNP 
+function:NN 
+direct:JJ achiev:VB effect:NN result:NN 
+offset:VBN claus:NN sql:NN 
+syntax:NN sql:NN section:NN 
+result:VBP offset:VBN claus:NN offset:NN 
+row:NN row:NNS 
+fetch:VB claus:NN fetch:VB row:NN row:NNS 
+integ:NN 
+claus:NNS follow:VBP order:NN 
+claus:NN grammar:NN 
+note:VB order:NN claus:NNS 
+subqueri:NNS version:NN sql:NN standard:NN section:NN 
+propos:VB includ:VB top:JJ level:NN derbi:NNP 
+order:NN 
+subqueri:NNS derbi:NNP sql:NN 
+didn:JJ sql:NN 

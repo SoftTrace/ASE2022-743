@@ -1,0 +1,5 @@
+seam combin 
+stateless 
+convers 
+scope scope type convers 
+sens problem seam web bean check warn error deploy 

@@ -1,0 +1,10 @@
+contract input stream skip difficult broken 
+
+util class creat ensur skip procedur derbi code base 
+suggest function 
+long skip fulli input stream skip eof return number byte skip 
+void skip fulli input stream long skip request number byte throw eof byte stream 
+approach skip loop 
+verifi eof read call skip return 
+throw eof skip return request number byte skip 
+relat code iapi util utf util class stream util put packag 

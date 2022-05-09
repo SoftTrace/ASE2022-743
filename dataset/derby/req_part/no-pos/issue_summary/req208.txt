@@ -1,0 +1,1 @@
+support run junit test embed jar file test jar 

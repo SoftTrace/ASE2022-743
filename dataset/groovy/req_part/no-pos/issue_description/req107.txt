@@ -1,0 +1,10 @@
+add annot closur paramet document method resolv closur 
+
+exec 
+execut foo 
+arg bar baz 
+
+class project 
+exec result exec deleg exec spec closur closur 
+
+

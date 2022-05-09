@@ -1,0 +1,1 @@
+server endpoint secur domain ssl configur 

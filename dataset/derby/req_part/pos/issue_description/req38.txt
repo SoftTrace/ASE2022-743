@@ -1,0 +1,2 @@
+network:NNP server:NN report:VBZ start:NN stop:NN network:NN server:NN consol:NN output:NN print:VB timestamp:NN 
+start:NN stop:VB time:NNS network:NN server:NN record:VBN check:VB consol:NN output:NN 

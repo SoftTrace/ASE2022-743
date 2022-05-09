@@ -1,0 +1,1 @@
+rmi jms invoc place seam context 

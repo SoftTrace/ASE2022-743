@@ -1,0 +1,2 @@
+alter tabl add column add ident column code handl ident column disabl parser thread derbi user 
+code disabl compat compat goal derbi enabl 

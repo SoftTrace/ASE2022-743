@@ -1,0 +1,23 @@
+develop:VBG system:NN load:VBP object:NNS 
+user:NN load:VB chunk:NNS object:NNS time:NN navig:VBG 
+system:NN consist:VB java:NN applic:NN access:VBZ derbi:NN hibern:VB 
+profil:NN discov:VBD biggest:JJS bottleneck:NN system:NN 
+method:NN sqlequalsignorecas:NN string:NN string:NN uppercas:NN time:NN 
+put:VBG uppcas:NN valu:NN hashtabl:NNP input:NN string:NN key:NN increat:VBZ perform:NN 
+test:NN user:NNS report:VBP system:NN run:VB doubl:JJ speed:NN 
+class:NN call:VBG case:NN 
+class:NN check:VBN lot:NN loop:NN 
+candit:NN hash:VBG state:VBN code:NN 
+revisit:NN cach:NN info:NN 
+diff:NN sourc:NN 
+import:NN 
+return:NN 
+equal:VBZ 
+string:NN string:NN 
+null:JJ 
+string:NN string:NN 
+null:JJ 
+return:NN 
+return:NN 
+equal:VBZ 
+privat:JJ static:NN hashtabl:NNP uppercasemap:NN hashtabl:NNP 

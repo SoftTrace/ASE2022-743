@@ -1,0 +1,12 @@
+schema:NN cluster:NN mode:NN string:NN 
+mode:NN decid:VBN letter:NN string:NN 
+garbag:NN start:VBG correct:JJ letter:NN lead:VB specif:JJ mode:NN 
+lasjadgadfg:NN local:JJ 
+rhdbhgh:NN replic:NN 
+dfghbmjfgh:NN distribut:NN 
+invalid:NN 
+forc:VBG document:VBN valu:NNS 
+distribut:NN set:VBN mode:NN dist:NN distribut:NN 
+replic:NN repl:NN replic:NN 
+invalid:NN inv:NN invalid:NN 
+local:JJ 

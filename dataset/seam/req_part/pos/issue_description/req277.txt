@@ -1,0 +1,6 @@
+fix:NN updat:NNS namespac:NNS simplifi:VB compon:NN configur:NN 
+ultim:JJ goal:NN configur:VB compon:NNS 
+core:NN init:NN 
+core:NN debug:NN true:JJ core:NN debug:VB 
+core:NN core:NN 
+core:NN init:NN 

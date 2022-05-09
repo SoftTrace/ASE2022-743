@@ -1,0 +1,1 @@
+user:NNS oper:NN kill:VB convers:NNS happen:VB action:NN convers:NN 

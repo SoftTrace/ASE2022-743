@@ -1,0 +1,23 @@
+updat result set jdbc spec section 
+modifi result set object state 
+result set object concurr concur updat updat 
+result set object 
+addit derbi requir sql select statement 
+updat claus updat usabl issu 
+exampl jdbc api tutori refer refer 
+book jdbc specif includ 
+updat claus sql select 
+mamta satoor 
+derbi implement jdbc updat resultset exist 
+updat cursor implement order requir 
+select statement includ updat claus 
+chang derbi implement requir 
+updat claus piggyback updat cursor implement 
+dan brunner 
+technic cover jdbc standard 
+jdbc state requir sql 
+statement updat result set jdbc tutori book 
+guidelin typic work isn 
+databas engin defin work 
+requir updat 
+improv 

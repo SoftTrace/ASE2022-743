@@ -1,0 +1,5 @@
+infinispan server cluster longer reachabl reason network disconnect hot rod client establish lost connect 
+client librari retri fix calcul base max number connect pool multipli number server 
+lead long time applic continu react wait read connect timeout 
+improv behaviour configur limit retri server timeout total 
+give applic chanc handl remot cach failur repli user hang minut default set 

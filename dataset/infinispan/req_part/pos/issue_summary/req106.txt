@@ -1,0 +1,1 @@
+log:VB infinispan:NNP version:NN inform:NN 

@@ -1,0 +1,14 @@
+cross:NN foreach:NN nest:VBN statement:NN 
+typic:JJ case:NN nest:VBN foreach:NN cogroup:NN relat:NNS flatten:VB record:NNS key:NN process:NN 
+achiev:VBN cross:NN 
+cogroup:NN user:NN uid:NN session:NN uid:NN 
+foreach:NN 
+cross:VBN cross:NN user:NN session:NN flatten:VB input:NN bag:NNS 
+filter:VBN filter:NN cross:VBN user:NN region:NN session:NN region:NN 
+result:NN foreach:NN cross:VBD generat:VBP processsess:NN user:NN age:NN user:NN gender:NN session:NN nest:VBN foreach:NN jira:NNP pig:NN 
+generat:VBP result:NN 
+don:VBP cross:NN user:NN write:VB udf:NN process:NN bag:NN user:NN session:NN 
+harder:JJR udf:NN process:NN flatten:VBD tupl:NNS 
+true:JJ nest:VBN foreach:JJ statement:NN 
+candid:NN project:NN googl:NNP summer:NN code:NN 
+inform:NN program:NN find:VBN 

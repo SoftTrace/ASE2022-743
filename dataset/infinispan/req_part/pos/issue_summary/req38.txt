@@ -1,0 +1,3 @@
+rest:NN api:NN base:VBN server:NN modul:NN 
+modul:NN deploy:VBN rest:NN api:NN talk:VB cach:NN backend:NN 
+wrap:VBZ cach:NN librari:NNS 

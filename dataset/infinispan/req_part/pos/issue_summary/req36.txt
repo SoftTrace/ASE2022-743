@@ -1,0 +1,1 @@
+core:JJ modul:NN deleg:NN lifecycl:NN event:NNS 

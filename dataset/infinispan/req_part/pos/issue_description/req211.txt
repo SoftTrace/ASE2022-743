@@ -1,0 +1,3 @@
+interoper:NN remot:JJ queri:NN emb:VBN mode:NN requir:VBZ special:JJ marshal:NN depend:NN 
+user:NN respons:NN inject:VB depend:NN work:VB programmat:JJ configur:NN imposs:JJ xml:NN config:NN 
+solv:VB wire:VB user:NN provid:VBN marshal:NN instanc:NNS annot:VBN inject:NN 

@@ -1,0 +1,6 @@
+critic:JJ inform:NN sysinfo:NN derbi:NNP boot:NN messag:NN oper:NN system:NN inform:NN 
+window:NNP 
+architectur:NN 
+version:NN build:NN servic:NNP pack:NNP 
+log:VB oper:NN system:NN info:NN boot:NN 
+close:VB file:VBG issu:NN piec:NN info:NN add:VBN error:NN log:NN 

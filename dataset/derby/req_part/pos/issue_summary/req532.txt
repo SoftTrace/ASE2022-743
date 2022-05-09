@@ -1,0 +1,1 @@
+factor:NN common:JJ code:NN generat:VBN class:NNS 

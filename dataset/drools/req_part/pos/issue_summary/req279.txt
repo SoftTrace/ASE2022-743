@@ -1,0 +1,1 @@
+add:VB memberof:NN syntax:NN constraint:NNS 

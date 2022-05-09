@@ -1,0 +1,4 @@
+indic:NNS buffer:NN manag:NN bottleneck:NN type:NNS load:NN 
+instanc:NN ander:NNP morken:NNP write:VBD comment:NN separ:JJ tabl:NN index:NN thread:NN remov:VB latch:VB content:NN lock:NN wait:NNS equat:NN find:VBD releas:NN time:NNS content:NN synchron:NN 
+indic:NN appli:VB push:NN 
+interest:JJ scalabl:NN perform:NN buffer:NN manag:NN exploit:VBZ concurr:NN util:NNS add:VBN java:NNP 

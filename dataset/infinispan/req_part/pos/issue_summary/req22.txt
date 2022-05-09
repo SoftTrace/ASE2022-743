@@ -1,0 +1,6 @@
+grace:JJ shutdown:NN support:VBN 
+kill:VBG node:NN result:VB rehash:NN 
+mechan:NN clean:JJ shutdown:NN support:VBN rehash:NN trigger:VBN 
+entir:JJ cluster:NN bring:VBN 
+leav:VB messag:NN prevent:VB node:NNS trigger:VBG rehash:NN subsequ:JJ view:NN chang:NN detect:VBN 
+clean:JJ paramet:NN stop:VB explor:VB altern:NNS 

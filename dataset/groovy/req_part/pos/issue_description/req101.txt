@@ -1,0 +1,10 @@
+develop:VBP ast:NNP transform:NNS difficult:JJ check:VB transform:NN perform:VBZ 
+type:NN check:VBG verifi:VB type:NN checker:NN perform:VBN work:NN ast:NNP node:NN metadata:NN infer:VBN type:NN 
+check:VBG requir:VBZ compil:NN trickeri:NN user:NN friend:JJ 
+propos:VBP add:VB ast:NNP transform:NN embed:NN test:NNS 
+test:VB ast:NNP transform:NN 
+import:NN 
+valu:NN 
+owner:NN 
+assert:VB 
+int:NN 

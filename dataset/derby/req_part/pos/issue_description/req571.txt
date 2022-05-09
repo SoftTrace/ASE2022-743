@@ -1,0 +1,9 @@
+default:NN grow:VBZ bound:NNS properti:NN set:VBN true:JJ 
+set:VBG true:JJ hand:NNS product:NN environ:NN ensur:VB derbi:NNP restart:NNS import:JJ inform:NN lose:VBN 
+hand:NN set:VBN true:JJ grow:VBZ bound:NNS 
+problemat:JJ long:JJ run:NN system:NN 
+abil:NN roll:JJ file:NN support:NN maximum:JJ file:NN size:NN maximum:JJ number:NN file:NNS 
+derbi:NNP abil:NN configur:VB locat:NN log:NN file:NN 
+method:NNS redirect:VBG error:NN stream:NN 
+standard:JJ implement:NN support:VBZ roll:JJ 
+facil:NN part:NN core:NN derbi:NNP system:NN work:VBZ emb:VBN network:NN server:NN model:NNS 

@@ -1,0 +1,4 @@
+accumulo code read write pig work robust includ pig avoid necess bundl addit jar 
+info exist current code 
+translat maven build ant ivi 
+figur support accumulo build differ depend api 

@@ -1,0 +1,16 @@
+suggest introduc ast transform inherit constructor class class annot inherit constructor super class 
+
+class 
+
+int arg 
+string arg 
+
+inherit constructor 
+class extend 
+class equal 
+class extend 
+super 
+int arg super arg 
+string arg super arg 
+
+defin 

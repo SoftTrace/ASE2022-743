@@ -1,0 +1,11 @@
+creat multipl cach cach manag configur jdbc xxx cach store result unpredict behaviour 
+creat cach manger persist entri jdbc xxx cach store strang behaviour 
+cach foo cach cach manag cach foo 
+cach bar cach cach manag cach bar 
+singl put 
+foo cach put world 
+restart 
+foo cach true 
+bar cach true 
+circumv behaviour solut creat cach store cach migth lot cach manag 
+solut imho add sopport cach column tabl manipul cach share tabl 

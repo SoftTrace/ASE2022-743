@@ -1,0 +1,9 @@
+datum:NNS schema:NN sens:NN union:NN column:NN schema:NN posit:NN column:NNS 
+behavior:NN exist:VBG union:NN oper:NN remain:VB compat:JJ 
+featur:NN support:VBN oper:NN extend:VBG union:NN support:VB claus:NN 
+oper:NN call:VBN unionschema:NN merg:NN 
+suggest:NNS syntax:NN 
+load:NN 
+load:NN 
+describ:VB 
+bytearray:NN byetarray:NN bytearray:NN 

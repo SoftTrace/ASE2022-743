@@ -1,0 +1,2 @@
+creat:VB method:NN return:VBZ stat:NN interfac:NN instanc:NN access:VBN stat:NNS 
+fast:JJ access:NN stat:NNS fast:JJ effici:JJ typesaf:JJ jmx:NNP time:NN satisfi:VBG requir:NN memcach:JJ txt:NN protocol:NN expos:VB stat:NNS stat:NNS command:NN 

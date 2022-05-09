@@ -1,0 +1,7 @@
+data:NNP creat:VBZ sqlexcept:NN object:NN pass:VBN writesqlcagrp:NN method:NN 
+profil:NN show:VBZ creation:NN object:NNS lot:NN cpu:NN throwabl:JJ constructor:NN call:VB fillinstacktrac:NN expens:JJ 
+unnecessari:JJ throw:VBN stack:NN trace:NN 
+suffici:JJ static:NN sqlexcept:NN instanc:NN drdaconnthread:NN reus:VBN time:NN donedata:NN call:VBN suggest:VBN comment:NN code:NN 
+sqlstate:NN datum:NNS 
+resolv:NN static:NNS sqlcode:NNS 
+assign:VBG knut:NNP ander:NNP patch:NN readi:JJ sandbox:NN 

@@ -1,0 +1,3 @@
+port:NN codebas:NN 
+front:JJ class:NN semant:NNS invok:VBG clearer:JJR 
+output:NN drl:NN point:NN call:VB parser:NN lhs:NNP rhs:NNP 

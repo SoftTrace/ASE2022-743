@@ -1,0 +1,6 @@
+rid:JJ final:NN 
+final:NNS object:NN alloc:NN garbag:NN collect:NN expens:JJ avoid:VBN object:NN type:NNS alloc:VBN 
+final:VB method:NN alloc:VBN type:NNS load:NN 
+comment:NN post:VBN 
+comment:VBG final:VB method:NN time:NN run:VB test:NN laptop:NN reduc:VBN sun:NNP java:NNP 
+final:NN activ:NN isn:NN singl:JJ investig:VB avoid:VB cost:NN resultset:NNS don:VBP final:NN 

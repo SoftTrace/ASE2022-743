@@ -1,0 +1,3 @@
+sql order subqueri conjunct offset fetch row number 
+meaning subqueri row order formul sql limit subqueri 
+note offset fetch subqueri 

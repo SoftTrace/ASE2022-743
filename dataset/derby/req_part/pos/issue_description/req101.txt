@@ -1,0 +1,1 @@
+nice:JJ derbi:NNP support:VBD natur:NNP join:VB syntax:NN featur:NN sql:NN 

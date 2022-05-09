@@ -1,0 +1,4 @@
+case 
+node load 
+node load 
+simpl configur load factor node power machin load ordinari machin cluster 

@@ -1,0 +1,3 @@
+norman:NNP point:VBD nice:JJ support:VB 
+open:NNP elimin:VBZ multipl:JJ usernam:NNS websit:NNS simplifi:VBG onlin:JJ experi:NN 
+java:NNP implement:NNS download:NN follow:VBG page:NN 

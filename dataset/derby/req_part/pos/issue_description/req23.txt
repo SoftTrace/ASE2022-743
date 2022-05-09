@@ -1,0 +1,12 @@
+add:VB bean:NNP applic:NN regist:VB chang:VB state:NN derbi:NNP jmx:NNP manag:NN 
+jmx:NNP derbi:NNP propos:VBN mechan:NN configur:VB derbi:NNP replac:VBG enhanc:VBG system:NN properti:NNS tend:VBP static:NN natur:NN 
+iron:JJ jmx:NN enabl:VBN static:NN system:NN properti:NN 
+propos:VBP add:VB public:JJ mbean:NN state:NN derbi:NNP jmx:NNP manag:NN chang:VBN 
+bean:NN regist:VBN derbi:NNP fals:JJ regist:VBN applic:NN 
+occur:VB time:NN jmx:NNP enabl:VBN run:VBG applic:NN remot:JJ client:NN 
+standard:JJ mbean:NNP oper:NNS attribut:NN 
+public:JJ boolean:JJ ismanagementact:NN 
+public:JJ void:NN startmanag:NN 
+public:JJ void:NN stopmanag:NN 
+derbi:NNP boot:VBN jvm:NN oper:NNS 
+true:JJ derbi:NNP regist:VB mbean:NN implement:VBZ dynam:JJ control:NN visibl:NN derbi:NNP mbean:NNS 

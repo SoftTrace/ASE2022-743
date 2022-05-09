@@ -1,0 +1,29 @@
+walk:VBZ tree:NN top:NN call:VBG 
+visit:NN parent:NN call:VBZ visit:NN child:NNS 
+fine:JJ case:NNS case:NNS visit:VBG node:NNS 
+bottom:NN 
+mention:VBN 
+visitor:NN post:VBD binari:JJ comparison:NN oper:NNS check:NNS 
+operand:NNS constant:NNS 
+oper:NN replac:VBN 
+boolean:JJ constant:JJ 
+express:NN 
+queri:NN tree:NN 
+walk:VBP tree:NN top:NN visitor:NN node:NN doesn:JJ 
+constant:JJ operand:NNS visit:VBN 
+oper:NNS constant:JJ 
+operand:NNS replac:VBN constant:JJ true:JJ 
+express:NN rewrit:VBN true:JJ true:JJ 
+transform:NN 
+tree:NN process:VBN bottom:NN start:VB 
+oper:NNS replac:VB true:JJ 
+queri:NN tree:NN 
+transform:VBN intermedi:JJ form:NN oper:NN 
+visit:VBN 
+true:JJ true:JJ 
+result:NN visit:VBG top:NN 
+oper:NN hasn:NN visit:VBN 
+operand:NNS oper:NN 
+constant:NNS visitor:NN perform:VB transform:NN 
+tree:NN simplifi:VBN 
+true:JJ 

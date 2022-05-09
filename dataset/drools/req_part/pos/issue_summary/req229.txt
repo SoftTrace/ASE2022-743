@@ -1,0 +1,1 @@
+support:NN dynam:JJ type:NN trait:NNS 

@@ -1,0 +1,3 @@
+suggest:VBP implement:VB sql:NN statement:NN creat:VB fill:VB tabl:NN queri:NN write:VB column:NNS definit:NN 
+creat:VB tabl:NN select:NNP 
+select:VB 

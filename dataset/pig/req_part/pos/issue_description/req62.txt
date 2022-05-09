@@ -1,0 +1,3 @@
+emb:VBN pig:NN script:NN python:NN user:NN pass:VBN paramet:NNS python:NN script:NN 
+add:VBZ capabl:NN read:VBG param:NNS pig:NN script:NN python:NN 
+nice:JJ featur:NN sort:NN post:NN process:NN happen:VBG python:NN scrip:NN base:VBN param:NNS 

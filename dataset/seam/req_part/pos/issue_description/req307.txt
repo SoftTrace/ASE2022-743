@@ -1,0 +1,3 @@
+find:VB support:VB aw:JJ 
+pars:VB header:NNS 
+copi:VB code:NN tomcat:NNP acegi:NNP obfusc:VBN 

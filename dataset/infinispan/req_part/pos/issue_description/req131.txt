@@ -1,0 +1,2 @@
+unus:JJ jdk:NN executor:NNS expens:JJ idl:JJ 
+lazi:JJ initi:NN facad:NN approach:NN 

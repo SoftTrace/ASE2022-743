@@ -1,0 +1,14 @@
+follow:VBG code:NN 
+protect:VBN final:JJ int:NN rsnumber:NN int:NN colid:NN 
+throw:VBZ standard:NNP 
+row:NN rsnumber:NN null:JJ 
+happen:VBZ 
+attempt:VBZ prefetch:VB invari:JJ valu:NNS 
+cach:NN 
+fail:VBZ nest:VBN join:VBZ 
+beetl:NNP 
+return:NN null:JJ 
+return:NN row:NN rsnumber:NN 
+column:NNP colid:NN 
+investig:NN conclus:NN statement:NN fact:NN diagnos:VBG problem:NNS delay:VBG point:NN datum:NNS structur:NN problem:NNS expos:VBN error:NNS code:NN 
+jira:NNP issu:NN request:NNS code:NN evalu:VBN determin:VB suggest:VBZ remov:VBN result:VB simpler:JJR clearer:JJR code:NN 

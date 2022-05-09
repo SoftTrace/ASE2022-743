@@ -1,0 +1,2 @@
+boss:NNP marshal:NNP class:NN resolv:NN configur:JJ order:NN enabl:VB follow:VBG case:NN classload:NN modular:JJ environ:NN 
+environ:NN boss:NNP sort:NN consist:JJ identif:NN deploy:NNS node:NNS deploy:NN spi:NN attach:VB deploy:NN serial:JJ datum:NNS deseri:NN locat:VB correct:JJ classload:NN 

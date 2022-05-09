@@ -1,0 +1,1 @@
+extend:VB case:NN express:NN syntax:NN simpl:JJ case:NN 

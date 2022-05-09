@@ -1,0 +1,1 @@
+provid:VB chang:VB hash:NN algorithm:NN builtin:NNP authent:NN 

@@ -1,0 +1,2 @@
+cluster:NN mode:NN replic:NN mode:NN default:NN configur:NN overrid:VB specif:JJ cach:NN local:JJ mode:NN 
+conveni:JJ requir:VBP separ:VB cach:NN definit:NN local:JJ mode:NN default:NN chang:VB cach:NNS replic:NN mode:NN 

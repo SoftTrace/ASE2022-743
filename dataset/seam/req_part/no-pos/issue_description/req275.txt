@@ -1,0 +1,1 @@
+seam support featur includ support ejb featur interfac view singleton 

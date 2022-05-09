@@ -1,0 +1,6 @@
+sql:NN standard:NN defin:VBZ join:VB condit:NN join:VB left:JJ full:NN outer:JJ join:VB claus:NN claus:NN 
+derbi:NNP accept:VBZ join:VBZ claus:NN 
+derbi:NNP code:NN support:VBZ 
+code:NN enabl:VBN eas:VB migrat:NN derbi:NNP 
+verifi:VB implement:NN adher:VBZ standard:NN enabl:VBP 
+reserv:VBN keyword:NN derbi:NNP parser:NN enabl:VBG syntax:NN compat:NN issu:NNS exist:VBG queri:NNS 

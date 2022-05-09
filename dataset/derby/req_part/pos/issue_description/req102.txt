@@ -1,0 +1,2 @@
+provid:VB implement:NN rollup:NN form:NN group:NN accord:VBG sql:NN standard:NN 
+detail:JJ inform:NN aspect:NN sql:NN standard:NN 

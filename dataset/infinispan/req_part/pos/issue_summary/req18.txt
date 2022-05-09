@@ -1,0 +1,4 @@
+configur:VB java:NNP hot:NNP rod:NNP client:NN main:JJ data:NN owner:NN request:VBG datum:NNS 
+atm:NNP client:NN pick:NNS node:NN owner:NN write:VBZ datum:NNS 
+place:NN suboptim:JJ write:VBZ secondari:JJ owner:NN deleg:NNS write:NN main:JJ owner:NN lock:NN acquisit:NN addit:JJ rpc:NNP 
+client:NN write:VBP main:JJ data:NN owner:NN 

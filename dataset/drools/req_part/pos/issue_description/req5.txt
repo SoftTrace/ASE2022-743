@@ -1,0 +1,2 @@
+bind:VB reason:NN fact:NNS work:VBG memori:NN current:JJ rule:NN 
+import:JJ rememb:VB deriv:VBN fact:NNS time:NN constant:JJ 

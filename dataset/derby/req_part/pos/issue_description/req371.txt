@@ -1,0 +1,6 @@
+doesn:VBD length:NN clob:NNP situat:NNS 
+place:NNS code:NN improv:VBN easier:JJR 
+string:NN 
+copyclobcont:NN 
+copyclobcont:NN 
+addit:JJ place:NNS fix:VB 

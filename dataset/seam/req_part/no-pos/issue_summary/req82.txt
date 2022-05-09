@@ -1,0 +1,1 @@
+bind map input text valu model valid fail string index rang 

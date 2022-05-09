@@ -1,0 +1,1 @@
+groovi:JJ box:NN implement:NN equival:NN transform:VB griffon:NNP 

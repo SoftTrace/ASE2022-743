@@ -1,0 +1,20 @@
+work 
+page view login xhtml switch disabl 
+navig action 
+ident login 
+
+rule 
+ident log 
+
+convers redirect true 
+redirect view 
+convers parent view 
+
+rule 
+navig 
+page 
+class org jboss seam core log 
+convers nest true 
+redirect view login xhtml 
+
+

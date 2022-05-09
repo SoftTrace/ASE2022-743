@@ -1,0 +1,10 @@
+suggest:VBP introduc:VB ast:NNP transform:NN place:VBN class:NN class:NN annot:NN inherit:VB constructor:NNS super:JJ class:NN 
+class:NN 
+int:NN arg:NN 
+string:NN arg:NN 
+class:NN extend:VBZ 
+class:NN equal:JJ 
+class:NN extend:VBZ 
+int:NN arg:NN arg:NN 
+string:NN arg:NN arg:NN 
+defin:VBG 

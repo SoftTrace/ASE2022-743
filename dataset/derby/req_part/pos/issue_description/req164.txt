@@ -1,0 +1,8 @@
+add:VBZ follow:VBG function:NNS 
+sign:NN posit:JJ negat:JJ argument:NNS 
+sqrt:NNP squar:NNP root:NN 
+rand:NNP random:NNP number:NN 
+random:NN 
+cosh:NN hyperbol:JJ cosin:NNP 
+sinh:NNP hyperbol:JJ sine:NN 
+tanh:NN hyperbol:JJ tangent:NN 

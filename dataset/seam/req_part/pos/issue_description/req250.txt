@@ -1,0 +1,2 @@
+assum:VBP jndi:NN bind:VBN emf:NNP 
+jpa:NNP tomcat:NNP case:NN solut:NN 

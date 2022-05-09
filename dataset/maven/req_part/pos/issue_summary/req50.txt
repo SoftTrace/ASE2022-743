@@ -1,0 +1,1 @@
+configur:VBG deploy:NN timedstamp:JJ artifact:NN snapshot:NN version:NN 

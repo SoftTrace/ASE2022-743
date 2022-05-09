@@ -1,0 +1,10 @@
+rule:NN outcom:NN redirecttodocu:NN 
+redirect:VB view:NN 
+param:JJ nodeid:JJ valu:NN 
+redirect:VB 
+rule:NN 
+rule:NN outcom:NN redirecttodocu:NN 
+redirect:VB url:NN 
+wiki:NN renderurl:NN 
+rule:NN 
+give:VB nice:JJ url:NN rewrit:VBG acrobat:NNS 

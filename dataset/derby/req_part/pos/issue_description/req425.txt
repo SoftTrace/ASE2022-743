@@ -1,0 +1,119 @@
+derbi:NN queri:NN 
+derbi:NN valid:VB chang:NNS work:VBD variant:NN 
+problem:NN 
+inspect:NN queri:NN tree:NNS bind:NN phase:NN find:VBD 
+instanc:NN pair:NN tablenumb:NN columnnumb:NN column:NN 
+refer:NN wrong:JJ 
+impact:VB queri:NN 
+result:NN note:VBP investi:VB 
+symptom:NN problem:NN potenti:NN 
+futur:JJ problem:NNS 
+queri:NN 
+select:VB 
+join:VBP bvw:NN join:VBP 
+underli:VBG ddl:NNP 
+creat:VB tabl:NN int:NN int:NN char:NN int:NN int:NN int:NN 
+creat:VB tabl:NN int:NN int:NN int:NN 
+creat:VB tabl:NN int:NN int:NN int:NN int:NN 
+creat:VB tabl:NN int:NN int:NN char:NN int:NN int:NN int:NN 
+creat:VB view:NN bvw:NN 
+select:VB union:NN 
+select:VB 
+creat:VB view:NN 
+bind:NN phase:NN join:VB claus:NN 
+follow:VBG entri:NN column:NN refer:NN 
+problem:NN node:NN tablenumb:NN bvw:NN 
+view:NN subqueri:NN union:NN result:VBG 
+column:NNS wrong:JJ 
+view:NN particip:NN tabl:NNS 
+column:NN view:NN 
+case:NN 
+column:NN view:NN column:NN union:NN select:VBZ 
+column:NN join:VB node:NN result:VBG select:JJ 
+join:VBP bvw:NN correct:JJ tabl:NN number:NN 
+tabl:NN number:NN bind:VBN bvw:NN view:NN 
+result:NN set:NN column:NN number:NN bind:VBN innermost:JJS join:VBP 
+node:NN result:NN set:NN 
+worri:VBG 
+attach:VBN full:JJ dump:NN queri:NN tree:NN 
+bind:NN phase:NN 
+correl:NN bvw:NNP 
+null:JJ 
+tablenumb:NN note:NN 
+level:NN 
+null:JJ 
+fals:JJ 
+resultcolumn:NNS 
+fals:JJ 
+truncat:VBN 
+expos:NNP 
+tabl:NNP null:JJ 
+fals:JJ 
+fals:JJ 
+generat:NNP fals:JJ 
+type:NN integ:NN 
+null:JJ 
+generat:NNP fals:JJ 
+fals:JJ 
+fals:JJ 
+referenc:NNP true:JJ 
+redund:NNP fals:JJ 
+datatypeservic:NNS integ:NN 
+express:NN 
+datatypeservic:NNS null:JJ 
+truncat:VBN 
+truncat:VBN 
+expos:NNP 
+tabl:NNP null:JJ 
+fals:JJ 
+fals:JJ 
+generat:NNP fals:JJ 
+type:NN integ:NN 
+null:JJ 
+generat:NNP fals:JJ 
+fals:JJ 
+fals:JJ 
+referenc:NNP true:JJ 
+redund:NNP fals:JJ 
+datatypeservic:NNS integ:NN 
+express:NN 
+datatypeservic:NNS null:JJ 
+truncat:VBN 
+truncat:VBN 
+expos:NNP 
+tabl:NNP null:JJ 
+fals:JJ 
+fals:JJ 
+generat:NNP fals:JJ 
+type:NN char:NNP 
+null:JJ 
+generat:NNP fals:JJ 
+fals:JJ 
+fals:JJ 
+referenc:NNP true:JJ 
+redund:NNP fals:JJ 
+datatypeservic:NNS char:NNP 
+express:NN 
+datatypeservic:NNS null:JJ 
+truncat:VBN 
+truncat:VBN 
+highest:JJS column:NN number:NN index:NN base:VBN 
+expos:NNP 
+tabl:NNP null:JJ 
+fals:JJ 
+fals:JJ 
+generat:NNP fals:JJ 
+type:NN integ:NN 
+null:JJ 
+generat:NNP fals:JJ 
+fals:JJ 
+fals:JJ 
+referenc:NNP true:JJ 
+redund:NNP fals:JJ 
+datatypeservic:NNS integ:NN 
+express:NN 
+datatypeservic:NNS null:JJ 
+truncat:VBN 
+truncat:VBN 
+subqueri:NN 
+truncat:VBN 

@@ -1,0 +1,34 @@
+jira explain improv drl parser ide 
+eclips ide rule parser 
+creat outlin view base packag descr return pars drl file 
+retriev import function queri templat packag drl file perform auto complet 
+determin locat cursor request auto complet part rule cursor pars base unsual partic incomplet packag descr return parser determin kind locat cursor situat column constraint eval statement 
+retriev paramet defin rule possibl locat auto complet request 
+retriev error warn signal syntax error drl file 
+place result drl parser 
+determin element select base charact select rang 
+provid real time syntax check 
+determin chang drl chang 
+refactor 
+automat error solv 
+info return parser kind reach boundari info return describ enhanc advanc ide featur 
+charact number addit line number column 
+eclips charact number line column number situat charact number describ locat charact occur file column line creat map charact number line column number result annoy error relat newlin charact platform ing charact number elimin problem 
+element packag descr start locat 
+pattern descr line column element packag descr return parser don 
+function descr line column 
+import string 
+packag locat 
+inform advanc featur element start locat ide addit pars determin locat element 
+element locat 
+pattern descr line column locat column descr store thx mic ad code complet inform advanc featur element locat ide addit pars determin locat element 
+nest element 
+rule descr column descr field constraint descr element start locat start descript locat start locat parent work current implement start locat element 
+parser return info rule incomplet 
+import drl parser lot drl complet finish perform auto complet crucial parser return error encount error pars remaind file return info pars incomplet rule 
+rule rule 
+class 
+parser ideal return rule descr rule lhs column descr class start locat locat column descr reach close bracket work releas notic branch return null descript similar eval eval descr ad rule descr eval close result ide redo lot pars check situat parser return info ad subdescr start finish ide pars 
+error warn give exact locat drl 
+previous improv error return parser precis feedback exact locat error return prefer charact start line number error start line rule error precis error determin precis error visual automat error solv 
+hope kind explain improv parser ide 

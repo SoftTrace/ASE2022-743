@@ -1,0 +1,4 @@
+awar:JJ cach:NN size:NN approxim:NN accord:VBG doc:NN valu:NN improv:VBN class:NN case:NN cach:NN entri:NN expir:NN check:VB method:NN remov:NN key:NN return:VBZ null:JJ valu:NN decrement:VBG variabl:JJ numentri:NNS decrement:NN time:NNS entri:NN 
+null:JJ 
+attach:VBD test:NN case:NN set:VBD maxidl:NN issu:NN happen:VBZ 
+attach:VBD patch:NN propos:NN appli:VB reject:VB 

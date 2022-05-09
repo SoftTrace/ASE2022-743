@@ -1,0 +1,169 @@
+derbi queri 
+derbi valid work variant 
+problem 
+inspect queri tree bind phase 
+instanc pair tablenumb columnnumb column 
+refer wrong impact queri 
+result note investi 
+symptom problem potenti 
+futur problem 
+queri 
+select join bvw bvw join bvw 
+ddl 
+creat tabl int int char int int int 
+creat tabl int int int 
+creat tabl int int int int 
+creat tabl int int char int int int 
+creat view bvw 
+select union 
+select 
+creat view bvw 
+bind phase join claus bvw 
+entri column refer bvw 
+tabl number 
+column number 
+problem node tablenumb bvw 
+view subqueri union result 
+column wrong view particip tabl 
+column view case 
+column view column union select 
+
+column join node result select 
+join bvw bvw correct tabl number 
+
+tabl number bound bvw view 
+result set column number bound innermost join 
+node result set worri 
+derbi log attach full dump queri tree 
+bind phase 
+sourc result set 
+org apach derbi impl sql compil subqueri 
+correl bvw 
+null 
+tabl number note 
+level 
+result set number 
+referenc tabl map null 
+statement result set fals 
+result column 
+org apach derbi impl sql compil result column list 
+index row fals 
+order select 
+
+org apach derbi impl sql compil result column 
+truncat 
+
+org apach derbi impl sql compil result column 
+expos 
+
+tabl null 
+default column fals 
+default column fals 
+generat fals 
+sourc tabl 
+type integ 
+column descriptor null 
+generat fals 
+generat unmatch column insert fals 
+group column fals 
+referenc true 
+redund fals 
+virtual column 
+result set number 
+data type servic integ 
+express 
+org apach derbi impl sql compil virtual column node 
+data type servic null 
+sourc column 
+org apach derbi impl sql compil result column 
+truncat 
+sourc result set 
+org apach derbi impl sql compil union node 
+truncat 
+
+org apach derbi impl sql compil result column 
+expos 
+
+tabl null 
+default column fals 
+default column fals 
+generat fals 
+sourc tabl 
+type integ 
+column descriptor null 
+generat fals 
+generat unmatch column insert fals 
+group column fals 
+referenc true 
+redund fals 
+virtual column 
+result set number 
+data type servic integ 
+express 
+org apach derbi impl sql compil virtual column node 
+data type servic null 
+sourc column 
+org apach derbi impl sql compil result column 
+truncat 
+sourc result set 
+org apach derbi impl sql compil union node 
+truncat 
+
+org apach derbi impl sql compil result column ccd 
+expos 
+
+tabl null 
+default column fals 
+default column fals 
+generat fals 
+sourc tabl 
+type char 
+column descriptor null 
+generat fals 
+generat unmatch column insert fals 
+group column fals 
+referenc true 
+redund fals 
+virtual column 
+result set number 
+data type servic char 
+express 
+org apach derbi impl sql compil virtual column node 
+data type servic null 
+sourc column 
+org apach derbi impl sql compil result column 
+truncat 
+sourc result set 
+org apach derbi impl sql compil union node 
+truncat 
+highest column number index base 
+org apach derbi impl sql compil result column edf 
+expos 
+
+tabl null 
+default column fals 
+default column fals 
+generat fals 
+sourc tabl 
+type integ 
+column descriptor null 
+generat fals 
+generat unmatch column insert fals 
+group column fals 
+referenc true 
+redund fals 
+virtual column 
+result set number 
+data type servic integ 
+express 
+org apach derbi impl sql compil virtual column node 
+data type servic null 
+sourc column 
+org apach derbi impl sql compil result column 
+truncat 
+sourc result set 
+org apach derbi impl sql compil union node 
+truncat 
+subqueri 
+org apach derbi impl sql compil union node 
+truncat 

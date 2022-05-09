@@ -1,0 +1,3 @@
+book:NN empti:JJ drl:NN file:NN 
+requir:VBN 
+work:VB rule:NN base:NN leat:NN rule:NN file:NN rule:NN base:NN 

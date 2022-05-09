@@ -1,0 +1,18 @@
+default:NN expir:NN offset:VBN event:NNS 
+default:NN expir:NN offset:VBN infer:VBN expir:NN offset:VBN infinit:JJ 
+benefit:NNS 
+expir:NN guarante:VBN offset:VBN infer:VBN offset:VBN 
+rule:NN author:NNS requir:VBN includ:VB tempor:JJ constraint:NN rule:NNS 
+event:NN class:NNS design:VBN rule:NNS 
+current:JJ behavior:NN fix:VBN expir:NN offset:VBN default:NN option:JJ attribut:NN add:VBN enabl:VB behavior:NN 
+valu:NN fix:JJ expir:NN offset:VBN 
+valu:NN type:NN fix:JJ fix:JJ expir:NN offset:VBN 
+public:JJ class:NN event:NNP 
+behavior:NN 
+valu:NN type:NN default:NN featur:NN 
+public:JJ class:NN event:NNP 
+goal:NN automat:JJ event:NN lifetim:NN memori:NN manag:NN time:NNS 
+moment:NN fix:VBN expir:NN offset:VBN set:VBN analys:VBG rule:NNS determin:VBG expir:NN offset:VBN 
+rule:NN includ:VB tempor:JJ constraint:NN tough:JJ burden:NN rule:NN author:NN 
+featur:NN relat:VBN 
+behavior:NN touch:VB code:NN fix:NN implement:VBD 

@@ -1,0 +1,1 @@
+option:NNP shadow:NNP fact:NNS 

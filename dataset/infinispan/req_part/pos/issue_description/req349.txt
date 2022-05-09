@@ -1,0 +1,4 @@
+evict:NN redesign:VBG 
+evict:NN base:VBN time:VBN unus:JJ entri:NNS passiv:NN 
+expir:NN remov:VBZ entri:NNS 
+evict:NN event:NN queue:NN evict:NN algorithm:NN queue:NNS wast:JJ incorpor:VB addit:JJ order:NN datum:NNS prune:VB 

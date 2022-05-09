@@ -1,0 +1,8 @@
+project:NN structur:NN 
+artifactid:NNS 
+parent:NN 
+prefix:VB omit:VBN breviti:NN modul:NN 
+instanc:NN jersey:NNP 
+scm:NNP report:NN build:VBN artifact:NNP path:NN composit:NN lead:VBZ incorrect:JJ url:NNS 
+set:VB paramet:NN checkoutdirectorynam:NN tedious:JJ modul:NNS tree:NN 
+code:NN obtain:VB modul:NN url:NN composit:NN 

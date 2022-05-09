@@ -1,0 +1,24 @@
+vararg:NN routin:NNS add:VBN derbi:NNP add:VB vararg:NN system:NN procedur:NN regist:VBG unregist:VBG option:JJ packag:NNS derbi:NNP tool:NNS 
+starter:NNS tool:NNS aren:VBP check:VBD derbi:NNP codelin:NNP attach:VBN jira:NNS 
+tool:NNS 
+tool:NN creat:VBZ function:NNS tabl:NN function:NNS method:NNS write:VB complic:JJ queri:NNS join:VBP filter:VBP jdbc:NNP metadata:NN 
+tool:NN creat:VBZ view:NNS foreign:JJ databas:NNS bulk:NN import:NN foreign:JJ datum:NNS derbi:NNP indirect:VBG csv:NN file:NNS 
+approach:NN expos:VB log:NN datum:NNS file:NN read:NN tool:NNS attach:VBN 
+system:NN procedur:NN 
+creat:VB procedur:NN 
+tool:NNP varchar:NNP 
+boolean:JJ regist:NN 
+optionalarg:JJ varchar:NN 
+languag:NN java:NN paramet:NN style:NN derbi:NN modifi:VBZ sql:NN datum:NNS 
+extern:JJ 
+argument:NNS 
+toolnam:NN specif:JJ tool:NN 
+regist:NN true:JJ regist:VB tool:NN fals:JJ unregist:VBP tool:NN 
+optionalarg:NNS tool:NN variabl:JJ set:NN addit:JJ configur:NN paramet:NNS 
+default:NN dbo:NN run:VB procedur:NN 
+dbo:NN grant:VB execut:VB permiss:NN user:NNS 
+tool:NN option:JJ paramet:NNS document:VBN derbi:NNP refer:NNP manual:NNP section:NN 
+put:VB option:JJ tool:NNS 
+document:VB option:JJ tool:NNS tool:NNP guid:NNP argument:NNS document:VBG tool:NNS admin:NNP guid:NNP 
+peopl:NNS thought:NNS propos:NN 
+rick:NNP 

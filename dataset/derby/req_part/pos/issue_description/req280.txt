@@ -1,0 +1,6 @@
+byte:NN array:NN buffer:NN 
+wrap:VBG array:NN advantag:NNS instanc:NN 
+util:NN method:NNS encod:VBG primit:JJ type:NNS byte:NN array:NN encod:VBG valu:NNS 
+encod:VB string:NNS buffer:NN expens:JJ string:NN encod:NN intermedi:JJ step:NN 
+util:NN class:NN code:NN easier:JJR maintain:VB 
+access:VB byte:NN array:NN interfac:NN possibl:NN modifi:VB byte:NN array:NN case:NNS conveni:JJ 

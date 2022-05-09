@@ -1,0 +1,9 @@
+expos:VB remot:JJ thread:NN pool:NN status:NN group:NNP probe:NN 
+return:VBZ follow:VBG 
+current:JJ pool:NN size:NN current:JJ pool:NN size:NN 
+aliv:JJ configur:NN aliv:JJ time:NN millisecond:NNS 
+min:NN thread:NN minimum:JJ thread:NN pool:NN size:NN configur:VBN 
+activ:JJ thread:NN current:JJ activ:JJ number:NN thread:NNS 
+queue:NN size:NN current:JJ queue:NN size:NN 
+max:NN thread:NN maximum:JJ thread:NN pool:NN size:NN configur:VBN 
+largest:JJS pool:NN size:NN largest:JJS thread:NN pool:NN 

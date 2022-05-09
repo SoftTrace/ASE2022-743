@@ -1,0 +1,1 @@
+replic:NN test:NNS run:VB local:JJ command:NNS 

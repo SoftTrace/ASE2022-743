@@ -1,0 +1,1 @@
+piggybank:NNP function:VBZ mimic:VB claus:NN sql:NN 

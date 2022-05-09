@@ -1,0 +1,27 @@
+derbi:NNP user:NN chang:VB interv:NN consecut:JJ valu:NNS ident:NN column:NN alter:NNP tabl:NN 
+chang:VB valu:NN generat:VBN ident:NN column:NN 
+support:NN derbi:NNP handi:JJ tabl:NNS ident:NN column:NN defin:VBN generat:VBN default:NN uniqu:JJ key:JJ defin:VBN 
+column:NN defin:VBN generat:VBN default:NN system:NN generat:VB valu:NNS user:NN suppli:VB valu:NN 
+column:NN defin:VBN user:NN import:VB datum:NNS generat:VBN column:NN 
+creat:VB problem:NNS system:NN generat:VBN valu:NNS conflict:NN insert:VBN valu:NNS 
+autocommit:NN 
+creat:VB tabl:NN tauto:NN int:NN generat:VBN default:NN ident:NN int:NN 
+creat:VB uniqu:JJ index:NN tautoind:NN tauto:NN 
+insert:VB tauto:NN valu:NNS system:NN generat:VBP valu:NNS ident:NN column:NN 
+manual:JJ insert:NNS ident:NN column:NN 
+insert:VB tauto:NN valu:NNS 
+insert:VB tauto:NN valu:NNS 
+insert:VB tauto:NN valu:NNS 
+insert:VB tauto:NN valu:NNS 
+insert:VB tauto:NN valu:NNS 
+insert:VB tauto:NN valu:NNS 
+notic:NN ident:NN column:NN point:NN 
+user:NN system:NN generat:VBP valu:NN system:NN generat:VB 
+insert:NN throw:VB uniqu:JJ key:JJ failur:NN 
+system:NNP consum:VBN point:NN 
+insert:VB tauto:NN valu:NNS 
+insert:NN continu:VB fail:VB uniqu:JJ key:JJ failur:NN system:NN consum:VBN valu:NNS 
+add:VBP alter:VB tabl:NN syntax:NN chang:VBG valu:NN generat:VBN user:NN chang:VB 
+valu:NN generat:VBN manual:JJ insert:NNS insert:VB tauto:NN valu:NNS fail:VB 
+sql:NN standard:JJ syntax:NN chang:VBG generat:VBN valu:NN 
+alter:VB tabl:NN tablenam:NN alter:VB restart:VB integ:NN constant:JJ 

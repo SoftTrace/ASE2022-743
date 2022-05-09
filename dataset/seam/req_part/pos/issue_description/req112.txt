@@ -1,0 +1,2 @@
+mail:NN session:NNS work:VB smtp:NN server:NNS ssl:NN enabl:VBD 
+add:VB mechan:NN disabl:VB tls:NN 

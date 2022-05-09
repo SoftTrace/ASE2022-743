@@ -1,0 +1,1 @@
+describ:VBN jdbc:NNP spec:NN section:NNS 

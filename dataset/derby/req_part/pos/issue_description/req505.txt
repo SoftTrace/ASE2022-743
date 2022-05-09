@@ -1,0 +1,8 @@
+constructor:NN lobstreamcontrol:NN byte:NN buffer:NN size:NN equal:JJ lob:NN size:NN creat:VBG extra:JJ materi:VBD copi:NN lob:NN memori:NN 
+assumpt:NN lob:NN materi:VBN small:JJ 
+lob:NNS smaller:JJR fit:VB singl:JJ page:NN materi:VBN read:VBN store:NN 
+materi:VB lob:NNS lot:NN bigger:JJR 
+trigger:VBZ access:NN lob:NNS materi:VB size:NN comment:NN constructor:NN detail:NNS 
+larg:JJ lob:NNS sound:VBZ unreason:JJ alloc:VB buffer:NN size:NN lob:NN 
+suggest:VB chang:VBP constructor:NN alloc:VBZ buffer:NN larger:JJR 
+behaviour:NN preserv:VBN lob:NNS fetch:VBD store:NN lob:NNS don:VBP fit:NN singl:JJ page:NN temporari:JJ file:NNS creat:VBN prevent:VB larg:JJ lob:NNS access:VBN trigger:VBZ duplic:VBN memori:NN overflow:VBG temporari:JJ file:NNS 

@@ -1,0 +1,1 @@
+advanc:NNP user:NNS disabl:VB shadow:NN fact:NNS properti:NNS set:VBG 

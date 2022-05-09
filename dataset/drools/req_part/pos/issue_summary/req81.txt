@@ -1,0 +1,1 @@
+getfacthandl:NN equal:NN base:VBN assert:VBP behavior:NN 

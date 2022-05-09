@@ -1,0 +1,4 @@
+iter:NNP list:NN object:NN tail:NN drop:NN init:NN dropright:NN takeright:NN 
+add:VBD 
+patch:NN 
+method:NN scala:NNP 

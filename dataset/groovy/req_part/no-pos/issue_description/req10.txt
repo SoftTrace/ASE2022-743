@@ -1,0 +1,2 @@
+project coin propos binari liter 
+attach patch liter intern compil creat correct int 

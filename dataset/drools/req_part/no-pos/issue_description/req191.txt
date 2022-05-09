@@ -1,0 +1,7 @@
+expir polici handl engin hint expir offset event caus mistak misunderstand user chang expir polici overrid set definit expir offset event 
+
+declar stock tick 
+role event 
+expir 
+
+stock tick event expir memori rule tempor oper slide window retain event time requir event memori amount time 

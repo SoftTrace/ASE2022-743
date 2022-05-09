@@ -1,0 +1,1 @@
+jdbc result set rule generat templat bill tarr 

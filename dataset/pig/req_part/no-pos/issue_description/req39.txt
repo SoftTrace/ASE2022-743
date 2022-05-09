@@ -1,0 +1,24 @@
+generat metric list impress context page click page group click impress iter mini tabl serv comput metric nest foreach foreach support write udf bag comput metric eleg logic iter record pig script 
+pseudocod write 
+page context click rank ad 
+load page rank click 
+load page rank impress 
+cogroup page page 
+schema 
+group 
+record 
+page page page page page 
+foreach generat 
+flatten flatten wont work current pig basic mini tabl repres entir serv 
+foreach generat 
+page 
+rank 
+someudf rank rank udf return valu depend rank rank 
+
+output 
+page 
+page 
+page 
+dump 
+understand altern flatten field group page iter record call someudf appropri map reduc oper afaik 
+candid project googl summer code inform program 

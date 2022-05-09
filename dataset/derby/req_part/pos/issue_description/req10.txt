@@ -1,0 +1,11 @@
+stream:NN write:NN method:NNS network:NN server:NN client:NN requir:VBP length:NN paramet:NN 
+length:NN stream:NN send:VBG 
+network:NN server:NN getstr:NN getbyt:NNS length:NN 
+sqlam:NNP level:NNP provid:VBZ enhanc:VBN lob:NN process:NN stream:NN length:NN writescalarstream:NN method:NNS 
+network:NN server:NN network:NN client:NN chang:VBN requir:VB length:NN 
+code:NNP inspect:NN method:NNS length:NN write:VBN generat:VBG dss:NNP 
+strang:JJ error:NN stream:NN pad:JJ full:JJ length:NN actual:JJ send:VBN 
+method:NNS rewrit:VBN scratch:NN base:VBN spec:NN requir:NNS lob:NNS 
+writescalarstream:NN method:NNS chang:VBN chang:VBN stream:VB lob:NN 
+todo:NN tag:NNS file:NN info:NN 
+guess:VBG similar:JJ optim:NNS client:NN code:NN 

@@ -1,0 +1,1 @@
+abil:NN rais:VB multipl:JJ event:NNS 

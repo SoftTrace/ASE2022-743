@@ -1,0 +1,18 @@
+pluggabl:JJ compon:NNS lookup:NN class:NN 
+accept:VBP configur:JJ properti:NNP object:NN jgroupschannellookup:NN mbeanserverlookup:NN 
+awkward:JJ implement:VB parameter:JJ mbeanserverlookup:NN implement:NN find:VB server:NN jmx:NN agent:NN inject:VBN mbean:NN server:NN instanc:NN 
+improv:VB 
+add:VB abil:NN properti:NNS object:NNS pluggabl:JJ compon:NN 
+properti:NNP properti:NNS 
+user:NN defin:VB instanc:NN 
+mbeanserverlookup:NN lookup:NN 
+infinispan:NNP support:VB mechan:NNS 
+flexibl:JJ declar:JJ configur:NN 
+flexibl:JJ programmat:JJ configur:NN 
+bit:NN support:VB approach:NNS follow:VBG mbeanserverlookup:NN 
+leav:VB mbeanserverlookup:NN interfac:NN 
+replac:VB string:NN mbeanserverlookup:NN lookup:NN 
+creat:VB generic:JJ implement:NN deleg:NNS instanc:NN construct:VBN class:NN java:NN bean:NN properti:NNS 
+lookup:NN class:NN xml:NN construct:NN generic:JJ mbeanserverlookup:JJ object:NN class:NN properti:NNS 
+thought:NN 
+approach:NNP good:JJ 

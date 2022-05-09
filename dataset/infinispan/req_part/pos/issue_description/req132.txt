@@ -1,0 +1,3 @@
+build:VB mechan:NN invalid:NN multicast:JJ unicast:JJ specif:JJ node:NNS cach:VBN give:VBN entri:NN 
+detect:VBN maintain:VBG list:NN node:NNS request:VBN key:JJ remot:JJ relay:VBN datum:NNS owner:NNS 
+benefit:NNS perform:NN remov:VBG unnecessari:JJ invalid:NN reduc:VBG nois:NN network:NN stack:NNS node:NNS 

@@ -1,0 +1,4 @@
+manag:VBG avro:NNP schema:NNP sourc:NN code:NN java:NNP class:NNS serial:VB deseri:VB avro:NNP easier:JJR 
+store:NN tmp:NN myuser:NN null:JJ schemaclass:NN 
+pass:VBG agur:NN entir:JJ avro:NNP schema:NN json:NN pig:NN script:NN outdat:JJ set:NN avro:NNP schema:NN file:NNS hdfs:NNP schemafil:NN option:NN 
+classpath:NN awar:JJ serial:VB deseri:VB avro:NNP datum:NNS good:JJ leverag:NN qualifi:JJ classnam:NN 

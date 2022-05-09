@@ -1,0 +1,4 @@
+number:NN paramet:NNS derbi:NNP routin:NN limit:VBN 
+limit:NN difficulti:NNS user:NNS 
+safe:JJ lift:VB limit:NN 
+chang:NNS correspond:VBG test:NN 

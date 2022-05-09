@@ -1,0 +1,1 @@
+add:VB jess:NN style:NN accumul:VBP function:NN 

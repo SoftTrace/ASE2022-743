@@ -1,0 +1,1 @@
+detail:NNS mail:NN list:NN thread:NN 

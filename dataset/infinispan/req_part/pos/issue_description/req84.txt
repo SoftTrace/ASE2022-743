@@ -1,0 +1,1 @@
+order:NN support:VB integr:NN infinispan:NNP recoveri:NN support:NN jbosstm:NN log:NN read:VBG easier:JJR xid:NN log:VBN boss:NNP infinispan:NNP recoveri:NN 

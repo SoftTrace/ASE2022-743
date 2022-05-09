@@ -1,0 +1,7 @@
+group channel lookup group transport connect channel disconnect close channel 
+case wildfli distinguish disconnect close servic channel group transport manag lifecycl lead condit infinispan cach manag restart jgroup channel servic 
+fix introduc hack channel return channel servic channel close introduc separ method invis infinispan perform actual close 
+propos 
+boolean connect notic renam distinct start connect 
+boolean disconnect 
+boolean close 

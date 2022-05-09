@@ -1,0 +1,2 @@
+imagin scenario client call method compon call foo biject interceptor inject foo attribut requir call factori method bar bar factori method turn call foo method foo state support method call process inject depend sort cyclic depend seam throw case 
+biject interceptor code method run complaint attribut null depend field inject biject interceptor chang behavior finit loop result behavior desir 

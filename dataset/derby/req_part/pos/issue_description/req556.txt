@@ -1,0 +1,2 @@
+classfactori:JJ implement:NNS java:NNP includ:VBG cdc:NNP java:NNP higher:JJR 
+base:NN level:NN trunk:NN java:NNP suffici:JJ 

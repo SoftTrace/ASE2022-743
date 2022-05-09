@@ -1,0 +1,3 @@
+implement:NNS ident:JJ correspond:VBG method:NNS 
+implement:NNS readexternalfromarray:NN case:NNS call:NNS duplic:VBG code:NN 
+default:NN implement:NN readexternalfromarray:NN place:VBN exist:VBG implement:NNS optim:NNS remov:VBN 

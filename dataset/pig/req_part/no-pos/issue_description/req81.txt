@@ -1,0 +1,1 @@
+pig storag default load store func configur 

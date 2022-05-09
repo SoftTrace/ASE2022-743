@@ -1,0 +1,5 @@
+set:VBN correct:JJ collat:NN type:NN deriv:NN dtd:NN 
+dtd:NN field:NNS collationtyp:NN collationderiv:NN 
+field:NNS type:NNS dtd:NNS appli:VB charact:NN type:NNS 
+datatyp:NNS ignor:VB field:NNS 
+jira:NNP placehold:NN load:VBG correct:JJ valu:NNS collationtyp:NN collationderiv:NN 

@@ -1,0 +1,2 @@
+hit:VBZ class:NN type:NN resolv:NN lookup:NN class:NNS larg:JJ ruleset:NN class:NNS 
+cach:NN level:NN inject:VB rulebuild:NN instanc:NNS 

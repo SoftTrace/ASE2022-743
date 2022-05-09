@@ -1,0 +1,2 @@
+analog collect empti map 
+evalu fals 

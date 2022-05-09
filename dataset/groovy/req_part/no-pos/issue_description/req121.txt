@@ -1,0 +1,4 @@
+iter list object tail drop init drop 
+ad patch 
+method scala 
+

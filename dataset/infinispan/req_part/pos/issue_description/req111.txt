@@ -1,0 +1,1 @@
+socket:NN timeout:NN appli:VBZ read:VBG socket:NN 

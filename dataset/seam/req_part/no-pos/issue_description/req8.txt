@@ -1,0 +1,1 @@
+class org jboss seam remot interfac generat scan web remot class annot extend busi interfac 

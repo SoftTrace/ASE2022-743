@@ -1,0 +1,4 @@
+flexibl:JJ map:NN url:NNS view:VB 
+url:NN 
+request:NN paramet:NN request:NN paramet:NN abstract:JJ 
+chang:VBG jsf:NNP implement:NN 

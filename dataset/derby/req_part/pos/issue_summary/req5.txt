@@ -1,0 +1,2 @@
+improv:VB usabl:NN derbi:NNP client:NN server:NN secur:NN implement:VBG ansi:NN role:NNS 
+implement:VBG ansi:NN role:NNS easier:JJR manag:VB secur:NN applic:NNS high:JJ user:NN turnov:NN 

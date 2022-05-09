@@ -1,0 +1,3 @@
+jdbc:NNP version:NNS colum:NNS add:VBN 
+test:NNS check:VB expectedcolumn:NNS ignor:VB extra:JJ column:NNS prevent:VB failur:NNS compat:NN test:NN 
+check:NN occur:VBZ assertcolumnnam:NNS assertcolumntyp:NNS 

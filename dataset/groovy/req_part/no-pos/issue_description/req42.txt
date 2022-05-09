@@ -1,0 +1,8 @@
+situat initi jce certif url 
+def url arg url 
+def certif factori instanc 
+def root cert url input stream generat certif 
+put fact method don return closur return valu creat separ jira input stream method url 
+work groovier 
+def root cert url open stream stream generat certif 
+attach patch add url input stream url input stream doesn test couldn find exist test url reader file input stream matter wasn handl 

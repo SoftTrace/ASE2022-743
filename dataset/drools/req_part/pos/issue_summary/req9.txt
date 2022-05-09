@@ -1,0 +1,2 @@
+add:VB regex:JJ support:NN column:NN constraint:NNS 
+person:NN match:VBZ regex:NN 

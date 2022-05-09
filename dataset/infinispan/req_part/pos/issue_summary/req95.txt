@@ -1,0 +1,1 @@
+warn:VB index:NN queri:NN modul:NN isn:NN present:NN classpath:NN 

@@ -1,0 +1,18 @@
+iter:VBG date:NN interv:NNS follow:VBG code:NN 
+start:VB 
+time:NN 
+time:NN 
+current:JJ start:NN 
+current:JJ 
+println:VB current:JJ 
+current:NN 
+follow:VBG style:NN number:NNS iter:VBN groovier:JJR code:NN 
+println:VB 
+start:NN 
+println:VB 
+propos:VBN implement:NN 
+upto:NN date:NN closur:NNP 
+deleg:NN 
+date:NN start:NN closur:NNP 
+deleg:NN 
+start:NN 

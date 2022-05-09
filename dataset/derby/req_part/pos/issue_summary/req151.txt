@@ -1,0 +1,1 @@
+unit:NNP class:NN engin:NN code:NN determin:VB jdbc:NNP level:NN 

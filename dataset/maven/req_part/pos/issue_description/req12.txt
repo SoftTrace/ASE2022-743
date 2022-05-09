@@ -1,0 +1,25 @@
+add:VB commandlin:NN option:NN enabl:VB maven:NN expand:VB reactor:NN scope:NN find:VB project:NNS depend:NNS 
+project:NNS reactor:NN add:VB 
+current:JJ project:NN child:NN project:NNS includ:VBN reactor:NN search:NN 
+propos:VBG 
+add:VB commandlin:NN switch:NN maven:NN check:VB parent:NN directori:NNS find:VB root:NN project:NN tree:NN 
+normal:JJ reactor:NN scan:NN add:VBG project:NNS add:VBN 
+depend:NNS project:NNS build:VBN 
+sampl:NN project:NN tree:NN 
+root:NN 
+depend:VBZ 
+depend:VBZ 
+sampl:NN algorithm:NN 
+build:VBG reactor:NN 
+maven:NNP check:VB root:NN parent:NN tag:NNS version:NNS 
+project:NN current:JJ reactor:NN 
+creat:VB list:NN project:NNS project:NNS discov:VBN root:NN root:NN 
+remov:VB project:NNS reactor:NN root:NN 
+resolv:VB direct:JJ depend:NNS project:NNS reactor:NN add:VB reactor:NN version:NNS account:NN reactor:NN 
+repeat:NN previous:JJ step:NN project:NNS depend:NNS resolv:VBN reactor:NN 
+iter:NN yield:VB reactor:NN 
+iter:NN stop:VB doesn:NN depend:NNS present:VBP 
+ensur:VB local:JJ project:NN sourc:NNS chang:VBN incorpor:VBN 
+build:NN build:VBP 
+don:VBP reactor:NN build:VB time:NN chang:VBP 
+project:NN don:VBP rememb:VB project:VBZ chang:VBD build:VB correct:JJ order:NN 

@@ -1,0 +1,4 @@
+chanc:NN perform:NN improv:NN replac:VBG 
+minimum:JJ jvm:NNP version:NN drool:NNS stringbuild:NN effici:JJ current:JJ code:NN 
+javadoc:NNS 
+class:NN design:VBN drop:NN replac:NN place:NNS string:NN buffer:NN singl:JJ thread:NN case:NN 

@@ -1,0 +1,7 @@
+ide:NNP integr:NNS perform:VB step:NNS 
+load:VB pom:NN valid:NN place:NN 
+instanc:NN case:NNS import:JJ 
+display:VB warn:NNS pom:NN editor:NN run:VB projectbuild:NN modelbuild:NN proper:JJ valid:NN level:NN collect:VB result:NNS result:NN object:NN throw:VBN 
+propos:VBN patch:NN mavenproject:NN instanc:NN minim:JJ valid:NN constraint:NNS collect:VB valid:NN problem:NNS higher:JJR valid:NN level:NNS 
+addit:JJ benefit:NN patch:NN log:VBZ version:NN maven:NNP problem:NN valid:JJ 
+cmd:NN line:NN ide:NN error:NN report:NN 

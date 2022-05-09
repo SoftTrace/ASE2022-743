@@ -1,0 +1,7 @@
+statement:NN creat:VBN prepar:VBN local:JJ transact:NN default:NN holdabl:NN sett:NN global:JJ transact:NN 
+default:NN holdabl:NN derbi:NNP support:VB held:JJ cursor:NNS global:JJ transact:NNS 
+chang:NN statement:NNS global:JJ transact:NNS return:VBG resultset:NNS 
+statement:NNS cach:VBN applic:NN server:NNS 
+jdbc:NNP section:NN holdabl:NN handl:VBN implement:NN specif:JJ global:JJ transact:NNS 
+chang:NN compat:JJ derbi:NNP start:VB support:VBG hold:VBN cursor:NNS global:JJ transact:NNS 
+function:NN display:VBD set:NN holdabl:JJ function:NN 

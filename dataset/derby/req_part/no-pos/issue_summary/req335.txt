@@ -1,0 +1,1 @@
+sql length function materi blob memori 

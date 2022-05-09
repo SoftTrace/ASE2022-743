@@ -1,0 +1,2 @@
+text:NN method:NN return:VBZ composit:JJ 
+local:JJ text:NN 

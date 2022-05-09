@@ -1,0 +1,24 @@
+generat:VB metric:NNS list:NN impress:NN context:NN page:NN click:VBZ page:NN 
+group:NN click:VBZ impress:NN 
+iter:VB serv:VB comput:VB metric:NNS 
+nest:VBN foreach:NN foreach:NN support:VBN write:VBG udf:NNP bag:NNS comput:VBN metric:JJ 
+eleg:JJ logic:NN iter:VBG record:NNS pig:NN script:NN 
+pseudocod:NN write:VB 
+page:NN context:NN click:VB rank:NN 
+load:NN rank:NN click:VBZ 
+load:NN rank:NN impress:NNS 
+cogroup:NN 
+follow:VBG schema:NN 
+group:NN 
+record:NN 
+foreach:NN generat:NN 
+flatten:NN flatten:NNP wont:JJ work:NN current:JJ pig:NN 
+repres:VBZ entir:JJ serv:VB 
+foreach:NNP generat:NNP 
+rank:NN 
+someudf:NNP rank:NN rank:NN udf:NN return:VBZ valu:NN depend:VBG rank:NN rank:NN 
+output:NN 
+dump:NN 
+understand:VBP flatten:VBD field:NNS group:NN iter:VBN record:NNS call:VBG someudf:NNP map:NN reduc:VB oper:NNS afaik:NNP 
+candid:NN project:NN googl:NNP summer:NN code:NN 
+inform:NN program:NN find:VBN 

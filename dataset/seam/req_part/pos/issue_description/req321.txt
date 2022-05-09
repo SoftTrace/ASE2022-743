@@ -1,0 +1,5 @@
+creat:VB seam:NNP resourc:NN servlet:NN serv:VBG resourc:NNS javascript:NN imag:NNS css:NN 
+replac:VB accept:VB request:NNS seam:NN resourc:NN depend:VBG path:NN deleg:NN control:NN resourc:NN provid:NNS 
+seam:NN resourc:NN remot:NN deleg:NN seam:NNP remot:NNP 
+seam:NN resourc:NN captcha:NN deleg:NN captcha:NNP imag:NN provid:NN 
+seam:NN resourc:NN jsfcontrol:NN deleg:NN jsf:NNP control:NNP javascript:NN provid:NN resourc:NNS selectd:NN 

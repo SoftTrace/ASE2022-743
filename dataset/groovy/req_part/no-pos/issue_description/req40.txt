@@ -1,0 +1,7 @@
+list method invok method item list 
+support list method invok method item list recurs list list 
+def anim list 
+assert anim list size 
+assert anim list size 
+assert anim list size 
+

@@ -1,0 +1,5 @@
+open:VBP drdaconnthread:NN warn:NNS 
+harmless:JJ static:NN field:NNS access:VBN instanc:NN suggest:NNS loop:NNS 
+real:JJ problem:NNS 
+compar:VB sql:NN state:NNS writesqldiaggrp:NN 
+clean:VB warn:NNS easier:JJR notic:VB warn:NNS potenti:JJ problem:NNS 

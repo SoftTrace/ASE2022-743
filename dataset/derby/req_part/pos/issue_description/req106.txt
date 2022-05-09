@@ -1,0 +1,6 @@
+support:NN add:VBN sequenc:NNS 
+permit:VB select:JJ sequenc:NN obtain:VB increas:VBG decreas:VBG valu:NN 
+ident:NN column:NN work:VBZ fine:JJ time:NNS applic:NNS applic:NN obtain:VB sequenc:NN number:NN prior:JJ databas:NN write:NN 
+subsequ:JJ call:NNS tabl:NN column:NN result:VB number:NN call:NN 
+sql:NN follow:VBG 
+select:VB valu:NNP somet:NN result:VB valu:NN 

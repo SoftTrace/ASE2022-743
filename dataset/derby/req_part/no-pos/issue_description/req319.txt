@@ -1,0 +1,3 @@
+drda stream buffer size attribut org apach derbi mbean drda network server bean type string valu attribut describ size buffer stream blob clob server client derbi drda stream buffer size properti handl integ int ddm writer class network server 
+type chang int function specif reason string similar attribut drda max thread return type int jmx client valu int arbitrari string chang 
+

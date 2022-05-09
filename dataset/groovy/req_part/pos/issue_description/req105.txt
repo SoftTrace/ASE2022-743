@@ -1,0 +1,8 @@
+snipset:NN groovi:JJ 
+option:NNS 
+deep:JJ deep:JJ field:NNS 
+split:NN 
+deep:JJ 
+fail:VBZ error:NN 
+signatur:NN method:NN applic:JJ argument:NN type:NNS valu:NNS 
+solut:NNS submap:NN dump:NN spread:NN sleep:NN long:JJ 

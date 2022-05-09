@@ -1,0 +1,3 @@
+load:VB pageflow:NN runtim:NN 
+give:VBZ lot:NN power:NN user:NNS custom:VBP navig:NN rule:NNS fit:VB 
+refer:VB detail:NNS 

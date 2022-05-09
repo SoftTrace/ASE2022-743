@@ -1,0 +1,5 @@
+suggest implement sql statement creat fill tabl queri write column definit 
+
+creat tabl tabl select 
+
+select tabl 

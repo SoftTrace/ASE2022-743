@@ -1,0 +1,19 @@
+eful run sql script part unit test applic awkward program today 
+
+run sql script input stream write 
+result output output stream 
+param conn connect script default connect 
+param sql input stream script 
+param input encod encod script 
+param sql output stream script output 
+param output encod output encod 
+return number sql thrown execut 
+throw unsupport encod 
+
+public static int run script 
+connect conn 
+input stream sql 
+string input encod 
+print stream sql 
+string output encod 
+throw unsupport encod 

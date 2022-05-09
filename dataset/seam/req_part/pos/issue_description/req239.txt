@@ -1,0 +1,19 @@
+compon:NN class:NN interceptor:NNS separ:VBN client:NN side:NN server:NN side:NN interceptor:NNS interceptortyp:NN type:NN properti:NN interceptor:NNP 
+interceptor:NNP properti:NNS defin:VB sort:NN order:NN list:NN 
+problem:NN 
+client:NN side:NN server:NN side:NN interceptor:NNS store:VBN list:NNS client:NN side:NN interceptor:NNS prioritari:JJ server:NN side:NN interceptor:NNS programm:NN write:VB claus:NN ignor:VBN 
+put:VB server:NN side:NN interceptor:NNP client:NN side:NN interceptor:NNP 
+current:JJ compon:NN code:NN case:NNS ignor:VBN 
+solut:NN 
+case:NN bad:JJ server:NN side:NN client:NN side:NN mix:NN interceptor:NNP annot:NN definit:NN newsort:NN list:NN method:NN rais:VB warn:NN 
+proposit:NN 
+insert:NN line:NN 
+type:NN 
+interceptor:NNP server:NN side:NN interceptor:NNP client:NN side:NN interceptor:NNP client:NN side:NN interceptor:NNS prioritari:JJ 
+insert:NN line:NN 
+type:NN 
+interceptor:NNP client:NN side:NN interceptor:NNP server:NN side:NN interceptor:NNP client:NN side:NN interceptor:NNS prioritari:JJ 
+pro:NNS 
+programm:NN friend:JJ 
+con:NNS 
+sort:VBG bit:NN time:NN 

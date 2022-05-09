@@ -1,0 +1,1 @@
+creat configur option disabl default interceptor improv applic perform system necess interceptor transact rollback interceptor transact interceptor manag entiti ident interceptor degrad perform 

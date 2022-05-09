@@ -1,0 +1,5 @@
+investig:VB jdbc:NNP layer:NN compil:VBN activ:NN code:NN simpl:JJ emb:VBN read:NN 
+simpl:JJ usag:NN 
+interest:JJ overhead:NN remov:VBN simpl:JJ chang:NNS remov:VBN simpl:JJ implement:NN read:VB complet:JJ implement:NN type:NNS updat:JJ scrollabl:NN 
+introduc:VBG updat:JJ resultset:NNS degrad:VBD perform:NN read:NN 
+code:NN chang:VBN typic:JJ read:NN resultset:NNP affect:VBN code:NN requir:VBN richer:JJR resultset:NNS 

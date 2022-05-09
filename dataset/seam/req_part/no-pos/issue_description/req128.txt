@@ -1,0 +1,7 @@
+dot qualifi compon 
+org jboss seam secur ident usernam 
+page 
+ident usernam 
+
+factori variabl kind compon context variabl 
+

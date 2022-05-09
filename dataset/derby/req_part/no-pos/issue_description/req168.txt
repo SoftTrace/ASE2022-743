@@ -1,0 +1,39 @@
+develop system load object user load chunk object time navig 
+system consist java applic access derbi hibern 
+profil discov org apach derbi iapi util string util biggest bottleneck system 
+method sql equal ignor case string string upper case time 
+put uppcas valu hashtabl input string key increat perform 
+test user report system run doubl speed 
+class call string util sql equal ignor case case 
+org apach derbi impl jdbc emb result set 
+class check lot loop 
+candit hash state code 
+revisit cach info 
+diff sourc org apach derbi iapi util string util 
+
+import java util hashtabl 
+
+return upper case local english equal upper case local english 
+
+
+string string uppercas map 
+null 
+
+
+upper case local english 
+uppercas map put 
+
+
+string string uppercas map 
+null 
+
+
+upper case local english 
+uppercas map put 
+
+return equal 
+
+return upper case local english equal upper case local english 
+
+
+privat static hashtabl uppercas map hashtabl 

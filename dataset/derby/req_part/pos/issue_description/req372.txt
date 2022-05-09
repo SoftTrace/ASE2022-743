@@ -1,0 +1,2 @@
+order:NN bundl:VB derbi:NNP popular:JJ linux:NN distribut:NNS debian:JJ ubuntu:NNP build:VB derbi:NNP sourc:NNS exist:VBG linux:NN compon:NNS 
+replac:VBG felix:NNP jar:NN correspond:VBG sourc:NNS move:VBP step:NN bundl:VB derbi:NNP linux:NN distribut:NNS 

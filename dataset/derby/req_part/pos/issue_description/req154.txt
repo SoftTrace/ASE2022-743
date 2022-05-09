@@ -1,0 +1,8 @@
+correl:NN updat:NN delet:NN statement:NN 
+cumbersom:JJ follow:VBG 
+updat:NN 
+set:NN bonus:NN select:VB sum:NN bonus:NNS 
+correl:NN easier:JJR code:VB 
+updat:NN employe:NN 
+set:NN bonus:NN select:VB sum:NN bonus:NNS 
+import:JJ carri:VBN long:JJ schema:NN tabl:NN 

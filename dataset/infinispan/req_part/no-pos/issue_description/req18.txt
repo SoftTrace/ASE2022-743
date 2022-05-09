@@ -1,0 +1,4 @@
+revamp embed infinispan configur 
+umbrella jira configur relat infinispan enhanc 
+hot rod client read main data owner 
+java hot rod client write main owner atm client pick random owner read read load balanc doesn assum data spread amount read distribut uniform cluster otoh forc client read main owner guarante red consist async replic cach read consist problem node crash stronger guarante async replic usabl scenario 

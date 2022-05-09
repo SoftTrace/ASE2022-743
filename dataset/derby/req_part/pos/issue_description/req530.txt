@@ -1,0 +1,3 @@
+function:NNS add:VBN overlap:NN numer:JJ scaler:NN function:VBZ defin:VBN section:NN jdbc:NNP benfiic:JJ expand:VB tabl:NN function:NN jdbc:NNP escap:VBD scaler:NN 
+add:VBG code:NN find:VB call:VB 
+add:VB comment:NN show:VB jdbc:NNP escap:NN function:VBZ add:VB 

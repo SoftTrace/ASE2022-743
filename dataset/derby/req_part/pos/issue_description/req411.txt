@@ -1,0 +1,30 @@
+increas:VBN stream:NNS repres:VB datum:NNS valu:NNS clone:NN facil:NNS improv:VBN 
+pushback:NN proceed:VB produc:VBG patch:NNS reach:VB follow:VBG goal:NNS 
+move:VB function:NN provid:VBN 
+class:NNS implement:VBG implement:VBZ 
+introduc:VB clone:NN method:NNS clonevalu:NN clonest:NN clonehold:NN descript:NN 
+note:VB return:VBP usabl:JJ dvd:NN 
+ear:NNS clone:NN method:NNS suggest:NN mention:VBN clonedeep:NN clonehalfdeep:NN cloneshallow:NN 
+note:NN comment:NN method:NN chang:VBN develop:NN 
+clonevalu:NN deep:JJ method:NN function:NN present:JJ combin:VBN call:NNS dvd:NNP public:NN interfac:NN 
+dvd:NN obtain:VBN clonevalu:NN independ:JJ dvd:NNS state:NN derbi:NNP store:NN 
+datum:NNS valu:NN materi:VBN 
+clonest:NN halfdeep:NN 
+dvd:NN obtain:VBN clonest:NN independ:JJ dvd:NNS depend:VB state:NN derbi:NNP store:NN refer:NNS store:VB stream:NNS 
+datum:NNS valu:NN materi:VBN valu:NN repres:VBN stream:NN derbi:NNP materi:VBG valu:NN stream:NN represent:NN 
+clonehold:NN shallow:JJ 
+dvd:NN obtain:VBN clonehold:NN depend:JJ origin:JJ dvd:NN clone:NNS clonehold:NN 
+dvd:NNS chang:VBZ state:NN affect:VBN 
+depend:JJ state:NN derbi:NNP store:NN refer:NNS store:VB stream:NNS 
+datum:NNS valu:NN materi:VBN clonehold:NN invok:VBN 
+datum:NNS type:NNS clonest:NN clonehold:NN 
+clonest:NN 
+clonevalu:NN requir:VBN sorter:NN 
+clonehold:NN requir:VBN perform:NN reason:NNS avoid:VB oom:NN dvd:NNS pass:VBP temporari:JJ holder:NNS 
+usag:NNS clonest:NN replac:VBN clone:NN call:NN 
+abil:NN clone:VB store:NN stream:NNS add:VBN mike:NNP patch:NN attach:VBN 
+method:NN 
+turn:VBD method:NNS suffici:JJ 
+clonehold:NN shallow:JJ 
+boolean:JJ forcemateri:NN halfdeep:NN deep:JJ 
+clonevalu:NN fals:JJ equal:VBZ clonest:NN clonevalu:NN true:JJ equal:VBZ clonevalu:NN 

@@ -1,0 +1,2 @@
+moment:NN configur:VBP drool:VBZ work:VB rete:NNP engin:NN don:VBP classpath:NN classnotfoundexcept:NN 
+case:NN request:VBN log:VB warn:NN switch:VB phreak:NN 

@@ -1,0 +1,3 @@
+script:NN languag:NNS command:NN line:NN script:NN defin:VBN option:NN access:NN current:JJ line:NN number:NN 
+attach:VBN patch:NN defin:VBZ variabl:JJ count:NN hold:VBZ line:NN number:NN current:JJ file:NN pars:VBN 
+patch:JJ file:NN 

@@ -1,0 +1,1 @@
+effect:JJ rule:NN date:NNS unifi:VBN 

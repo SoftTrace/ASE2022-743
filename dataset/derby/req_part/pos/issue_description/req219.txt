@@ -1,0 +1,4 @@
+disallow:VBG routin:NNS access:VBG derbi:NNP code:NN stop:VBZ potenti:NN remot:JJ code:NN exploit:VBG secur:NN hole:NNS derbi:NNP 
+derbi:NNP code:NN special:JJ case:NN derbi:NNP code:NN classpath:NN 
+disallow:VBG routin:NNS secur:NN analysi:NN easier:JJR safer:JJR guarante:VB public:JJ static:NN method:NN derbi:NNP expos:VB secur:JJ inform:NN 
+routin:NNS exist:VBG applic:NNS upgrad:VBN databas:NNS map:VBP derbi:NNP method:NNS fail:VB execut:VB time:NN 

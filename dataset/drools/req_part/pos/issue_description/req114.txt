@@ -1,0 +1,1 @@
+start:VB node:NNS trigger:VBN rule:NNS activ:VBN event:NN signal:VBN 

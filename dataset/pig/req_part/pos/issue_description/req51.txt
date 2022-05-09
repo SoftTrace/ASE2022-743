@@ -1,0 +1,2 @@
+penni:NN framework:NN instrument:VBG pig:NNP workflow:NNS 
+rewrit:VBZ script:NNS insert:VB monitor:NN point:NNS agent:NNS provid:VBZ communic:NN framework:NN trigger:VBG collect:VBG event:NNS agent:NNS 

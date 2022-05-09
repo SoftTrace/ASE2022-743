@@ -1,0 +1,1 @@
+chang:VB intern:JJ implemet:NN share:VB exist:VBG alter:VB tabl:NN 

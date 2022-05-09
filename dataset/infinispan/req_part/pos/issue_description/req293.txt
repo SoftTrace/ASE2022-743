@@ -1,0 +1,2 @@
+lot:NN stop:NN gap:NN interfac:VBZ keyvalueact:NN replac:VBN newer:JJR java:NNP class:NNS 
+move:VB class:NNS remov:VB redund:JJ code:NN provid:VBP consist:NN 

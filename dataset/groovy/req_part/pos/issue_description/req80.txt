@@ -1,0 +1,4 @@
+mister:NNP jami:NNP crindl:NNP suggest:VBD groovi:JJ socket:NNS server:NN socket:NNS 
+closur:NNP 
+closur:NNP 
+jami:NNP idea:NNS method:NNS 

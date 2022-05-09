@@ -1,0 +1,3 @@
+prevent:VB load:NN memori:NN oom:NNS unnecessari:JJ evict:NN thread:NN churn:VBP 
+requir:VB cacheload:NN interfac:NN method:NN loadal:NN int:NN maxentri:NNS 
+default:NN version:NN method:NN call:VB loadal:NN trim:VB resultset:NN size:NN sophist:JJ impl:NNS load:VB number:NN entri:NNS limit:NN sql:NN queri:NN jdbc:NNP cach:NN store:NNS 

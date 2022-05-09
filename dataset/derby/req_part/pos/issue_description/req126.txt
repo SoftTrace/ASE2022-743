@@ -1,0 +1,2 @@
+rev:NN spec:NN clarifi:VB databas:NNS rais:VB sql:NNP applic:NN call:VBZ method:NNS close:JJ sql:NN object:NNS preparedstat:NNP connect:NN statement:NNP 
+verifi:VB conform:VBP 

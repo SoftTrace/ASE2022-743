@@ -1,0 +1,9 @@
+event:NN logger:NN subsystem:NNS log:VBP relev:JJ event:NNS 
+task:NNP execut:NN request:VBN user:NNS 
+node:NN join:VBP leav:VB 
+split:NNP merg:NNP 
+rebalanc:NN start:NN stop:NN 
+mass:NNP index:NN 
+server:NN start:NN shutdown:NN 
+site:NN 
+cach:NN relat:JJ event:NNS 

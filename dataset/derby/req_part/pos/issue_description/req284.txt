@@ -1,0 +1,4 @@
+vararg:NNS add:VBN java:NNP 
+nice:JJ derbi:NNP invok:VB function:NN bind:VBN method:NN variabl:JJ length:NN argument:NN list:NN 
+refer:NNP guid:NNP state:VBZ small:JJ number:NN restrict:NNS method:NNS invok:VBN derbi:NNP function:VBZ public:JJ static:NN argument:NNS long:JJ datatyp:NNS 
+reason:NN derbi:NNP shouldn:NN resolv:VB invok:VB function:NNS bind:VBN method:NNS don:VBP suffer:VBP limit:NNS variabl:JJ argument:NN list:NNS 

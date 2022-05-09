@@ -1,0 +1,2 @@
+discuss:NN maven:NN compon:NNS maven:NN core:NN src:NN site:NN apt:JJ 
+find:VB good:JJ propag:VB flag:NN artifact:NN resolv:NN provid:VB central:JJ manag:VBG artifact:NN resolut:NN 

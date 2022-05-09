@@ -1,0 +1,13 @@
+open:NNP web:NN applic:NNP secur:NNP project:NNP suggest:NNS attack:NN crack:VB hash:JJ password:NNS 
+builtin:NN authent:NN servic:NN doesn:VBD follow:VB suggest:NNS 
+doesn:VBD add:VB random:JJ salt:NN perform:VBZ hash:NN oper:NN 
+propos:VBP add:VBP properti:NNS configur:VB builtin:NN random:JJ salt:NN run:VB multipl:JJ iter:NNS hash:NN oper:NN 
+length:NN random:JJ salt:NN add:VB byte:NNS 
+number:NN time:NNS perform:VB hash:NN oper:NN 
+suggest:VB set:VBD default:NNS random:JJ salt:NN multipl:JJ iter:NNS default:NN 
+owasp:NNP page:NN mention:VBZ bit:NNS salt:NN byte:NNS minimum:NN iter:NNS 
+consult:VBD secur:NN expert:NN recommend:NNS sound:VBD recommend:VBN salt:NN length:NN revis:VBN suggest:VBN byte:NNS 
+price:NN pay:VBP byte:NNS store:VB byte:NNS extra:JJ user:NN databas:NN don:VBP reason:NN set:VB default:NN high:JJ 
+set:VBG default:NN authent:NN user:NN slower:JJR point:NN experi:NNS machin:NN suggest:VBP run:VBG default:NN hash:NN function:NN sha:NN time:NNS authent:NN happen:VBZ establish:VBG connect:NN databas:NN neglig:JJ cost:NN 
+set:VBN iter:NNS set:VBN hash:VBG exact:JJ previous:JJ version:NNS 
+properti:NNS respect:VBN data:NN dictionari:NN version:NN higher:JJR user:NNS soft:JJ upgrad:VBN databas:NNS log:VB downgrad:NN 

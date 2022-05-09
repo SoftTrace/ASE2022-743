@@ -1,0 +1,8 @@
+part:NN research:NN conclus:NN 
+trim:NN method:NN 
+remov:VBN 
+call:NNS method:NN switch:VBN 
+call:VB 
+requir:VBZ remov:VBG code:NN 
+run:VBG test:NNS verifi:VB 
+break:VBN 

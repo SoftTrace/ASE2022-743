@@ -1,0 +1,6 @@
+failov:NN polici:NN enhanc:NNS behav:VBP releas:NN 
+default:NN random:JJ failov:NN problem:NNS environ:NN pessimist:JJ lock:NNS acquir:VBN 
+default:NN polici:NN 
+user:NN key:JJ set:NN failov:NN polici:NN respect:VB 
+pessimist:JJ lock:NNS valid:JJ optim:NN submit:VB local:JJ datum:NNS owner:NN avoid:VB addit:JJ rpc:NNS 
+random:JJ node:NN failov:NN polici:NN doesn:JJ fit:NN case:NN 

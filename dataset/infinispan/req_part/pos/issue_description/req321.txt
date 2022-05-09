@@ -1,0 +1,10 @@
+configur:VB flush:JJ timeout:NN defin:VBN 
+hardcod:VBN 
+cover:VB problem:NN stacktrac:NNS 
+sender:NN error:NN caught:NN respond:VBG state:NN transfer:NN request:NN 
+time:VBN wait:VBG cluster:NN wide:JJ sync:NN acquir:VBN 
+timeout:NN 
+time:VBN wait:VBG cluster:NN wide:JJ sync:NN acquir:VBN 
+timeout:NN 
+read:VB file:NN 
+read:VB file:NN 

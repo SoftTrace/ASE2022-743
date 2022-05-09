@@ -1,0 +1,1 @@
+add:VB mechan:NN creat:VBG kjar:NNP jar:NN inform:NN creat:VB configur:VBN kbase:NNS ksession:NNS refer:VBZ uniqu:JJ maven:NN plugin:NN 

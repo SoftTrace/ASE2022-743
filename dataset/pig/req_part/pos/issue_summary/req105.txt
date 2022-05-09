@@ -1,0 +1,1 @@
+pig:NN nativ:JJ keyword:NN 

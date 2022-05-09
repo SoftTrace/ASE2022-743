@@ -1,0 +1,4 @@
+rid list class add compon 
+move debug compon debug jar 
+rid special case scanner 
+add foo scanner ignor true 

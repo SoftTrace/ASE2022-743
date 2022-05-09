@@ -1,0 +1,2 @@
+map:NNP generat:VBD 
+java:NN compil:NN error:NNS drl:NN 

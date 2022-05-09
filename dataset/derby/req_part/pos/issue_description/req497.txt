@@ -1,0 +1,15 @@
+background:NN 
+sun:NNP jvm:NNS bundl:VBP crimson:NNP xml:NN parser:NN xerc:NNP 
+ibm:NNP jvm:NNS bundl:VBP xerc:NNP xml:NN parser:NN crimson:NNP 
+sun:NNP jvm:NNPS bundl:NN xerc:NNP crimson:NNP accord:VBG jaxp:NN 
+don:VBP jvm:NNPS xml:NN pars:VBG 
+issu:NN 
+derbi:NNP basic:JJ level:NN support:NN xml:NN datatyp:NN apach:NNP xerc:NNP parser:NN 
+parser:NN hard:JJ code:VBN derbi:NNP derbi:NNP xml:NN includ:VB xerc:NNP classpath:NN 
+basic:JJ xml:NN function:NN derbi:NNP crimson:NNP xerc:NNP parser:NNS 
+nice:JJ improv:VB derbi:NNP support:VB parser:NNS xml:NN work:VB jvm:NNP sun:NNP ibm:NNP assum:VBG jvm:NNP 
+derbi:NNP choos:VB parser:NN base:VBN jvm:NNP user:NN databas:NN properti:NN 
+chang:NN peopl:NNS xml:NN derbi:NNP environ:NNS choos:NN forc:VBG download:VB specif:JJ parser:NN don:VBP 
+sun:NNP jvm:NNP xml:NN derbi:NNP download:VB xerc:NNP ibm:NNP jvm:NNP xml:NN derbi:NNP download:VB crimson:NNP sun:NNP jvm:NNP desir:VBN download:NN xerc:NNP parser:NN sun:NNP jvm:NNP 
+increas:VBG flexibl:NN derbi:NNP xml:NN valuabl:JJ user:NNS 
+haven:NN detail:NN improv:NN worth:JJ file:VBG futur:JJ develop:NN 

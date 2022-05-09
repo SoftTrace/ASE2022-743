@@ -1,0 +1,3 @@
+write:VB udf:NNS script:NN languag:NNS python:NN rubi:NN 
+free:VBZ user:NNS compil:VB java:NNP generat:VBP jar:NN 
+open:VBZ pig:NN programm:NNS prefer:VBP script:NN languag:NNS java:NNP 

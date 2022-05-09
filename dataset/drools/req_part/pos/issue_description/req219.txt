@@ -1,0 +1,1 @@
+declar:VBG bean:NNS declar:NN featur:NN metadata:NN attach:VBN class:NN field:NN correspond:VBZ actual:JJ present:JJ generat:VBN class:NN 

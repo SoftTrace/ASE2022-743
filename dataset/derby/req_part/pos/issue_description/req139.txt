@@ -1,0 +1,8 @@
+stream:VBG datum:NNS derbi:NNP applic:NN stream:NN wrap:VBN derbi:NNP specif:JJ stream:NN convert:VB datum:NNS correct:JJ represent:NN 
+minimum:NN consist:VBZ datum:NNS disk:NN format:NN derbi:NNP 
+wrap:NN stream:NN extend:VBN provid:VB follow:VBG featur:NNS earlier:JJR stage:NN 
+datum:NNS cut:VBN maximum:NN size:NN exceed:VBN 
+truncat:NN trail:VBG blank:NNS 
+featur:NNS reduc:VB amount:NN datum:NNS memori:NN insert:NN 
+implement:VBG requir:VB addit:JJ column:NN data:NN type:NN inform:NN stream:NN class:NN 
+implement:NN handl:VB stream:NNS length:NN stream:VBZ unknown:JJ unspecifi:JJ length:NN 

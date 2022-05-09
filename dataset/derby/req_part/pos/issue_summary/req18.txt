@@ -1,0 +1,1 @@
+expos:VB exist:VBG auto:NN generat:VBN key:JJ function:NN jdbc:NNP api:NNS emb:VBN mode:NN 

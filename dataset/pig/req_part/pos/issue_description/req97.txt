@@ -1,0 +1,2 @@
+user:NN avrostorag:NN jsonstorag:NN orcstorag:NN regist:VB depend:JJ jar:NNS 
+conveni:JJ provid:VB mechan:NN udf:NN loadfunc:NN storefunc:NN claim:VB depend:NN ship:NN jar:NNS 

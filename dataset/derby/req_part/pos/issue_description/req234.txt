@@ -1,0 +1,10 @@
+linux:NNP 
+solari:NNP 
+signatur:NN 
+ejbql:NN output:NN line:NN expect:VBN 
+protect:VB 
+signatur:NN 
+signatur:NN 
+floattyp:NNS output:NN line:NN expect:VBN 
+protect:VB 
+signatur:NN 

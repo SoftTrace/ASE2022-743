@@ -1,0 +1,10 @@
+network:NN server:NN support:NN follow:VBG secur:NN mechan:NNS 
+usridonl:NN userid:NN 
+usridpwd:NN clear:JJ text:NN userid:NN password:NN 
+eusridpwd:NN encrypt:VBN userid:NN password:NN 
+encrypt:VBN userid:NN password:NN secur:NN mechan:NN secur:JJ respect:NN userid:NN password:NN send:VBN wire:NN 
+setup:NN network:NN server:NN ensur:VB accept:VBZ connect:NNS secur:NN mechan:NN 
+reason:JJ server:NN accept:VB connect:NNS client:NNS secur:NN mechan:NN encrypt:VBN userid:NN password:NN reject:VB usridpwd:NN clear:JJ text:NN userid:NN password:NN 
+jira:NN add:VB support:NN add:VBG properti:NN enabl:VB server:NN accept:VB connect:NNS client:NNS secur:NN mechan:NN 
+couldnt:VBP find:VB rank:NN give:VBN secur:NN mechan:NNS drda:NN spec:NN 
+properti:NN set:VBG minimum:JJ secur:NN mechan:NN accept:VBN server:NN 

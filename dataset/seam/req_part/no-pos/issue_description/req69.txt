@@ -1,0 +1,3 @@
+support groovi entiti groovi action war 
+support dynam groovi file dev mode action 
+support groovi file compil entiti action prod mode 

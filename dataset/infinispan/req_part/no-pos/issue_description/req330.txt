@@ -1,0 +1,36 @@
+unschedul 
+tim fox 
+imagin set valu cach time respons valu set cach replic node redund guarante high avail 
+block thread call set replic perform synchron node return involv network trip set 
+nice acknowledg replic asynchron stream 
+set cach acknowledg replic set cach 
+block approach 
+
+
+
+
+
+
+wait ack set call set involv network rtt set 
+block pipelin approach call set quick success wait respons time ack 
+chronolog 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+block throughput network limit latenc 
+kind messag replic send load messag individu network rtt messag slow replic guarante messag reach backup acknolwedg send 
+manik 
+return futur api api behav cach mode cluster config 

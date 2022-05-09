@@ -1,0 +1,14 @@
+creat seam project jboss tool 
+creat seam form seam date form 
+open file seam date form java chang valu integ java util date 
+click seam date form xhtml click run run server 
+write form random string dfasdf 
+error convers error set valu dfasdf null convert 
+creat date convert includ attach test case project btw inherit javax face convert date time convert 
+stop applic load correct 
+
+click seam date form xhtml click run run server 
+write form random string dfasdf 
+error valu date 
+fail write random string write correct date error convers error set valu null convert write convert inherit javax face convert date time convert work fine 
+seam javax face convert date time convert default shouldn creat convert 

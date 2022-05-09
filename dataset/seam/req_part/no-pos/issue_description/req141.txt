@@ -1,0 +1,20 @@
+boss ident server deleg secur authent jaa config attribut secur ident xml element boss seam compon xml file deploy bea web logic server authent fail default web logic jaa modul web logic server jaa configur file content 
+myrealm 
+
+weblog secur auth login ernam password login modul requir auth login true debug fals 
+
+problem web logic server pass jaa callback weblog secur auth callback url callback seam throw unsupport callback class 
+function work 
+creat custom jaa modul web logic server 
+extend org jboss seam secur ident org jboss seam secur rule base ident class overrid 
+protect callback handler default callback handler 
+method includ branch default throw unsupport callback 
+
+callback class equal 
+weblog secur auth callback url callback 
+
+deliber 
+
+includ code boss seam ident class debug work creat class extend order workabl 
+opinion perform easier point view seam web logic jaa server authent code boss seam point view 
+note propos code doesn depend bea web logic specif class 

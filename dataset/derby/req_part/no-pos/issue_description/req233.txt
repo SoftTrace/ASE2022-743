@@ -1,0 +1,7 @@
+method introduc java sql clob java sql blob interfac part jdbc implement 
+clob 
+
+charact stream long pos long length 
+blob 
+
+binari stream long pos long length 

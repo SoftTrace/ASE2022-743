@@ -1,0 +1,2 @@
+persist:JJ user:NN defin:VBN charact:NN column:NNS add:VBN creat:NNP tabl:NN alter:VB tabl:NN statement:NNS statement:NNS set:VB collat:NN type:NN charact:NN column:NNS valu:NN collat:NN type:NN schema:NN belong:VBP 
+collat:NN type:NN save:VBN syscolumn:NN save:VBN metadata:NN maintain:VBN store:NNP 

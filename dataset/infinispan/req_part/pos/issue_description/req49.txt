@@ -1,0 +1,7 @@
+infinispan:NNP offici:JJ cli:NN tool:NN follow:VBG featur:NNS 
+simpl:JJ crud:NN oper:NNS put:VB delet:VB 
+queri:NNS cach:NN index:VBN 
+administr:JJ task:NNS invok:VBG jmx:NN command:NNS 
+option:JJ cool:JJ 
+run:VB map:NN reduc:VB script:NNS 
+import:NN export:NN xml:NN csv:NN 

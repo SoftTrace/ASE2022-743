@@ -1,0 +1,6 @@
+issu 
+boot issu chanc wrong boot password boot proceed decod key wrong boot fail 
+password chang issu similar chanc wrong boot password accept chang 
+sysc util sysc set databas properti boot password algorithm check initi vector addit 
+digest des ecb pad 
+case lead data corrupt discuss risk execut permiss chang properti sql author scenario suppli exist password correct result bad good reduc elimin risk 

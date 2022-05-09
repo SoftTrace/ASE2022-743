@@ -1,0 +1,1 @@
+defin action paramet view view xml file import seam gen 

@@ -1,0 +1,1 @@
+control:NNP abstract:JJ superclass:NN 

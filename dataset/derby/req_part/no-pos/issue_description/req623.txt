@@ -1,0 +1,3 @@
+entri sysstatist tabl order cardin statist sysstatist creat sysc util sysc compress tabl 
+sysc util sysc compress tabl creat statist don exist creat index creat empti tabl drop recreat index tabl load 
+document updat chang 

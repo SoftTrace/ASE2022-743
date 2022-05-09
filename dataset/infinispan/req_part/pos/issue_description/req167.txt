@@ -1,0 +1,5 @@
+optim:NN xsite:NN synchron:JJ replic:NN 
+synchron:JJ replic:NN perform:VBN origin:VBG site:NN transact:JJ context:NN remot:JJ lock:NNS acquir:VBN prepar:VB time:NN guarante:VB consist:NN datum:NNS 
+default:NN 
+featur:NN requir:VB configur:NN option:NN 
+backup:NN true:JJ tradit:JJ enabl:VBN 

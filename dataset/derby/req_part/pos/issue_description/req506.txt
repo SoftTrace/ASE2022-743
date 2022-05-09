@@ -1,0 +1,14 @@
+connect:VB lowercas:NN author:NN doubl:VB quot:VB 
+connect:VB jdbc:NN derbi:NN user:NN dbo:NN password:NN 
+don:VBP doubl:JJ quot:NNS creat:VBG nativ:JJ credenti:NNS user:NN 
+call:NN 
+dbo:NN 
+attach:VB proof:NN concept:NN patch:NN nativ:JJ procedur:NNS normal:VB usernam:NN argument:NNS key:NN 
+preserv:VBZ follow:VBG featur:NN current:JJ implement:NN 
+set:NN nativ:JJ credenti:NNS store:VBN give:VBN author:NN 
+note:VB differ:VBZ behavior:NN authent:NN scheme:NNS 
+authent:NN scheme:NNS store:VB set:NN credenti:NNS upper:JJ case:NN permut:NN author:NN 
+big:JJ secur:NN hole:NN authent:NN scheme:NNS 
+addit:NN proof:NN concept:NN patch:NN behavior:NN 
+connect:VB usernam:JJ string:NN call:VBG 
+case:NN behavior:NN write:VB test:NNS check:VB 

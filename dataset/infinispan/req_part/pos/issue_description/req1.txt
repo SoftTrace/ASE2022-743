@@ -1,0 +1,3 @@
+current:JJ lucen:NN base:VBN search:NN implement:NN requir:VBZ index:NNS field:NNS refer:VBN queri:NNS 
+queri:VB field:NNS 
+potenti:JJ implement:NN idea:NN 

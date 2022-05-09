@@ -1,0 +1,3 @@
+hadoop:JJ output:NN committ:NN support:VB recoveri:NN handl:VB 
+applic:NN master:NN restart:VBN fail:VBG attempt:NNS 
+pig:NN outputformat:NN committ:NN support:VB recoveri:NN 

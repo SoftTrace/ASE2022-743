@@ -1,0 +1,9 @@
+effort:NN adapt:VB pig:NNP work:VB apach:NNP tez:NNP chang:NNS cleaner:JJR abstract:NN exist:VBD 
+chang:NNS major:JJ pig:NNP abstract:VBN frontend:NN backend:NN 
+chang:NNS attach:VBN commit:VBP barebon:JJ chang:NNS chang:VB structur:NN pig:NNP compon:NNS 
+interest:JJ futur:NN refactor:VB area:NNS pig:NNP honor:VB abstract:NN frontend:NN backend:NN 
+chang:NNS reinstat:VB executionengin:NN interfac:NN tie:VB front:JJ backend:NN chang:NNS pig:NNP deleg:NN creat:VBG mrexecutionengin:NN implement:VBZ interfac:NN 
+work:NN includ:VBD chang:VBG cycl:NN classpath:NN select:VB java:NNP choos:VBG framework:NN local:JJ distribut:VBN mode:NN 
+abstract:JJ current:JJ state:NN 
+futur:NN work:NN usag:NN respons:NNS statist:NNS class:NNS 
+haven:NN touch:VBD ppnl:NN abstract:NN separ:JJ patch:NN 

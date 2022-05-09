@@ -1,0 +1,5 @@
+integr:NN extern:JJ distribut:VBN queri:NN engin:NNS requir:VBZ capac:NN 
+partit:NN datum:NNS 
+iter:VB partit:NNS 
+distribut:VBN iter:NNS cover:VBZ expos:VBN hotrod:NN 
+wiki:NNP page:NN 

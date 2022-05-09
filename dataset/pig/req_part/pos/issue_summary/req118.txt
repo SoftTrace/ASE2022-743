@@ -1,0 +1,1 @@
+perform:NN implement:VB map:NN side:NN group:NN oper:NN speed:VB process:NN order:VBN datum:NNS 

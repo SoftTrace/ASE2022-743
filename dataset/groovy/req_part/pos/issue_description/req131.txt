@@ -1,0 +1,2 @@
+result:VBD size:NN implement:VBN 
+size:NN implement:VBN stringbuild:NN platform:NNS 

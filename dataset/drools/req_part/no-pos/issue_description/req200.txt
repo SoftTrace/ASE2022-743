@@ -1,0 +1,10 @@
+relat oper string field fact bbb 
+org drool base evalu compar evalu definit evalu entri valu type object type valu type string type result descr build error 
+
+evalu support type valu type string rule rule 
+unabl creat restrict liter restrict bbb field rule rule rule rule 
+
+doc 
+oper 
+relat operatori type valu order 
+desir relat oper string field string compar 

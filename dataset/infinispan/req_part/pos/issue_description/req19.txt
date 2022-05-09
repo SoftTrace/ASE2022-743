@@ -1,0 +1,3 @@
+task:NNP manag:NNP 
+run:VBG job:NNS metadata:NN type:NN start:VB subject:JJ cach:NNS involv:VBN status:NN 
+run:VBG job:NNS cancel:VBG 

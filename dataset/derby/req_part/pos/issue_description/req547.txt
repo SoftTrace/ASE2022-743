@@ -1,0 +1,6 @@
+subclass:NNS public:JJ 
+packag:NN live:VBP packag:NN access:NN suffici:JJ method:NNS 
+reduc:VBG visibl:NN class:NNS method:NNS silenc:NNS warn:NNS ide:NN 
+warn:NNS public:JJ method:NNS paramet:NNS type:NNS 
+note:NN class:NNS implement:VB format:NNP requir:VBZ class:NNS public:JJ public:JJ arg:NN constructor:NNS 
+reduc:VB visibl:NN abstract:JJ class:NNS hierarchi:NN special:JJ constructor:NNS argument:NNS serial:NN logic:NN 

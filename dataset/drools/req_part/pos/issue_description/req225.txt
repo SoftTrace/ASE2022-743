@@ -1,0 +1,13 @@
+rule:NN serviceconflict:NN 
+servic:NN servic:NN machin:NN machin:NN 
+servic:NN servic:NN machin:NN machin:NN 
+insertlog:JJ accumul:VBP 
+undo:VB 
+complex:JJ weight:NN isn:NN static:NN 
+rule:NN servicelocationspread:NN 
+servic:NN servic:NNP locationspread:NN 
+number:NN intvalu:NN accumul:VBP 
+locat:NN locat:NNP 
+exist:VBZ servic:NN servic:NN locat:NN locat:NN 
+count:NN locat:NN 
+undo:VB 

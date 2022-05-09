@@ -1,0 +1,50 @@
+encrypt:VBN databas:NN password:NN 
+idea:NNS initi:JJ implement:NN 
+easiest:JJS exclus:JJ access:NN 
+datum:NNS log:NN requir:VBN copi:NN 
+avoid:VB 
+log:NN encrypt:VBN 
+high:JJ level:NN plan:NN 
+forc:NN exclus:JJ access:NN put:VBG work:NN level:NN store:NN 
+boot:NN method:NN 
+redo:VB recoveri:NN usual:JJ 
+entri:NN point:NN copi:NN encrypt:NN oper:NN 
+copi:NN encrypt:NN process:NN 
+request:NN encrypt:NN handl:VBN set:NN 
+url:NN flag:NNS pass:VBD store:NN boot:NN time:NN 
+flag:NNS provid:VB 
+input:NNS current:JJ encrypt:NN flag:NNS 
+high:JJ level:NN 
+request:NN connect:VB 
+todo:NN provid:VB exact:JJ flag:NN syntax:NN 
+open:VB transact:NN log:VBN work:NN encrypt:NN 
+log:VBG 
+exist:VBG encrypt:NN 
+copi:VB encrypt:VB file:NN databas:NN 
+target:NN file:NNS 
+datum:NNS directori:NN 
+suffix:NN track:VB 
+file:NNS similar:JJ current:JJ process:NN handl:VBG drop:NN tabl:NN 
+transact:NN consist:JJ manner:NN log:VBG entir:JJ tabl:NN log:NN 
+entir:JJ encrypt:VBN destin:NN file:NN guarante:VBN sync:VBN disk:NN 
+transact:NN commit:VBZ 
+don:VBP part:NN log:VBN 
+file:NNS read:VBN cach:NN exist:JJ mechan:NN write:VBN 
+encrypt:VBN file:NNS encrypt:VBN datum:NNS 
+cach:NN 
+switch:VB encrypt:VBN file:NNS file:NNS 
+log:NN oper:NN 
+process:NN roll:VBN encrypt:NN oper:NN 
+transact:NN fail:VBZ 
+rollback:NN file:NN time:NN switch:NNS read:NN 
+encrypt:VBN datum:NNS 
+log:VB chang:NN encrypt:NN log:NN record:NN updat:NN 
+chang:NN 
+commit:VB transact:NN 
+updat:NN sync:NN chang:NNS 
+todo:NN someway:NN handl:VB crash:NN step:NNS 
+checkpoint:NN datum:NNS point:NN guarante:VBD outstand:JJ 
+transact:NN checkpoint:NN log:NN 
+issu:NNS 
+catch:VBZ request:NN encrypt:VB 
+encrypt:VBN 

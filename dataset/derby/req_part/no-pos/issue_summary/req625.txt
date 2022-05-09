@@ -1,0 +1,1 @@
+materi subqueri select list avoid creat invari resultset time 

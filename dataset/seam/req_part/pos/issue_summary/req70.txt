@@ -1,0 +1,1 @@
+rmi:NNP jms:NNP invoc:NNS place:NN seam:NNP context:NN 

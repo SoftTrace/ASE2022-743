@@ -1,0 +1,18 @@
+derbi:NNP disk:NN bind:VBN thread:NNS starv:VBN 
+real:JJ problem:NN multipl:JJ client:NNS 
+access:VBG small:JJ number:NN larg:JJ tabl:NNS 
+case:NNS observ:VBN high:JJ maximum:JJ respons:NN time:NNS 
+minut:NNS worst:JJS case:NNS simpl:JJ transact:NNS 
+averag:JJ respons:NN time:NN affect:VBN 
+starvat:NN synchron:VBN block:NN 
+synchron:VBN 
+pageoffset:NN 
+pagedata:NN pages:NN 
+thread:NNS read:VB page:NNS file:NN 
+queue:NN thread:NNS wait:VBG monitor:NN 
+java:NNP 
+specif:NN guarante:VB thread:NNS wait:VBG monitor:NNS 
+treat:VBN thread:NNS wait:VB long:JJ time:NN 
+monitor:NN 
+coupl:NN thread:NNS full:JJ throughput:NN 
+wait:VB 

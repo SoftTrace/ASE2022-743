@@ -1,0 +1,17 @@
+derbi:NNP handl:NN union:NN subqueri:NNS list:NN improv:VBN materi:VBG invari:JJ resultset:NNS creat:VBG time:NNS 
+creat:VB view:NN select:JJ union:NN select:VB 
+creat:VB view:NN select:VB union:NN select:VB 
+insert:VB valu:NNS 
+queri:NN select:JJ resultset:NN creat:VBN time:NNS 
+assum:VBG choosen:VBN tabl:NN cost:JJ underli:VBG select:VBZ long:JJ time:NN perform:VB union:NN time:NNS 
+enhanc:VB materi:NN logic:NN 
+return:VBZ fals:JJ 
+public:JJ boolean:JJ performmateri:NN 
+throw:VBZ standard:NNP 
+resolv:NN materi:NN cost:NN base:VBN decis:NN 
+return:NN fals:NN 
+actual:JJ materi:NN place:VBN parent:NN prn:NNP 
+prn:NNP join:VB condit:NN appli:VB 
+materi:NN 
+occur:VB 
+return:NN true:JJ 

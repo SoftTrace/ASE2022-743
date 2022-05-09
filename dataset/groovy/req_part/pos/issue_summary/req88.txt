@@ -1,0 +1,1 @@
+dgm:NNP method:NNS map:NN min:NN max:NN method:NNS 

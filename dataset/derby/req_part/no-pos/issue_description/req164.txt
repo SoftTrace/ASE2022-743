@@ -1,0 +1,8 @@
+add function 
+sign posit negat argument 
+sqrt squar root 
+rand random number 
+random 
+cosh hyperbol cosin 
+sinh hyperbol sine 
+tanh hyperbol tangent 

@@ -1,0 +1,2 @@
+xaresourc:JJ enlist:NN effici:JJ synchron:NN base:VBN enlist:NN 
+build:VBN top:NN doesn:VBD support:NN recoveri:NN point:NN xaresourc:NN enlist:NN synchron:NN base:VBN enlist:NN 

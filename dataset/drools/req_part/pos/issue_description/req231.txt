@@ -1,0 +1,3 @@
+jdt:NNP compil:NNS work:VBP throw:VBP lot:NN sourc:NN dribbl:NN 
+refactor:VB build:VB set:NN class:NNS compil:VB pass:VB jci:NNP minut:NN trick:NN map:VB error:NNS 
+yield:VBZ speed:NN case:NNS 

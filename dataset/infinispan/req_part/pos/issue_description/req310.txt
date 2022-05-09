@@ -1,0 +1,5 @@
+brian:NNP 
+read:VBZ properti:NNS deleg:NN system:NN properti:NN substitut:NN 
+file:NN 
+substitut:NN logic:NN simpler:JJR 
+tweak:VBP config:NN datagrid:NN conf:NN bindingservic:NN bean:NNS set:VB 

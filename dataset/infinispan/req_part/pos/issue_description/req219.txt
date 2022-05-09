@@ -1,0 +1,9 @@
+add:VB method:NNS 
+return:VB current:JJ configur:NN valu:NNS flat:JJ key:JJ valu:NN structur:NN properti:NN key:NNS reflect:VB configur:NN field:NNS structur:NN reflect:VBN extend:VBG key:JJ prefix:NN divid:VBG dot:NN 
+intrus:JJ mainten:NN demand:VBG implement:NN reflect:NN 
+flat:JJ configur:NN expos:VBN jmx:NN object:NNS 
+type:NN cach:NN testcach:NN manag:NN default:NN compon:NN cach:NN 
+attribut:NN configurationproperti:NNS 
+type:NN cachemanag:NN default:NN compon:NN cachemanag:NN 
+attribut:NN globalconfigurationproperti:NNS 
+diagnost:JJ output:NN featur:NN doesn:JJ affect:VB infinispan:NNP configur:VBN 

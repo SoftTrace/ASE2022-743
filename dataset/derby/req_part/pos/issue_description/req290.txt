@@ -1,0 +1,31 @@
+work:VBG role:NNS notic:VBP max:NN size:NN 
+user:NN derbi:NN author:NN identifi:NNS check:NN 
+perform:VBN parser:NN 
+privat:JJ void:JJ checkauthorizationlength:NN string:NN author:NN 
+author:NN 
+check:VBN don:VBP 
+fundament:JJ reason:NNS derbi:NNP lift:VB 
+restrict:NN author:NN identifi:NNS max:NN 
+limit:NN identifi:NNS 
+limit:NN enforc:VBN grant:NN revok:NN 
+grante:NNS 
+creat:NNP schema:NN statement:NN claus:NN 
+author:NN author:NN identifi:NN 
+schema:NN owner:NN subject:JJ 
+restrict:NN 
+reflect:VBN refer:NN document:NN 
+system:NN tabl:NNS 
+column:NN type:NN length:NN nullabl:NN content:NNS 
+authorizationid:NNP varchar:NNP fals:JJ author:NN 
+identifi:NN 
+owner:NN schema:NN 
+column:NN type:NN length:NN nullabl:NN content:NNS 
+grante:NNP varchar:NNP fals:JJ author:NN 
+user:NN 
+privileg:NN 
+grant:VBN 
+limit:NN enforc:VBN author:NN code:NN 
+reflect:VBN 
+metadata:NN 
+good:JJ harmon:VB limit:NNS 
+author:NN identifi:NN chang:VB limit:NN 

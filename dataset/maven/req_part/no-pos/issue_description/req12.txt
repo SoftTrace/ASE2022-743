@@ -1,0 +1,26 @@
+add commandlin option enabl maven expand reactor scope find project depend 
+project reactor add 
+current project child project includ reactor search propos 
+add commandlin switch maven check parent directori find root project tree 
+normal reactor scan ad project ad 
+depend project built 
+sampl project tree 
+root 
+
+depend 
+depend 
+
+
+sampl algorithm 
+build reactor 
+maven check root parent tag version 
+project current reactor 
+creat list project reactor project newli discov root root 
+remov project reactor reactor reactor root 
+resolv direct depend project reactor reactor add reactor version account reactor 
+repeat previous step project depend resolv reactor iter yield reactor 
+iter stop doesn depend present reactor 
+ensur local project sourc chang incorpor 
+build build don reactor build time chang 
+project don rememb project chang build correct order 
+manual 

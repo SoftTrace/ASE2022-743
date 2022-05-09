@@ -1,0 +1,22 @@
+incomplet:JJ log:NN record:NN write:NN occur:VBZ 
+order:NN partial:JJ write:VBZ recogn:VBN complet:JJ 
+recoveri:NN sector:NN sector:NN happen:VBZ write:VBN 
+current:JJ system:NN recogn:VBZ written:JJ log:NN record:NNS check:VBG 
+length:NN record:NN store:VBN 
+format:VB log:NN record:NNS write:VBN disk:NN 
+length:NN 
+log:NN record:NN 
+length:NN 
+mechan:NN work:VBZ fine:JJ sector:NNS write:VBN sequenti:JJ manner:NN 
+log:NN record:NN size:NN sector:NNS 
+scsi:NNP type:NNS disk:NNS 
+order:NN sequenti:JJ scsi:NNP disk:NN drive:NNS 
+reorder:NN sector:NNS optim:VB perform:NN 
+log:NN record:NN 
+span:NNS multipl:JJ disk:NN sector:NNS write:VBN scisi:NN type:NN 
+devic:NNS sector:NN write:VBN 
+crash:NN occur:VBZ recoveri:NN system:NN interpret:VB 
+log:NN record:NNS write:VBN replay:NN record:NN 
+lead:VB recoveri:NN error:NNS datum:NNS corrupt:NN 
+problem:NN occur:VB disk:NN drive:NN write:NN cach:NN 
+batteri:NN backup:NN request:NN complet:VB 

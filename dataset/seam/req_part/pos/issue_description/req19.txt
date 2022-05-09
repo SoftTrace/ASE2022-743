@@ -1,0 +1,13 @@
+follow:VBG seam:NNP user:NNS optim:VB applic:NN http:NN communic:NN 
+method:NN call:VBN selectoutputstream:NN abstractresourc:NN gzip:NNP content:NN support:VBN browser:NN actual:JJ abstractresourc:NN implement:NN 
+job:NN tomcat:NNP unknown:JJ reason:NNS compress:VB resourc:NN represent:NN 
+provid:VBZ cach:NN control:NN header:NNS configur:JJ 
+web:NN cach:NN control:NN filter:NN resourcescachecontrolfilt:NN regex:NN url:NN pattern:NN 
+gif:NN 
+png:NN 
+jpeg:NN 
+css:VB 
+valu:NN max:NN age:NN 
+day:NN 
+altern:NN call:VBD provid:VBZ sendcondit:JJ method:NN entiti:NN tag:NNS modifi:VBN timestamp:NNS return:VB modifi:VBN actual:JJ resourc:NN represent:NN 
+browser:NNS item:NN local:JJ cach:NN expir:VBZ seam:NNP user:NNS subclass:VB defin:VB entiti:NN tag:NN modifi:VBN valid:NN condit:NNS 

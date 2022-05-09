@@ -1,0 +1,8 @@
+jsonload:NN jsonstorag:NN implement:NN pig:NNP 
+base:VBN alan:NNP implement:NN book:NN 
+minor:JJ chang:NNS 
+drop:NNP jackson:NN featur:NN requir:VBZ 
+hadoop:NNP bundl:NNS jackson:NN newer:JJR featur:NN fail:VBZ run:VBG hadoop:NNP 
+format:NN schema:NN 
+borrow:VBZ dmitri:NNP schema:NN implememt:NN 
+bug:NN fix:NNS 

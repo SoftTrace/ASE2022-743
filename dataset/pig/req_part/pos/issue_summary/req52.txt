@@ -1,0 +1,1 @@
+pig:NNP support:VB effici:JJ merg:NN join:VBP datum:NNS sourc:NNS support:VBP point:NN lookup:NNS join:VB larg:JJ spars:JJ tabl:NNS 

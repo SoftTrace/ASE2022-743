@@ -1,0 +1,1 @@
+prolog:NNP style:NNP queri:NNP base:NNP chain:NNP 

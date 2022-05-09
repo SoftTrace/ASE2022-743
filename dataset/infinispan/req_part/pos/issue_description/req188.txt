@@ -1,0 +1,5 @@
+modifi:VB 
+address:NN getphysicaladdress:NN 
+return:VB list:NN physic:JJ address:NNS 
+case:NN futur:NN 
+list:NN address:NN getphysicaladdress:NNS 

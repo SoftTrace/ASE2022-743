@@ -1,0 +1,6 @@
+api:NN network:NN server:NN engin:NN defin:VBN lead:VBG inconsist:JJ multipl:JJ handl:VBG object:NNS return:VBN reflect:NN explicit:JJ cast:NN 
+turn:NN lead:VBN bug:NNS 
+access:NN underli:VBG object:NNS applic:NN hide:VBN 
+defin:VB interfac:VBZ implement:VB 
+network:NN server:NN reli:VB fact:NN connect:NN obtain:VBZ implement:VB call:VB requir:VBN method:NNS interfac:NN 
+interfac:VBZ intern:JJ derbi:NN expos:VBN applic:NNS 

@@ -1,0 +1,4 @@
+case state transfer distribut state transfer code reus replic cach 
+main reason improv simplifi reduc code addit benefit 
+atm replic mode group coordin play role main lock owner coordin overwhelm process addit complet notif command transact direct consequ main lock owner otoh distribut mode lock owner spread cluster member 
+optimis repl mode multicast udp messag send 

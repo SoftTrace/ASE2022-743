@@ -1,0 +1,1 @@
+support:NN sortabl:JJ annot:NN transform:VB 

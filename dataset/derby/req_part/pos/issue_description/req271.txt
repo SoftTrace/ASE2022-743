@@ -1,0 +1,16 @@
+plan:VBP follow:VBG chang:NNS 
+improv:VB error:NN report:NN hit:VBG decod:NN error:NN utfdataformatexcept:NN messag:NN 
+lead:VB delet:VBG helper:NN method:NN generat:VBG messag:NN 
+improv:VB error:NN report:VBG reader:NN close:VBN ioexcept:NN messag:NN 
+remov:VB trail:VBG space:NNS add:VB newlin:NNS 
+replac:VB tab:NNS file:NN space:NNS 
+point:NN discuss:VBN argument:NNS 
+file:NN mix:NN tab:NNS space:NNS tab:NNS 
+space:NNS prefer:JJ requir:JJ method:NN indent:NN 
+fix:VBN branch:NN cut:VBN easier:JJR port:NN fix:NNS trunk:NN 
+don:VBP win:VBD 
+don:VBP port:JJ major:JJ fix:NNS class:NN branch:NN 
+volunt:VB 
+clob:NNP infrastructur:NN chang:VBN good:JJ time:NN clean:JJ 
+rais:VB concern:NN veto:VB chang:NNS 
+plan:VB commit:VB tomorrow:NN 

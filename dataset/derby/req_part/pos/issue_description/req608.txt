@@ -1,0 +1,43 @@
+derbi:NNP space:NN reclam:NN initi:VBN row:NNS 
+main:NNP page:NN delt:VBN 
+blob:NN clob:NN larger:JJR page:NN involv:JJ 
+row:NN main:JJ page:NN pointer:NN page:NN chain:NN 
+main:JJ page:NN row:NNS small:JJ lot:NN row:NNS 
+delet:VBN clean:VBP reus:VB space:NN associ:VBN blob:NN clob:NN 
+extrem:JJ case:NN tabl:NN int:NN key:NN blob:NN column:NN 
+byte:NNS 
+page:NN derbi:NN store:VBZ row:NNS 
+app:NN 
+insert:NN delet:JJ singl:JJ row:NN grow:VB byte:NNS 
+app:NN user:NN order:NN big:JJ 
+reason:JJ queue:NN post:NN commit:VB delet:JJ 
+includ:VBZ blob:NN clob:NN chain:VBN 
+current:JJ polici:NN queue:NN work:NN reclaim:VB 
+entir:JJ page:NN 
+problem:NN extra:JJ cost:NN delet:JJ time:NN 
+determin:VB row:NN delet:VBN blob:NN clob:NN page:NN chain:NN 
+actual:JJ inform:NN store:VBN field:NN header:NN 
+column:NN check:VB check:VB 
+field:NN header:NN column:NN delet:VBN row:NN 
+store:NN 
+point:NN view:NN column:NN long:JJ page:NN chain:NN 
+doesn:VBD blob:NN clob:NN datatyp:NNS behavior:NN 
+option:NNS includ:VBP 
+tabl:NN creat:VBP time:NN input:NN languag:NN 
+check:NN 
+maintain:VB bit:NN header:NN sort:NN indic:NN long:JJ 
+row:NN exist:VBZ refer:NN count:NN 
+note:VB inform:NN 
+insert:NN time:NN 
+maintain:VBP bit:NN page:NN long:JJ row:NNS exist:VBP 
+maintain:VB bit:NN record:NN header:NN long:JJ column:NNS exist:VBP note:VBP exist:VBG bit:NN 
+record:NN overflow:VBN singl:JJ column:NN overflow:VBN 
+option:NNS perform:VB slow:JJ check:NN delet:JJ time:NN 
+don:VBP option:NN chang:VBP storag:NN interfac:NN check:VB guarante:VB behavior:NN 
+lean:VBP option:NN row:NN format:NN chang:NN 
+give:VBN system:NN room:NN save:VBN 
+bit:NN sort:NN upgrad:NN time:NN work:NN set:VBN 
+hard:JJ upgrad:NN code:NN expect:VB set:VBN 
+soft:JJ upgrad:NNS win:VBD 
+benefit:NN exist:VBG datum:NNS win:VBD benefit:NN 
+idea:NNS 

@@ -1,0 +1,1 @@
+support:NN workingmemori:NN clear:NN fire:VBG event:NNS 

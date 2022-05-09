@@ -1,0 +1,1 @@
+persist user defin charact column ad creat tabl alter tabl statement statement set collat type charact column valu collat type schema belong collat type save syscolumn save metadata maintain store 

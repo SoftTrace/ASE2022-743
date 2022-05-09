@@ -1,0 +1,1 @@
+log:NN oper:NN system:NN inform:NN boot:NN 

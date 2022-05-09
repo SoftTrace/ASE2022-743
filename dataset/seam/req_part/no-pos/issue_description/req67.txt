@@ -1,0 +1,4 @@
+support compil groovi entiti 
+support compil groovi action 
+support deploy groovi action web inf dev debug mode 
+support hot redeploy groovi action debug mode hot filter 

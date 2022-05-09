@@ -1,0 +1,9 @@
+indic:NNS sever:JJ monitor:NN content:NN 
+current:JJ lock:NN manag:NN multipl:JJ thread:NNS access:VBP derbi:NNP 
+databas:NN 
+thread:NN lock:VB object:NN 
+obtain:VB monitor:NN 
+global:JJ synchron:NN point:NNS 
+lead:VBZ poor:JJ scalabl:NN 
+investig:VB concurr:NN lock:NN 
+manag:NN extend:VBP implement:VB manag:NN 

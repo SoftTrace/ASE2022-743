@@ -1,0 +1,6 @@
+amaz 
+collect size 
+datamodel size 
+datamodel empti 
+
+solv resolv 

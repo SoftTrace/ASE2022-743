@@ -1,0 +1,55 @@
+turn:VB transient:JJ retriev:NN stuff:NN ant:NN task:NNS 
+common:NNS log:VBG runtim:NN pull:VBZ 
+artifact:NN depend:NNS download:NN common:NNS log:VBG common:NNS log:VBG common:NNS log:VBG 
+pom:NNP 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN common:NNS log:VBG common:NNS log:VBG common:NNS log:VBG 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN avalon:NN framework:NN avalon:NN framework:NN avalon:NN framework:NN 
+pom:NNP 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN avalon:NN framework:NN avalon:NN framework:NN avalon:NN framework:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN junit:NN junit:NN junit:NN 
+pom:NNP 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN junit:NN junit:NN junit:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+pom:NNP 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN logkit:NN logkit:NN logkit:NN 
+pom:NNP 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN logkit:NN logkit:NN logkit:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN logkit:NN logkit:NN logkit:NN 
+jar:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+jar:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN junit:NN junit:NN junit:NN 
+jar:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN avalon:NN framework:NN avalon:NN framework:NN avalon:NN framework:NN 
+jar:NN 
+artifact:NN depend:NNS transfer:VBG 
+artifact:NN depend:NNS download:NN 
+artifact:NN depend:NNS transfer:VBG 
+consequ:NN classpath:NN set:VBN wrong:NN 
+copi:VBP content:NNS path:NN lib:NN dir:NN war:NNP conflict:JJ jar:NN file:NNS 
+declar:VB depend:NN jaxen:NN 
+build:VBN 
+entri:NN repositori:NN build:NN fail:VBZ 
+jaxen:NN jaxp:NN parser:NN xerc:NNS work:VBZ 
+scope:NN attribut:NN transienc:NN note:VBN problem:NN work:NNS 
+transient:JJ attribut:NN run:VB transienc:NN explicit:JJ depend:NNS 

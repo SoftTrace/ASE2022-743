@@ -1,0 +1,4 @@
+client:NN driver:NN code:NN cach:VBG connect:VB byte:NNS 
+unus:JJ code:NN clutter:VBZ rest:NN code:NN harder:JJR understand:VB 
+variabl:JJ determin:VB cach:JJ connect:VB byte:NNS public:JJ 
+histor:JJ inform:NN featur:NN nice:JJ add:VB inform:NN jira:NNP 

@@ -1,0 +1,1 @@
+client:NN driver:NN datum:NNS executequeri:NN 

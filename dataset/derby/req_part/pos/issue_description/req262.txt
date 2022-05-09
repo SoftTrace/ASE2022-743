@@ -1,0 +1,11 @@
+derbi:NNP untest:JJ unus:JJ code:NN relat:VBG implement:NN nationa:NNP char:NNP type:NN 
+current:JJ code:NN remov:VBN 
+interest:JJ function:NN associ:VBN provid:VBN territori:NN base:VBN collat:NN 
+derbi:NNP implement:VBZ 
+nation:NNP char:NNP type:NN exist:VBG code:NN collat:NN tie:VBN nation:NNP char:NNP type:NN 
+futur:JJ nation:NNP char:NN type:NN maintain:VB separ:JJ type:NN compat:NN jdbc:NN interfac:NN actual:JJ implment:NN 
+code:NN char:NN type:NNS 
+collat:VBG nation:JJ char:NN type:NN support:VBN regular:JJ char:NN type:NNS 
+intest:VBN nation:JJ char:NN code:NN histori:NN svn:NN consist:JJ version:NN 
+codelin:NNS 
+propos:VB remov:NN code:NN place:NN trunk:NN backport:VBN releas:VBN codelin:NN 

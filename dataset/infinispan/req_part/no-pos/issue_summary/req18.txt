@@ -1,0 +1,3 @@
+configur java hot rod client main data owner request data 
+atm client pick random node owner write data 
+place suboptim write secondari owner deleg write main owner lock acquisit addit rpc client write main data owner 

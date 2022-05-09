@@ -1,0 +1,11 @@
+derbi:NNP add:VBG featur:NN charact:NN string:NN type:NNS territori:NN base:VBN collat:NN persist:JJ charact:NN string:NN type:NN column:NNS system:NN schema:NN 
+charact:NN type:NNS compar:VBN collat:NN type:NN associ:VBN 
+derbi:NNP throw:VB 
+derbi:NNP codelin:NN throw:VBN error:NN comparison:NNS varchar:NNP char:NNP support:VBN 
+error:NN messag:NN mislead:VBG 
+error:NN collat:NN mismatch:NN 
+fix:VB follow:VBG error:NN real:JJ reason:NN 
+sql:NN 
+connect:VB nodb:NN creat:VB true:JJ territori:NN collat:NN 
+select:JJ tablenam:NN 
+error:NN comparison:NNS varchar:NNP char:NNP support:VBN 

@@ -1,0 +1,1 @@
+compon:NN abil:NN jbpmconfigur:NN jndi:NN 

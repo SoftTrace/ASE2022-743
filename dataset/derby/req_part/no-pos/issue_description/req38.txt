@@ -1,0 +1,2 @@
+network server report start stop network server consol output print timestamp 
+start stop time network server record derbi log check consol output 

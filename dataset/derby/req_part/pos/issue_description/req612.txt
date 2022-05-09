@@ -1,0 +1,2 @@
+happen:VBZ static:NN initi:NN block:NN start:NN 
+dead:JJ code:NN 

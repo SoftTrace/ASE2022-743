@@ -1,0 +1,3 @@
+integr:VBG state:NN fetch:VB persist:JJ state:NN true:JJ perform:VBN cachestor:NN 
+move:VBN store:NN state:NN transfer:NN document:VB store:NN clear:VBN integr:VBG remot:JJ state:NN 
+relat:NN 

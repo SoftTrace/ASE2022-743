@@ -1,0 +1,1 @@
+don:VBP rule:NNS constraint:NNS dialect:JJ eval:NN type:NN decis:NNS 

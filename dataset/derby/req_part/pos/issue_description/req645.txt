@@ -1,0 +1,9 @@
+client:NN userid:NN password:NN set:VBN connect:NN url:NN default:NN secur:NN mechan:NN upgrad:VBN usridpwd:NNP clear:JJ text:NN userid:NN password:NN 
+secur:NN hole:NN 
+current:JJ client:NN driver:NN support:VBZ encrypt:VBN userid:NN password:NN eusridpwd:NN key:JJ agreement:NN protocol:NN current:JJ open:NNP group:NNP drda:NNP specif:NNS impos:VBZ small:JJ prime:JJ base:JJ generat:NN valu:NNS bit:NNS prevent:VBZ jce:NNP apt:JJ ibm:NNP jce:NNP java:NN cryptographi:NN provid:NNS 
+thought:NNS 
+client:NN check:NN jvm:NN run:VBG support:NNS encrypt:NN eusridpwd:NNP 
+support:VBZ client:NN upgrad:VB eusridpwd:NNP 
+jvm:NN client:NN run:VBG support:VB encrypt:NN requir:NNS eusridpwd:NNP secur:NN mechan:NN set:VBN usridpwd:NNP 
+add:VB support:NN strong:JJ userid:NN password:NN option:NN send:VB encrypt:VBN password:NNS wire:NN 
+add:VBN upgrad:NN option:NNS eusridpwd:NNP 

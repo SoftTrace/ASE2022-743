@@ -1,0 +1,19 @@
+compon class interceptor separ client side server side interceptor interceptor interceptor type type properti compon add interceptor interceptor 
+interceptor properti defin sort order compon sort list 
+problem 
+client side server side interceptor store list client side interceptor prioritari server side interceptor programm write claus put server side interceptor client side interceptor 
+current compon code case simpli 
+solut 
+case bad server side client side mix interceptor annot definit sort list method rais warn 
+proposit 
+insert line 
+interceptor ann type interceptor type server amp amp annot interceptor class type interceptor type client 
+log warn interceptor clazz server side interceptor client side interceptor client side interceptor prioritari 
+insert line 
+interceptor ann type interceptor type client amp amp annot interceptor class type interceptor type server 
+log warn interceptor clazz client side interceptor server side interceptor client side interceptor prioritari 
+pros 
+programm friend 
+con 
+sort bit time 
+

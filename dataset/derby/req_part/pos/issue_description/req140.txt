@@ -1,0 +1,4 @@
+provid:VB drop:VB column:NN exist:VBG tabl:NN 
+syntax:NN 
+alter:VB tabl:NN tablenam:NN drop:NN column:NN columnnam:JJ cascad:NN restrict:NN 
+featur:NN handl:VB column:NNS constraint:NNS view:NNS trigger:VBZ index:NNS 

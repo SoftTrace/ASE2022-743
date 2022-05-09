@@ -1,0 +1,8 @@
+add support properti method 
+getter 
+foo meta class properti string 
+
+setter 
+foo meta class properti string object valu 
+
+

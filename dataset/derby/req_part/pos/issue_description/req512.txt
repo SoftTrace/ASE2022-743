@@ -1,0 +1,2 @@
+istat:JJ log:NNS affect:VBN tabl:NN drop:VBG dispos:JJ statist:NNS entri:NNS doesn:VBD log:NN index:NN affect:VBN 
+inform:NN user:NN understand:VB happen:VBD orphan:VBN entri:NN system:NN entri:NN drop:VBD comput:VBN singl:JJ column:NN primari:JJ key:NN 

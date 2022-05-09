@@ -1,0 +1,10 @@
+derbi collat char datatyp depend kind collat request user databas creat time option jdbc url attribut collat collat type dtd determin kind dvd generat note irrespect collat format char datatyp remain order support behavior generat base dvd collat sensit dvd charact datatyp add api string data valu 
+
+sql char sql varchar sql longvarchar sql clob base class 
+collat sql char collat sql varchar collat sql longvarch collat sql clob 
+subclass method return base class subclass 
+depend valu rule base collat rule base collat 
+null object return baseclass 
+subcalss 
+
+public string data valu valu rule base collat collat comparison 

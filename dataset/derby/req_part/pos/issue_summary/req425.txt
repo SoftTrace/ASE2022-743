@@ -1,0 +1,1 @@
+intern:JJ assign:NN tablenum:NN columnnumb:NN wrong:JJ queri:NN tree:NN ill:JJ effect:NNS 

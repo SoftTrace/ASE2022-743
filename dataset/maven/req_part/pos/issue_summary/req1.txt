@@ -1,0 +1,9 @@
+plugin:NN discoveri:NN reactor:NN awar:JJ 
+plugin:VBG discoveri:NN reactor:NN awar:JJ plugin:NNS part:NN reactor:NN build:NN aid:VB build:NN 
+plugin:NN instal:VBN rest:NN project:NN 
+build:VBN 
+aid:NNS integr:NN test:NN plugin:NNS maven:NN plugin:NN sandbox:NN add:VB current:JJ plugin:NN 
+artifact:NN lifecycl:NN method:NNS public:JJ 
+plugin:NN discov:VBN reactor:NN 
+method:NNS remain:VB privat:JJ 
+thread:NN detail:NNS 

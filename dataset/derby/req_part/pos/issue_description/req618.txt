@@ -1,0 +1,6 @@
+import:VB datum:NNS derbi:NNP databas:NN foreignview:NNS tool:NN system:NN tabl:NNS corrupt:VBN 
+tabl:NNS generat:VBN column:NNS creat:VBN generat:VBN 
+import:VBG datum:NNS derbi:NNP generat:VB generat:VBN column:NNS break:VB relationship:NNS tabl:NNS tabl:NNS counter:NN gap:NNS delet:VBZ win:VBD match:NN 
+clean:JJ import:NN break:VBG ddl:NNP inform:NN version:NN control:NN switch:VB generat:VBN type:NNS follow:VBZ 
+alter:VB tabl:NN alter:VBP column:NN set:NN generat:VBN default:NN 
+alter:VB tabl:NN alter:VBP column:NN set:NN generat:VBN 

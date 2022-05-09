@@ -1,0 +1,2 @@
+move:VB shadow:NN fact:NNS core:NN 
+involv:VBZ creat:VBG classload:NN hold:VB generat:VBN class:NNS 

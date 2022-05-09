@@ -1,0 +1,3 @@
+paramet:NN annot:NN primaryon:NN prevent:VB replica:NNS fire:VBG updat:NNS 
+primaryon:NN true:JJ 
+public:JJ class:NN listen:NNP 

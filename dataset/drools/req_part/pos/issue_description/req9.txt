@@ -1,0 +1,10 @@
+add:VB match:VBZ constraint:NNS 
+person:NN address:NNS foo:NN 
+simpl:JJ extens:NN featur:NN collect:NNS 
+sytax:NN idea:NNS 
+person:NN 
+foo:NN 
+person:NN 
+foo:NN 
+person:NN foo:NN 
+prefer:VBP natur:JJ 

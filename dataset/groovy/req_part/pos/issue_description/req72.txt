@@ -1,0 +1,9 @@
+groovi:JJ equal:NN extend:VBZ array:NNS list:NNS set:NNS map:NNS 
+assert:VB pass:NNS 
+assert:VB set:VBN set:VBN fail:VBZ 
+surpris:JJ ungroovi:JJ 
+nice:JJ groovi:JJ equal:NN set:NNS map:VBZ 
+drawback:NN set:NN map:NN equal:NN inconsist:JJ lookup:NN result:NNS set:NNS equal:JJ yield:VBZ result:NNS 
+hand:NN problem:NN exist:VBZ groovi:JJ list:NN equal:NN 
+map:NNS avoid:VB lookup:NN inconsist:NN groovi:JJ equal:NN valu:NNS 
+good:JJ discuss:NN propos:NN 

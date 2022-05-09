@@ -1,0 +1,7 @@
+current mechan delet memori databas isn good proper ad 
+import delet memori databas occupi valuabl main memori discard databas longer 
+intend implement mechan jdbc connect url 
+jdbc derbi memori databas delet true user password 
+connect attempt throw case request fail succeed 
+reason failur invalid user password lack encrypt attribut conflict attribut 
+time databas owner delet databas note control limit memori databas creation 

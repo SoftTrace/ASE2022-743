@@ -1,0 +1,3 @@
+configur:VB execut:NN session:NN file:NN mechan:NN 
+essenc:NN code:NN work:VBZ read:VB file:NN stuff:NNS bunch:NN valu:NNS 
+sourc:NNS valu:NNS logic:NN popul:VB valu:NNS 

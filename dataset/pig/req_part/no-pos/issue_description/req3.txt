@@ -1,0 +1,4 @@
+access control process read column group zebra handl disallow user applic access secur eventuallt grant hdfs secur data store 
+expect behavior column group permiss set 
+user select column permiss access zebra return error messag error permiss deni access column column 
+access control appli entir column group column column group permiss 

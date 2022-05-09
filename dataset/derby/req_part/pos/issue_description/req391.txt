@@ -1,0 +1,4 @@
+work:VBG find:VBD handl:VBN server:NN shutdown:NN code:NN instanc:NN server:NN startup:NN hang:VB 
+resolv:VBN problem:NN connect:NN close:NN general:JJ 
+shutdown:NN process:NN prevent:VB remain:VBG shutdown:NN task:NNS close:VBG server:NN socket:NN occur:VBG 
+occur:VBP shutdown:NN process:NN report:VBN consol:NN 

@@ -1,0 +1,1 @@
+command:NNP line:NN option:NN exclud:VB modul:NNS reactor:NN 

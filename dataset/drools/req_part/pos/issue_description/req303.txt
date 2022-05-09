@@ -1,0 +1,2 @@
+person:NN bob:NN 
+user:NNS write:VB rule:NNS code:NN generat:NN statement:NNS field:NN constraint:NNS eval:NN mvel:NNP 

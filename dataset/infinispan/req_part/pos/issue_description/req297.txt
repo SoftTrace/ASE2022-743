@@ -1,0 +1,5 @@
+updat:NN infinispan:NN directori:NN lucen:NNP 
+requir:VBN updat:NN hibern:NNP search:NNP 
+hibern:VB orm:NN 
+wildfli:NNP 
+integr:NN test:NNS 

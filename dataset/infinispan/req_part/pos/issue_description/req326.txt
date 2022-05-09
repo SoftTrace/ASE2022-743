@@ -1,0 +1,3 @@
+configur:NN attribut:NN transact:NN cluster:NN wide:JJ lock:NNS acquir:VBN 
+current:JJ scheme:NN lazi:JJ default:NN 
+implement:VBN broadcast:VBG acquir:VBG local:JJ lock:NNS key:NNS 

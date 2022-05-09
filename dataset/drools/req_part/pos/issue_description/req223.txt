@@ -1,0 +1,14 @@
+small:JJ modif:NN paus:VB restart:VB rule:NN fire:NN 
+chang:NN consist:VBZ add:VBG boolean:JJ ispaus:JJ flag:NN gettter:NN setter:NN method:NNS inspect:VBN loop:NN fireallrul:NNS method:NN follow:VBZ 
+public:JJ synchron:VBN void:JJ fireallrul:NNS final:JJ throw:VBZ fact:NNP 
+true:JJ 
+agendafilt:NN 
+fals:JJ 
+good:JJ 
+stop:VB rule:NN fire:NN rule:NN execut:VB extern:JJ call:NN 
+rule:NN set:VBZ call:NN call:VBZ true:JJ 
+fireallrul:NNS exit:NNS extern:JJ process:NN execut:VBZ call:NN assert:VBG fact:NNS 
+call:VBZ fals:JJ call:VBZ fireallrul:NNS 
+execut:VB call:NN rule:NN 
+applic:NN execut:NN long:JJ time:NN option:NN move:VB ram:NNP 
+move:VBG app:NN server:NN continu:VB fire:VBG external:NN call:NN process:NN complet:VBN 

@@ -1,0 +1,1 @@
+embedsqlwarn:NN renam:VBN return:VB object:NNS derbi:NNP specif:JJ implement:NN 

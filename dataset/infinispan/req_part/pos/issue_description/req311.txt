@@ -1,0 +1,13 @@
+queryabl:JJ class:NNS auto:NN detect:VBN fli:NN write:NN oper:NN 
+set:NN discov:VBN class:NNS replic:VBN 
+approach:NN creat:VBZ lot:NN technic:JJ complex:NN implement:NN number:NN flaw:NNS fix:VBN iter:NNS solut:NN brittl:JJ lead:VB lock:VBG issu:NNS 
+forc:VBZ hibern:NNP search:VB reconfigur:VB factori:NN messi:JJ 
+continu:VBG patch:NN improv:VB index:JJ class:NNS cach:NN configur:NN index:NN configur:NN 
+give:VBN impact:NN chang:NN exist:VBG codebas:NN propos:VB approach:NN easi:JJ transit:NN 
+introduct:NN config:NN index:NN configur:NN class:NNS 
+cach:NN index:VBN index:JJ class:NNS defin:VBN fallback:JJ demand:NN auto:NN detect:NN work:VBD 
+cach:NN index:VBN class:NNS perform:VB demand:NN auto:NN detect:NN 
+propag:VB set:NN class:NNS 
+work:VB 
+auto:NN detect:NN document:VBN deprec:VBN remov:VBN 
+mark:VBG cach:NN index:VBN class:NNS result:VB error:NN config:NN time:NN valid:NN 

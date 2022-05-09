@@ -1,0 +1,8 @@
+open conglomer lock posit write code 
+wait lock 
+
+throw lock timeout error 
+throw standard sql state lock timeout 
+
+occurr code throw wait lock guarante true ident check coupl line judg similar method lock posit read check remov latch page releas thrown 
+method call insert fals insert paramet remov suspect method doesn work correct insert oper call latch page row posit unlatch page row isn page assum row insert exist 

@@ -1,0 +1,1 @@
+autocomplet:NNP doesn:VBD complet:JJ alia:NNS 

@@ -1,0 +1,1 @@
+add:VB abil:NN complet:JJ queri:NN plan:NN optim:NN overrid:NN 

@@ -1,0 +1,11 @@
+abstract:JJ extens:NNS life:NN easier:JJR 
+peopl:NNS interest:JJ push:VB class:NNS pig:NNP 
+class:NNS extend:VBG 
+class:NN tbd:NN 
+implement:NNS public:JJ schema:NNP schema:NNP input:NN base:VBN generic:JJ type:NN subclass:NN 
+provid:VBZ common:JJ helper:NN valid:NN function:NNS increment:NN counter:NNS good:JJ bad:JJ tupl:NNP datum:NNS pass:VBD 
+input:NN work:VBN tupl:NN size:NN greater:JJR 
+helper:NN valid:NN abil:NN subclass:VBZ implement:VB public:JJ exec:NN input:NN primit:NNS 
+input:NN singl:JJ primit:JJ posit:NN tupl:NN 
+wrap:VBZ guava:NN function:NN implement:NN udf:NNS pig:NNP script:NNS myfunct:NN class:NN implement:VBZ function:NN 
+defin:VB myudf:NN myfunct:NN 

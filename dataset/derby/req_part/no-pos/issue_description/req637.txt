@@ -1,0 +1,4 @@
+jdbc spec section 
+method app server listen connect statement closur invalid event 
+section jdbc spec explain connect event connect pool manag implement connect event listen interfac regist listen connect close fatal connect error occur event app server event manag recycl connect connect pool 
+section jdbc spec explain statement event statement pool implement statement event listen regist listen statement close statement error occur event statement pool manag recycl statement pool 

@@ -1,0 +1,2 @@
+creat:VB wrapper:NN udf:NNS simpl:JJ java:NNP function:VBZ creat:VBZ unnecessari:JJ work:NN pig:NNP user:NNS slow:VBZ develop:NN process:NN produc:VBZ lot:NN trivial:JJ class:NNS 
+java:NNP reflect:NN invok:VBG number:NN method:NNS fli:NN creat:VBG generic:JJ udf:NNP accomplish:VB 

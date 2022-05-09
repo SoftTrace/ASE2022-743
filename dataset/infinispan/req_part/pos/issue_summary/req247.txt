@@ -1,0 +1,1 @@
+jpa:NN cach:NN store:NN work:NN karaf:NNP 

@@ -1,0 +1,22 @@
+run:VBG select:JJ max:NN index:VBN column:NN big:JJ 
+tabl:NN 
+minut:NNS minut:NNS 
+expect:VBN 
+bit:NN investig:NN find:VBD full:JJ index:NN scan:NN 
+perform:VBN row:NNS refer:VBN rightmost:JJS tree:NN 
+node:NN delet:VBN 
+improv:NNS 
+implement:VB scan:NN tree:NNS suggest:VBN 
+comment:NNS 
+parent:NN node:NN leaf:NN node:NN 
+left:JJ side:NN continu:VB valid:JJ max:NN valu:NN find:VBN 
+derbi:NNP travers:VBG tree:NN 
+latch:VBZ higher:JJR level:NN node:NNS 
+tree:NN 
+negat:JJ impact:NN 
+concurr:NN 
+leav:VBN travers:NN leaf:NN level:NN 
+throw:VB 
+page:NN latch:VBN wait:VBG 
+leav:VBN search:NN max:NN valu:NN fall:VB 
+left:JJ approach:NN conflict:NN aris:VBZ 

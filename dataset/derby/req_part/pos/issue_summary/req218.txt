@@ -1,0 +1,1 @@
+updat:NN requir:VBN updat:JJ result:NN set:VBN work:VB 

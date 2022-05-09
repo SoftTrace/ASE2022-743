@@ -1,0 +1,18 @@
+stop:VB run:VBG test:NNS test:NN framework:NN 
+test:NNS test:NN suit:NN run:VBN derbyal:NN test:NN suit:NN test:NNS convert:VBN junit:NNP run:VBN part:NN junit:NNP test:NN suit:NN 
+rewrit:VB derbynet:NN suicideofstream:NN junit:NN test:NN 
+test:NN derbynet:NN suicideofstream:NN rewrit:VBN junit:NN test:NN line:NN creat:VBN test:NN system:NN 
+test:NNS run:VBN deprec:VBN test:NNS junittest:NNS directori:NN wrapper:NN class:NN 
+investig:VB run:VBN client:NN 
+investig:VBG notic:VBD suit:NN run:VB client:NN 
+comment:NN suit:NNS 
+exclud:VBG relev:JJ client:NNS 
+exclud:VBG run:VB network:NN server:NN curr:NN 
+lob:NNS materi:VBN test:NN test:NNS lob:NNS 
+issu:NNS 
+largedata:NN 
+issu:NNS fix:VBN test:NN run:VBN client:NN 
+separ:JJ suit:NN emb:VBN test:NN hour:NNS run:VB 
+convert:VB store:NN streamingcolumn:NN unit:NNP 
+convert:VB junit:NN testcas:NN 
+convert:VB derbynet:NN outbufferedstream:NN unit:NNP 

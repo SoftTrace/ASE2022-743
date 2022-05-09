@@ -1,0 +1,1 @@
+support:NN skew:JJ outer:JJ join:VB 

@@ -1,0 +1,2 @@
+hadoop output committ option support recoveri handl 
+applic master restart fail attempt pig outputformat committ support recoveri 

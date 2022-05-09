@@ -1,0 +1,45 @@
+today:NN hour:NNS develop:VB abil:NN code:VBN function:NNS accumul:VBP 
+idea:NN common:JJ function:NNS predefin:JJ templat:NN code:VBN accumul:VBP rule:NN rule:NN base:NN 
+averag:JJ 
+idea:NN write:VBG bellow:VB rule:NN 
+number:NN accumul:VBP chees:NN price:NN price:NN 
+doubl:JJ total:NN int:NN count:NN 
+action:NN total:NN price:NN count:NN 
+total:NN price:NN count:VB 
+result:NN doubl:JJ total:JJ count:NN 
+user:NN predefin:JJ function:NN 
+number:NN accumul:VBP chees:NN price:NN price:NN 
+averag:JJ price:NN 
+cost:VB give:VB rais:NN employe:NNS give:VBN depart:NN 
+sum:NN number:NN accumul:VBP employe:NNP dept:NNP salari:NN salari:NN 
+sum:NN salari:NN 
+user:NN 
+hardcod:VBG function:NNS pluggabl:JJ 
+defin:VBD simpl:JJ interfac:NN creat:VB extern:JJ function:NN implement:VB interfac:NN wire:NNS api:NN configur:NN file:NNS mark:VBP creat:VBN 
+constant:JJ prefix:NN averag:NN function:NN identifi:NN user:NN rule:NN file:NN drl:NN xml:NN 
+provid:VB common:JJ function:NNS averag:JJ sum:NN count:NN min:NN max:NN box:NN easi:JJ implement:VB function:NN 
+implement:VB averag:JJ function:NN 
+packag:NN 
+implement:NN accumul:NN capabl:JJ calcul:VBG averag:JJ valu:NNS 
+etirellus:NNS 
+public:JJ class:NN implement:NNS 
+protect:VBN static:JJ class:NN 
+public:JJ int:NN count:NN 
+public:JJ doubl:JJ total:NN 
+public:JJ object:NN createcontext:NN 
+return:VB 
+public:JJ void:NN init:NN object:NN context:NN throw:VBZ 
+datum:NNS context:NN 
+public:JJ void:NN accumul:VBP object:NN context:NN 
+object:NN valu:NN 
+datum:NNS context:NN 
+number:NN valu:NN 
+public:JJ void:JJ revers:NN object:NN context:NN 
+object:NN valu:NN throw:VBZ 
+datum:NNS context:NN 
+number:NN valu:NN 
+public:JJ object:NN getresult:NN object:NN context:NN throw:VBZ 
+datum:NNS context:NN 
+return:VB doubl:JJ 
+public:JJ boolean:JJ supportsrevers:NN 
+return:NN true:JJ 

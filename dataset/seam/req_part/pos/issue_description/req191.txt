@@ -1,0 +1,2 @@
+replac:VB conversationid:NN cid:NN 
+url:NNS tidi:JJ good:JJ 

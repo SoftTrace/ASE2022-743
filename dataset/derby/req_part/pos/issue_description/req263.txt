@@ -1,0 +1,13 @@
+add:VB procedur:NN function:NN set:VB user:NN connect:NN author:NN full:JJ access:NN read:VB defin:VBN 
+base:VBN exist:VBG userutil:NN class:NN expos:VBG singl:JJ procedur:NN set:VBZ permiss:NN 
+avoid:VB procedur:NN add:VBZ user:NN 
+varchar:NNP usernam:NNP varchar:NNP 
+valid:JJ valu:NNS 
+full:JJ add:VB user:NN list:NN full:JJ access:NN user:NNS databas:NN databas:NN properti:NN 
+readon:NN add:VB user:NN list:NN read:NN user:NNS databas:NN databas:NN properti:NN 
+null:JJ remov:VB user:NN list:NN permiss:NNS revert:VBG default:NN permiss:NN 
+varchar:NNP usernam:NN return:VBZ varchar:NNP 
+current:JJ connect:NN access:NN permiss:NNS user:NN factor:NNS default:NN connect:NN mode:NN 
+return:NNP full:NNP readon:NNP null:NNP 
+connect:NN attempt:NN user:NN deni:VBN user:NN entri:NN set:VBN noaccess:VB 
+connect:NN permiss:NNS match:VBP exist:VBG derbi:NNP 

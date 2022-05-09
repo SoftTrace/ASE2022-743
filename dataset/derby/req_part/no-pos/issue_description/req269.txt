@@ -1,0 +1,4 @@
+fix place current implement clob updat reader fail 
+patch prepar mention issu remov intern packag privat method emb clob replac singl 
+write method call intern clob method intern clob return intern clob place method byte length belong emb clob warn refer intern clob object requir caller care writabl belong emb clob clob writabl databas connect read intern clob represent read case emb clob clone content creat writabl represent 
+fix leav handl implement detail intern clob 

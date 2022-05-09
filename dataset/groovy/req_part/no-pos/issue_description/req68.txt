@@ -1,0 +1,16 @@
+file conveni method file line file split line encod read 
+file line string char set closur method 
+courc write 
+input stream reader file input stream file file read txt char set line 
+
+
+groovi 
+propos add encod method java file gdk enhanc method 
+file arg encod utf line 
+println 
+
+refer write emc definit method encod 
+file meta class encod 
+input stream reader file input stream deleg 
+
+gdk java input stream reader equival method 

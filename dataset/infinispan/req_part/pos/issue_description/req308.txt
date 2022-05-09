@@ -1,0 +1,11 @@
+listen:JJ 
+event:NNS detect:VBG merg:NN place:NN 
+add:VBN annot:NN 
+interfac:NN notifi:NN 
+notifi:NN implement:NN 
+support:VBZ event:NNS merg:NN 
+bare:JJ annot:NNS add:VB listen:NNS 
+interfac:NN merg:NN view:NN accept:VBD event:NN implement:NNS 
+event:NN implement:NNS 
+updat:VBN implement:VB listen:JJ 
+updat:VBN throw:VB event:NN merg:NN view:NN accept:VBN 

@@ -1,0 +1,7 @@
+current:JJ mechan:NN delet:VBG memori:NN databas:NNS isn:VBP good:JJ proper:JJ add:VBN 
+import:JJ delet:VB memori:NN databas:NNS occupi:VBP valuabl:JJ main:JJ memori:NN discard:VBN databas:NN 
+intend:VBP implement:VB mechan:NN jdbc:NNP connect:NN url:NN 
+jdbc:NN derbi:NN memori:NN mydatabas:NN delet:VB true:JJ user:NN password:NN 
+connect:NN attempt:NN throw:VB case:NN request:NN fail:VBD succeed:VBD 
+reason:NNS failur:NN invalid:JJ user:NN password:NN lack:VBG encrypt:NN attribut:NNS conflict:VBG attribut:NNS 
+time:NN databas:NN owner:NN delet:VB databas:NNS note:NN control:VB limit:VB memori:NN databas:NN creation:NN 

@@ -1,0 +1,11 @@
+propos:NN enhanc:VB derbi:NNP build:VBN ddl:NN user:NN manag:NN 
+propos:NN spec:NN attach:VBN jira:NNP 
+abstract:NNP 
+featur:NN aim:VBZ improv:VBG built:JJ user:NNS manag:VBN derbi:NNP provid:VBG intuit:JJ familiar:JJ ddl:NN interfac:NN 
+build:VBN user:NNS defin:VBN system:NN databas:NN level:NN 
+user:NNS creat:VBN system:NN level:NN defin:VBN jvm:NNP derbi:NNP system:NN properti:NNS file:NN 
+build:VBN user:NNS creat:VBN databas:NN level:NN defin:VBN call:NN derbi:NNP system:NN procedur:NN 
+set:VBZ databas:NN properti:NN 
+defin:VBG user:NN system:NN level:NN conveni:JJ practic:JJ develop:NN phase:NN eod:NN applic:NN user:NN password:NN encrypt:VBN clear:JJ file:NN 
+applic:NN product:NN emb:VBN prefer:JJ creat:VB user:NNS databas:NN level:NN password:NN encrypt:VBN 
+real:JJ ansi:NN sql:NN standard:NN manag:VBG user:NNS sql:NN provid:VBG intuit:JJ interfac:NN eas:VB build:VBN user:NN manag:NN databas:NN level:NN derbi:NNP adopt:NN 

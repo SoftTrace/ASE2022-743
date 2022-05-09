@@ -1,0 +1,1 @@
+shorther:NNP syntax:NN catch:VBG multipl:JJ 

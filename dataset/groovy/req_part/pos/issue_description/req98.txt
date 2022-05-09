@@ -1,0 +1,10 @@
+annot:NN list:NN immut:JJ class:NNS 
+provid:VB extens:JJ list:NN class:NN vouch:NN field:NN immut:NN 
+implement:VB 
+class:NN person:NN 
+string:NN 
+myuuid:NN 
+class:NN person:NN 
+string:NN 
+date:NNP dob:NNP 
+uuid:NNP 

@@ -1,0 +1,1 @@
+add proper delet mechan memori databas 

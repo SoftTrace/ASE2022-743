@@ -1,0 +1,2 @@
+detect:VB seam:NN context:NNS set:VBN set:VBN event:NN context:NN 
+practic:NN set:VB convers:NN process:NN context:NNS bit:NN problemat:JJ good:JJ pass:VB convers:NN process:NN task:NN 

@@ -1,0 +1,13 @@
+descriptor:NN 
+chang:VB top:JJ level:NN server:NN servic:NN 
+servic:NN add:VB 
+parent:NN resourc:NN type:NN jmx:NN server:NN plugin:NN jmx:NN 
+parent:NN resourc:NN type:NN jbossa:NN server:NN plugin:NN jbossa:NN 
+parent:NN resourc:NN type:NN jbossa:NN server:NN plugin:NN 
+sourc:NN 
+implement:NNS convert:VB extend:VB 
+reduc:VB code:NN chang:NN 
+base:NN work:NN 
+test:NN 
+test:VB admin:NN consol:NN drop:VB plugin:NN jar:NN plugin:NNS subdirectori:JJ admin:NN consol:NN 
+test:VB rhq:NN 

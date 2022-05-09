@@ -1,0 +1,1 @@
+standard factori method creat warn method messag argument singl method vararg argument replac method 

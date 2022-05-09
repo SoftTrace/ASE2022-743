@@ -1,0 +1,1 @@
+expos:VB agenda:NN group:NN event:NNS 

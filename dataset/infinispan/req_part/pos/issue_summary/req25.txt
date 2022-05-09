@@ -1,0 +1,1 @@
+add:VB abil:NN fetch:VB set:NN key:NNS getal:NN 

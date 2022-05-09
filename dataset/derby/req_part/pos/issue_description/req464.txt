@@ -1,0 +1,5 @@
+jira:NNP add:VB support:NN drda:NNP strong:JJ user:NN password:NN substitut:NN authent:NN usrssbpwd:NNP scheme:NN network:NN client:NN server:NN driver:NN layer:NNS 
+current:JJ derbi:NNP drda:NNP network:NN client:NN driver:NN support:VBZ encrypt:VBN userid:NN password:NN eusridpwd:NN key:JJ agreement:NN protocol:NN current:JJ open:NNP group:NNP drda:NNP specif:NNS impos:VBZ small:JJ prime:JJ base:JJ generat:NN valu:NNS bit:NNS prevent:VBZ jce:NNP java:NN cryptographi:NN provid:NNS typic:JJ minimum:JJ secur:NN requir:NNS bit:NNS bit:NN absolut:JJ minimum:NN key:NN agreement:NN protocol:NN generat:VB session:NN key:NN 
+strong:JJ user:NN password:NN substitut:NN authent:NN usrssbpwd:NNP part:NN drda:NNP specif:NNS altern:NN provid:VB cipher:VBN password:NNS wire:NN 
+support:NN usrssbpwd:NNP authent:NN scheme:NN enabl:VB addit:JJ jce:NNP encrypt:VBN password:NNS requir:VBN wire:NN 
+usrssbpwd:NNP authent:NN scheme:NN derbi:NNP network:NN client:NN user:NN securitymechan:NN properti:NN connect:NN properti:NN valu:NN defin:VBN order:NN support:VB drda:NNP authent:NN scheme:NN 

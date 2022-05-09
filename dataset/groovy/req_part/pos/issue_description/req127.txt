@@ -1,0 +1,13 @@
+transform:VB captur:VBN group:NN 
+assert:VB 
+replaceal:NN 
+digit:NN 
+groovi:JJ method:NN string:NN 
+public:JJ static:NN string:NN replaceal:NN string:NN string:NN regex:NN closur:NNP 
+closur:NN 
+matcher:NN matcher:NN regex:NN 
+matcher:NN 
+string:NN foundtext:NN 
+foundtext:NN 
+return:NN 
+return:NN 

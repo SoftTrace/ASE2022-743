@@ -1,0 +1,6 @@
+implement:VB determinist:JJ keyword:NN procedur:NNS function:NNS 
+determinist:JJ function:NNS implement:VBP generat:VBN column:NNS 
+syntax:NN behavior:NN determinist:JJ keyword:NN defin:VBN function:JJ spec:NN attach:VBN 
+add:VB test:NNS generat:VBN column:NNS sql:NN author:NN turn:VBN 
+add:VB test:NNS generat:VBN column:NNS sql:NN author:NN 
+instanc:NN verifi:VB generat:NN claus:NNS 

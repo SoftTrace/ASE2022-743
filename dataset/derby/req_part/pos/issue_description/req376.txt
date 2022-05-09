@@ -1,0 +1,6 @@
+chang:NN connect:NN tostr:NN output:NN integ:NN correspond:VBP sessionid:NNP 
+output:NN identifi:VB type:NN identifi:NN print:VBZ 
+format:NN append:VBZ default:NN tostr:NN output:NN sessionid:JJ inform:NN print:VBZ inform:JJ 
+sessonid:NN 
+expand:VBN includ:VBN diagnost:JJ inform:NN 
+xid:NN sessionid:NN databas:NN wombat:NN drdaid:NN 

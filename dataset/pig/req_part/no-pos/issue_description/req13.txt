@@ -1,0 +1,10 @@
+cross foreach nest statement typic case nest foreach cogroup relat flatten record key process natur achiev cross 
+cogroup user uid session uid 
+foreach 
+cross cross user session flatten input bag 
+filter filter cross user region session region 
+result foreach cross generat process session user age user gender session nest foreach jira pig 
+generat result 
+
+don cross user write udf process bag user session harder udf process flatten tupl true nest foreach statement 
+candid project googl summer code inform program 

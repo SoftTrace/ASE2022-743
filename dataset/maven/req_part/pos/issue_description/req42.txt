@@ -1,0 +1,4 @@
+error:NN run:VBG stock:NN tycho:NNP 
+thread:NN main:JJ lorg:NN apach:NN maven:NN artifact:NN repositori:NN repositorycach:NN 
+method:NN deprec:VBN bridg:VBN aether:NNP code:NN screw:NN tycho:NNP user:NNS 
+tycho:NNP migrat:VB method:NN break:VBZ tycho:NNP user:NNS unaccept:JJ break:NN 

@@ -1,0 +1,5 @@
+increment updat featur drool increment updat kie base kie session case updat rule global defin class origin rule 
+set global kie session drool explicit check global defin kie base throw error increment updat kie base global remov rulebas global remov map global resolv map potenti caus issu memori leak 
+session increment updat global longer defin rule base remov map global resolv 
+reproduc 
+clone repo run mvn clean test 

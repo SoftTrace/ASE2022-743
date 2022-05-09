@@ -1,0 +1,1 @@
+place:NN tabl:NN index:NN compress:VB return:VBZ space:NN 

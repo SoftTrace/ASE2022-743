@@ -1,0 +1,8 @@
+implement:VB sql:NN generat:VBN column:NNS 
+satheesh:NNP point:VBN generat:VBN column:NNS sql:NN featur:NN satisfi:VB perform:NN requir:NNS express:NN index:NNS bug:NN 
+generat:VBN column:NNS eleg:JJ express:NN index:NNS easier:JJR implement:VB 
+follow:VBG kind:NN column:NN definit:NN creat:NNP tabl:NN alter:VB tabl:NN statement:NNS 
+columnnam:JJ generat:VBN express:NN 
+express:NN indexableexpress:NN defin:VBN bug:NN creat:VB index:NNS 
+work:NN optim:NN 
+languag:NNP comput:VB generat:VBN column:NN insert:NN updat:NN time:NN 

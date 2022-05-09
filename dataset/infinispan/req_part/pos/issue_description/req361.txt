@@ -1,0 +1,4 @@
+fault:NN 
+hot:JJ rod:NN topolog:NN cach:NN state:NN retriev:NN timeout:NN configur:JJ 
+lock:NN timeout:NN 
+configur:JJ 

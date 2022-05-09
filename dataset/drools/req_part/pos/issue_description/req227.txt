@@ -1,0 +1,10 @@
+link:VB descript:NNS 
+provid:VBZ simpl:JJ access:NN inform:NN descript:NNS compon:NN verifiermessagebas:NN 
+test:VBD add:VBG constructor:VBD 
+public:JJ abstract:JJ class:NN implement:VBZ compar:JJ 
+privat:JJ descr:NN 
+public:JJ descr:NN 
+descr:NN 
+integr:VB visitor:NNS 
+work:VB 
+add:VB test:NN case:NNS provid:VB patch:NN git:NN pull:VBP request:NN 

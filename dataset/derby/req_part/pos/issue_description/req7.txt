@@ -1,0 +1,1 @@
+creation:NN modif:NN databas:NNS memori:NN requir:VBG disk:NN access:NN space:NN store:VB databas:NN 

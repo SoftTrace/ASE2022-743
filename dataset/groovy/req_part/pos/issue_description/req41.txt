@@ -1,0 +1,2 @@
+cool:JJ keyword:NN coerc:VB string:NNS enum:NN valu:NNS 
+throw:VBZ add:VBG function:NN impact:NN exist:VBG code:NN 

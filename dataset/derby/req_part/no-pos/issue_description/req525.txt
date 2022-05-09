@@ -1,0 +1,2 @@
+java introduc static factori method call valu number class prefer constructor fresh instanc requir valu method cach reus object possibl reduc alloc cost memori footprint integ valu int pre alloc cach valu default cach size tune jvm flag 
+server client code compil java librari valu method benefit note java auto box number method implicit case remov call constructor compil automat insert call 

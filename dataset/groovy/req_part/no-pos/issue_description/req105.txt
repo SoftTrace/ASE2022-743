@@ -1,0 +1,8 @@
+snipset groovi 
+def option 
+def deep deep field split 
+option map deep 
+fail error 
+signatur method java util link hash map map applic argument type ljava lang string valu 
+solut map java util collect dump spread sleep long 
+

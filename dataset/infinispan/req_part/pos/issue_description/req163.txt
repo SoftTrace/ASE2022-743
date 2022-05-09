@@ -1,0 +1,3 @@
+doesn:JJ exhibit:NN 
+upgrad:VBG jgroup:NNS 
+fact:NN site:NN jgroup:NNS throw:VBZ catch:VBN 

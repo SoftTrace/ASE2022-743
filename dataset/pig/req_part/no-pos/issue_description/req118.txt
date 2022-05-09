@@ -1,0 +1,13 @@
+general group oper pig mapper reduc aggreg reduc incur disk write read mapper reduc 
+case input data properti 
+record key group data sort key 
+record key mapper input 
+group oper perform mapper remov overhead disk write read 
+alan propos ad hint group claus 
+load input loader 
+group mapsid 
+foreach generat 
+propos addit mapsid group mapsid group oper collect record key buffer key chang emit key bag record buffer assum key record collect buffer key 
+expect loader implement data system zebra ensur data emit loader satisfi properti 
+respons user loader guarante properti amp invok mapsid hint group claus pig runtim check error input data 
+group claus mapsid hint pig latin support group column includ group express group 

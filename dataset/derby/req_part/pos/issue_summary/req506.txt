@@ -1,0 +1,1 @@
+store:VBG normal:VBN author:NN order:NN nativ:JJ procedur:NNS follow:VBP case:NN convent:NNS usernam:NNS connect:NN url:NNS 

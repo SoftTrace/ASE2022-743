@@ -1,0 +1,4 @@
+support:NN 
+call:VBG throw:VBZ function:NN support:VBN 
+import:JJ jdbc:NNP featur:NN limit:VBG option:NNS derbi:NNP jdbc:NNP code:NN 
+implement:VBG jdbc:NN function:NN derbi:NNP easier:JJR adopt:VB 

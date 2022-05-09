@@ -1,0 +1,8 @@
+revert:VB improv:VB interrupt:VB resili:NN 
+interrupt:JJ don:VBP interrupt:VBN flush:VBP log:NN file:NN 
+platform:NNS rws:NN rwd:NN file:NN open:JJ mask:NN write:VBZ thjemselv:NNS synchron:VBN subsequ:JJ explicit:JJ file:NN level:NN sync:NN 
+plain:JJ current:JJ 
+map:NN nio:NNP support:VBG platform:NNS 
+synch:VBG file:NN datum:NNS synchron:VBZ metadata:NN platform:NNS support:VB write:NN synchron:NN experi:VB perform:NN drop:NN price:NN pay:VB surviv:VB interrupt:VBZ shut:VBG databas:NN platform:NNS 
+user:NNS experi:VBP problem:NN updat:VB newer:JJR jvm:NNP support:VB rwd:NN mode:NN argument:NN 
+discuss:NN 

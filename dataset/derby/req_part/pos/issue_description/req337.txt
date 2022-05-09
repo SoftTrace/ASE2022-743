@@ -1,0 +1,3 @@
+class:NN signific:JJ amount:NN test:NN code:NN 
+code:NN move:VBN unit:NN test:NN reduc:VB footprint:NN product:NN jar:NNS ensur:VB code:NN test:VBN regress:NN test:NNS 
+test:NN code:NN locat:VBN method:NNS checkint:NN checklong:NN main:JJ 

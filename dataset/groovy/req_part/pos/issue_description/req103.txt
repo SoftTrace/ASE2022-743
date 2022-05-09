@@ -1,0 +1,1 @@
+match:NNS method:NN matcher:NN method:NN return:VB true:JJ string:NN match:VBZ pattern:NN charact:NNS string:NN match:NN pattern:NN 

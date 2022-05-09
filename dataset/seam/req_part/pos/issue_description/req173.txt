@@ -1,0 +1,17 @@
+introduc:VB method:NN constrain:VBG object:NN graph:NN return:VBN remot:JJ request:NN 
+remot:VBG api:NN walk:VBZ object:NN graph:NN return:NN valu:NN packag:NNS refer:VBN result:NN 
+bad:JJ return:VB mountain:NN unwant:JJ datum:NNS 
+issu:NN address:VBN annot:VBG method:NNS addit:JJ annot:NN includ:VBG list:NN trim:NN point:NNS path:NNS object:NN graph:NN exclud:VBN result:NN 
+remot:JJ method:NN return:VBZ custom:NN entiti:NN refer:NNS rep:NNP staff:NNP entiti:NN 
+custom:NN 
+rep:NN 
+staff:NN 
+usernam:NN 
+password:NN 
+undesir:JJ return:VB staff:NN instanc:NN sensit:JJ inform:NN password:NN 
+prevent:VB method:NN annot:VBN 
+rep:NN 
+public:JJ custom:NN getcustom:NN int:NN customerid:NN 
+annot:NN accept:VB string:NN array:NN paramet:NN multipl:JJ trim:NN point:NNS 
+dot:NN notat:NN exclud:VB field:NNS object:NN tree:NN 
+includ:VB custom:NN rep:NN field:NN exclud:VB rep:NN usernam:NN password:NN field:NN result:NN 

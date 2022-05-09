@@ -1,0 +1,5 @@
+namespac:JJ navig:NN 
+node:NN root:NN namespac:VBD doc:NN 
+namespac:NNP xsd:NN namespac:NNP xsd:NN 
+root:NN 
+root:NN 

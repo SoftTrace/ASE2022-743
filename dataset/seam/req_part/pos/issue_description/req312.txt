@@ -1,0 +1,12 @@
+work:VB 
+page:NN view:NN switch:NN disabl:JJ 
+navig:NN action:NN 
+rule:NN 
+convers:NN redirect:VB true:JJ 
+redirect:VB view:NN 
+rule:NN 
+navig:NN 
+page:NN 
+class:NN 
+convers:NN nest:NN true:JJ 
+redirect:VB view:NN 

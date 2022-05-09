@@ -1,0 +1,2 @@
+client:NN driver:NN emb:VBN driver:NN factori:NNS produc:VBP sqlexcept:NNS correct:JJ 
+don:VBP factori:NNS produc:VBP jdbc:NN base:NN level:NN jdbc:NNP 

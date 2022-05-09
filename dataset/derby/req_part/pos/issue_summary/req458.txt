@@ -1,0 +1,1 @@
+remov:VB usag:NNS obtain:VB emb:VBN connect:NN derbi:NNP server:NN 

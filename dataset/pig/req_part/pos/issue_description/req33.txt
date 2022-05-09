@@ -1,0 +1,49 @@
+goal:NN provid:VB simpl:JJ xunit:NN framework:NN enabl:VBZ pig:NNP script:NNS 
+unit:NN test:VBN 
+regress:NN test:VBN 
+prototyp:VBN 
+cluster:NN set:VBN requir:VBN 
+public:JJ void:NN 
+string:NN arg:NNS 
+test:NN 
+pig:NN arg:NNS 
+string:NN input:NN 
+yahoo:NNP 
+twitter:NN 
+facebook:NN 
+yahoo:NNP 
+facebook:NN 
+string:NN output:NN 
+yahoo:NN 
+facebook:NN 
+twitter:NN 
+datum:NNS input:NN output:NN 
+pig:NN 
+datum:NNS 
+load:VB input:NN 
+queri:NN chararray:NNP count:NN int:NN 
+foreach:JJ 
+generat:VB 
+group:NN queri:NN 
+sum:NN count:NN 
+limit:NN 
+store:NN output:NN 
+mode:NNS 
+local:JJ properti:NNS present:JJ 
+mapreduc:NNP cluster:NN classpath:NN 
+automat:JJ mini:JJ cluster:NN default:NN class:NN path:NN pigtest:NN conf:NN 
+point:VBG exist:VBG cluster:NN properti:NNS present:JJ 
+nice:JJ idea:NN integr:VBN piggybank:NNP improv:VB interfac:VBZ order:NN simpl:JJ 
+compon:NNS base:VBN build:VBN 
+standalon:JJ 
+notion:NN workspac:NNS test:NN 
+standalon:JJ util:NN read:VBZ test:NN configur:NN generat:VBZ test:NN report:NN 
+prototyp:NN open:JJ suggest:NNS advantag:NN feedback:NNS 
+test:VB 
+appli:VB patch:NN 
+ant:NN compil:VB test:NN 
+ant:NN 
+contrib:NN piggybank:NN java:NN ant:NN test:NN 
+min:NN mapreduc:NNP miniclust:NN test:NNS split:VBN futur:NN unit:NN integr:NN 
+contrib:NN piggybank:NN java:NN src:NN test:NN java:NN org:NN apach:NN pig:NN piggybank:NN test:NN pigunit:NN 
+standalon:JJ forget:VB cluster:NN classpath:NN 

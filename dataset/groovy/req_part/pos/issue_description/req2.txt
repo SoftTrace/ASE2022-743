@@ -1,0 +1,3 @@
+add:VB abil:NN custom:VB groovi:JJ truth:NN 
+boolean:JJ coercion:NN happen:VBG user:NNS defin:VB asboolean:NN method:NN type:NNS 
+myobject:NN myobject:NN evalu:VBN boolean:JJ add:VBD method:NN 

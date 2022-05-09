@@ -1,0 +1,4 @@
+implement determinist keyword procedur function 
+determinist function implement generat column syntax behavior determinist keyword defin function spec attach 
+add test generat column sql author turn 
+add test generat column sql author instanc verifi current role generat claus 

@@ -1,0 +1,1 @@
+config schema cluster mode valid format string 

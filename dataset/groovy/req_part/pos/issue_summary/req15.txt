@@ -1,0 +1,1 @@
+list:NN closur:NN friend:NNS groovi:JJ jdk:NN 

@@ -1,0 +1,6 @@
+offset fetch syntax support paramet 
+toursdb 
+prepar foo select citi offset row fetch row 
+result syntax error 
+error syntax error encount line column 
+parameter offset fetch import perform prepar secur sql string creat fli 

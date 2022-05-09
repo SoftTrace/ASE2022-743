@@ -1,0 +1,4 @@
+process:NN 
+execut:VB 
+println:JJ 
+doesn:JJ work:NN haven:NN add:VBD text:NNP nice:JJ 

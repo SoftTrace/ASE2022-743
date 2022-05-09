@@ -1,0 +1,34 @@
+product:NN pig:NN script:NNS grow:VBP pig:NNP latin:NNP integr:VB standard:JJ program:NN techniqu:NNS separ:NN code:NN share:NN offer:VBN function:NNS modul:NNS 
+propos:NN add:VBG macro:JJ expans:NN pig:NNP latin:NNP post:VBN 
+summari:NN propos:VBN syntax:NN 
+macro:JJ definit:NN 
+exist:VBG defin:VBP keyword:NN expand:VBN definit:NNS pig:NNP macro:NNS 
+syntax:NN 
+defin:VB param:NNS return:VBZ alia:NNS 
+pig:NNP latin:NNP fragment:NN 
+defin:VB sortkey:NN return:VBZ 
+filter:NN 
+order:NN 
+macro:JJ expans:NN 
+syntax:NN 
+alia:NNS macro:JJ param:NNS 
+macro:NN pig:NN script:NN 
+load:NN foo:NN user:NN address:NN phone:NN 
+user:NN 
+store:NN bar:NN 
+script:NN expand:VBN follow:VBG pig:NNP latin:NNP statement:NNS 
+load:NN foo:NN user:NN address:NN phone:NN 
+filter:NN 
+order:NN user:NN 
+store:NN bar:NN 
+note:NNS 
+alia:NN macro:NN isn:VBP visibl:JJ prefix:VBN macro:JJ suffix:VBN instanc:NN avoid:VB namespac:NN collis:NN 
+macro:JJ expans:NN complet:JJ replac:NN function:NN call:NNS 
+recurs:JJ expans:NNS support:VBN 
+macro:JJ import:NN 
+import:NNP keyword:NN add:VB macro:NNS defin:VBN pig:NNP latin:NNP file:NN 
+syntax:NN 
+import:NN pig:NNP latin:NNP file:NN 
+import:NN 
+pig:NN 
+note:NN macro:JJ global:JJ namespac:NN 

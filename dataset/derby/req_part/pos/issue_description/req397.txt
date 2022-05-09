@@ -1,0 +1,5 @@
+sql:NN order:NN subqueri:NNS 
+conjunct:NN offset:NN fetch:NN 
+meaning:JJ subqueri:NNS row:NN order:NN formul:VBN 
+sql:NNP limit:NN subqueri:NNS 
+note:VB offset:NN fetch:NN subqueri:NNS 

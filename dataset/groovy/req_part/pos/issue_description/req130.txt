@@ -1,0 +1,6 @@
+gpath:JJ syntax:NN doesn:NN support:NN xml:NN namespac:NNS 
+class:NN creat:VBZ special:JJ xml:NN element:NNS namespac:NNS 
+namespac:NN uri:NN 
+element:NNP 
+gpath:JJ node:NN select:NN doesn:NN support:NN format:NN 
+xml:NN namespac:NNS xml:NN world:NN gpath:NNP benefit:VB transpar:JJ node:NNS bind:VBN namespac:NNS 

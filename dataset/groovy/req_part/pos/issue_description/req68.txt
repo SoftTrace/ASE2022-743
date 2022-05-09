@@ -1,0 +1,14 @@
+file:NN conveni:JJ method:NNS file:NN file:NN encod:VBG read:NN 
+file:NN string:NN charset:NN closur:NNP method:NN 
+courc:NN write:VB 
+file:NN charset:NN 
+line:NNP 
+groovi:JJ 
+propos:NN add:VB encod:VBG method:NN gdk:NN enhanc:NN method:NN 
+file:NN arg:NNS 
+encod:VBG utf:NN 
+line:NNP 
+println:VB 
+refer:NN write:VB emc:NNP definit:NN method:NN encod:NN 
+deleg:NN 
+gdk:NN equival:NNS method:NNS 

@@ -1,0 +1,26 @@
+add:VB mechan:NN system:NN function:VBZ add:VBN 
+resolut:NN function:NNS check:VB sysfun:NNP 
+function:NN call:NN sql:NN function:NN qualifi:VBN schema:NN 
+current:JJ schema:NN function:NN match:VBG addit:JJ resolut:NN sysfun:NNP 
+add:VB tabl:NN drive:VBN mechan:NN simpl:JJ singl:JJ argument:NN function:NNS expand:VBN futur:NN 
+add:VB function:NNS 
+sysfun:JJ function:NNS 
+function:NN 
+return:NN type:NN 
+java:NNP class:NN 
+method:NN 
+paramet:NN type:NN singl:JJ paramet:NN 
+privat:JJ static:NN final:JJ string:NN 
+aco:NN doubl:VB aco:NNS doubl:VB 
+asin:NN doubl:VB asin:NN doubl:VB 
+atan:NNP doubl:VB atan:NN doubl:VB 
+cos:NN doubl:VB cos:NNS doubl:VB 
+sin:NN doubl:VB sin:NN doubl:VB 
+tan:NN doubl:VB tan:NN doubl:VB 
+degre:NNS doubl:VB todegre:NNS doubl:VB 
+radian:NN doubl:VB radian:NNPS doubl:VB 
+doubl:VB log:NN doubl:VB 
+exp:NN doubl:VB exp:NN doubl:VB 
+ceil:NN doubl:VB ceil:NN doubl:VB 
+ceil:NN doubl:VB ceil:NN doubl:VB 
+floor:NN doubl:VB floor:NN doubl:VB 

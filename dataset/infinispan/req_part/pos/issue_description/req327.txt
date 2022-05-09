@@ -1,0 +1,4 @@
+nice:JJ cach:NN event:NNS generic:JJ save:VB user:NN needless:JJ cast:NN 
+cacheentryactivatedev:NN 
+discourag:VBP user:NNS fetch:VBG valu:NNS generic:JJ cach:NN cast:VB valu:NNS event:NN data:NNP potenti:JJ gotcha:NN 
+type:NN erasur:NN ensur:VB current:JJ unparameter:JJ usag:NN compat:JJ 

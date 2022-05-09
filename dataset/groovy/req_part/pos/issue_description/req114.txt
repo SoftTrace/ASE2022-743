@@ -1,0 +1,14 @@
+discuss:VBN 
+nice:JJ transform:VB add:VB copywith:NN method:NN map:NN return:VBZ instanc:NN immut:JJ class:NN 
+addcopywith:NN true:JJ 
+class:NN person:NN 
+string:NN 
+person:NN tim:NN yate:VBZ 
+return:NNS instanc:NN 
+tim:NN 
+assert:VB 
+return:NNS instanc:NN 
+alic:NN 
+assert:VB 
+assert:VB alic:NN 
+assert:VB yate:NNS 

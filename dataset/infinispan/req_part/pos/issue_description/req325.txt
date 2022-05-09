@@ -1,0 +1,5 @@
+mention:VBN mail:NN list:NN 
+put:NN key:NN valu:NN 
+load:VBG datum:NNS prevent:VB major:JJ perform:NN issu:NN interest:JJ return:NN valu:NN put:NN 
+work:VB prevent:VB return:NN valu:NNS node:NNS prevent:VB load:NN store:NN 
+skip:VB read:NN valu:NN write:VBN store:NN avoid:VB read:NN 

@@ -1,0 +1,10 @@
+derbi:NNP implement:VB support:NN method:NN 
+suppli:VBN valu:NN null:JJ type:NN argument:NN arg:NN present:JJ 
+void:JJ setobject:NN int:NN parameterindex:NN 
+object:NN 
+throw:VBZ sql:NNP 
+null:JJ 
+derbi:NNP throw:VB sqlexcept:NN client:NN emb:VBN 
+null:JJ call:VBG method:NN preparedstat:NN 
+port:VBG applic:NNS easier:JJR restrict:NN lift:VBN 
+discuss:NN 

@@ -1,0 +1,1 @@
+support:VB record:NN row:NN base:VBN file:NN split:NN zebra:NNP 

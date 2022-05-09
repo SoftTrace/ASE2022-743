@@ -1,0 +1,13 @@
+plan utf reader 
+improv error report hit utf decod error utf data format messag lead delet helper method generat messag 
+improv error report reader close messag 
+remov trail space add newlin 
+replac tab file space 
+point discuss argument 
+file mix tab space tab 
+space prefer requir method indent 
+fix branch cut easier port fix trunk don won 
+don port major fix class branch volunt 
+clob infrastructur chang good time clean 
+rais concern veto 
+plan commit tomorrow 

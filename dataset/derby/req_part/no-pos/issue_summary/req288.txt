@@ -1,0 +1,1 @@
+reduc memori footprint store record header 

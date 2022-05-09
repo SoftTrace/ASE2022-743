@@ -1,0 +1,8 @@
+addit system permiss propos sens chang style amp action system permiss 
+today shutdown propos potenti futur shutdown engin shutdown server action 
+propos jmx control server control engin control action 
+standard permiss class meant repres object permiss appli action repres action object 
+sens consist permiss 
+server action control monitor shutdown 
+engin action control monitor shutdown 
+jmx action control 

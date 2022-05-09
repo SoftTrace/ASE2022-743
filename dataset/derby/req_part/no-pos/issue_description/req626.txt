@@ -1,0 +1,17 @@
+derbi serial access data file 
+implement raf read page 
+synchron 
+file file object 
+file data seek page offset file data random access file 
+file data read fulli page data page size 
+
+experi patch introduc file 
+descriptor random access file object raf 
+read principl reader busi 
+read page request creat reader maximum number 
+reader patch throughput improv 
+linux discuss 
+challeng suggest approach mechan 
+limit number open file descpriptor mike matrigali 
+suggest exist cach manag infrastructur 
+purpos discuss 

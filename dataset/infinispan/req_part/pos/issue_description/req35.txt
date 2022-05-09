@@ -1,0 +1,4 @@
+follow:VBG case:NNS 
+node:NN load:NN 
+node:NN load:NN 
+simpl:JJ configur:VB load:NN factor:NN node:NN power:JJ machin:NN load:NN ordinari:JJ machin:NN cluster:NN 

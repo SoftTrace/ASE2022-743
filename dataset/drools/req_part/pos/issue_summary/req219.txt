@@ -1,0 +1,1 @@
+annot:NNS declar:VBN bean:NNS 

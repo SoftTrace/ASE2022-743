@@ -1,0 +1,12 @@
+test:NN follow:VBZ 
+pigserv:NN 
+datum:NNS datum:NNS 
+foo:NN 
+load:NN foo:NN 
+complex:NN script:NN test:VB 
+store:NN bar:NN 
+iter:NNP tupl:NNP bar:NN 
+iter:NN 
+assertequ:NNS 
+assertequ:NNS 
+assertequ:NNS 

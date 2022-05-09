@@ -1,0 +1,7 @@
+output:NN schema:NN adopt:VB schema:NN union:NN semant:NNS output:NN column:NN compon:NN tabl:NN result:NN row:NNS valu:NNS column:NN row:NNS compon:NN tabl:NN null:JJ hand:NN output:NN column:NN multipl:JJ compon:NN tabl:NNS type:NNS column:NN compon:NN tabl:NNS ident:JJ 
+throw:VBN 
+result:NN row:NNS valu:NNS column:NN row:NNS compon:NN tabl:NNS column:NN null:JJ 
+order:NN preserv:VBG union:JJ result:NNS index:VBN compon:NN tabl:NNS project:NN column:NN 
+compon:NN tabl:NN index:NN output:NN posit:NN project:NN list:NN 
+underli:VBG tabl:NN union:NN sort:VBN tabl:NNS special:JJ column:NN project:NN throw:VBN 
+attempt:NN creat:VB tabl:NN column:NN excpet:NN throw:VBN reserv:VBN zebra:NN virtual:JJ 

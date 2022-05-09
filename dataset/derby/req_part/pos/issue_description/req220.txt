@@ -1,0 +1,3 @@
+derbi:NNP open:JJ sourc:NN code:NN read:VB databas:NN file:NNS modular:JJ potenti:JJ exist:VBZ routin:NNS util:VB code:NN classpath:NN read:VB modifi:VB databas:NN inform:NN bypass:VBG sql:NN level:NN secur:NN 
+derbi:NNP special:JJ case:NN derbi:NNP code:NN classpath:NN correct:JJ permiss:NNS read:VB write:VB databas:NN file:NNS 
+exist:VBG routin:NNS upgrad:VBN databas:NNS fail:VB execut:VB time:NN resolv:VB class:NNS 

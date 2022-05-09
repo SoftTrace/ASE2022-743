@@ -1,0 +1,4 @@
+system:NN properti:NNS aren:JJ runscript:NN method:NN 
+rais:VBZ issu:NN port:NN junit:NN test:NNS custom:VBN block:VBG 
+idea:NN properti:NNS set:VBN system:NN properti:NNS properti:NNP object:NN pass:VBD runscript:NN method:NN 
+share:VB thought:NNS idea:NNS approach:NN 

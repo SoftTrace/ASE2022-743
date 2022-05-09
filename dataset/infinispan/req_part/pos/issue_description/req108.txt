@@ -1,0 +1,5 @@
+unnecessari:JJ complex:NN 
+add:VBG function:NN top:NN refactor:VBN 
+extract:NN logic:NN interceptor:NN 
+requir:VB move:VBG logic:NN interceptor:NN 
+separ:NN cach:NNS extract:VB remain:VBG logic:NN transact:NNP 

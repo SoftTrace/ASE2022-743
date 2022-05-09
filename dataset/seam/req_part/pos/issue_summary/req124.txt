@@ -1,0 +1,1 @@
+seam:NN date:NN schema:NN 

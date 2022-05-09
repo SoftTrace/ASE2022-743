@@ -1,0 +1,1 @@
+extend:VB system:NN function:NN mechan:NN support:VB function:NNS multipl:JJ argument:NNS 

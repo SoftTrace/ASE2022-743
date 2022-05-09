@@ -1,0 +1,2 @@
+build:VBG project:NNS inherit:VBP parent:NN pom:NN instal:VBN remot:JJ repo:NN defin:VBP remot:JJ repo:NN parent:NN pom:NN download:VBN 
+resolv:VB configur:VB bootstrap:NN repo:NN definit:NN 

@@ -1,0 +1,1 @@
+function:NNS procedur:NNS blob:NN clob:NN argument:NNS 

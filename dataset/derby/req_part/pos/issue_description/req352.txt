@@ -1,0 +1,19 @@
+provid:VBN manual:JJ updat:VB statisitc:NNS 
+discuss:NN jira:NN entri:NN optim:VBG case:NNS updat:VB statist:NNS 
+enter:VB relat:JJ comment:NNS jira:NN entri:NN refer:NN 
+knut:NNP ander:NNP hatlen:NNP jul:NN 
+understand:VBN uniqu:JJ index:NNS date:NN cardin:NN statist:NNS cardin:NN row:NN count:NN 
+case:NN optim:NN skip:VB uniqu:JJ index:NNS call:VBN 
+mike:NNP matrigali:NNP jul:NN 
+cardin:NN uniqu:JJ index:NN row:NN count:VB 
+complic:JJ skip:VBG uniqu:JJ index:NNS depend:VBZ number:NN column:NNS index:NN 
+index:NN multipl:JJ cardin:NNS calcul:VBN 
+instanc:NN index:NN column:NNS 
+cardin:NNS calcul:VBN 
+agre:VBP calcul:NN cardin:NN short:JJ circuit:VBN uniqu:JJ index:NN 
+knut:NNP ander:NNP hatlen:NNP jul:NN 
+mike:NNP 
+cardin:NN number:NN uniqu:JJ valu:NNS cardin:NN uniqu:JJ index:NN equal:JJ row:NN count:NN full:JJ key:NN 
+short:JJ circuit:NN index:NN 
+don:VBP worth:JJ extra:JJ complex:NN short:JJ circuit:NN case:NN scan:VB entir:JJ index:NN 
+singl:JJ column:NN uniqu:JJ index:NN sound:VBZ good:JJ idea:NN 

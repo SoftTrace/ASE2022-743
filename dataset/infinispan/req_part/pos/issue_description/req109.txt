@@ -1,0 +1,5 @@
+moment:NN entri:NNS 
+order:NN commit:VB entri:NNS revers:VBN order:NN add:VBN context:NN 
+inherit:VBN featur:NN sens:NN cach:NN tree:NN structur:NN 
+doesn:VBD sens:NN infinispan:NNP add:VBZ unnecessari:JJ burden:NN 
+problem:NN perform:NN cost:JJ case:NN cach:NNS oper:NNS singl:JJ entri:NN lookup:NN hold:VBN invoc:NN context:NN 

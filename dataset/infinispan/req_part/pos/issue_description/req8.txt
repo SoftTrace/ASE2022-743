@@ -1,0 +1,4 @@
+implement:VB script:NN manag:NN store:VBZ custom:NN script:NNS dedic:JJ cach:NN 
+script:NNS invok:VBN user:NN bind:NN set:NN paramet:NNS 
+compon:NN support:VB code:NN extens:NN point:NNS simpl:JJ task:NNS distexec:NN map:NN reduc:VB listen:NNS 
+script:NN type:NN support:VBN jsr:NN script:NN engin:NNS 

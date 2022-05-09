@@ -1,0 +1,4 @@
+seam:NN team:NN build:VBG seam:NN version:NN upgrad:VB project:NN hibern:VB beanvalid:NN rid:VBN valid:NN dependci:NN 
+upgrad:VBN project:NN month:NNS hibern:VBP tomcat:NN dev:NN product:NN test:NN glassfish:JJ test:VB ejb:NN 
+provid:VB patch:NN seam:NN team:NN refer:NN push:VB full:JJ sourc:NN code:NN github:NN team:NN permiss:NN 
+heyoulin:NN 

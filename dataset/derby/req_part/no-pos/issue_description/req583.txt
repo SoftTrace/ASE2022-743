@@ -1,0 +1,9 @@
+derbi encount method call reflect actual problem hidden long chain 
+creat tabl int 
+row insert updat delet 
+call sysc util sysc import tabl null null null null null 
+error java sql sql java lang reflect invoc target thrown evalu express thrown evalu express 
+error java lang reflect invoc target thrown evalu express 
+error java java lang reflect invoc target 
+error xie data file null 
+inform user case good remov invoc target chain easier spot actual problem 

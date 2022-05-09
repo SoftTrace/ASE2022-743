@@ -1,0 +1,1 @@
+support:VB eager:JJ load:NN associ:NNS 

@@ -1,0 +1,1 @@
+integr:NNS notifi:VBN updat:NNS local:JJ repositori:NN order:NN updat:VB auxiliari:JJ datum:NNS structur:NNS index:NNS 

@@ -1,0 +1,4 @@
+entri:NN sysstatist:NN tabl:NN order:NN cardin:NN statist:NNS sysstatist:NN creat:VBN 
+creat:VB statist:NNS don:VBP exist:VBP 
+creat:VB index:NN creat:VBN empti:JJ tabl:NN drop:VB recreat:VB index:NN tabl:NN load:VBN 
+document:NN updat:VBG chang:NN 

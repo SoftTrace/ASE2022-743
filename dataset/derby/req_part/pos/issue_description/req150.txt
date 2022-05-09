@@ -1,0 +1,16 @@
+run:VBG sql:NN script:NNS part:NN junit:NN test:NNS applic:NNS awkward:JJ program:NN today:NN 
+run:VB sql:NN script:NN input:NN stream:NN write:NN 
+result:VBG output:NN provid:VBN 
+conn:NN connect:NN script:NN default:NN connect:NN 
+sql:NNP script:NN 
+encod:NNP script:NN 
+sql:NNP script:NN output:NN 
+outputencod:VBG output:NN encod:VBG 
+number:NN sqlexcept:NNS throw:VBN execut:NN 
+public:JJ static:NN int:NN runscript:NN 
+connect:NN conn:NN 
+sql:NNP 
+string:NN inputencod:NN 
+sql:NNP 
+string:NN outputencod:NN 
+throw:VBZ 

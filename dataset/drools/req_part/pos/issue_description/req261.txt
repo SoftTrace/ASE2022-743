@@ -1,0 +1,2 @@
+idea:NN dynam:JJ proxi:NNS support:VB shadow:NN fact:NNS 
+chang:NNS fact:NNS queue:VBN shadow:NNS refresh:VBN propag:NN finish:VBN 

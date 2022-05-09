@@ -1,0 +1,4 @@
+extens:NNS tycho:NNP employ:VB custom:NN repo:NN layout:NNS access:VB obr:NN repo:NNS 
+mirror:NN desir:JJ mirror:NNS normal:JJ maven:NNP repo:NNS osgus:NNS repo:NNS 
+neverthess:NNP user:NNS wildcard:NNS easi:JJ mirror:NN mainten:NN wildcard:NN match:VBZ repo:NN layout:NN type:NN 
+enrich:VB set:NNS model:NN specif:NN layout:NN mirror:NN select:VBG mirror:NN specif:JJ repositori:NN 

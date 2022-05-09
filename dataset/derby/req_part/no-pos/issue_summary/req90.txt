@@ -1,0 +1,1 @@
+statement creat local transact default holdabl global transact 

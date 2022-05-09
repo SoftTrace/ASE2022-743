@@ -1,0 +1,3 @@
+getdatabaseproductvers:NN getdriververs:NN report:NN digit:NN derbi:NNP version:NN number:NN svn:NN build:NN number:NN 
+return:VB full:JJ version:NN includ:VBG build:NN number:NN sysinfo:NN clear:JJ applic:NN log:NNS collect:VBP inform:NN revis:NN level:NN run:VBG roll:VBN fix:NNS mainten:NN branch:NN releas:NNS 
+risk:NN applic:NNS pars:VBG version:NN inform:NN getdatbaseminorvers:NN getdrivermajorvers:NN getdriverminorvers:NN proccess:NN 

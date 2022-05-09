@@ -1,0 +1,1 @@
+rule ad add object type node scan object typd node contenst assignablefrom ensur propag fact list array list key part remov redund don propag fact match list array list 

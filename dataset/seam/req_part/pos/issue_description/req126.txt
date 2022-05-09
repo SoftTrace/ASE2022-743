@@ -1,0 +1,2 @@
+observ:VB 
+redirect:VB user:NN singl:JJ signin:NN server:NN 

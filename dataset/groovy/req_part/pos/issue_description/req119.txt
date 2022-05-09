@@ -1,0 +1,2 @@
+kind:NN reflect:NN api:NN trait:NNS program:NNS reason:VB trait:NNS runtim:NN 
+spock:NNP method:NN accord:VBG java:NNP reflect:NN declar:VBN class:NN declar:VBN groovi:JJ class:NN inherit:VBN trait:NN 

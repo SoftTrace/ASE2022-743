@@ -1,0 +1,6 @@
+perform:NN problem:NNS report:VBN resolv:VBN updat:VBG cardin:NN statist:NNS optim:NN 
+time:NN statist:NNS guarante:VBN date:NN index:NN creat:VBN popul:VBN tabl:NN 
+accomplish:VBN exist:VBG tabl:NN command:NN 
+alter:VB tabl:NN tabl:NN compress:VB sequenti:JJ 
+compress:VB tabl:NN intens:JJ task:NN 
+achiev:VB parser:NN support:NN updat:NN statist:NNS command:NN updat:NN fashion:NN 

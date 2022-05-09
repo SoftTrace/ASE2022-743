@@ -1,0 +1,1 @@
+class:NNP scan:VB annot:NN extend:JJ busi:NN interfac:NNS 

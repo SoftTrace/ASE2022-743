@@ -1,0 +1,1 @@
+describ:VB default:NN secur:NN manag:NN polici:NN instal:VBN mechan:NNS start:VB network:NN server:NN 

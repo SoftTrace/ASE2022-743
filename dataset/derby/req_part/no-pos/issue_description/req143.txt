@@ -1,0 +1,3 @@
+jdbc expert group spec 
+databas meta data function paramet chang function column 
+databas meta data function paramet constant chang function column 

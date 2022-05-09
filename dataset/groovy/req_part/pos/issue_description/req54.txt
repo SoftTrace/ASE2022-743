@@ -1,0 +1,7 @@
+creat:VB instanc:NN groovi:JJ method:NNS 
+file:NN file:NN 
+line:NN println:NN 
+add:VB static:NN method:NNS 
+thread:NN 
+process:NN long:JJ run:NN process:NN 
+execut:VB 

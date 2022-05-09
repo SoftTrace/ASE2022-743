@@ -1,0 +1,8 @@
+log databas credenti password expir advis chang password sysc util sysc modifi password procedur warn messag log credenti chang password lead user modifi password current databas credenti databas 
+connect connect jdbc derbi otherdb user test password abc 
+warn password expir day sysc util sysc modifi password procedur chang password 
+connect call sysc util sysc modifi password password 
+row insert updat delet 
+connect connect jdbc derbi otherdb user test password password 
+error connect authent failur occur reason invalid authent 
+sysc modifi password succeed password updat credenti 

@@ -1,0 +1,3 @@
+error:NN report:VBG replic:NN test:NN delet:VBG file:NNS initi:VB master:NN slave:NN insuffici:JJ 
+messag:NN print:VBN consol:NN test:NN continu:VBZ run:VB 
+test:NN fail:VB reason:NN left:JJ file:NNS 

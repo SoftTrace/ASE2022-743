@@ -1,0 +1,4 @@
+jdk:NNP standard:JJ decor:NN junit:NN test:NNS 
+return:NN 
+order:NN test:NN fixtur:NNS run:VBN indeterminist:JJ 
+undesir:JJ doesn:VBD add:VB coverag:NN product:NN test:NNS brittl:JJ 

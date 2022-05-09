@@ -1,0 +1,1 @@
+retriev:VBG configur:NN instanc:NNS defin:VBG configur:NNS base:VBN exist:VBG config:NN 

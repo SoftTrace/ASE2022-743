@@ -1,0 +1,12 @@
+error:NN messag:NN complex:JJ 
+invalid:JJ chang:NN properti:NN 
+set:VBN nativ:NNP authent:NN properti:NN chang:VBN 
+nativ:NN local:NNP nativ:NN valu:NN accept:VBN 
+properti:NN set:VBN nativ:NNP local:JJ credenti:NNS databas:NN owner:NN store:VBN databas:NN 
+procedur:NN 
+favor:NN simplifi:VBG error:NN messag:NN rais:VBG specif:JJ messag:NN error:NN condit:NN dbo:NNP hasn:NN add:VBN user:NN 
+clear:JJ inform:NN appli:VBZ set:VBG databas:NN properti:NN 
+messag:NN describ:VB problem:NN scenario:NNS 
+turn:VBG nativ:NNP authent:NN forbid:VBN 
+invalid:JJ valu:NN set:VBN databas:NN properti:NN 
+credenti:NNS dbo:NN 

@@ -1,0 +1,13 @@
+don reason queri defin queri queri general design queri oper static base queri condit dynam item type result list anticip case defin generic type object 
+cite start 
+public class entiti queri extend queri entiti manag 
+
+public class categori queri extend entiti queri categori 
+
+categori queri categori queri 
+categori result list 
+didn cast 
+
+hand queri compon defin type work type treat java lang object 
+public class categori queri extend entiti queri 
+

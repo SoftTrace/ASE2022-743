@@ -1,0 +1,6 @@
+fix:NN propos:VBD 
+manag:VB pass:VB addit:JJ file:NNS page:NNPS compon:NN 
+problem:NN definit:NN compon:NN 
+propos:VBP refactor:VBG process:NN node:NNS page:NNPS compon:NN process:VBN defin:VB handler:NNS 
+altern:JJ implement:NN page:NNPS compon:NN notifi:VB compon:NN process:VBZ 
+specif:JJ encapsul:VBN compoent:NN feed:VBN file:NNS 

@@ -1,0 +1,9 @@
+counter:NNS framework:NN hadoop:NNP 
+interest:JJ find:VBG number:NN record:NNS read:VBN mapper:NN reduc:NN job:NN script:NN 
+sampl:NN code:NN access:VB statist:NNS job:NN 
+string:NN reduceplan:NN 
+reduceplan:JJ null:JJ 
+record:NNPS write:VBN 
+record:NNPS write:VBN 
+patch:NN test:NN case:NNS 
+includ:VBP test:NNS multipl:JJ job:NNS case:NN 

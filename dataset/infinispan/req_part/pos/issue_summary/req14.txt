@@ -1,0 +1,1 @@
+xaresourc:NN implement:NN ispn:NNP stateless:JJ 

@@ -1,0 +1,7 @@
+learn:VB access:NN layer:NN discov:VBN code:NN improv:NNS increas:VB readabl:NN code:NN 
+patch:NNS attach:VBN issu:NN cleanup:JJ patch:NNS function:NN chang:VBN 
+chang:NNS 
+remov:VB unus:JJ import:NNS 
+remov:VB unus:JJ method:NNS 
+fix:NN error:NNS 
+tighter:JJR encapsul:NN remov:NN unus:JJ variabl:NNS 

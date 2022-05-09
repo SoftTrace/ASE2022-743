@@ -1,0 +1,5 @@
+groovi:JJ provid:VBZ conveni:JJ method:NN byte:NN 
+conveni:JJ encodehex:NN method:NN byte:NN 
+html:NN 
+apach:NNP common:NNP codec:NNP project:NN provid:VBZ implement:NN hex:NN encod:NN trivial:JJ implement:VB scratch:NN 
+featur:NN conveni:JJ work:VBG checksum:NNS 

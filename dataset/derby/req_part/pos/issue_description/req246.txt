@@ -1,0 +1,12 @@
+derbi:NNP collat:NN char:NN datatyp:NNS depend:VBG kind:NN collat:NN request:VBN user:NN databas:NN creat:VB time:NN option:JJ jdbc:NNP url:NN attribut:NN collat:NN 
+collat:NN type:NN associ:VBN dtd:NN determin:VB kind:NN dvd:NNP generat:VBN 
+note:VB collat:NN format:NN char:NN datatyp:NNS remain:VBP 
+order:NN support:VB behavior:NN generat:VBG base:NN dvd:NN collat:NN sensit:JJ dvd:NN charact:NN datatyp:NNS add:VB api:NN follow:VBZ 
+sqlchar:NN sqlvarchar:NN sqllongvarchar:NN sqlclob:NN base:NN class:NNS 
+collatorsqlchar:NN collatorsqlvarchar:NN collatorsqllongvarch:NN collatorsqlclob:NN 
+subclass:NNS 
+method:NN return:VBZ base:NN class:NN subclass:NN 
+depend:VBZ valu:NN 
+null:JJ object:NN return:VBD baseclass:NN 
+subcalss:NNS 
+public:JJ valu:NNP 

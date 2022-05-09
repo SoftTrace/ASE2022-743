@@ -1,0 +1,1 @@
+support:NN union:NN oper:NN merg:VBZ base:VBN column:NN 

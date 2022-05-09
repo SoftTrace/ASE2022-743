@@ -1,0 +1,33 @@
+revok execut restrict fail depend object execut privileg 
+function spec attach revok execut restrict fail depend object execut privileg 
+order implement revok execut execut special invalid action sent depend object catch invalid throw depend thrown revok execut succeed 
+creat jira entri easier track item link jira entri 
+function spec attach 
+view drop privileg requir view revok 
+view track privileg requir derbi depend manag requir privileg revok view drop automat 
+creat jira entri easier track item link jira entri 
+function spec attach 
+upgrad test enhanc test grant revok 
+grant revok featur target releas upgrad test modifi test featur upgrad scenario work fine 
+
+add lang grantrevok java derbynetclientmat 
+notic run lang grantrevok java client fail 
+unexpect 
+connect authent failur occur reason userid password invalid 
+java sql sql connect authent failur occur reason userid password invalid 
+caus org apach derbi client sql connect authent failur occur reason userid password invalid 
+
+fail error 
+test fail 
+grant revok jdk derbi net client 
+test configur problem sort good client test grant revok 
+remov sys sysrequiredperm derbi ad grant revok function 
+grant revok function derbi engin track view constraint trigger depend privileg sys sysrequiredperm tabl ad purpos depdenc mantain exist depend manag bit work depend manag grant revok sys sysrequiredperm releas drop sys sysrequiredperm derbi code updat grant revok function spec 
+trigger drop privileg requir trigger revok 
+trigger track privileg requir derbi depend manag requir privileg revok trigger drop automat 
+creat jira entri easier track item link jira entri 
+function spec attach 
+constraint drop privileg requir constraint revok 
+constraint track privileg requir derbi depend manag requir privileg revok constraint drop automat 
+creat jira entri easier track item link jira entri 
+function spec attach 

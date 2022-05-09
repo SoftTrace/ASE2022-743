@@ -1,0 +1,4 @@
+read:VBG boss:NNP recoveri:NN document:NN recoveri:NN process:NN pull:VB recoveri:NN info:NN ispn:NNP xaresourc:NN implement:NN call:VBG 
+recov:VB 
+issu:NN method:NN call:VBN process:NN ispn:NNP node:NN leaf:NNS atm:NNP invok:VB process:NN 
+document:NN user:NNS set:VB play:NN transact:NN recoveri:NN general:JJ 

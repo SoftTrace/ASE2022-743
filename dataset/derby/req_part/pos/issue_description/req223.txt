@@ -1,0 +1,6 @@
+default:NN ssl:NN behaviour:NN requir:VB serer:NN authent:NN 
+databas:NN applic:NN import:JJ web:NN browser:NNS creat:VBZ som:NN extra:JJ hassl:NN user:NN applic:NN programm:NN 
+main:JJ object:NN ssl:NN derbi:NNP encrypt:NN wire:NN server:NN authent:NN option:JJ client:NN authent:NN 
+creat:VBZ symmetri:NN exploit:VBN simplifi:VB user:NN interfc:NN 
+improv:NN describ:VBN attach:VBN function:JJ specif:NN 
+attach:NN detail:NNS 

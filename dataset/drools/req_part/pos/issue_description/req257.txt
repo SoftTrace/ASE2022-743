@@ -1,0 +1,4 @@
+bigdecim:JJ support:NN evalu:NNS 
+foo:NN bigdecfield:NN 
+liter:JJ convert:VBN 
+hard:JJ 

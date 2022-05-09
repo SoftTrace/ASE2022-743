@@ -1,0 +1,8 @@
+introduc dialect attribut jdbc cach store 
+main goal provid specif configur attribut xml configur 
+string key jdbc store jdbc store datasourc java jboss datasourc jdbc dialect mysql 
+custom properti 
+string key jdbc store jdbc store datasourc java jboss datasourc jdbc 
+properti databas type databas type properti 
+string key jdbc store 
+result configur ispn embed mode add store jdbc binari store configur builder class tabl databas type add store jdbc binari store configur builder class dialect 

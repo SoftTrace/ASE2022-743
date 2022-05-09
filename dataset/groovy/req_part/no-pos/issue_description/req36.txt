@@ -1,0 +1,10 @@
+groovi transpos method 
+rubi transpos method array 
+python zip method 
+expect behaviour 
+assert transpos 
+assert transpos 
+assert transpos 
+assert transpos 
+assert transpos 
+assert transpos 

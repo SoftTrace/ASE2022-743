@@ -1,0 +1,15 @@
+rdbms:NN support:NN sql:NN standard:JJ statist:NNS function:VBZ 
+stddev:NNP varian:NNP 
+hsqldb:NNP 
+ingr:NNP 
+sql:NNP 
+oracl:NNP 
+postgr:NNP 
+sql:NN server:NN stdevp:NNP stdev:NNP varp:NNP var:NNP 
+sybas:NNP ase:NNP 
+sybas:NN sql:NN 
+don:VBP 
+derbi:NNP 
+lite:NNP 
+addit:NN derbi:NNP 
+larger:JJR list:NN statist:NNS aggreg:JJ function:NNS list:VBN postgr:NNP document:NN 

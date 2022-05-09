@@ -1,0 +1,2 @@
+jpa:NNP requir:VBG databas:NNS support:VB ansi:NN featur:NN esp:VBP abil:NN choos:VB trim:VBN charact:NN 
+trim:NN str:NN 

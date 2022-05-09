@@ -1,0 +1,17 @@
+mark:NNP 
+edson:NNP 
+don:VBP chang:VB acc:NN keyword:NN drastic:JJ chang:NNS syntax:NN 
+evolv:VB accumul:VBP 
+optional:JJ 
+document:VBN separ:JJ 
+function:NNS separ:VBN 
+option:JJ boolean:JJ express:NN eval:NN eval:NN wrapper:NN 
+separ:JJ eval:NN accumul:VBP 
+good:JJ encapsul:VB intent:NN guard:NN accumul:VBP opportun:NN remov:VB eval:NN keyword:NN common:JJ case:NN 
+rewrit:VB accumul:VBP place:VB eval:NN acc:NN 
+small:JJ win:NN drl:NNP nicer:JJR cep:NN case:NNS 
+edson:NNP 
+mark:NNP 
+regard:VBG emb:VB express:NN accumul:VBP node:NN 
+separ:JJ node:NN 
+separ:NN don:VBP eval:NN keyword:NN 

@@ -1,0 +1,2 @@
+provid:VB finer:JJR grain:VBD control:NN configur:NN process:VBN hand:VBG final:JJ mojo:NN configur:NN configur:NNP configur:NN appli:VBZ mojo:NNP 
+specif:JJ case:NN mojo:NNS configur:VBN scop:VBG configur:NN mojo:NNP mojo:NNP 

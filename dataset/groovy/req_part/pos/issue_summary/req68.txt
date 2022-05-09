@@ -1,0 +1,1 @@
+encod:VBG file:NN combini:NN method:NNS line:NNP 

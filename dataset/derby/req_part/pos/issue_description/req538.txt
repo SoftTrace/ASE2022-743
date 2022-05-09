@@ -1,0 +1,4 @@
+open:VB jdk:NNP includ:VB mainten:NN rev:NN jdbc:NNP 
+public:JJ discuss:NN jdbc:NNP place:NN 
+build:VB derbi:NNP support:NN jdbc:NNP public:JJ spec:NN 
+time:NN unclear:JJ derbi:NNP releas:NN carri:VB support:NN 

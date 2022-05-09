@@ -1,0 +1,25 @@
+pdl navig decis java code lot loos coupl transpar support stateless navig 
+page view load custom jsp 
+action express 
+custom home load outcom custom home 
+outcom valu true 
+render view display custom jsp 
+outcom 
+outcom valu fals 
+render view jsp 
+outcom 
+action 
+page 
+reduc 
+page view load custom jsp 
+action express custom home load 
+
+outcom valu success 
+render view display custom jsp 
+outcom 
+outcom valu 
+render view jsp 
+outcom 
+action 
+page 
+emul normal jsf navig rule 

@@ -1,0 +1,12 @@
+chang:VB intern:JJ implemet:NN share:VB exist:VBG alter:VB tabl:NN 
+code:NN 
+suggest:VBD approach:NN mechan:NN 
+implement:NN involv:VB 
+chang:NN parser:NN alter:VB tabl:NN accecpt:NN intern:JJ syntax:NN 
+chang:NN alter:VB tabl:NN constant:JJ action:NN requir:JJ inform:NN inplac:NN compress:VB 
+move:NN inplac:NN compress:VB drive:VBG code:NN routin:NN alter:VB tabl:NN execut:NN follow:VBG 
+code:VBG pattern:NN exist:VBG alter:VB tabl:NN compress:VB 
+multipl:JJ benefit:NNS 
+share:NNS exist:VBG alter:VB tabl:NN code:NN error:NN check:NN secur:NN manag:NN piec:NN code:NN 
+share:VBG code:NN follow:VBG outstand:JJ jira:NN issu:NNS address:VBN 
+futur:JJ chang:NNS address:VBG ddl:NN grant:NN revok:VB work:VB 

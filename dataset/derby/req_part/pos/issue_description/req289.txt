@@ -1,0 +1,16 @@
+claus:NN territori:NN base:VBN charact:NNS implement:VBN base:VBN sql:NN standard:NNS object:NN string:NN collationelementiter:NN creation:NNS introduc:VBN cut:VBN follow:VBG knut:NNP simpl:JJ solut:NN 
+copi:VBG solut:NN 
+implement:VB solut:NN improv:VB perform:NN territori:NN base:VBN charact:NNS 
+copi:VBN 
+simpl:JJ cut:VB string:NN alloc:NNS express:VB checkequ:NN 
+val:NN loc:NNP pat:VBP ploc:NN 
+charact:NN string:NNS consist:VBG 
+singl:JJ charact:NN equal:JJ territori:NN 
+return:NN true:JJ 
+collat:NN null:JJ 
+charact:NN unequ:JJ 
+return:NN fals:NN 
+string:NN string:NN val:NN vloc:NN 
+string:NN string:NN pat:VB ploc:NN 
+return:NN 
+alloc:VB object:NNS charact:NNS equal:JJ 

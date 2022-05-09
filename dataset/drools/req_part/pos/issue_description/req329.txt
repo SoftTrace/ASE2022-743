@@ -1,0 +1,1 @@
+integr:NN test:NNS durat:NN work:VBP loop:NN 

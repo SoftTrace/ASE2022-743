@@ -1,0 +1,15 @@
+deploy:VB custom:NN cach:NN store:NN infinispan:NNP server:NN 
+overview:NN 
+support:NN deploy:NN configur:NN custom:NN cach:NN store:NN 
+client:NN perspect:NN 
+client:NN deploy:VB custom:NN cach:NN store:NN jar:NN hotrod:NNP server:NN put:VB standalon:JJ deploy:NNS 
+jar:NN follow:VBG servic:NN entri:NNS 
+meta:NN inf:NN servic:NNS 
+meta:NN inf:NN servic:NNS 
+meta:NN inf:NN servic:NNS 
+meta:NN inf:NN servic:NNS 
+meta:NN inf:NN servic:NNS 
+meta:NN inf:NN servic:NNS 
+servic:NNS configur:NN 
+implement:NN overview:NN 
+refer:VB 

@@ -1,0 +1,1 @@
+creat:VB event:NNS inform:VB listen:NNS rehash:VBG consist:JJ hash:NN chang:NNS 

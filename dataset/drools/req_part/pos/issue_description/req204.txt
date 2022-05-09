@@ -1,0 +1,2 @@
+main:JJ goal:NN featur:NN provid:VB unifi:JJ mechan:NN marshal:NNP object:NNS persist:VB status:NN knowledg:NN session:NN 
+strategi:NNS marshal:NNS variabl:JJ persist:NN strategi:NNS 

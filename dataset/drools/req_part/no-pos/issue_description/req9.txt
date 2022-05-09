@@ -1,0 +1,8 @@
+add match constraint 
+person address foo 
+simpl extens featur collect 
+sytax idea 
+person foo 
+person foo 
+person foo 
+prefer natur 

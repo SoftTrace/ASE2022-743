@@ -1,0 +1,3 @@
+lock:NN acquir:VBN acquir:VBG thread:NN interrupt:VBN lock:NN releas:VBN 
+coupl:NN trick:NN 
+impact:NN import:JJ lock:NN releas:VBN entri:NN unavail:JJ 

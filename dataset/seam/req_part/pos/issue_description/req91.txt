@@ -1,0 +1,3 @@
+jbpm:NN mechan:NN process:NN composit:NN work:VB pageflow:NN 
+figur:VB mechan:NN 
+afaict:NNP solv:VBN jbpm:NN seam:NNP 

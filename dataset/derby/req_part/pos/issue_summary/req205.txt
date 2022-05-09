@@ -1,0 +1,1 @@
+remov:VB unus:JJ code:NN lock:VBG row:NNS hold:VBG latch:VB 

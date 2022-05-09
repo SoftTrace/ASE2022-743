@@ -1,0 +1,10 @@
+set correct collat type deriv result charact string type char varchar xmlserial function 
+wiki page assign correct collat type result char varchar xmlserial function rule copi wiki page 
+char varchar xmlserial function defin sql spec behavior defin similar cast result charact string char varchar xmlserial collat current schema charact set collat deriv implicit 
+set correct collat type deriv result user defin function return charact string type 
+wiki page assign correct collat type result user defin function rule copi wiki page 
+user defin function return charact string type return type collat collat charact set schema function defin collat deriv implicit 
+set correct collat type deriv result charact string type current isol current user session user system user current schema current sqlid 
+wiki page assign correct collat type esult charact string type current isol current user session user system user current schema current sqlid rule copi wiki page 
+current user session user system user sql spec section syntax rule collat type collat charact set sql identifi derbi case collat function uc basic collat deriv implicit 
+current isol current schema current sqlid derbi specif function didn find sql spec order match behavior function cover return charact string type collat collat charact set sql identifi collat deriv implicit 

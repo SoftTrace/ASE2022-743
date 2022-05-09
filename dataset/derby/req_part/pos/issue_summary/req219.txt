@@ -1,0 +1,2 @@
+disallow:VB user:NN defin:VBN sql:NN routin:NNS resolv:VB entri:NN point:NNS method:NNS class:NNS 
+namespac:NN 

@@ -1,0 +1,1 @@
+page:NN paramet:NNS wildcard:JJ view:NN 

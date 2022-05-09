@@ -1,0 +1,8 @@
+send:VB pull:NN request:NN 
+method:NN haskel:NNP scala:NNP kotlin:NNP 
+index:NNS index:NNS 
+implement:NN 
+public:JJ static:NN indic:NNP list:NNP 
+return:VB fals:JJ 
+usag:NN 
+index:NNS 

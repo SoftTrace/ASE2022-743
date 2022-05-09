@@ -1,0 +1,18 @@
+client:NN driver:NN datum:NNS 
+executequeri:NN call:VBN call:NN 
+datum:NNS executequeri:NN reduc:VB 
+network:NN traffic:NN improv:VB perform:NN 
+drda:NNP protocol:NN support:VBZ 
+descript:NN opnqri:NNP open:JJ 
+queri:NN 
+qryrowset:NN paramet:NN rowset:NN row:NNS 
+return:VBN command:NN 
+honor:VBN 
+scrollabl:JJ cursor:NNS qryattsn:NNS equal:JJ qrysnsdyn:NNP 
+cursor:NNS conform:VBG limit:JJ block:NN queri:NN 
+protocol:NN 
+target:NN server:NN fetch:VBZ request:VBN 
+number:NN row:NNS 
+fetch:VB row:NNS restrict:VBN extra:JJ 
+queri:NN block:NN limit:NNS fetch:VB oper:NN result:NNS negat:JJ 
+sqlstate:NN sqlstate:NN 

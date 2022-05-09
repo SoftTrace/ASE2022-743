@@ -1,0 +1,10 @@
+delet:VBG directori:NN includ:VBG subdirectori:NNS tedious:JJ task:NN 
+method:NN file:NN 
+nice:JJ code:NN 
+datadir:NN file:NN path:NN 
+dir:NNS 
+delet:VBG 
+dir:NNS 
+delet:VBG directori:NN 
+file:NN dir:NN 
+deletedir:NN similar:JJ 

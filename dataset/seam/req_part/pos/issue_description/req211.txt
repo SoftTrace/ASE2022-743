@@ -1,0 +1,60 @@
+usag:NN 
+action:NNP param:NNPS featur:NN paramet:NNS call:VB action:NN 
+commandbutton:NN action:NN 
+hotel:NN user:NN 
+class:NN button:NN valu:NN book:NNP hotel:NNP 
+paramet:NNS hotel:NN user:NN evalu:VBN pass:VBD bookhotel:NN method:NN manag:VBN bean:NN 
+give:VBZ altern:NN forc:VBZ inject:NN happen:VB action:NN method:NN call:VBN 
+pass:VB liter:JJ string:NNP singl:JJ doubl:JJ quot:NNS 
+commandlink:JJ action:NN 
+messag:NN 
+valu:NN click:VB 
+commandlink:JJ action:NN 
+messag:NN 
+valu:NN click:VB 
+notat:NN action:NN method:NNS don:VBP param:NNS pass:VB 
+improv:VBZ readabl:NN clear:JJ express:NN 
+link:NN valu:NN cancel:VB action:NN 
+buttonclass:NN button:NN linkstyl:NN button:NN 
+handi:JJ pass:VBG jsf:NNP implicit:JJ object:NNS 
+page:NN view:NN action:NN 
+facescontext:NN view:NN 
+desir:VBP oper:NN method:NN defin:VBN spec:NNP 
+put:VB method:NN param:NNS 
+commandlink:JJ action:NN 
+foo:NN bar:NN facescontext:NN 
+valu:NN click:VB 
+tag:NNS 
+seam:NNP tag:NNS 
+drop:NN replac:NNS commandbutton:NN commandlink:NN 
+facelet:NNS class:NN attribut:NN add:VBN facelet:NNPS implement:NN correspond:VBG tag:NN 
+note:VB jsf:NNP style:NN tag:NNS work:VB 
+fix:VBG requir:VBZ tag:NNS write:VBN jsf:NNP style:NN 
+fix:VBN assum:VB jsf:NNP present:JJ 
+tag:NNS 
+link:NN support:VBZ action:NN param:NNS 
+action:NNS defin:VBN support:VBP action:NN param:NNS 
+facelet:NNP support:NNP 
+enabl:VB action:NN param:NNS facelet:NNP 
+applic:NN 
+view:NN handler:NN view:NN handler:NN 
+applic:NN 
+issu:NNS 
+creat:VBN paramet:NN type:NNS pass:VBN hand:NN 
+case:NN action:NN jsf:NNP assum:VBZ param:NNS pass:VB 
+action:NN param:NNS express:NN param:NN type:NNS paramet:NNS evalu:VBN 
+evalu:NN param:NNS doesn:VBD happen:VB invok:VBN 
+minor:JJ consequ:NNS 
+call:VBP invok:VB hand:NN param:NNS pass:VBP ignor:VBN 
+param:NNP defin:VBD express:NN preced:NN 
+facelet:NNPS call:VB 
+getparamtyp:NNS time:NN 
+express:NN action:NN param:NNS method:NN invok:VBN 
+case:NNS rare:JJ appli:VB invok:VB hand:NN 
+action:NN param:VBZ method:NN invok:VB determin:VBN express:NN 
+determin:VBZ method:NN base:VBN criterion:NNS 
+method:NN match:VB method:NN express:NN 
+number:NN paramet:NNS match:VB number:NN param:NNS express:NN 
+method:NN match:VB criterion:NNS 
+case:NN throw:VBN explain:VBG criterion:NNS 
+fix:VB point:NN hairi:JJ 

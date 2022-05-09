@@ -1,0 +1,3 @@
+averag:JJ seam:NNP applic:NN follow:VBG filter:NNS grow:VB time:NN 
+nice:JJ configur:VB singl:JJ master:NN filter:NN wrap:VBZ filter:NNS 
+filter:NNS applic:NN scop:VBN compon:NNS configur:VBN 

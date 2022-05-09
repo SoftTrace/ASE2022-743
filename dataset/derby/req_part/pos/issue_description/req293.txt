@@ -1,0 +1,7 @@
+type:NN class:NNS save:VB copi:NN valu:NN convert:VBN string:NN 
+complic:VBZ code:NN increas:VBZ memori:NN valu:NN case:NNS cach:JJ valu:NN 
+type:NN scan:NN string:NN valu:NN discard:VBN move:VBG row:NN 
+case:NNS applic:NNS call:VB getstr:NN column:NN 
+code:NN histor:JJ basi:NN fact:NN type:NNS repres:VBN date:NN timestamp:NN object:NN convers:NN string:NN slow:JJ 
+convers:NN type:NNS string:NN simpl:JJ 
+addit:NN getstr:NN return:VB form:NN valu:NN set:VBN format:NN cach:VBN string:NN set:VBN format:NN standard:JJ format:NN incorrect:JJ 

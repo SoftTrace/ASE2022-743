@@ -1,0 +1,1 @@
+add support sql standard statist function stddev pop stddev samp var pop var samp 

@@ -1,0 +1,5 @@
+insert:VBG charact:NN valu:NNS derbi:NNP convert:VBZ java:NNP char:NN disk:NN encod:NN utf:NN 
+user:NN stream:NN read:VBN result:VBG byte:NNS convers:NN place:VBN translat:NN buffer:NN 
+default:NN size:NN buffer:NN 
+insert:VBG lot:NN short:JJ valu:NNS pressur:NN java:NNP garbag:NN collector:NN unnecessari:JJ high:JJ alloc:NN higher:JJR cpu:NN usag:NN 
+effect:NN issu:NN reduc:VBN size:VBG buffer:NN case:NNS 

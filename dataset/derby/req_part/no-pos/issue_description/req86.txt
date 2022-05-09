@@ -1,0 +1,117 @@
+simpl case 
+tabl tbl row primari key index 
+queri question 
+select tbl 
+derbi tabl scan entir tabl list valu comparison field index 
+briefli code insert list start stop valu scan rang valu list play import role 
+queri chang select tbl index scan chosen 
+nice clever case index field number valu list rowcount estim list size optim 
+length list search tabl list valu index key search tabl 
+convert join list valu creat temporari tabl join optim choos tabl list outer tabl join key search larger tabl 
+
+queri plan log derbi languag log queri plan true similar queri 
+tabl ascend valu primari key index 
+gmt thread main xid sessionid select scanfix project restrict result set 
+number open 
+row 
+row filter 
+restrict true 
+project fals 
+constructor time millisecond 
+open time millisecond 
+time millisecond 
+close time millisecond 
+restrict time millisecond 
+project time millisecond 
+optim estim row count 
+optim estim cost 
+sourc result set 
+tabl scan result set scanfix read commit isol level instantan share row lock chosen optim 
+number open 
+row 
+row filter 
+fetch size 
+constructor time millisecond 
+open time millisecond 
+time millisecond 
+close time millisecond 
+time millisecond row 
+scan inform 
+bit set column fetch 
+number column fetch 
+number page visit 
+number row qualifi 
+number row visit 
+scan type heap 
+start posit 
+null stop posit 
+null qualifi 
+column 
+oper 
+order null fals 
+unknown return valu fals 
+negat comparison result fals 
+column 
+oper 
+order null fals 
+unknown return valu true 
+negat comparison result true 
+optim estim row count 
+optim estim cost 
+
+
+gmt thread main xid sessionid select scanfix project restrict result set 
+number open 
+row 
+row filter 
+restrict true 
+project true 
+constructor time millisecond 
+open time millisecond 
+time millisecond 
+close time millisecond 
+restrict time millisecond 
+project time millisecond 
+optim estim row count 
+optim estim cost 
+sourc result set 
+index row base row result set scanfix 
+number open 
+row 
+column access heap 
+
+constructor time millisecond 
+open time millisecond 
+time millisecond 
+close time millisecond 
+optim estim row count 
+optim estim cost 
+index scan result set scanfix index scanfixedx read commit isol level instantan share row lock chosen optim 
+number open 
+row 
+row filter 
+fetch size 
+constructor time millisecond 
+open time millisecond 
+time millisecond 
+close time millisecond 
+time millisecond row 
+scan inform 
+bit set column fetch 
+number column fetch 
+number delet row visit 
+number page visit 
+number row qualifi 
+number row visit 
+scan type btree 
+tree height 
+start posit 
+column 
+order null semant column 
+stop posit 
+column 
+order null semant column 
+qualifi 
+
+optim estim row count 
+optim estim cost 

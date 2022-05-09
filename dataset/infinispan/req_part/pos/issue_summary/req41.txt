@@ -1,0 +1,3 @@
+deploy:VB user:NN code:NN infinispan:NNP server:NN 
+infinispan:NNP server:NN deploy:VBG jar:NNS follow:VBP standard:JJ java:NNP servic:NN provid:NN api:NN 
+support:NN grouper:NNS listen:NNS map:NN reduc:VB job:NNS distexec:JJ job:NNS interceptor:NNS jpa:NN entiti:NNS 

@@ -1,0 +1,7 @@
+find:VB closur:NN findal:NN closur:NN method:NNS 
+good:JJ 
+list:NN closur:NN 
+list:NN int:NN startindex:NN closur:NN startindex:NN index:NN start:VB 
+int:NN list:NN closur:NN return:NN type:NN list:NN integ:NN 
+list:NN closur:NN 
+groovi:JJ jdk:NN import:JJ element:NNS fullfil:VBG give:VBN condit:NN list:NN 

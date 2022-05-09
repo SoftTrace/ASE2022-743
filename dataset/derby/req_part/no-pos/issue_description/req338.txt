@@ -1,0 +1,7 @@
+doc revok execut restrict 
+fail depend constraint 
+restrict claus specifi execut privileg 
+revok routin view trigger 
+constraint privileg revok owner 
+view trigger constraint 
+revok privileg correct restrict possibl wrong reason 

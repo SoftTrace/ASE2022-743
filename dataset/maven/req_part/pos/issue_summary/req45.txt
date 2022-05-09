@@ -1,0 +1,1 @@
+plugin:NN implementor:NNS choos:VB configur:NN creat:VBN 

@@ -1,0 +1,10 @@
+don:VBP jira:NNP upset:VBN post:NN 
+mail:VBD gavin:NNP put:VB jira:NNP 
+work:VBP project:NN seam:NNP remot:NNP didn:VBP find:VB neat:JJ handl:VBG error:NNS client:NN side:NN propag:VBN 
+chang:VBD seam:NNP transmit:VB handl:VBN javascript:NN part:NN callback:NN 
+function:NN user:NN 
+alert:NN user:NN user:NN 
+function:NN 
+alert:NN occur:VBD 
+handler:NN option:JJ chang:NN brake:VB client:NN code:NN 
+interest:JJ chang:NN reach:VB heinzbeinz:NN 

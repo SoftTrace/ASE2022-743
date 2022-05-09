@@ -1,0 +1,1 @@
+jdbc api introduc abil updat delet insert row resultset method java program languag send sql command jira entri track insert row function jdbc api 

@@ -1,0 +1,12 @@
+derbi max length varbinari varchar byte charact limit varchar maxwidth 
+work lob repres locat read buffer larger max valu server process data 
+read buffer byte byte request client request lob store procedur blobgetbyt 
+sume stream posit read 
+blobgetbyt instruct emb blob read byte advanc stream posit 
+derbi fetch receiv byte send rest data byte discard 
+client receiv byte recalcul posit length argument send request 
+blobgetbyt locat execut emb blob detect stream posit advanc reset stream posit skip read posit reach 
+remain byte sent client 
+issu deal point avoid reset stream 
+point problemat larg number byte read hundr megabyt issu 
+unfortun buffer size worst case byte 

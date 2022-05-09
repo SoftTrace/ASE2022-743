@@ -1,0 +1,3 @@
+provid drop column exist tabl syntax 
+alter tabl tablenam drop column columnnam cascad restrict 
+featur proper handl column constraint view trigger index 

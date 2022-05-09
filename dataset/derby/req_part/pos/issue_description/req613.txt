@@ -1,0 +1,3 @@
+result:NN poodl:NN secur:NN alert:NN protocol:NNS 
+futur:NN good:JJ protocol:NNS enabl:VBN server:NN side:NN easier:JJR product:NN impact:VBN secur:NN issu:NN specif:JJ protocol:NN 
+achiev:VB server:NN boot:NN time:NN list:VB enabl:VBD protocol:NNS 

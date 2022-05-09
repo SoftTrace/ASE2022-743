@@ -1,0 +1,1 @@
+statement:NNS creat:VBN local:JJ transact:NN default:NN holdabl:NN global:JJ transact:NNS 

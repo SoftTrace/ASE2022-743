@@ -1,0 +1,6 @@
+java:NNP class:NNS defin:VBN drl:NN declar:NN keyword:NN 
+good:JJ defin:VB java:NNP enum:NNS declar:NN 
+strip:VB proprietari:JJ guvnor:NN style:NN enum:NNS guvnor:NNP front:NN drl:NNP support:VBD enum:NNS 
+guvnor:NNP support:VBZ relat:JJ depend:JJ enum:NNS list:NN valu:NNS enum:NN depend:JJ valu:NN enum:NN enum:NN fuel:NN valu:NNS petrol:NNP diesel:NNP enum:NN valu:NNS unlead:VBN super:NNP unlead:VBD citi:NNP disel:NN 
+select:VBN valu:NNS unlead:NNP super:NNP unlead:VBD choos:VBN 
+function:NN provid:VBN guvnor:NNP author:NN time:NN restrict:NNS 

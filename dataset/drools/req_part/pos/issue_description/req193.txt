@@ -1,0 +1,2 @@
+rule:NNS place:VBN xor:NNP group:NNP 
+rule:NN exist:VBG xor:NNP group:NNP fire:VBZ cancel:VB activ:NNS xor:NNP group:NNP 

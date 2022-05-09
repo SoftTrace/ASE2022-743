@@ -1,0 +1,10 @@
+page:NNP action:NNS 
+postback:JJ attribut:NN add:VBD action:NN tag:NN disabl:VB action:NN postback:NN 
+condit:JJ ugli:JJ lot:NN type:VBG 
+logic:NN 
+privat:JJ boolean:JJ ispostback:NN 
+return:NN 
+key:NNP 
+condit:JJ altern:NN 
+action:NN execut:VB 
+empti:JJ param:NN 

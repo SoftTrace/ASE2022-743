@@ -1,0 +1,2 @@
+set rule base equal base assert behavior expect fact handl object method retriev previous assert fact provid equival equal hash code object argument case abstract work memori ident map ident assert map compar fact handl lookup assert map equal assert map compar lookup system hash code method overridden version suppli fact class lookup fail return null 
+attach unit test 

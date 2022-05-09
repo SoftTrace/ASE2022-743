@@ -1,0 +1,1 @@
+drda:NNP qrydta:NNP block:NN size:VBZ greater:JJR 

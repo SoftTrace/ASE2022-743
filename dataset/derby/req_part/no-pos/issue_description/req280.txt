@@ -1,0 +1,4 @@
+org apach derbi impl drda ddm writer byte array buffer wrap array java nio byte buffer advantag instanc 
+util method encod primit type byte array manual encod valu 
+encod string buffer charset encod expens string byte string encod intermedi step 
+util class code easier maintain byte buffer access byte array byte buffer interfac possibl modifi byte array case conveni 

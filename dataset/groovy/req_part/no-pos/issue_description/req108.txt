@@ -1,0 +1,3 @@
+process execut 
+println process text 
+doesn work process buffer input stream haven ad text input stream nice 

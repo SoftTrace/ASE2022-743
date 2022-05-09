@@ -1,0 +1,1 @@
+support:NN reason:NN fact:NNS work:VBG memori:NN 

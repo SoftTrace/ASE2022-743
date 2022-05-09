@@ -1,0 +1,1 @@
+unus:JJ local:JJ variabl:NN remov:VBG statement:NNS method:NN reorder:VBN reduc:VB object:NN creation:NN improv:VB readabl:NN 

@@ -1,0 +1,1 @@
+support:NN addit:JJ predic:JJ syntax:NNS 

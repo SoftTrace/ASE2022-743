@@ -1,0 +1,2 @@
+hate:VBP creat:VB true:JJ 
+kind:NN compon:NN convers:NN scope:NN 

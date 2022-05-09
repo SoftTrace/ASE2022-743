@@ -1,0 +1,36 @@
+seam gen generat class subcategori list deriv entiti queri modifi accept queri pass call object 
+public class categori list extend entiti queri 
+privat categori categori categori 
+privat string queri 
+privat integ max result 
+public categori list 
+
+queri select categori categori categori 
+max result 
+
+overrid 
+public string ejbql 
+
+return queri 
+
+overrid 
+public integ max result 
+
+return max result 
+
+public categori categori 
+
+return categori 
+
+overrid 
+public list string restrict 
+
+return array list restrict 
+
+public list categori categori string categori 
+
+queri select categori categori categori categori categori integ pars int categori 
+return result list 
+
+
+call object instanti class method categori list subcategori categori reus object call refresh pass categori resultlist entiti queri queri class refresh nullifi pars ejbql creat queri queri everytim resultlist 

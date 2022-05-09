@@ -1,0 +1,2 @@
+order:NN send:VB mail:NNS gmail:NN servic:NN requir:VBN set:VB 
+good:JJ set:VB addit:JJ option:NNS mail:NN session:NN compon:NN 

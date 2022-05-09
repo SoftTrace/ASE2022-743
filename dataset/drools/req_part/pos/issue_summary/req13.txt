@@ -1,0 +1,1 @@
+add:VB accumul:VBP condit:JJ element:NN 

@@ -1,0 +1,2 @@
+increas:VBN perform:NN hot:NNP rod:NNP client:NN server:NN enabl:VBP delay:NN default:NN 
+add:VB configur:NN option:NNS client:NN server:NN tcp:NN delay:NN configur:JJ 

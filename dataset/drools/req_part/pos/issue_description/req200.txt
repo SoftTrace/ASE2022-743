@@ -1,0 +1,10 @@
+relat:JJ oper:NNS string:NN field:NNS 
+myfact:NN bbb:NN 
+entri:NNS 
+result:VBZ 
+evalu:NNP support:VB type:NN valuetyp:NN string:NN rule:NN rule:NN 
+unabl:JJ creat:VB restrict:NN literalrestrict:NN bbb:NN field:NN rule:NN rule:NN rule:NN rule:NN 
+accord:VBG doc:NNS 
+oper:NNS 
+relat:JJ operatori:NN type:NN valu:NNS order:VBN 
+desir:JJ relat:JJ oper:NNS string:NN field:NNS string:NN compar:JJ 

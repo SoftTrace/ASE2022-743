@@ -1,0 +1,19 @@
+hot rod client support separ cach 
+asymmetr cluster cach consist hash primari owner key cach necessarili owner cach symmetr cluster client access distribut replic cach 
+order send oper correct owner hot rod client cach 
+revisit cach predefinit limit cach server 
+primari reason infinispan server requir predefin cach start startup invoc undefin cach 
+concurr cach startup result npe solv day 
+infinispan issu deal asymmetr cluster 
+issu resolv revisit limit 
+add support segment base hot rod protocol 
+server chang version virtual node base segment base client stay server translat server client translat imperfect 
+client comput primari owner server 
+client slower number segment increas server perform stay 
+sync consist hash factori default factori 
+fix sync consist hash factori good default variat number segment node segment primari segment accept purpos 
+major advantag schf depend cach member order join er expect key map node cach long cach member 
+downsid schf test segment ownership differ test run base random address assign node test depend key ownership control consist hash factori 
+verifi number segment move schf compar number segment move default consist hash factori 
+index affin support 
+

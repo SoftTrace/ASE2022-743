@@ -1,0 +1,1 @@
+enabl:VB intellig:JJ decis:NN base:VBN job:NN success:NN failur:NN 

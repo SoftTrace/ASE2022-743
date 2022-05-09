@@ -1,0 +1,1 @@
+smart:JJ cach:NN invalid:NN 

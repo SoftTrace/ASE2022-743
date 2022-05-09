@@ -1,0 +1,6 @@
+moment:NN achiev:VBN 
+extract:VBG parent:NN convers:NN manag:NN 
+call:VBG endbeforeredirect:NN 
+handi:JJ true:JJ 
+method:NN set:VB destroybeforeredirect:JJ flag:NN 
+true:JJ 

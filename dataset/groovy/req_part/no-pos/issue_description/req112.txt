@@ -1,0 +1,8 @@
+groovi log annot chang logger instanc class don support chang log categori 
+log categori hardcod fulli qualifi annot class foo bar class nice possibl chang categori 
+packag foo bar 
+common categori custom categori class 
+class class 
+
+custom categori log configur level 
+pecial grail framework special compon servic control custom log categori default prefix compon grail servic foo bar class ing groovi log annot break convent log configur compon effect 

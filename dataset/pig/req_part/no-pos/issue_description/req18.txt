@@ -1,0 +1,3 @@
+output schema adopt schema union semant output column compon tabl result row valu column row compon tabl null hand output column multipl compon tabl type column compon tabl ident thrown result row valu column row compon tabl column null 
+order preserv sort union result index compon tabl project column sourc tabl compon tabl index output posit project list tabl union sort tabl special column project thrown 
+attempt creat tabl column sourc tabl excpet thrown reserv zebra virtual 

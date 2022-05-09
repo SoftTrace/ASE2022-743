@@ -1,0 +1,13 @@
+abstract filter java tomcat 
+
+pattern match code adapt tomcat method check 
+path match pattern 
+param request servlet request request path 
+return boolean true path match pattern fals 
+
+public boolean map current request path servlet request request 
+url pattern 
+regex drop tomcat pattern nonsens wildcard regex compat addit url pattern regex regex 
+properti 
+ecas filter servlet feed 
+

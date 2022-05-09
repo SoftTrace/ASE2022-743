@@ -1,0 +1,2 @@
+run:VBG derbi:NNP oracl:NNP java:NNP emb:VBD client:NN boot:VBG engin:NN fail:VBD 
+happen:VB derbi:NNP recogn:VBZ java:NNP platform:NN cdc:NNP platform:NN 

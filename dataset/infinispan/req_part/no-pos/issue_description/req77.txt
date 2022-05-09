@@ -1,0 +1,6 @@
+user custom map key segment custom hash function hash function doesn give user direct control key map ultim locat depend implement implement customiz harder user 
+replac hash 
+public interfac segment mapper 
+public int segment object key int num segment 
+easier implement grouper interfac user locat doesn addit group featur cach group 
+intern replac group consist hash creat topolog updat constant segment mapper wrapper comput segment key save context comput time locat key 

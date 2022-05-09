@@ -1,0 +1,5 @@
+support:NN 
+groovi:JJ entiti:NNS 
+groovi:JJ action:NNS war:NNP 
+support:NN dynam:JJ groovi:JJ file:NNS dev:NN mode:NN action:NNS 
+support:NN groovi:JJ file:NN compil:NN entiti:NNS action:NNS prod:NN mode:NN 

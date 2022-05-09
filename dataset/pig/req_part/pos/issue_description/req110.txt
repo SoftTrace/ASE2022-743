@@ -1,0 +1,21 @@
+comput:VB top:JJ result:NNS group:NN 
+natur:JJ express:VB pig:NNP 
+load:NN 
+date:NN int:NN 
+count:NN int:NN 
+url:NN chararray:NN 
+group:NN date:NN 
+foreach:NN 
+order:NN count:NN desc:NN 
+limit:NN 
+generat:VBP 
+flatten:VB 
+dump:NN 
+write:VB udf:NN piggybank:NN function:NN top:JJ result:NNS 
+limit:NN exist:VBZ statement:NN work:VB nest:VBN foreach:NN context:NN 
+workaround:NN code:NN 
+foreach:NN 
+order:NN count:NN desc:NN 
+generat:VBP 
+flatten:VB 
+dump:NN 

@@ -1,0 +1,7 @@
+constructor:NNS receiv:VBP thread:NN pool:NN client:NNS shut:VB stop:NN good:JJ rule:NN resourc:NN manag:NN creator:NN resourc:NN thread:NN pool:NN manag:VB shutdown:NN 
+solv:VBN 
+add:VB ctor:NNP pool:NN flag:NN ownership:NN pool:NN destroy:VB shutdow:NN 
+leav:VB current:JJ constructor:NN invok:VBP 
+takeownership:NN true:JJ preserv:VB compat:NN 
+amend:VB executor:NN shutdown:NN thread:NN pool:NN ownership:NN 
+document:NN threadpool:NN ownership:NN constructor:NNS 

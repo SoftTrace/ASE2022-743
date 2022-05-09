@@ -1,0 +1,5 @@
+accumulo:NNP code:NN read:NN write:NN pig:NNP 
+work:VBG robust:JJ includ:VBD pig:NNP avoid:VB necess:NN bundl:VB addit:JJ jar:NNS 
+info:NN exist:VBZ current:JJ code:NN 
+translat:VB maven:NNP build:VB ant:NN ivi:NNP 
+figur:VB support:VB accumulo:NNP build:NNS differ:NNS depend:NNS api:NNS 

@@ -1,0 +1,1 @@
+reduc:VB chanc:NN hash:NN collis:NNS check:VBG bootpassword:NN boot:NN time:NN chang:VBG password:NN 

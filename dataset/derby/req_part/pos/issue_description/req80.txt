@@ -1,0 +1,5 @@
+uniqu:JJ constraint:NN key:NNS includ:VBP nullabl:JJ field:NNS 
+chang:NN derbi:NNP support:VBD uniqu:JJ constraint:NNS key:NNS includ:VBD nullabl:JJ column:NNS 
+constraint:NN unlimit:JJ insert:NNS key:JJ null:JJ column:NNS limit:VB insert:NN key:NNS null:JJ column:NNS uniqu:JJ valu:NN tabl:NN 
+chang:NN exist:VBG creat:VBN uniqu:JJ index:NNS null:JJ column:NNS oppos:VBN uniqu:JJ constraint:NNS null:JJ column:NNS 
+chang:NN exist:VBG creat:VBN constraint:NNS key:NNS nullabl:JJ column:NNS 

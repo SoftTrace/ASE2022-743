@@ -1,0 +1,4 @@
+split:JJ statement:NN default:NN destin:NN 
+split:NN tupl:NNS 
+candid:NN project:NN googl:NNP summer:NN code:NN 
+inform:NN program:NN find:VBN 

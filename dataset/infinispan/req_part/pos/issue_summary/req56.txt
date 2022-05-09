@@ -1,0 +1,1 @@
+boss:NNP marshal:NNP class:NN resolv:NN configur:JJ 

@@ -1,0 +1,5 @@
+support:NN express:NN nest:VBN accessor:NNP 
+nice:JJ featur:NN 
+map:NN bar:NN access:VBN foo:NN 
+work:VB getfoo:NN method:NN xxx:NN method:NN pass:VB key:NN field:NN string:NN 
+limit:NN prev:NN bind:VBN variabl:JJ key:NN work:VB add:VBG syntax:NN stay:VBZ current:JJ grammar:NN good:JJ field:NNS string:NN key:NN 

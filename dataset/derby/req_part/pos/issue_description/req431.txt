@@ -1,0 +1,4 @@
+preliminari:JJ platform:NN test:NN kathey:NNP dag:NNP lili:NNP 
+fail:VBP window:NNP platform:NNS window:NNP 
+run:VB part:NN suitesal:NN 
+myrna:NNP point:VBZ relat:VB 

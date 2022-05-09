@@ -1,0 +1,48 @@
+add:VB support:NN declar:JJ synchron:NN 
+discuss:NN 
+commit:VB feedback:NN 
+code:NN 
+import:NN 
+public:JJ class:NN 
+privat:JJ final:JJ map:NN string:NN string:NN data:NN string:NN string:NN 
+public:JJ string:NN getresourc:NN string:NN key:NN throw:VBZ 
+return:NN key:NN 
+public:JJ void:NN refresh:NN throw:VBZ 
+resourc:NNS memori:NN 
+code:NN 
+import:NN 
+import:NN 
+public:JJ class:NN 
+privat:JJ final:JJ 
+privat:JJ final:JJ map:NN string:NN string:NN data:NN string:NN string:NN 
+public:JJ string:NN getresourc:NN string:NN key:NN throw:VBZ 
+lock:NN 
+return:NN key:NN 
+unlock:NN 
+public:JJ void:NN refresh:NN throw:VBZ 
+lock:NN 
+resourc:NNS memori:NN 
+unlock:NN 
+lock:NN 
+import:NN 
+public:JJ class:NN 
+privat:JJ final:JJ mylock:NN 
+privat:JJ final:JJ map:NN string:NN string:NN data:NN string:NN string:NN 
+mylock:NN 
+public:JJ string:NN getresourc:NN string:NN key:NN throw:VBZ 
+return:NN key:NN 
+mylock:NN 
+public:JJ void:NN refresh:NN throw:VBZ 
+resourc:NNS memori:NN 
+case:NN code:NN 
+public:JJ class:NN 
+privat:JJ final:JJ mylock:NN 
+privat:JJ final:JJ map:NN string:NN string:NN data:NN string:NN string:NN 
+public:JJ string:NN getresourc:NN string:NN key:NN throw:VBZ 
+lock:NN 
+return:NN key:NN 
+unlock:NN 
+public:JJ void:NN refresh:NN throw:VBZ 
+lock:NN 
+resourc:NNS memori:NN 
+unlock:NN 

@@ -1,0 +1,7 @@
+galder:NNP 
+coupl:NN method:NNS discuss:VBN detail:NN section:NN 
+creat:VB cach:NN jndi:NNP java:NNP cachemanag:NN 
+section:NN 
+cach:NN mbean:NN attribut:NN 
+simplest:JJS deploy:VB 
+section:NN jbc:NNP doc:NNS method:NNS 

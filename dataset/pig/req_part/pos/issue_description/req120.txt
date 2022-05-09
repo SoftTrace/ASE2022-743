@@ -1,0 +1,15 @@
+featur:NN zebra:NNP support:VB sort:VBN datum:NNS storag:NN 
+storag:NN librari:NN zebra:NNP sort:VB datum:NNS 
+support:VB creation:NN sort:VBN datum:NNS pig:NN map:NN reduc:VB task:NNS zebra:NNP storag:NN format:NN 
+sort:VBN tabl:NN datum:NNS sort:VBN manner:NN tfile:NNS creat:VBN mapper:NNS reduc:NNS 
+sort:VBN datum:NNS creation:NN pig:NN store:NN oper:NN input:NN datum:NNS sort:VBN order:NN zebra:NNP tabl:NN mark:VBN sort:VBN sort:VBN column:NNS 
+sort:VBN datum:NNS creation:NN map:NN reduc:NN task:NNS static:NN method:NNS class:NN provid:VBN user:NN achiev:VB goal:NN 
+user:NN sort:VBN column:NNS input:NN tupl:NN store:VBN user:NN generat:VB key:JJ accept:JJ zebra:NNP sort:VBN key:NN base:VBN schema:NN sort:VBN column:NNS input:NN tupl:NN 
+sort:VBN datum:NNS read:VBP pig:NN load:NN oper:NN pass:VB string:NN sort:VBN extra:JJ argument:NN constructor:NN sort:VBN tabl:NN load:VBN 
+sort:VBN datum:NNS read:VBP map:NN reduc:NN task:NNS static:NN method:NN class:NN requiresortedt:NN call:VBN sort:VBN tabl:NN read:VBN 
+overload:JJ version:NN method:NN call:VBN sort:VBN tabl:NN column:NNS compar:NN 
+releas:NN sort:VBN tabl:NN support:VBD sort:VBG ascend:VBG order:NN descend:VBG order:NN 
+addit:NN sort:NN key:NNS simpl:JJ type:NNS complex:JJ type:NNS record:NN collect:NN map:NN 
+multipl:JJ key:JJ sort:NN support:VBN 
+order:NN multipl:JJ sort:NN key:NNS signific:JJ sort:NN column:NN primari:JJ sort:NN key:NN secondari:JJ sort:NN key:NN 
+releas:NN sort:NN key:NNS store:VBN sort:NN column:NNS key:NNS creat:VBN result:VBG datum:NNS storag:NN redund:NN 

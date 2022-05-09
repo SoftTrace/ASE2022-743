@@ -1,0 +1,3 @@
+cach manag expos kind differenci rest 
+jmx domain machin run deploy cach manag instanc jmx domain valid 
+reason jopr show cach manag resourc show 

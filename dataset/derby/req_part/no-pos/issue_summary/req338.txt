@@ -1,0 +1,1 @@
+revok execut privileg function check constraint implement problem 

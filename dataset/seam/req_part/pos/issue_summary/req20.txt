@@ -1,0 +1,1 @@
+detect:VB cyclic:JJ depend:NNS throw:VB 

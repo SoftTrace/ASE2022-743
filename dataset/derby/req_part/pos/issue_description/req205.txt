@@ -1,0 +1,3 @@
+code:NN lock:VBG row:NN hold:VBG latch:VB doesn:JJ unit:NN test:VBZ store:NN 
+code:NN remov:VBN order:NN reduc:VB complex:NN 
+discuss:NN detail:NNS 

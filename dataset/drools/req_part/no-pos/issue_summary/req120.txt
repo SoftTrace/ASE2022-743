@@ -1,0 +1,1 @@
+add rule inherit core drl support 

@@ -1,0 +1,3 @@
+timeout:NN set:VBN session:NN socket:NN clientthread:NN care:NN 
+connect:NNS close:VBN set:VBN client:NN idl:VBZ longer:JJR timeslic:NN 
+detail:NNS 

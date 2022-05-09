@@ -1,0 +1,37 @@
+head:NN happen:VB day:NN warn:VBD peopl:NNS didn:VBP listen:VB michael:NNP long:JJ run:NN predict:VBD graphic:JJ web:NN browser:NN wrong:JJ 
+issu:NNS concurr:NN concurr:JJ thread:NNS heavi:JJ load:NN creat:VBG newworkingmemori:NN hang:VBZ lock:NN issu:NNS weak:JJ hashmap:NN point:VBZ singl:JJ rule:NN base:NN spawn:VBN work:VBG memori:NNS 
+surpris:JJ 
+solut:NN call:NN user:NNS updat:VB exist:VBG long:JJ live:VBD work:VBG memori:NN chang:NNS pass:VB rulebas:NN refresh:VB rule:NNS method:NNS removerul:NN rule:NN base:NN requir:VBP work:VBG memori:NN pass:VBN 
+default:NN behaviour:NN scale:VB default:NN behaviour:NN opinion:NN 
+stack:NN trace:NN follow:VBZ 
+java:NNP linux:NNP 
+app:NN simultan:JJ thread:NNS 
+moment:NN 
+share:VBP instanc:NNS share:VB 
+rulebas:NN 
+thread:NN dump:NN show:VBZ thread:NNS stick:VBN 
+call:VBN 
+attempt:VBD synchron:VB method:NN 
+entri:NN point:NN newworkingmemori:NN 
+problem:NN happen:VBP didn:VB solv:VB 
+workaround:NNS 
+prio:NN tid:NN nid:NN runnabl:JJ 
+sourc:NN 
+sourc:NN 
+sourc:NN 
+prio:NN tid:NN nid:NN runnabl:JJ 
+sourc:NN 
+sourc:NN 
+sourc:NN 
+prio:NN tid:NN nid:NN runnabl:JJ 
+sourc:NN 
+sourc:NN 
+sourc:NN 
+prio:NN tid:NN nid:NN runnabl:JJ 
+sourc:NN 
+sourc:NN 
+sourc:NN 
+prio:NN tid:NN nid:NN runnabl:JJ 
+sourc:NN 
+sourc:NN 
+sourc:NN 

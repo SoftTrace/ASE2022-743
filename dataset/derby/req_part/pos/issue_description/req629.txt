@@ -1,0 +1,9 @@
+result:NN set:NNS exhaust:VBN 
+close:VBN server:NN 
+send:VB explicit:JJ close:JJ messag:NN generat:VBG unnecessari:JJ network:NN traffic:NN 
+drda:NNP protocol:NN support:VBZ 
+descript:NN opnqri:NNP open:JJ 
+queri:NN 
+qryclsimp:NN paramet:NN control:VBZ target:NN server:NN 
+close:VBZ queri:NN datum:NNS sqlstate:NNP 
+associ:NN cursor:NN type:NN 

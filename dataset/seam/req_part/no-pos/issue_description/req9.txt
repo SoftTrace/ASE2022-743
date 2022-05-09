@@ -1,0 +1,6 @@
+enabl manag entiti interceptor 
+mei 
+java bean cluster convers scope 
+
+ejb convers scope 
+add configur core init user enabl cluster mode autodetect upgrad interceptor enabl method account 

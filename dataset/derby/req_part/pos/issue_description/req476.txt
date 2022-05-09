@@ -1,0 +1,2 @@
+class:NNS cursor:NNP client:NN driver:NN unus:JJ method:NNS manag:VBG intern:JJ byte:NN buffer:NN 
+method:NNS remov:VBN 

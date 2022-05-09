@@ -1,0 +1,2 @@
+jdbc:NNP api:NN introduc:VBD abil:NN updat:VB delet:JJ insert:NN row:NNS resultset:NN method:NNS java:NNP program:NN languag:NN send:VB sql:NN command:NN 
+jira:NNP entri:NN track:VB insert:NN row:NNS function:NN jdbc:NNP api:NNS 

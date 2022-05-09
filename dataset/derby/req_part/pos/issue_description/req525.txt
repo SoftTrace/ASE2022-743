@@ -1,0 +1,5 @@
+java:NNP introduc:VBD static:NN factori:NN method:NNS call:VBN valueof:NN number:NN prefer:NN constructor:NNS fresh:JJ instanc:NN requir:VBN 
+valueof:NN method:NNS cach:NN reus:VB object:NNS reduc:VBG alloc:NN cost:NN memori:NN footprint:NN 
+int:NN cach:NN valu:NNS default:NN cach:NN size:NN tune:VBN jvm:NNP flag:NNS 
+server:NN client:NN code:NN compil:VBN java:NNP librari:NNS valueof:NN method:NNS benefit:NNS 
+note:NN java:NNP auto:NN box:NN number:NNS method:NNS case:NNS remov:VB call:NNS constructor:NN compil:NN insert:VB call:NNS 

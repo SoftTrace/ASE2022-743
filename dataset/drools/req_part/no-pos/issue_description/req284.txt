@@ -1,0 +1,3 @@
+support xml bind descr class 
+start packag descr specif 
+xml bean similar idea provid xml support xml author generat tool provid nativ drool xml format xslt rule owl descr ast class 

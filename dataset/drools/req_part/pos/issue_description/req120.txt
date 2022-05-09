@@ -1,0 +1,14 @@
+add:VBN extend:VBZ keyword:NN drl:NNP grammar:NN 
+rule:NN extend:VBZ pull:VB entir:JJ lhs:NN parent:NN current:JJ rule:NN execut:NN 
+rule:NN test:NN rule:NN 
+enabl:VBD fals:JJ 
+chees:NN type:NN stilton:NN 
+string:NN rule:NN 
+rule:NN test:NN rule:NN extend:VBZ test:NN rule:NN 
+enabl:VBD fals:JJ 
+chees:NN price:NN 
+string:NN rule:NN 
+rule:NN test:NN rule:NN extend:VBZ test:NN rule:NN 
+chees:NN price:NN 
+string:NN rule:NN 
+test:NN 

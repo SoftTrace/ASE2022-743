@@ -1,0 +1,2 @@
+creat:VB simpl:JJ framework:NN gather:VB datum:NNS generat:VBP report:NNS session:NN 
+debug:NN purpos:NNS 

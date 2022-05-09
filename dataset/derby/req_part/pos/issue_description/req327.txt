@@ -1,0 +1,2 @@
+knut:NNP ander:NNP rais:VBD issu:NN jar:NN file:NN build:VBN derbi:NNP jar:NN file:NN run:VB regress:NN test:NNS java:NNP pass:VBD environ:NNS 
+remov:VB jar:NN file:NN add:VBN revis:NN order:NN compil:VB xml:NN support:NN support:VB platform:NN 

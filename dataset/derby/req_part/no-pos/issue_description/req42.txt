@@ -1,0 +1,15 @@
+curretn hide data databas structur embed derbi user 
+accomplish requir 
+creat encrypt databas data protect 
+enabl authent sql author databas 
+creat user user owner 
+store applic logic store procedur databs user tabl accecc applic logic hide tabl structur 
+revok select permiss user describ tabl protect tabl structur 
+give execut permiss store procedur user 
+step ensur data data structur hidden applic deliv user 
+problem user select permiss store procedur execut request enhanc derbi 
+owner execur permiss store procecur user store procedur execut user select permiss 
+otherword user call store procedur databas owner author execut store procedur user 
+implement creat permiss call run owner 
+owner grant permiss user execut store procedur run owner 
+implement applic creat trueli hide databas structur data user databas behav blackbox data expos store procedur 

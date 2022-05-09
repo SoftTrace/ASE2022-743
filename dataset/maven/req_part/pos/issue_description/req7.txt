@@ -1,0 +1,13 @@
+exclud:VB transit:JJ depend:NNS depend:NNS 
+depend:VBG artifact:NN classifi:NN depend:NNS main:JJ artifact:NN 
+exclud:VBG depend:NN requir:VBZ signific:JJ effort:NN prone:JJ date:NN 
+follow:VBG syntax:NN possibl:NN 
+exclud:VB transit:JJ depend:NNS 
+exclus:NN 
+groupid:NN 
+exclus:NN 
+exclud:VB transit:JJ depend:NNS groupid:NN 
+exclus:NN 
+groupid:NN 
+artifactid:NN 
+exclus:NN 

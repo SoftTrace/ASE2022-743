@@ -1,0 +1,2 @@
+tms:NN option:JJ default:NN 
+reduc:VB memori:NN usag:NN lage:NN system:NNS 

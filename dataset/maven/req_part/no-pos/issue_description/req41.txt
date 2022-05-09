@@ -1,0 +1,5 @@
+ide integr perform step 
+load pom valid place maven project instanc case import 
+display warn pom editor run projectbuild modelbuild proper valid level collect result result object thrown 
+propos patch avenproject instanc minim valid constraint collect valid problem higher valid level 
+addit benefit patch log version maven problem valid cmd line ide error report 

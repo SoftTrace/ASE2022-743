@@ -1,0 +1,1 @@
+check:VB problemat:JJ compon:NN definit:NNS deploy:NN 

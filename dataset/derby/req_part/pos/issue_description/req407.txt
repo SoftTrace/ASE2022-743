@@ -1,0 +1,2 @@
+dyre:NNP tjeldvol:NNP post:VBD result:NNS type:NNS load:NN content:NN share:VBN suggest:VBD replac:VBN platform:NNS support:VBP 
+split:VBG issu:NN improv:NNS report:VBD address:VBN 

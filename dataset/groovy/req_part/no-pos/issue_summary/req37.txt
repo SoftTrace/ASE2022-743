@@ -1,0 +1,1 @@
+map implement fire properti chang event 

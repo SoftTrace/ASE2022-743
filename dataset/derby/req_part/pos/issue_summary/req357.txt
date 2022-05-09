@@ -1,0 +1,1 @@
+expens:JJ cursor:NN lookup:NN network:NN server:NN 

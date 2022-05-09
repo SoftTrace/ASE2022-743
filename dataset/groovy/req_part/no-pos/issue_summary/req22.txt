@@ -1,0 +1,1 @@
+add option auto split line read command line script 

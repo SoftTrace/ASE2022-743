@@ -1,0 +1,34 @@
+queri tree node accept walk tree top call 
+visit parent call visit children 
+fine case case visit node 
+bottom mention 
+visitor post binari comparison oper check 
+operand constant oper replac 
+boolean constant 
+express 
+queri tree 
+
+
+
+
+
+
+
+walk tree top visitor node doesn 
+constant operand visit oper constant 
+operand replac constant true 
+express rewritten true true 
+transform 
+tree process bottom start 
+oper replac true queri tree 
+transform intermedi form oper 
+visit 
+
+
+
+true true 
+result visit top 
+oper hasn visit operand oper 
+constant visitor perform transform 
+tree simplifi 
+true 

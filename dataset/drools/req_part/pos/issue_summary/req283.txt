@@ -1,0 +1,1 @@
+effect:JJ date:NN rule:NN attribut:NNS 

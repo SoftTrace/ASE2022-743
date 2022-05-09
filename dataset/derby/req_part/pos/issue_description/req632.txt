@@ -1,0 +1,3 @@
+select:VB return:VB error:NN syntax:NN find:NN month:NN group:NN claus:NN 
+select:VB idissu:NN month:NN creation:NN year:NN creation:NN count:NN distinct:JJ idissu:NN 
+group:NN idissu:NN month:NN creation:NN year:NN creation:NN 

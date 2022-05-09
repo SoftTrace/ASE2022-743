@@ -1,0 +1,118 @@
+simpl:JJ case:NN 
+tabl:NN tbl:NN row:NNS primari:JJ key:JJ index:NN 
+queri:NN question:NN 
+select:VB tbl:NN 
+derbi:NN tabl:NN scan:NN entir:JJ tabl:NN list:NN valu:NNS comparison:NN field:NN index:NN 
+code:NN insert:VBP list:NN start:NN stop:VB valu:NNS scan:NN 
+rang:NN valu:NNS list:NN play:VBZ import:JJ role:NN 
+queri:NN chang:VBN select:VB tbl:NN index:NN scan:NN choos:VBN 
+nice:JJ clever:JJ case:NN index:NN field:NN number:NN valu:NNS list:NN 
+rowcount:NN estim:NN list:NN size:NN optim:NNS 
+length:NN list:NN search:NNS tabl:NN 
+list:NN valu:NNS index:NN key:JJ search:NNS tabl:NN 
+convert:VB join:VB 
+list:NN valu:NNS creat:VB temporari:JJ tabl:NN join:VB 
+optim:NN choos:VB tabl:NN list:NN outer:JJ tabl:NN join:VB key:JJ search:NNS larger:JJR tabl:NN 
+queri:NN plan:VBZ log:VBD true:JJ similar:JJ queri:NNS 
+tabl:NN ascend:VBG valu:NNS 
+primari:JJ key:JJ index:NN 
+gmt:NNP thread:NNP main:JJ xid:NN sessionid:NN select:VB scanfix:VBN project:NNP restrict:NNP 
+number:NN open:VBZ 
+row:NNS 
+row:NNS filter:VBN 
+restrict:NN true:JJ 
+project:NN fals:JJ 
+constructor:NN time:NN millisecond:NNS 
+open:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS 
+close:JJ time:NN millisecond:NNS 
+restrict:NN time:NN millisecond:NNS 
+project:NN time:NN millisecond:NNS 
+optim:NN estim:VBN row:NN count:NN 
+optim:NN estim:VBN cost:NN 
+sourc:NN result:VBP set:NN 
+tabl:NN scan:VBP scanfix:NNP read:VBD commit:JJ isol:NN level:NN instantan:JJ share:NN row:NN lock:NN choos:VBN optim:NN 
+number:NN open:VBZ 
+row:NNS 
+row:NNS filter:VBN 
+fetch:VB size:NN 
+constructor:NN time:NN millisecond:NNS 
+open:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS 
+close:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS row:NN 
+scan:NN inform:NN 
+bit:NN set:NN column:NNS fetch:VBD 
+number:NN column:NNS fetch:VBD 
+number:NN page:NNS visit:VBD 
+number:NN row:NNS qualifi:JJ 
+number:NN row:NNS visit:VBD 
+scan:VB type:NN heap:NN 
+start:VB posit:NN 
+null:JJ stop:NN posit:NN 
+null:JJ qualifi:NNS 
+column:NN 
+oper:NNP 
+order:VBN null:NNS fals:JJ 
+unknown:JJ return:NN valu:NN fals:JJ 
+negat:VB comparison:NN result:NN fals:JJ 
+column:NN 
+oper:NNP 
+order:VBN null:NNS fals:JJ 
+unknown:JJ return:NN valu:NN true:JJ 
+negat:VB comparison:NN result:NN true:JJ 
+optim:NN estim:VBN row:NN count:NN 
+optim:NN estim:VBN cost:NN 
+gmt:NNP thread:NNP main:JJ xid:NN sessionid:NN select:VB scanfix:VBN project:NNP restrict:NNP 
+number:NN open:VBZ 
+row:NNS 
+row:NNS filter:VBN 
+restrict:NN true:JJ 
+project:NN true:JJ 
+constructor:NN time:NN millisecond:NNS 
+open:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS 
+close:JJ time:NN millisecond:NNS 
+restrict:NN time:NN millisecond:NNS 
+project:NN time:NN millisecond:NNS 
+optim:NN estim:VBN row:NN count:NN 
+optim:NN estim:VBN cost:NN 
+sourc:NN result:VBP set:NN 
+index:NN row:NN base:NN row:NN scanfix:NNP 
+number:NN open:VBZ 
+row:NNS 
+column:NNPS access:VBN heap:NN 
+constructor:NN time:NN millisecond:NNS 
+open:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS 
+close:JJ time:NN millisecond:NNS 
+optim:NN estim:VBN row:NN count:NN 
+optim:NN estim:VBN cost:NN 
+index:NNP scan:VBP scanfix:NNP index:NN scanfixedx:NN read:VBN commit:JJ isol:NN level:NN instantan:JJ share:NN row:NN lock:NN choos:VBN optim:NN 
+number:NN open:VBZ 
+row:NNS 
+row:NNS filter:VBN 
+fetch:VB size:NN 
+constructor:NN time:NN millisecond:NNS 
+open:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS 
+close:JJ time:NN millisecond:NNS 
+time:NN millisecond:NNS row:NN 
+scan:NN inform:NN 
+bit:NN set:NN column:NNS fetch:VBD 
+number:NN column:NNS fetch:VBD 
+number:NN delet:VBN row:NNS visit:VBD 
+number:NN page:NNS visit:VBD 
+number:NN row:NNS qualifi:JJ 
+number:NN row:NNS visit:VBD 
+scan:VB type:NN btree:NN 
+tree:NN height:NN 
+start:VB posit:NN 
+column:NN 
+order:VBN null:JJ semant:NNS follow:VBG column:NNS 
+stop:VB posit:NN 
+column:NN 
+order:VBN null:JJ semant:NNS follow:VBG column:NNS 
+qualifi:NNS 
+optim:NN estim:VBN row:NN count:NN 
+optim:NN estim:VBN cost:NN 

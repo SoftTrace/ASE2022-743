@@ -1,0 +1,1 @@
+current:JJ configur:NN dialect:NNS hard:JJ code:VBN main:JJ refactor:VB configur:NNS pluggeabl:JJ 

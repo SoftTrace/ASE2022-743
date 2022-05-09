@@ -1,0 +1,5 @@
+heavi:JJ static:JJ state:NN inform:NN exist:VBG derbi:NNP har:NN major:JJ mistak:NN repeat:VBN junit:NNP model:NN 
+chang:VBN test:NNS write:VBN 
+static:NN configur:NN limit:VB abil:NN test:NNS flexibl:JJ instanc:NNS run:VBG configur:NNS 
+instanc:NN base:VBN scheme:NN flexibl:JJ 
+chang:NN chang:VB api:NN current:JJ implement:NN singl:JJ static:NN configur:NN remain:VB hide:VBN base:NN class:NNS 

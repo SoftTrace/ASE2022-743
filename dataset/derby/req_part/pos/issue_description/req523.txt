@@ -1,0 +1,4 @@
+client:NN class:NNS implement:VBP implement:VB interfac:NN leaf:NN class:NNS base:NN class:NNS 
+unwrap:NN generic:JJ signatur:NN base:NN class:NNS compat:JJ java:NNP 
+statement:NN class:NN hierarchi:NN implement:VBP unwrap:NN 
+compil:VBP client:NN sourc:NN level:NN move:VB unwrap:NN method:NN statement:NNP class:NN elimin:VB duplic:NN 

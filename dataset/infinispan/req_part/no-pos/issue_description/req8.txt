@@ -1,0 +1,3 @@
+implement script manag store custom script dedic cach script invok user bind set paramet 
+compon support code extens point simpl task distexec map reduc listen 
+script type support jsr script engin 

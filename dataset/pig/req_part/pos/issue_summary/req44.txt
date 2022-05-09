@@ -1,0 +1,1 @@
+add:VB abil:NN load:VB datum:NNS column:NN famili:NN hbasestorag:NN 

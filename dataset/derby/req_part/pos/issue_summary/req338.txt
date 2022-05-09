@@ -1,0 +1,1 @@
+revok:VBG execut:NN privileg:NN function:NN check:NN constraint:NN implement:NN problem:NN 

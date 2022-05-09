@@ -1,0 +1,18 @@
+assum:VB user:NN job:NN break:VBD piec:NNS 
+assum:VB piec:NNS express:JJ pig:NN piec:NN write:VBN map:NN reduc:VB reason:NN perform:NN pig:NN express:VB legaci:NN job:NN import:JJ chang:VB 
+today:NN user:NN map:NN reduc:VB entir:JJ job:NN handl:VB stitch:VBG pig:NN map:NN reduc:VBP job:NNS 
+pig:NN provid:VBD nativ:JJ keyword:NN script:NN pass:VB datum:NNS stream:NN underli:VBG system:NN case:NN map:NN reduc:VB 
+semant:NNS nativ:NNP vari:VB underli:VBG system:NN 
+map:NN reduc:VB case:NN assum:VB collect:NN map:NN reduc:VB job:NNS pig:NN store:VB datum:NNS invok:VB map:NN reduc:VB job:NNS read:VBD result:VBG datum:NNS continu:VB 
+load:NN myfil:NN 
+load:NN myotherfil:NN 
+group:NN 
+foreach:NN generat:VBP group:NN myudf:NN 
+nativ:JJ jar:NN infil:NN frompig:NN outfil:NN topig:NN 
+join:VBP 
+differ:VBZ stream:NN user:NN insert:VB arbitrari:JJ amount:NN nativ:JJ process:NN stream:NN insert:NN binari:NN 
+differ:VBZ stream:NN datum:NNS pipe:VBN binari:NN part:NN pig:NN pipelin:NN 
+pipelin:NN break:VBN datum:NNS write:VBN disk:NN nativ:JJ block:NN invok:VBD datum:NNS read:VBP disk:NN 
+altern:NN unnecessari:JJ user:NN coordin:NN java:NN pigserv:NN interfac:NN run:VB pig:NN call:VBG map:NN reduc:VB job:NN 
+advantag:NNS nativ:JJ keyword:NN user:NN worri:VBN coordin:NN job:NNS pig:NN care:NN 
+user:NN exist:VBG java:NN applic:NNS java:NN programm:NN 

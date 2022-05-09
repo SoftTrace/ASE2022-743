@@ -1,0 +1,4 @@
+notifi:VBN plan:NN execut:VBN 
+listen:NNS inspect:VB plan:NN idea:NN expect:VB execut:NN flow:NN 
+propos:NN add:VB method:NN ppnl:NN interfac:NN mark:VBN evolv:VBG 
+public:JJ void:NN initialplannotif:NN plan:NN 

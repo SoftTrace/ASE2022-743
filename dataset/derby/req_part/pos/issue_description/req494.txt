@@ -1,0 +1,14 @@
+log:VBP databas:NN credenti:NNS password:NN expir:VB advis:VBN chang:VB password:NN 
+procedur:NN 
+warn:NN messag:NN log:VB credenti:NNS chang:VB password:NN 
+lead:VB user:NN modifi:VB password:NN current:JJ databas:NN credenti:NNS databas:NN 
+connect:VB jdbc:NN derbi:NN otherdb:NN user:NN test:NN password:NN abc:NN 
+warn:NN password:NN expir:VB day:NN 
+procedur:NN chang:VB password:NN 
+call:JJ 
+password:NN 
+row:NNS insert:VBN updat:VBN delet:VBN 
+connect:VB jdbc:NN derbi:NN otherdb:NN user:NN test:NN password:NN password:NN 
+error:NN connect:NN authent:NN failur:NN occur:VBD 
+reason:NN invalid:JJ authent:NN 
+succeed:VBZ password:NN updat:VBN credenti:NNS 

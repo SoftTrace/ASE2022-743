@@ -1,0 +1,7 @@
+run:VBN requir:NN nice:JJ descript:NNS appli:VBN wildcard:JJ view:NN 
+follow:VBG 
+code:NN 
+page:NN view:NN section:NN convers:NN requir:VBN true:JJ 
+descript:NN section:NN descript:NN 
+page:NN 
+section:NN descript:NN page:NNS section:NN higher:JJR preced:NN page:NN definit:NN 

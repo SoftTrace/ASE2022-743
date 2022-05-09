@@ -1,0 +1,9 @@
+infinispan:NNP support:VBZ flexibl:JJ configur:VBG cach:NNS multipl:JJ level:NNS inherit:NN 
+nice:JJ easi:JJ understand:VB cach:NN configur:VBN 
+jpa:NN cach:NN configur:NN adjust:VBN 
+jmx:NNP debugg:NNS 
+convert:VB configur:NN instanc:NN xml:NN give:VB quick:JJ overview:NN appli:VBN set:NNS 
+nice:JJ featur:NN implement:VB toxmlstr:NN method:NN overrid:VB default:NN jmx:NNP 
+jaxb:NN annot:NNS present:JJ configur:JJ option:NNS coupl:NN getter:NNS annot:NN convert:VB exist:VBG instanc:NN xml:NN 
+effort:NN 
+featur:NN request:NN fit:VB transfer:VB cach:NN config:NNS xml:NN 

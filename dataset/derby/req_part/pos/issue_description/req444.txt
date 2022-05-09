@@ -1,0 +1,8 @@
+emb:VBN driver:NN support:VBZ client:NN driver:NN 
+client:NN driver:NN enhanc:VBN match:VB emb:VBN driver:NN 
+transfer:VB timeout:NN valu:NN client:NN server:NN separ:JJ trip:NN 
+loos:JJ thought:NNS 
+client:NN set:VBN timeout:NN valu:NN statement:NN prepend:VBP drda:NNP excsqlstt:NNP command:NN excsqlset:NNP command:NN timeout:NN valu:NN set:NN statement:NN timeout:NN extend:VB derbi:NNP grammar:NN network:NN server:NN understand:VB drda:NNP excsqlset:NNP command:NN 
+server:NN side:NN recogn:VB set:NNP statement:NNP timeout:NNP text:NN pars:VB timeout:NN valu:NN rememb:VB excsqlstt:NNP command:NN 
+invok:VB executeupd:NN set:NN statement:NN note:NN 
+check:NN timeout:NN valu:NN set:VBN set:VBG timeout:NN valu:NN server:NN side:NN statement:NNP object:NN call:VBG execut:VB executequeri:NN 

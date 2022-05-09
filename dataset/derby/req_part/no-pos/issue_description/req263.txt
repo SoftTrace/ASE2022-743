@@ -1,0 +1,12 @@
+add procedur amp function set user connect author full access read defin 
+base exist util class expos singl procedur set permiss avoid procedur add user 
+sysc util sysc set user access varchar usernam varchar connect permiss 
+valid valu connect permiss 
+full add user list full access user databas databas properti derbi databas full access user 
+readon add user list read user databas databas properti derbi databas read access user 
+null remov user list permiss revert default permiss 
+sysc util sysc user access varchar usernam return varchar 
+current connect access permiss user factor default connect mode 
+return full readon null 
+connect attempt user deni user entri derbi databas full access user derbi databas read access user derbi databas default connect mode set access 
+connect permiss match exist derbi 

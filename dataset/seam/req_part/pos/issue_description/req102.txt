@@ -1,0 +1,3 @@
+pars:VBG xml:NN file:NNS don:VBP control:NN parser:NN network:NN connect:NNS resolv:VB dtd:NNS 
+maintain:VB local:JJ cach:NN add:VBG safe:JJ pars:VBG mode:NN ignor:VB extern:JJ refer:NNS 
+extern:JJ dtd:NN critic:JJ pars:VBG default:NN attribut:NNS dtd:NN cach:VBN document:NN pars:VBD 

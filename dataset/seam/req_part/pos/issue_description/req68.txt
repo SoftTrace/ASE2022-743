@@ -1,0 +1,4 @@
+map:NN 
+result:VB listdatamodel:NN inject:VB map:NN key:NN row:NN index:NN inject:VB map:NN valu:NN 
+set:VBN 
+case:NN defin:VBN 

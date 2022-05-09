@@ -1,0 +1,3 @@
+support:NN situat:NNS problem:NNS jdbc:NNP metadata:NN store:VBN prepar:JJ statement:NNS trigger:NN store:VBN prepar:JJ statement:NNS invalid:VBN 
+nice:JJ field:NN 
+store:VBN procedur:NN sens:NN good:JJ releas:NN branch:NNS 

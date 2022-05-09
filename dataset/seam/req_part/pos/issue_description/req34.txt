@@ -1,0 +1,4 @@
+navig:NN rule:NNS redirect:VB rule:NNS valu:NN express:NNS 
+navig:NN action:NN 
+redirect:VB view:NN 
+navig:NN 

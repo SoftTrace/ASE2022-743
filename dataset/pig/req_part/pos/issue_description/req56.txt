@@ -1,0 +1,2 @@
+pig:NNP tupl:NNPS signific:JJ fact:NN field:NNS object:NNPS 
+tupl:NNP primit:JJ field:NNS int:NNS long:NNS avoid:VB overhead:NN result:VB signific:JJ memori:NN save:NNS 

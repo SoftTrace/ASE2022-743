@@ -1,0 +1,1 @@
+decoupl:JJ window:NN definit:NNS pattern:NN match:NN window:NNS reus:VBN pattern:NNS rule:NNS 

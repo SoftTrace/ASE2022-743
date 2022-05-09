@@ -1,0 +1,14 @@
+document:NN updat:VBN commit:VBN 
+refer:NN manual:NN describ:VB alter:NNP tabl:NN drop:NN column:NN featur:NN drop:VB column:NN tabl:NN 
+document:NN alter:NNP tabl:NN command:NN unwieldi:JJ restructur:VB page:NN easier:JJR approach:JJ 
+document:NN import:JJ describ:VB restrict:NN cascad:NN behavior:NNS user:NNS confus:VBN restrict:VB refus:VB drop:VB column:NN 
+comment:NNS 
+document:NN note:VB unexpect:JJ behavior:NNS 
+column:NN present:JJ index:NNS index:NNS 
+restrict:VB refus:VB drop:VB column:NN 
+column:NN drop:VBN 
+index:NN column:NN index:NN entir:JJ index:NN drop:VBN 
+check:NNP constraint:NNS restrict:VB refus:VB drop:VB column:NN 
+primari:VB key:NN foreign:JJ key:NN uniqu:JJ constrant:NNS 
+unnam:JJ simpl:JJ 
+null:JJ constraint:NN column:NN restrict:VB refus:VB drop:VB 

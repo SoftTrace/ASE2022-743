@@ -1,0 +1,11 @@
+good:JJ derbi:NNP build:VBN languag:NNP base:VBN order:VBG base:VBN local:NN specif:JJ collat:NNP 
+languag:NNP base:VBN order:NN import:JJ featur:NN intern:JJ deploy:NN 
+offer:VBZ implement:NN option:NN accord:VBG discuss:NN issu:NN nation:NNP charact:NNP type:NNS carri:VBP fair:JJ amount:NN baggag:NN form:NN concern:NNS convers:NN datetim:NN number:NN type:NNS 
+rick:NNP mention:VBD sql:NN languag:NN collat:NNS option:NN languag:NN base:VBN order:NN 
+option:NNS worthwhil:JJ add:VB issu:NN high:JJ level:NN function:JJ concern:NN choic:NN implement:NN assum:VBG nation:NNP charact:NNP type:NNS solut:NN 
+workaround:NN 
+user:NN creat:VB databas:NN url:NN follow:VBG 
+jdbc:NN derbi:NN abcdb:NN creat:VB true:JJ collat:NN 
+ignor:VB collat:NN attribut:NN territori:NN attribut:NN 
+current:JJ derbi:NNP code:NN 
+fix:VBN add:VB test:NN case:NN 

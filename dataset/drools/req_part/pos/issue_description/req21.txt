@@ -1,0 +1,10 @@
+support:VB rulebas:NN configur:NN registerruleexecutionset:NN properti:NNS 
+suggest:NN 
+properti:NN 
+add:VBN support:VB hand:VBG rulebas:NN config:NN 
+code:NN ruleexecutionset:NN code:NN rulebas:NN config:NN constant:NN 
+public:JJ static:NN final:JJ string:NN 
+modif:NN method:NN catch:NN classcastexcept:NN throw:VB config:NN 
+support:NN rulebas:NN configur:NN 
+final:JJ rulebas:NN 
+final:JJ rulebas:NN 

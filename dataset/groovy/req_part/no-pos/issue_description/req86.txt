@@ -1,0 +1,2 @@
+add trampolin capabl closur avoid stack overflow closur lot recurs call 
+patch contribut clav 

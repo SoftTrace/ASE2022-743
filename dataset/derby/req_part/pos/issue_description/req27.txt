@@ -1,0 +1,3 @@
+spec:NN attach:VBN describ:VBZ polici:NN file:NN reload:VBN server:NN run:VBG add:VBP getpolici:NN permiss:NN basic:JJ polici:NN add:VBP dba:NN system:NN procedur:NN 
+reload:VBZ polici:NN file:NN 
+jira:NN track:NNS work:VBP 

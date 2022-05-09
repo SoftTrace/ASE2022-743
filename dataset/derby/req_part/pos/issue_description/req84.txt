@@ -1,0 +1,2 @@
+xaresourc:NN interfac:NN provid:VBZ function:NN settransactiontimeout:NN support:VBN derbi:NN 
+client:NN applic:NN client:NN driver:NN connect:VB derbi:NN databas:NN applic:NN crash:VBZ unit:NN work:NN transact:NN transact:NN commit:VBN roll:VBN lock:NNS hold:VBN transact:NN releas:VBN 

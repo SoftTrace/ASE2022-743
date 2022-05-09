@@ -1,0 +1,6 @@
+usag:NN method:NN stream:NN int:NN length:NN unclear:JJ 
+intend:VBN pass:VB length:NN input:NN stream:NN set:VBN jdbc:NNP layer:NN setbinarystream:NN 
+distinct:JJ case:NNS 
+logic:JJ length:NN stream:NN 
+logic:JJ length:NN stream:NN 
+length:NN establish:VBN pattern:NN 

@@ -1,0 +1,20 @@
+set:VBN correct:JJ collat:NN type:NN deriv:NN result:NN charact:NN string:NN type:NNS char:NNP varchar:NNP xmlserial:NNP function:NNS 
+wiki:NN page:NN assign:VB correct:JJ collat:NN type:NN result:NNS char:NNP varchar:NNP xmlserial:NNP function:NNS 
+rule:NN copi:VBN wiki:NN page:NN follow:VBZ 
+char:NN varchar:NNP xmlserial:NNP function:NNS defin:VBN sql:NN spec:NN 
+behavior:NN defin:VBN similar:JJ cast:NN result:NN charact:NN string:NN char:NN varchar:NN xmlserial:NN collat:NN current:JJ schema:NN charact:NN set:NN 
+collat:NN deriv:NN implicit:JJ 
+set:VBN correct:JJ collat:NN type:NN deriv:NN result:NN user:NN defin:VBN function:NNS return:VBP charact:NN string:NN type:NN 
+wiki:NN page:NN assign:VB correct:JJ collat:NN type:NN result:NNS user:NN defin:VBN function:NNS 
+rule:NN copi:VBN wiki:NN page:NN follow:VBZ 
+user:NN defin:VBN function:NNS return:VBP charact:NN string:NN type:NN return:NN type:NN collat:NN collat:NN charact:NN set:NN schema:NN function:NN defin:VBN 
+collat:NN deriv:NN implicit:JJ 
+set:VBN correct:JJ collat:NN type:NN deriv:NN result:NN charact:NN string:NN type:NNS current:NNP isol:NNP current:NNP schema:NNP current:NNP sqlid:NNP 
+wiki:NN page:NN assign:VB correct:JJ collat:NN type:NN esult:JJ charact:NN string:NN type:NNS current:NNP isol:NNP current:NNP schema:NNP current:NNP sqlid:NNP 
+rule:NN copi:VBN wiki:NN page:NN follow:VBZ 
+sql:NN spec:NN section:NN syntax:NN rule:NN collat:NN type:NN collat:NN charact:NN set:VBN 
+derbi:NNP case:NN collat:NN function:NNS 
+collat:NN deriv:NN implicit:JJ 
+current:JJ isol:NN current:NNP schema:NNP current:NNP sqlid:NNP derbi:NNP specif:JJ function:NNS didn:VBP find:VB sql:NN spec:NN 
+order:NN match:VB behavior:NN function:NNS cover:VBN return:NN charact:NN string:NN type:NN collat:NN collat:NN charact:NN set:VBN 
+collat:NN deriv:NN implicit:JJ 

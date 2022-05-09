@@ -1,0 +1,2 @@
+infinispan:NNP regist:VBZ transact:NN manag:NN synchron:NN failur:NNS commit:VB report:VBN user:NN 
+regist:VBG synchron:NN case:NNS default:NN safe:JJ version:NN 

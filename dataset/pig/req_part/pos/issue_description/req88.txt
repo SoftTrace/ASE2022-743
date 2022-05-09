@@ -1,0 +1,4 @@
+hbase:NN chang:VBD api:NN incompat:JJ 
+follow:VBG api:NNS hbasestorag:VBP pig:NNP 
+boolean:NNP 
+addit:NN hbase:NN monolith:JJ archiv:NN entir:JJ function:NN break:VBN smaller:JJR piec:NNS hbase:NN client:NN hbase:NN server:NN 

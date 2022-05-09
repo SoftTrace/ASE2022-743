@@ -1,0 +1,9 @@
+dan:NNP debrunn:NNP post:VBD fix:NN relax:JJ durabl:NN chang:NNS 
+add:VB option:NN derbi:NNP properti:NN 
+discuss:NNS list:NN mike:NNP suggest:VBD 
+log:VBG system:NN chang:VBN 
+record:NN databas:NN oper:VBN manner:NN 
+databas:NN corrupt:JJ don:VBP wast:NN effort:NN figur:VB 
+wrong:JJ 
+mark:VB log:NN record:NNS 
+log:NN control:NN file:NN write:VB messag:NN user:NN error:NN log:NN file:NN 

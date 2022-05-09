@@ -1,0 +1,5 @@
+talk:VBD jame:NNS idea:NN add:VBG simpl:JJ closur:NNP run:VB thread:NNS 
+thread:NN 
+process:NN long:JJ run:NN process:NN 
+execut:VB 
+run:NNS 

@@ -1,0 +1,5 @@
+set:VBD rule:NN base:NN equal:NN base:VBN assert:VBP behavior:NN expect:VBG getfacthandl:NN object:NN method:NN retriev:VB assert:VBN fact:NN provid:VBG equival:JJ equal:VBZ hashcod:NN object:NN argument:NN 
+case:NN associ:VBN getfacthandl:NN lookup:NN assertmap:NN 
+lookup:NN system:NN hashcod:NN method:NN overridden:JJ version:NN suppli:VBN fact:NN class:NN 
+lookup:NN fail:VBZ return:VBZ null:JJ 
+attach:VBN unit:NN test:NN 

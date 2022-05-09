@@ -1,0 +1,3 @@
+provid:VB dgm:NN method:NN primit:JJ array:NNS 
+count:NN size:NN method:NNS primit:JJ array:NNS 
+iscas:NN method:NN java:NNP programm:NNS familiar:JJ provid:VB approach:NN 

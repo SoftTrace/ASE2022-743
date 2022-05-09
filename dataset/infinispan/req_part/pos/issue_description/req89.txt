@@ -1,0 +1,7 @@
+scenario:NN eager:JJ lock:NN locksinglenod:NN true:JJ 
+start:VB transact:NN kill:VB node:NN lock:NN acquir:VBN 
+commit:VB transact:NN boss:NNP 
+transact:NN enlist:VBN boss:NNP optim:VBZ invok:VBZ onephas:NN flag:NN set:NN true:JJ 
+call:NN result:VBZ leav:VBZ cluster:NN lock:NNS acquir:VBN 
+infinispan:NN rollback:NN transact:NN throw:VB 
+propag:VBN user:NN 

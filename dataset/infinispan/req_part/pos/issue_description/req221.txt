@@ -1,0 +1,3 @@
+option:JJ lifespan:NN idl:JJ time:NN argument:NNS put:NN method:NNS hope:VBG putforexternalread:NN 
+cheer:NNS 
+vladimir:NNP 

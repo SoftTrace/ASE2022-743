@@ -1,0 +1,7 @@
+java:NNP disabl:VB constraint:NNS jitt:VBG set:VBG 
+java:NNP remov:VBD space:NN control:VB disabl:VB constraint:NNS jitt:VBG 
+requir:VBN provid:VB option:NN configur:VB interpret:VBN evalu:NNS constraint:NN jitt:VBN 
+special:JJ valu:NNS properti:NN 
+forc:NN synchron:JJ jit:NN advic:VBN test:VBG purpos:NNS 
+negat:JJ number:NN disabl:VB jit:NN 
+default:NN valu:NN 

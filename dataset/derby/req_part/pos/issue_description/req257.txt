@@ -1,0 +1,11 @@
+good:JJ derbi:NN dump:VBD error:NN print:VBD paramet:NNS fail:VBN statement:NN 
+default:NN behaviour:NN statement:NN text:NN print:VB 
+user:NNS set:VB true:JJ paramet:NNS 
+error:NNS includ:VBD paramet:NNS statement:NN text:NN 
+reproduc:VB 
+put:VBN run:VB script:NN 
+connect:VB jdbc:NN derbi:NN wombat:NN creat:VB true:JJ 
+creat:VB tabl:NN int:NN 
+prepar:VB insert:NN valu:NNS 
+execut:VB valu:NNS 
+execut:VB valu:NNS 

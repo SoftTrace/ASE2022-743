@@ -1,0 +1,10 @@
+creat instanc groovi method 
+
+file file text txt 
+file line 
+line println 
+add static method 
+thread thread start 
+process long run process execut 
+process wait 
+

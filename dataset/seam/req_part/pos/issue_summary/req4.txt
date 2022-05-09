@@ -1,0 +1,1 @@
+abil:NN setup:NN compon:NNS 

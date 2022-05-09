@@ -1,0 +1,5 @@
+polit:JJ problem:NNS tomahawk:NNP live:VBG java:NN world:NN 
+work:NN test:VBN 
+good:JJ addit:NN seam:NNP seam:NNP stuff:NN 
+intend:VBP document:VB advis:VB protocol:NN 
+code:NN base:NN couldn:NN find:VBP face:VBZ config:NN regist:VB 

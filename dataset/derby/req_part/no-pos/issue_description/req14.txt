@@ -1,0 +1,31 @@
+argument diagnost tabl exist provid inform run state derbi error messag 
+tabl invok awkward standard syntax 
+select org apach derbi diag lock tabl lock tabl 
+improv provid intern map regular tabl sysc diag schema 
+runtim virtual tabl code replac 
+select sysc diag lock tabl 
+diagnost tabl express regular tabl express vti construct 
+normal tabl 
+ddl insert updat delet compress procedur refer diagnost tabl 
+result 
+style syntax remain place deprec 
+tabl implement chang 
+sysc diag lock tabl replac org apach derbi diag lock tabl 
+sysc diag statement cach replac org apach derbi diag statement cach 
+sysc diag transact tabl replac org apach derbi diag transact tabl 
+sysc diag error messag replac org apach derbi diag error messag 
+ad tabl tabl driven easi provid addit diagnost 
+inform diagnost tabl system catalog jdbc databas meta data 
+result set meta data queri involv diagnost tabl valid 
+step progress suppor fulli applic user defin virtual tabl 
+step part jira issu ad inform purpos 
+step support diagnost tabl paramet 
+select sysc diag space tabl sale order 
+step provid creat virtual tabl statement databas support 
+form virtual tabl wrapper ddl standard 
+data access standard check tabl function part sql standard 
+syntax defin give general idea 
+creat virtual tabl ticker varchar start timestamp timestamp 
+languag java 
+paramet style java 
+extern acm stock histori yahoo financ 

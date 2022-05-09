@@ -1,0 +1,1 @@
+conveni relax requir true lifecycl callback don forget ejb callback post costruct pre destroy pre passiv post activ 

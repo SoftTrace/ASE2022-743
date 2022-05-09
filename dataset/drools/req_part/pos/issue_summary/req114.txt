@@ -1,0 +1,1 @@
+start:NN node:NN trigger:VBZ 

@@ -1,0 +1,8 @@
+profil:NN high:JJ amount:NN cpu:NN time:NN spend:VBN network:NN server:NN run:VBG 
+method:NN check:VB activ:JJ statement:NN current:JJ transact:NN cursor:NN statement:NN execut:VBN execut:VBG statement:NN cursor:NN 
+client:NN side:NN statement:NNS cursor:NN 
+method:NN call:VBN network:NN server:NN execut:VBZ statement:NN network:NN server:NN assign:VBZ cursor:NN statement:NN cursor:NN set:VBN client:NN side:NN 
+list:NN open:JJ statement:NNS short:JJ method:NN cheap:JJ 
+clientconnectionpooldatasourc:NN jdbc:NNP statement:NN cach:NN list:NN open:JJ statement:NNS lookupcursoractiv:NN spend:VB fair:JJ amount:NN time:NN iter:VBG list:NN compar:VBG string:NNS 
+time:NN spend:VBN duplic:JJ lookupcursoractiv:NN wast:VBN time:NN call:VBN network:NN server:NN network:NN server:NN assign:VBZ uniqu:JJ statement:NNS execut:VBZ duplic:JJ client:NN 
+good:JJ reduc:VB cost:NN oper:NN elimin:VB client:NN doesn:NN cursor:NN 

@@ -1,0 +1,5 @@
+creat:VB seam:NN war:NNP applic:NNS ear:NN 
+bit:NN forum:NN traffic:NN subject:NN good:JJ nail:NN document:NN 
+error:NNS issu:NN work:VBN 
+admin:NN consol:NN type:NN applic:NN standard:JJ book:NN applic:NN good:JJ 
+real:JJ world:NN 

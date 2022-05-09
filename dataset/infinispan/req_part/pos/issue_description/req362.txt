@@ -1,0 +1,6 @@
+implement:VBN awar:JJ heurist:NN transact:NNS 
+determin:VBZ transact:NN inform:VBZ system:NNP administr:NNP 
+job:NN forc:VB rollback:NN commit:VB pend:VBG transact:NNS 
+order:NN tool:VBG order:NN access:VB cluster:NN 
+solut:NN jmx:NNP describ:VBN 
+complementari:JJ import:JJ transact:NN failur:NN fix:VBN 

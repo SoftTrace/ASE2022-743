@@ -1,0 +1,8 @@
+regroup:VB element:NNS accord:VBG closur:NN criterion:NNS map:NN index:NN valu:NN criterion:NNS 
+expect:VBN 
+list:NN 
+result:NN 
+assert:VB result:VBP integ:NN 
+assert:VB result:VBP string:NN 
+assert:VB result:VBP 
+assert:VBP 

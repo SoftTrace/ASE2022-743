@@ -1,0 +1,1 @@
+size:NN local:JJ cach:NN accur:JJ concurr:JJ modif:NNS expir:NN enabl:VBN 

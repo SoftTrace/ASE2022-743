@@ -1,0 +1,1 @@
+support multipl input schema avro storag 

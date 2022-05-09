@@ -1,0 +1,5 @@
+public:JJ boolean:JJ isinterceptoren:NN 
+return:NN getcompon:NN 
+synchron:NNP getcompon:NN 
+gettyp:NN 
+logic:NN move:VBN method:NN warn:NN generat:VBN develop:NN annot:NN ignor:VBN annot:NN present:JJ compon:NN sfsb:NN 

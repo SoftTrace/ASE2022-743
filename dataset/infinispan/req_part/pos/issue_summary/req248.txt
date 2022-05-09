@@ -1,0 +1,1 @@
+provid:VB user:NN friend:JJ error:NN pars:VB configur:NN file:NNS 

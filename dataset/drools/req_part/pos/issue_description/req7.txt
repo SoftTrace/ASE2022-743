@@ -1,0 +1,4 @@
+user:NNS add:VB column:NN 
+column:NN result:VBZ multipl:JJ rule:NNS 
+column:NN result:VB nest:VBG valu:NNS singl:JJ alpha:NN node:NN 
+result:VB alpha:NN node:NN entri:NN 

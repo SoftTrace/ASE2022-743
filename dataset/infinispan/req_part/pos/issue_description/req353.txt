@@ -1,0 +1,50 @@
+investig:VB integr:VB adrian:NNP patch:NN hot:JJ rod:NN server:NN access:VBN ssl:NN 
+email:NN adrian:NNP 
+rememb:VBP patch:NN add:VB ssl:NN infinispan:JJ client:NNS 
+coupl:NN week:NNS ill:NNP time:NN 
+finish:VB polish:NN 
+base:VBN head:NN week:NNS 
+rememb:VB version:NN 
+horribl:JJ part:NN modifi:VB paramet:NN list:NNS 
+pass:VBG config:NN object:NN 
+git:NN diff:NN includ:VBP uncommit:JJ file:NNS ive:VBP attach:VBN 
+test:NN set:VBN config:NN properti:NNS 
+relev:JJ infinispan:NN packag:NN prefix:NNS 
+true:JJ 
+file:NN key:NN 
+secret:NN 
+file:NN public:JJ key:NNS trust:VBP authent:NN 
+secret:NN 
+server:NN authent:VB client:NN 
+true:JJ 
+server:NN trust:NN store:NN 
+leav:VBN set:VB properti:NNS default:NN implement:NNS 
+work:VB box:NN enabl:VBP anon:NN alogorithm:NNS 
+server:NN aren:VBP enabl:VBN default:NN 
+authent:VB encrypt:VBP traffic:NN 
+main:JJ leav:VBD chang:VB test:NN maven:NN generat:VB 
+key:JJ trust:NN store:NN defin:VBN place:NN target:NN 
+comment:NNS 
+code:NN serrver:NN work:VB protocol:NNS memcach:NN 
+client:NN support:VBZ ssl:NN 
+ssl:NN context:NN construct:NN similar:JJ client:NN server:NN 
+share:VBN put:VB share:VBN stuff:NN codebas:NN 
+comment:VBN bit:NNS client:NN server:NN 
+add:VBG socket:NN timeout:NNS 
+network:NN drop:NNS split:NNS connect:NN 
+hang:NN 
+connect:NN timeout:NN socket:NN construct:NN 
+implement:VB full:JJ blow:VBN ping:NN test:VB connect:NN 
+ping:NN start:NN run:VB connect:NN timeout:NN 
+modifi:VB system:NN properti:NN handl:VBG default:NN null:JJ 
+string:NNP relev:JJ 
+client:NN side:NN system:NN properti:NN replac:NN server:NN 
+lot:NN place:NNS code:NN 
+openstream:NN 
+close:VB stream:NN 
+infinispan:NNS case:NNS 
+good:JJ practic:NN leav:VB file:NNS open:JJ close:VB 
+happen:VB hog:VBG system:NN resourc:NNS 
+useit:NN close:VB stream:NN code:NN 
+openstream:NN 
+feel:VB free:JJ post:VB part:NNS messag:NN infinispan:JJ forum:NN 

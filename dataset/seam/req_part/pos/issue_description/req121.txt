@@ -1,0 +1,22 @@
+page:NNP action:NNS sever:JJ quirk:NN 
+multipl:JJ page:NN action:NNS configur:VBN view:NN pattern:NN execut:VB check:VBG navig:NN occur:VBN navig:NN match:NN find:VBN 
+strang:JJ navig:NN match:NN find:VBN jsf:NNP process:VBN navig:NN action:NNS execut:VBG 
+imagin:VB invok:VBG navig:NN handler:NN multipl:JJ time:NNS anticip:VBN behavior:NN 
+develop:NN confus:JJ navig:NN event:NN stick:VB 
+current:JJ logic:NN 
+action:NNP action:NN getact:NNS 
+string:NN outcom:NN 
+string:NN fromact:NN outcom:NN 
+outcom:NN null:JJ 
+fromact:NN 
+getexpressionstr:VBG 
+result:NN true:JJ 
+outcom:NN 
+invok:VB 
+facescontext:NN outcom:NN fromact:NN 
+facescontext:NN outcom:NN fromact:NN 
+short:JJ circuit:NN place:NN respons:NN mark:VBN complet:JJ redirect:VB navig:NN chang:VBD navig:NN action:NNS stop:VB execut:VBG 
+includ:VB test:NN case:NN chang:NN 
+import:JJ screw:VB 
+desir:NN maintain:VB previous:JJ behavior:NN flag:NN add:VBN page:NN element:NN 
+page:NN short:JJ circuit:NN action:NNS fals:JJ 

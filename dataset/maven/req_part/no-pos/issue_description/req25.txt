@@ -1,0 +1,3 @@
+flag mvn set snapshot repo updat polici 
+build local instal snapshot dep download creat profil redefin snapshot repo updat polici updat polici messi add profil pom defin repo 
+hard implement simpl cli flag nsu snapshot updat forc snap repo updat autom build local repo cach dep 

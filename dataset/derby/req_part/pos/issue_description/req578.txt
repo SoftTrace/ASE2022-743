@@ -1,0 +1,5 @@
+identifi:VBD unus:JJ code:NN flag:NN fals:JJ code:NN handl:VBG trigger:VBZ bulk:JJ insert:NN unus:JJ inspect:NN corrobor:VBN result:VBZ regress:NN test:NNS disabl:VBP bulk:JJ insert:NN trigger:VBZ present:JJ 
+adjustdeferredflag:NN true:JJ 
+bulkinsert:NN verifybulkinsert:NN 
+bulk:NN insert:NN disabl:JJ defer:VBN mode:NN insert:NNS 
+return:NN fals:NN 

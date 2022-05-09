@@ -1,0 +1,1 @@
+execut:VB closur:NN thread:NN 

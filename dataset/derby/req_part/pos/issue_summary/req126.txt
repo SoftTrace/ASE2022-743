@@ -1,0 +1,1 @@
+verifi:VB rais:VBP sql:NNP call:VBG method:NNS close:JJ object:NNS 

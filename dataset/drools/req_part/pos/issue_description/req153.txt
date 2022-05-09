@@ -1,0 +1,2 @@
+knowledg:NN agent:NN urlresourc:NN fine:JJ http:NN http:NNS network:NN 
+nice:JJ cach:NN resourc:NN good:JJ version:NN 

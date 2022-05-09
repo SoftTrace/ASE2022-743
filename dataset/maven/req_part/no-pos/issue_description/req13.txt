@@ -1,0 +1,2 @@
+build project inherit parent pom instal remot repo defin remot repo parent pom download 
+resolv configur bootstrap repo definit set xml 

@@ -1,0 +1,2 @@
+hibern:NNP xml:NN map:VBG file:NN load:VB xml:NN entiti:NN declar:NN classpath:NN 
+resolv:NN seam:NNP 

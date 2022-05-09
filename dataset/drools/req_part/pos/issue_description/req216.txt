@@ -1,0 +1,4 @@
+wasn:NN workign:NN 
+decid:VBD simplifi:VB 
+appli:VB pattern:NN match:VBZ object:NN type:NN type:NN declar:NN 
+refactor:VB import:NNS enum:NNS map:NN key:NNS fall:VB predic:NNP 

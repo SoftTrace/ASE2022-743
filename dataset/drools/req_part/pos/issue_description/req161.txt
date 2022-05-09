@@ -1,0 +1,1 @@
+user:NN verifi:NN valid:VB rule:NNS rule:NNS 

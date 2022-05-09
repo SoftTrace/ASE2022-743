@@ -1,0 +1,1 @@
+support:NN observ:JJ version:NN set:NNP 

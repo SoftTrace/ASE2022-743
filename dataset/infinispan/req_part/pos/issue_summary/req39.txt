@@ -1,0 +1,43 @@
+infinispan:NNP osgi:NNP 
+import:VB infinispan:JJ osgi:NN repositori:NN 
+test:NNS felix:NNP 
+add:VBD configur:NN infinispan:JJ osgi:NN repositori:NN 
+ignor:VB list:VBN depend:NNS 
+configur:NN instal:VB osgi:NN 
+achiev:NN base:NN instal:NN 
+add:VBD import:NNP packag:NNP forc:VBN put:VB felix:NNP depend:NNS jgroup:NNS jboss:NN marshal:NN jcip:NN apach:JJ common:NNS 
+infinispan:JJ core:NN work:VBG default:NN librari:NNS achiev:NN replic:VBN osgi:NNP 
+import:NNP packag:NNP tag:NN exclud:VBD librari:NNS infinispan:JJ core:NN start:VBN default:NN mode:NN error:NNS 
+replic:NN osgi:NNP add:VB packag:NNS 
+core:NN bundl:NN instal:VBN 
+thees:JJ project:NNS instal:VBN osgi:NN bundl:NNS 
+jboss:VB transact:NN 
+patch:VBD 
+osgi:NNP version:NN 
+jgroup:NNS 
+osgi:NN bundl:NN version:NN 
+river:NN 
+open:VBN issu:NN marshal:VBG 
+marshal:VBG api:NN 
+open:VBN issu:NN marshal:VBG 
+jboss:NNS log:VBG spi:NN 
+add:VBN jira:NN issu:NN 
+fix:VBN 
+version:NN 
+fix:VBN version:NN 
+rhq:NN plugin:NN annot:NNS 
+open:VBN featur:NN request:NN 
+send:VBN patch:NN 
+osgi:NN bundl:NN version:NN 
+wait:VBG respons:NN 
+fix:VBN 
+osgi:NN bundl:NN 
+jcip:NN annot:NNS 
+send:VBD patch:NN email:NN post:NN 
+send:VBD patch:NN 
+respond:VBD 
+osgi:NN version:NN artifact:NN 
+chang:VBD depend:NN parent:NN project:NN 
+proper:JJ import:NNP packag:NNP properti:NN 
+fail:VBZ load:VB bundl:NNS essenti:JJ core:JJ function:NN infinispan:NNP 
+fail:VB due:JJ depend:NN essenti:JJ 

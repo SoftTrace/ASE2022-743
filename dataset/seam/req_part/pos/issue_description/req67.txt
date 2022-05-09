@@ -1,0 +1,6 @@
+support:NN compil:VBN groovi:JJ entiti:NNS 
+support:NN compil:VBN groovi:JJ action:NNS 
+support:NN deploy:VBN 
+groovi:JJ action:NNS web:NN inf:NN dev:NN debug:NN mode:NN 
+support:NN hot:JJ redeploy:NN 
+groovi:JJ action:NNS debug:NN mode:NN hot:JJ filter:NN 

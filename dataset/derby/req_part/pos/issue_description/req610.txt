@@ -1,0 +1,3 @@
+request:NN privat:JJ convers:NN user:NN 
+databas:NNS provid:VBP function:NN 
+straightforward:JJ add:VB 

@@ -1,0 +1,6 @@
+detail:JJ design:NNS wiki:NN review:NN 
+consist:JJ hash:NN algo:NN pluggabl:JJ 
+cach:NN mode:NN distribut:VBN addit:NN replic:VBN invalid:VBN 
+includ:VB code:NN rebalanc:NN 
+front:JJ cach:NN read:VBZ 
+multicast:JJ invalid:NN flush:JJ 

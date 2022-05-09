@@ -1,0 +1,1 @@
+easi:JJ plug:VB ast:NNP printer:NNS compil:NN 

@@ -1,0 +1,1 @@
+user:NN add:VB custom:NN resourc:NNS verifi:VBZ rule:NNS 

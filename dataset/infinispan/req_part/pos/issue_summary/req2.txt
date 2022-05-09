@@ -1,0 +1,4 @@
+add:VB event:NN handl:VBG hot:NNP rod:NNP 
+enabl:VB hot:JJ rod:NN server:NNS send:VB event:NNS regist:VBN client:NNS persist:JJ connect:NNS 
+case:NNS client:NNS maintain:VBG cach:NNS event:NNS server:NNS invalid:NN key:NNS client:NN side:NN 
+dev:NN list:NN thread:NN info:NN 

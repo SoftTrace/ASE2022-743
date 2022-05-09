@@ -1,0 +1,6 @@
+pig handl deep cast bag bag tupl tupl script produc desir result 
+load txt bag tupl doubl 
+foreach generat bag tupl int 
+dump 
+result tupl int tupl bag 
+fix case cast bytearray bag tupl complex type includ type bag bag tupl tupl effect 

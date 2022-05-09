@@ -1,0 +1,3 @@
+dgm:NNP map:NN map:NN closur:NNP closur:NN shorthand:NN 
+min:NN closur:NN 
+max:NN 

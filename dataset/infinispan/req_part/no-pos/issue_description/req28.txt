@@ -1,0 +1,1 @@
+current implement map reduc mapper reduc task execut remot jvm load process key valu serial singl thread executor process key valu parallel 

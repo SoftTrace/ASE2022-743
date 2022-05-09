@@ -1,0 +1,1 @@
+provid:VB collat:NN sensit:JJ subclass:NNS pass:VBN collat:NNP collat:NN default:NN collat:NN 

@@ -1,0 +1,63 @@
+derbi:NN tabl:NN index:NN store:VBN separ:JJ file:NN 
+space:NN 
+delet:VBN row:NNS reclaim:VBN file:NN 
+subsequ:JJ insert:NNS file:NN 
+space:NN return:VBN 
+user:NN call:VBZ 
+system:NN procedur:NN 
+procedur:NN return:VB unus:JJ space:NN 
+tabl:NNS index:NNS 
+exclus:JJ lock:NN 
+tabl:NN copi:NNS row:NNS index:NNS base:NN tabl:NN 
+compress:JJ file:NNS delet:VB file:NNS 
+jdk:NN 
+return:VB space:NN file:NN 
+jdk:NN enhanc:VBN truncat:NN 
+file:NN return:VB space:NN file:NN 
+order:NN advantag:NN featur:NN 
+compress:VB featur:NN derbi:NN 
+assumpt:NN work:NN futur:JJ work:NN 
+schedul:VB job:NN background:NN 
+interact:NN dba:NN 
+phase:NN work:NN 
+build:VB procedur:NN work:NN 
+phase:NN 
+schedul:VBG procedur:NN part:NN 
+current:JJ background:NN post:NN commit:VB process:NN 
+longer:JJR term:NN 
+fit:NN background:NN task:NN monitor:NN 
+schedul:NN larger:JJR background:NN task:NNS balanc:VBN prioriti:NNS 
+system:NN 
+task:NNS includ:VB onlin:NN compress:VB 
+automat:JJ statist:NNS gather:VBG proactiv:JJ delet:VBN row:NN reclam:NN 
+propos:VBN featur:NN reorgan:VB base:NN tabl:NNS index:NNS move:VBG 
+empti:JJ page:NNS 
+releas:VB space:NN oper:NN 
+system:NN creat:VBN chunk:NN empti:JJ page:NNS 
+file:NN 
+design:VBN run:VB background:NN lock:VB resourc:NNS 
+tabl:NN short:JJ time:NN 
+process:NN tabl:NN 
+reclaim:VB space:NN heap:NN scan:VB heap:NN page:NN revers:JJ order:NN 
+short:JJ term:NN tabl:NN lock:NN process:NN row:NNS page:NN 
+commit:VB transact:NN releas:VBG lock:NN 
+commit:VB 
+optim:VBN intern:JJ transact:NNS wait:VB 
+synchon:VBN write:NN 
+row:NN move:VBD requir:VB index:NN 
+entri:NNS row:NN updat:VBN 
+process:NN 
+care:NN process:VBG commit:JJ delet:VBN row:NNS 
+space:NN 
+free:JJ tabl:NN free:VBN oper:NN 
+system:NN interfac:NN 
+reclaim:VB space:NN btree:NN datum:NNS page:NNS move:VBN 
+row:NNS 
+datum:NNS page:NNS file:NN move:VBN free:VB 
+smaller:JJR number:JJ page:NNS 
+short:JJ term:NN tabl:NN lock:NNS requir:VBN 
+oper:NN similar:JJ current:JJ btree:JJ merg:NN oper:NNS 
+implement:VBN 
+chunk:NN page:NNS free:JJ 
+file:NN return:VBN mechan:NN 
+heap:NN 

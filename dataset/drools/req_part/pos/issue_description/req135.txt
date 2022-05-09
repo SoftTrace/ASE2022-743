@@ -1,0 +1,17 @@
+convini:NN helper:NN function:NN schedul:NN rule:NN execut:NNS similar:JJ manner:NN cron:NN util:NN 
+specif:JJ case:NN long:JJ run:NN session:NN write:VB datum:NNS persist:NN store:NN file:NN 
+current:JJ code:NN follow:VBZ 
+rule:NN dbpoll:NN 
+durat:NN 
+string:NN tostr:VBG run:VB 
+elaps:VBN 
+modifi:VB 
+string:NN run:NNP 
+method:NN work:VB requir:VBZ extern:JJ dummi:JJ object:NN trigger:NN 
+generat:VBN rule:NNS rule:NNS pull:VBN librari:NNS current:JJ develop:NNS control:NN difficult:JJ ensur:VB suibtabl:JJ trigger:NN 
+cron:NN function:NN solv:VB issu:NN 
+envis:VBP keyword:NN count:NN loop:NN style:NN format:NN 
+rule:NN dbpoll:NN 
+iter:NNS 
+min:NNS 
+elaps:VBN 

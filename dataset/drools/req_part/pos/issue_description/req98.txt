@@ -1,0 +1,2 @@
+pluggabl:JJ schedul:NN api:NN drool:NNS compon:NNS code:VB protect:VBN underli:VBG implement:NN 
+default:NN jdk:NNP quartz:NNP impl:NN 

@@ -1,0 +1,1 @@
+deleg:NNP jaa:NNP default:NN configur:NN 

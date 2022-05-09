@@ -1,0 +1,7 @@
+express bound variabl timer attribut 
+rule parametr timer 
+timer expr 
+
+bean delay period 
+
+

@@ -1,0 +1,1 @@
+updat:NN managedattribut:NN annot:NNS expos:VB inform:NN jopr:NNP 

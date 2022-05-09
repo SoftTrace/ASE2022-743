@@ -1,0 +1,7 @@
+queri:NN group:NN claus:NN parser:NN rewrit:VBZ abstract:JJ syntax:NN tree:NN put:VBG aggreg:NNS subselect:NN treat:VBG claus:NN claus:NN fabric:VBN outer:JJ select:JJ subqueri:NN 
+compil:NN machineri:NN claus:NN oper:VBZ group:VBN result:VBP claus:NN oper:VBZ list:NN 
+rewrit:VBG creat:VBZ explos:NN special:JJ case:NNS compil:NN pars:VBG 
+rewrit:VBG handl:VBN compil:NN 
+give:VBZ rise:NN defect:NNS bug:NN 
+elimin:VB special:JJ rewrit:VBG handl:VB claus:NN straightforward:JJ 
+small:JJ bugfix:NN medium:JJ size:JJ project:NN 

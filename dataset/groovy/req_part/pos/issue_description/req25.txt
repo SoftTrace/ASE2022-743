@@ -1,0 +1,17 @@
+part:NN attract:NN languag:NNS groovi:JJ rubi:NNP flexibl:JJ method:NN dispatch:VBG part:NN metaprogram:NN 
+style:NN prototyp:NN base:VBN oop:NN groovi:NNP 
+addit:NN class:NN class:NN attach:VBN prototyp:NN base:VBN oop:NN groovi:JJ 
+write:VB groovi:JJ script:NNS 
+creat:VB prototyp:NN object:NN 
+add:NN method:NN 
+println:NN 
+creat:VB object:NN 
+println:VB world:NN 
+set:NN prototyp:NN 
+proto:NN 
+print:NNS world:NN 
+call:NNS proto:NN 
+class:NN similar:JJ groovi:NNP expando:NNP 
+expando:NNP set:VBZ current:JJ object:NN deleg:NN closur:NNP work:VB properti:NN multithread:NN 
+class:NN pass:VBG argument:NN closur:NNP 
+closur:NN deleg:NN method:NN search:NN closur:NN code:NN properti:NN access:NN direct:JJ user:NN write:VB explicit:JJ argument:NN 

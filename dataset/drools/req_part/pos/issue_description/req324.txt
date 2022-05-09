@@ -1,0 +1,2 @@
+object:NN assert:VBN match:NNS auto:NN creat:VB rememb:JJ 
+ensur:VBZ futur:NN add:VBD rule:NNS fact:NNS propag:VBN 

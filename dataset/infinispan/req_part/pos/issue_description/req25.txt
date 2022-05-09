@@ -1,0 +1,6 @@
+transact:NN advanc:NN set:NN key:NNS read:VB 
+method:NN bring:VB perform:NN improv:NN 
+key:NNS fetch:VBN remot:JJ node:NNS parallel:JJ 
+key:NNS map:VBP node:NN group:VBN fetch:VBN rpc:NNP request:NN 
+note:VB 
+achiev:VBN time:NN method:NN eleg:JJ requir:VBZ user:NN write:VB code:NN code:NN wait:VBZ futur:JJ object:NNS return:VBN 

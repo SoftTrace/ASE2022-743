@@ -1,0 +1,2 @@
+upcom:JJ releas:NN move:VB poolabl:NNP setpool:NN statement:NNP 
+conform:VB 

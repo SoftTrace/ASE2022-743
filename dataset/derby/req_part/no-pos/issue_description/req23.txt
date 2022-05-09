@@ -1,0 +1,9 @@
+add bean applic regist chang state derbi jmx manag 
+jmx derbi origin propos mechan configur derbi replac enhanc system properti tend static natur iron jmx enabl static system properti derbi system jmx 
+propos add public mbean state derbi jmx manag chang bean automat regist derbi derbi system jmx fals regist applic occur time jmx enabl run applic possibl remot client 
+standard mbean mbean manag amp manag bean oper amp attribut 
+public boolean manag activ 
+public void start manag 
+public void stop manag 
+derbi boot jvm oper op 
+derbi system jmx true derbi regist mbean implement manag bean dynam control visibl derbi mbean 

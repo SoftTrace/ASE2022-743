@@ -1,0 +1,2 @@
+seam:NNP boostrap:NN file:NN 
+multipl:JJ start:VBD 

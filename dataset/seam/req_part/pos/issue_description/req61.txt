@@ -1,0 +1,13 @@
+load:VBN issu:NN hear:VB 
+nice:JJ replac:VBN seam:NNP compon:NN seam:NNP 
+pluggabl:JJ transact:NN manag:NN provid:NNS pave:VB support:NN spring:NN manag:VBD transact:NNS jpa:NNP local:JJ transact:NNS true:JJ hibern:VB local:JJ transact:NNS 
+seam:NNP applic:NNS run:VB depend:NN microcontain:NN tomcat:NN tighter:JJR framework:NNP integr:NN spring:NN 
+work:NN initi:JJ jtatransact:NN compon:NN replac:NN creat:VB springtransact:NN compon:NN proof:NN concept:NN extend:VBG transact:NN compon:NN 
+problem:NN hand:NN interact:VB transact:NN place:NNS seam:NNP 
+confin:VBG seam:NNP transact:NNS seam:NN call:NN simplifi:VB matter:NNS 
+transact:NN cleanup:NN place:NN transact:NN compon:NN filter:NNP 
+wouldn:JJ jta:NNP replac:NN servic:NN abstract:NN 
+java:NN webapp:NN enterpris:NN servic:NNS ejb:NNS jca:NNP jta:NNP requir:VBN 
+run:VBG tomcat:NN simpl:JJ web:NN resourc:NN local:JJ transact:NN manag:NN spring:NN abstract:NN jpa:NNP hibern:VB 
+ton:NNS problem:NNS worst:JJS case:NN scenario:NN issu:NN great:JJ place:NN document:VB refer:VB reject:VBN featur:NN request:NNS 
+mike:NNP 

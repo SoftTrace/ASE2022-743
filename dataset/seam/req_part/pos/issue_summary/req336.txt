@@ -1,0 +1,1 @@
+pars:VB lookng:NN session:NN bean:NNS entiti:NN bean:NNS 

@@ -1,0 +1,2 @@
+plug user defin strategi decod encod convers request respons 
+proper support ajax soap invoc 

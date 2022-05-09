@@ -1,0 +1,1 @@
+mojo:NNS generat:VBG resourc:NNS modello:NN jpox:NN jdo:NN map:NN goal:NN add:VB generat:VBN output:NN list:NN resourc:NNS code:NN generat:VBG mojo:NNS 

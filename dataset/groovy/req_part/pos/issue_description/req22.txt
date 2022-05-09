@@ -1,0 +1,5 @@
+write:VBG liner:NNS script:NN languag:NNS access:NN array:NN current:JJ line:NN split:VBN accord:VBG pattern:NN 
+patch:NN add:VBZ commandlin:NN option:NN implement:VBZ 
+option:JJ paramet:NN split:NN pattern:NN 
+split:NN pattern:NN singl:JJ space:NN 
+patch:JJ file:NN 

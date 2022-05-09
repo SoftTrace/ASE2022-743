@@ -1,0 +1,15 @@
+network:NN server:NN network:NN client:NN blocksiz:NN 
+return:VBG databas:NN datum:NNS qrydta:NNP block:NNS 
+follow:VBG statement:NN drda:NNP spec:NN volum:NN page:NN 
+block:VBG appli:VBZ qrydta:NNP repli:NN object:NNS 
+queri:NN block:NN qrydta:NN dss:NN 
+maximum:JJ queri:NN block:NN size:NN 
+valu:NN qryblksz:NN paramet:NN increas:VBN 
+accomod:JJ larger:JJR datum:NNS volum:NNS 
+requir:VBN modern:JJ data:NN intens:JJ applic:NNS 
+import:NN larger:JJR block:NN size:NNS depend:VBZ strong:JJ applic:NN 
+profil:NN 
+applic:NNS perform:VBP singl:JJ record:NN select:VBZ 
+influenc:VBN block:NN size:NN 
+applic:NNS abil:NN larger:JJR block:NN 
+size:NN valuabl:JJ 

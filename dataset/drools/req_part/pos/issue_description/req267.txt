@@ -1,0 +1,1 @@
+clone:VBG array:NNS expens:JJ creat:VBG factori:JJ object:NNS shoudl:VBP sort:NN link:VBN list:NN doesn:VBD copi:VB inform:NN parent:NNS 

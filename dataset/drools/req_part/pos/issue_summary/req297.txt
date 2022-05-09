@@ -1,0 +1,1 @@
+seper:JJ interfac:VBZ stateless:NNP state:NNP 

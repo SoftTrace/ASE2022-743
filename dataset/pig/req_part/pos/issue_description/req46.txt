@@ -1,0 +1,10 @@
+attach:VBN patch:NN propos:VBZ javascript:NN implement:NN pig:NN embed:NN udf:NNS script:NN languag:NNS 
+similar:JJ jython:NNP implement:NN rhino:NNP provid:VBN jdk:NNP 
+differ:NNS 
+output:NN schema:NN provid:VBN functionnam:NN 
+outschema:NN schema:NN javascript:NN annot:NNS decor:NNS function:NNS class:NN object:NNS 
+tupl:NNS convert:VBN object:NNS input:NN schema:NN output:NN schema:NN 
+attach:VBN patch:NN final:JJ 
+lack:VBZ unit:NN test:NNS 
+test:NN org:NN apach:NN pig:NN test:NN data:NN transit:JJ closur:NN 
+follow:VBG jira:NNS context:NN 

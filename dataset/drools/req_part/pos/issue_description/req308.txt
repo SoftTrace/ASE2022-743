@@ -1,0 +1,1 @@
+properti:NNS assign:NN system:NN properti:NNS method:NN cascad:VBG system:NN auto:NN discoveri:NN 

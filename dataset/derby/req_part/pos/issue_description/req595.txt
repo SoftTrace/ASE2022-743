@@ -1,0 +1,17 @@
+attempt:NN improv:VB concurr:NN ident:NN column:NNS 
+previous:JJ attempt:NN track:VBN 
+attempt:NN mike:NNP suggest:NN system:NN creat:VBN sequenc:NNS manag:VBN 
+reduc:VB content:NN core:NN catalog:NNS 
+hope:JJ approach:NN experi:NNS track:VBN 
+problem:NNS relat:VBN sequenc:NN generat:NNS lot:NNS ident:NN relat:VBN lock:NN timeout:NNS 
+general:JJ shape:NN approach:NN 
+add:VBG ident:NN column:NN tabl:NN derbi:NNP creat:VB sequenc:NN generat:NN column:NN 
+sequenc:NN generat:NN live:VB sys:NNP schema:NN tabl:NN uuid:NNP 
+drop:NN sequenc:NN oper:VB system:NN creat:VBN sequenc:NNS 
+system:NNP creat:VBN sequenc:NNS drop:VBN modifi:VBN drop:NN alter:NN tabl:NN command:NNS 
+add:VB system:NN function:NN inspect:VBG current:JJ memori:NN valu:NN ident:NN generat:NN lock:NN 
+tableschemanam:NN tablenam:NN 
+derbi:NNP creat:VB sequenc:NN legaci:NN ident:NN column:NN hard:JJ upgrad:NN 
+chang:NNS place:NN hard:JJ upgrad:NN 
+soft:JJ upgrad:NN chang:VB behavior:NN ident:NN column:NNS 
+comment:NNS propos:NN 

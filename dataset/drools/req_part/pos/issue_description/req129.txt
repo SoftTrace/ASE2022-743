@@ -1,0 +1,1 @@
+configur:NN node:NN type:NNS graphic:JJ editor:NN 

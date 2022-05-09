@@ -1,0 +1,21 @@
+infinispan:NNP user:NN transact:NNS infinispan:NNP persist:VB chang:NNS cach:NN store:NN synchron:NN user:NN transact:NN 
+persist:NN oper:NN user:NN transact:NN commit:VBN 
+compon:NNS infinispan:NNP infinispan:NNP work:NN complet:VBN give:VBN transact:NN 
+infinispan:NNP regist:VBG transact:NN listen:NN 
+cach:NN 
+activetransact:NN 
+txntabl:NN 
+getcompon:NN 
+ispntxid:NN activetransact:NN 
+getglobaltransact:NN 
+class:NN 
+public:JJ void:NN transactioncomplet:VBN event:NN 
+return:NN 
+eventispntransact:NN 
+eventispntransact:NN null:JJ 
+return:NN 
+stuff:NN 
+stuff:NN 
+infinispan:NNP class:NNS move:VBN impl:NN packag:NN 
+public:JJ api:NN notifi:VBN infinispan:NNP complet:JJ work:NN specif:JJ user:NN transact:NN 
+doesn:VBD detail:NNS 

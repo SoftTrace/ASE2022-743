@@ -1,0 +1,2 @@
+latch:VBG page:NNS store:NN lock:NN manag:NN 
+discuss:NN 

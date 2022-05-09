@@ -1,0 +1,7 @@
+learn access layer discov code improv easili increas readabl code 
+patch attach issu cleanup patch function chang 
+
+remov unus import 
+remov unus method 
+fix java doc error 
+tighter encapsul remov unus variabl 

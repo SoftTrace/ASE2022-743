@@ -1,0 +1,2 @@
+lifespan:NN maxidl:NN precis:NN 
+jsr:NNP requir:VBZ millisecond:NNS precis:NN 

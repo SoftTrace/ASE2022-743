@@ -1,0 +1,14 @@
+follow:VBG scenario:NN 
+declar:VB trait:NN 
+int:NN 
+declar:VB 
+declar:VB trait:NN foo:NN 
+fld:NN 
+declar:VB bar:NN 
+logic:NN true:JJ mode:NN 
+fld:NN 
+instanc:NN bar:NN trait:VBN foo:NN valu:NN field:NN fld:NN 
+turn:NN trait:VBN 
+truth:NNP mainten:NN transpar:JJ cast:NN requir:VBN 
+goal:NN write:VB rule:NNS 
+foo:NNP fld:NN isa:NN 

@@ -1,0 +1,13 @@
+profil 
+classnam 
+activ 
+file 
+target generat sourc classnam generat stuff util classnam provid java 
+file 
+activ 
+build 
+exist valid tag file 
+problem patch atm ceas work context subproject exist 
+file exist profil activ mechan absolut path file string 
+build base object profil pass empti null string doesn resolv express 
+point direct ad express resolut put talk kenney bit irc morn 

@@ -1,0 +1,15 @@
+reject:VBZ foreach:NN udf:NNP 
+privat:JJ boolean:JJ isacceptableforeachop:NN oper:NNP throw:VBZ 
+instanceof:NN loforeach:NN 
+plan:NNP 
+plan:NNP 
+validatemapsidemerg:NN innerplan:NN 
+return:NN 
+containsudf:NNS 
+return:NN fals:NN 
+todo:NN class:NN containsudf:NNS 
+todo:NN dvryaboy:NN futur:NN relax:VB rule:NN trace:VBG field:NNS 
+pass:VBN udf:NNP refus:VBG udf:NNP work:VBG 
+join:VB key:NN 
+transform:NNS field:NNS 
+todo:NN relax:VB requir:NN remov:VB 

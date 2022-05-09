@@ -1,0 +1,1 @@
+avrostorag:NN store:NN oper:NNP schema:NNP uri:NNP 

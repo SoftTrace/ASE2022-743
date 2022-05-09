@@ -1,0 +1,4 @@
+bloom:NNP filter:NNP store:VBN hdfs:NNP bloom:NNP udf:NNP 
+time:NN bloom:NN filter:NN reus:VBN delet:VBN script:NN 
+load:NN store:NN forc:VBZ multipl:JJ dag:NNS 
+pass:VBN scalar:NN simpler:JJR effici:JJ 

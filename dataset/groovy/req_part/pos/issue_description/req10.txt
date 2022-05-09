@@ -1,0 +1,2 @@
+project:NN coin:NN propos:NN binari:JJ liter:NNS find:VBN 
+attach:VBN patch:NN liter:NNS intern:JJ chang:NNS compil:NN creat:VB correct:JJ int:NNS 

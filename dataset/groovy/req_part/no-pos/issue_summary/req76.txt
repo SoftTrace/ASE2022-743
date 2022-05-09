@@ -1,0 +1,1 @@
+syntact sugar jsr 

@@ -1,0 +1,9 @@
+includ:VB 
+boolean:JJ cacheexist:NNS string:NN cach:NN 
+cach:NNP 
+getcacheifexist:NNS string:NN cach:NN 
+cach:NN 
+cach:NNP string:NN cach:NN boolean:JJ createifabs:NN 
+boolean:JJ remov:NN string:NN cach:NN 
+origin:JJ request:NN 
+abil:NN check:VB popul:NN cach:NN exist:VBZ cach:NNP valid:JJ handl:NN cach:NN exist:VBZ 

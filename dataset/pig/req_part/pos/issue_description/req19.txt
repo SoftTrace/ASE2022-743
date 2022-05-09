@@ -1,0 +1,12 @@
+file:NNP support:VBZ split:VBN record:NN sequenc:NN number:NN jira:NNP 
+util:VB provid:VB record:NN row:NN base:VBN input:NN split:NN support:NN zebra:NNP 
+promin:JJ benefit:NN case:NNS larg:JJ datum:NNS file:NNS creat:VB fine:JJ grain:JJ input:NN split:NNS creat:VB big:JJ split:NN big:JJ file:NN 
+detail:NN row:NN base:VBN getsplit:NNS work:VBZ default:NN user:NN 
+split:NNS generat:VBN follow:VBZ 
+select:VB biggest:JJS column:NN group:NN term:NNS datum:NNS size:NN split:VBD tfile:NNS accord:VBG hdfs:NN block:NN size:NN list:NN physic:JJ byte:NN offset:NNS output:NN tfile:NN 
+assum:VB tfile:NN 
+invok:VB offset:VBN key:JJ valu:NN pair:NN byte:NN offset:VBN 
+stitch:VB split:NNS column:NN group:NNS form:VB record:NN base:VBN input:NN split:VBZ file:NNP 
+input:NN split:NN creat:VB tfile:NN scanner:NN long:JJ endrecnum:NN 
+note:NN convers:NN byte:NN offset:VBN record:NN number:NN mapper:NN job:NN initi:NN phase:NN 
+due:JJ perform:NN concern:NN convers:NN incur:VBZ tfile:JJ read:NN overhead:NN 

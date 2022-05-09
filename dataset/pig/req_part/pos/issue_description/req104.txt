@@ -1,0 +1,16 @@
+run:VBG kerbero:NNP secur:JJ environ:NN user:NNS face:VBN limit:NN job:NNS run:VB longer:JJR remain:VBG ticket:NN lifetim:NN kerbero:NNP ticket:NNS 
+environ:NN work:VBP ticket:NNS expir:VBP hour:NNS limit:VBG maximum:JJ job:NN durat:NN hour:NNS problem:NN 
+hadoop:NNP tool:VBG featur:NN authent:VB kerbero:NNP keytab:NNP file:NN file:NN encrypt:VBN form:NN kerbero:NNS princip:JJ password:NN 
+run:VBG applic:NN request:VB ticket:NNS kerbero:NNP server:NN initi:JJ ticket:NNS expir:VBP 
+java:NNP hadoop:NNP applic:NNS includ:VBP line:NNS 
+system:NNP 
+home:NN nbasj:NNS 
+krb:NN 
+run:VBN apach:NNP flink:NNP base:VBN applic:NN hour:NNS week:NN kerbero:NNS secur:VBN yarn:NNP cluster:NNP 
+propos:VBP featur:NN set:VB relev:JJ kerbero:NN valu:NNS pig:NN script:NN run:VB pig:NN job:NN day:NNS secur:VBN cluster:NN 
+propos:NN pig:NN script:NN 
+set:NN 
+set:NN 
+set:NN home:NN nbasj:NNS 
+krb:NN 
+iff:NNP set:VBN aforement:JJ method:NN call:VBN submit:VBG job:NN cluster:NN 

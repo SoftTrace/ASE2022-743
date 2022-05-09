@@ -1,0 +1,1 @@
+specifiy:VB minimum:JJ number:NN node:NNS belong:VB cluster:NN transport:NN start:VBD 

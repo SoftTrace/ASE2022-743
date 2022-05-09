@@ -1,0 +1,27 @@
+infinispan osgi 
+import infinispan osgi repositori test felix 
+ad configur infinispan osgi repositori ignor list depend configur instal infinispan core jar osgi achiev base instal 
+ad import packag forc put manual felix depend jgroup jboss marshal jcip apach common infinispan core work default librari achiev replic osgi 
+import packag tag exclud librari infinispan core start default mode error replic osgi add manual packag jgroup jar 
+core bundl instal thees project instal osgi bundl 
+jboss transact api 
+patch osgi version 
+jgroup 
+osgi bundl version 
+river 
+open issu marshal 
+marshal api 
+open issu marshal 
+jboss log spi 
+ad jira issu fix version fix version 
+rhq plugin annot 
+open featur request 
+nlog 
+sent patch osgi bundl version wait respons fix 
+log 
+osgi bundl 
+jcip annot 
+sent patch email brian briangoetz post sent patch concurr interest oswego respond osgi version artifact chang depend pom xml parent project 
+proper import packag properti manifest 
+fail load bundl essenti core function infinispan 
+fail due depend essenti 

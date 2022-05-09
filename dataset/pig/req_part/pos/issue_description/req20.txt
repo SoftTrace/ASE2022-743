@@ -1,0 +1,5 @@
+user:NNS long:JJ structur:NN udf:NNS 
+nice:JJ pass:VB properti:NNS front:JJ udf:NNS store:VB state:NN pars:VB time:NN runtim:NN 
+patch:NN part:NN propos:VBN 
+provid:VB give:VB user:NN configur:NN file:NNS udf:NNS 
+mark:VB depend:VBG bug:NN isn:JJ duplic:NN 

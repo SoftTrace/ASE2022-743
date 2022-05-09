@@ -1,0 +1,11 @@
+code groovi method extend core jdk class 
+list grep 
+file grep 
+list pop 
+list revers 
+collect remov 
+collect count foo 
+collect list 
+file input stream 
+string join 
+

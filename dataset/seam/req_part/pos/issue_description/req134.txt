@@ -1,0 +1,22 @@
+compon:NN templat:NN class:NN configur:VBN class:NN attribut:NN prior:JJ deriv:VBG class:NN namespac:NN info:NN xml:NN element:NN 
+consult:VBG class:NN attribut:NN prevent:VB case:NN compon:NNS configur:VBN develop:NN intend:VBZ xml:NN declar:NN compon:NN configur:NN 
+case:NN point:NN 
+creat:VB class:NN extend:VBZ provid:VB extra:JJ behavior:NN 
+myentityhom:NN 
+public:JJ class:NN extend:VBZ 
+configur:VB properti:NNS class:NN 
+framework:NN entiti:NN home:NN myentityhom:NN class:NN 
+framework:NN creat:VBN messag:NN creat:VBD 
+framework:NN creat:VBN messag:NN 
+framework:NN updat:VBN messag:NN updat:VBD 
+framework:NN updat:VBN messag:NN 
+framework:NN delet:VBN messag:NN delet:VBD 
+framework:NN delet:VBN messag:NN 
+framework:NN entiti:NN home:NN 
+class:NN attribut:NN consult:VBN annot:NN 
+doesn:VBD find:VB build:VBN class:NN creat:VB compon:NN definit:NN 
+xml:NN namespac:NN tag:NNS case:NN 
+simpl:JJ 
+tag:NN complet:NN properti:NN recognit:NN support:NN 
+note:VB work:VBZ class:NN resolv:VBN xml:NN namespac:NN element:NN compon:NN class:NN 
+case:NN compon:NN class:NN extend:VBZ build:VBN class:NN problem:NN 

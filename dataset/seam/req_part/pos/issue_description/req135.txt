@@ -1,0 +1,12 @@
+page:NN 
+navig:NN 
+rule:NN 
+rais:VB event:NN type:NN 
+rais:VB event:NN type:NN 
+rule:NN 
+navig:NN 
+page:NN 
+page:NN 
+rais:VB event:NN type:NN 
+rais:VB event:NN type:NN 
+page:NN 

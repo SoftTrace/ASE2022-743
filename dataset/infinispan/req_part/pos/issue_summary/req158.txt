@@ -1,0 +1,1 @@
+lucen:NNP atom:JJ oper:NNS 

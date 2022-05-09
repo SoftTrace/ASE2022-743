@@ -1,0 +1,7 @@
+oppos:VBN current:JJ listen:NN approach:NN infinispan:NNP listen:NN instanc:NN invok:VBN data:NN owner:NNS jira:NNP add:VBG support:NN cluster:NN listen:NN listen:NN instanc:NN notifi:VBN disregard:NN datum:NNS ownership:NN rpc:NNP call:VBZ involv:JJ 
+fact:NN listen:NN notif:NN involv:VB rpc:NNP nice:JJ filter:NNS listen:NNS 
+cluster:JJ listen:NN support:NN open:VBZ interest:JJ architectur:NNS 
+persist:JJ continu:JJ queri:NNS queri:NN transform:VBN filter:NN 
+notif:NN listen:NN state:NN updat:NNS queri:NN state:NN 
+simplist:JJ cep:NN build:VBN top:NN persist:JJ queri:NN describ:VBN 
+remot:JJ hotrod:NN notif:NNS base:VBN cluster:VBN listen:NNS 

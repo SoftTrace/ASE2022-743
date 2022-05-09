@@ -1,0 +1,10 @@
+alloc:VB datum:NNS heap:NN 
+requir:NNS idea:NNS 
+datum:NNS store:VBN direct:JJ bytebuff:NNS access:JJ integr:NN type:NNS cluster:NN persist:NN server:NN 
+raw:JJ byte:NN storag:NN perform:VBN server:NNS store:NN binari:JJ 
+alloc:NN pluggabl:JJ 
+box:NN implement:NN netti:NNP buffer:NNPS 
+type:NN alloc:NN heap:NN heap:NN cach:NN 
+heap:NN alloc:NN configur:NN global:JJ share:VBN multipl:JJ 
+option:JJ heap:NN alloc:NN key:NNS 
+abil:NN monitor:VB global:JJ cach:NN memori:NN usag:NN 

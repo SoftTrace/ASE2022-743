@@ -1,0 +1,1 @@
+correl:NN updat:NN delet:NN statement:NNS 

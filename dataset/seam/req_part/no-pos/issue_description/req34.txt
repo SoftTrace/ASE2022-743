@@ -1,0 +1,8 @@
+page xml navig rule redirect rule valu express 
+navig action 
+simpl compon 
+
+redirect view 
+dynam navig manag page 
+
+navig 

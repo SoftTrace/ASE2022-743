@@ -1,0 +1,6 @@
+determin:VB jdbc:NNP support:VBN 
+test:NN code:NN call:VBG engin:NN privat:JJ api:NN code:NN 
+suggest:VB chang:NNS 
+determin:VB jdbc:NNP level:NN support:NN abil:NN load:VB class:NNS 
+move:VB method:NN jdbc:NNP support:VBZ 
+attribut:NN test:NN configur:NN add:VB supportsjdbcx:NN method:NNS 

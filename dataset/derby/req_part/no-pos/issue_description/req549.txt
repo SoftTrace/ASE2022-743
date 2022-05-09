@@ -1,0 +1,2 @@
+jdbc version colum ad databas meta data test check expect column ignor extra column prevent failur compat test 
+check occur assert column assert column type 

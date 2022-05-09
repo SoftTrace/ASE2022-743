@@ -1,0 +1,1 @@
+pig:NN output:NN format:NN committ:NN support:VB recoveri:NN hadoop:JJ 

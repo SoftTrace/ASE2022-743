@@ -1,0 +1,5 @@
+defin:VB rollback:NN rule:NNS depend:NN 
+reason:NN close:VBD solut:NN 
+api:NN call:VB set:VB current:JJ rollback:NN 
+kind:NN annot:NN control:NN rollback:NN convers:NN 
+deprec:VB member:NN 

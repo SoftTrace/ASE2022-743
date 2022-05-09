@@ -1,0 +1,3 @@
+deploy user code infinispan server 
+infinispan server deploy jar follow standard java servic provid api 
+support grouper listen map reduc job distexec job interceptor jpa entiti 

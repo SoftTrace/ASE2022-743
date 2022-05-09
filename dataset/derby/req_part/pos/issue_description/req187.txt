@@ -1,0 +1,25 @@
+write:VBG transact:NN log:NN disk:NN derbi:NNP 
+support:VBN jvm:NNP log:NN file:NNS 
+open:VBN mode:NN file:NN system:NN care:NN sync:VBG 
+write:VBZ disk:NN 
+mode:NN ensur:VB datum:NNS file:NN 
+meta:NN data:NN updat:VBN write:NN file:NN 
+oper:NN 
+system:NNS lead:VBZ write:NN oper:NN disk:NN 
+write:NN issu:VBN derbi:NNP 
+limit:VBG throughput:NN 
+updat:NN intens:JJ applic:NNS 
+chang:VB file:NN mode:NN 
+rwd:VB reduc:VB number:NN updat:NNS disk:NN 
+run:VBN simpl:JJ test:NNS chang:VBN mode:NN 
+rwd:NN derbi:NNP log:NN file:NN 
+run:VBG small:JJ number:NNS 
+concurr:JJ client:NN thread:NNS throughput:NN doubl:VBN 
+respons:NN time:NN halv:VBN 
+attach:VB graph:NNS show:VBP 
+run:VBG give:VBN number:NN concurr:JJ tpc:NN client:NNS 
+graph:NNS show:VBP throughput:NN run:VBG rwd:NN mode:NN 
+disk:NN write:NN cach:NN enabl:VBN disabl:JJ 
+creat:VBG jira:NNP place:NN collect:VB 
+inform:NN issu:NNS chang:VBG default:NN 
+mode:NN write:VBG log:NN file:NNS 

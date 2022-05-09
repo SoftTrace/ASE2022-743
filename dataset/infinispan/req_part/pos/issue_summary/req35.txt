@@ -1,0 +1,1 @@
+configur:VBG number:NN segment:NNS node:NN 

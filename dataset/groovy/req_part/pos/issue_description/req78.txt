@@ -1,0 +1,10 @@
+groovi:NNP nix:NN shell:NN replac:NN support:VB follow:VBG 
+assert:VB tabc:NN tdef:NN 
+expand:VB 
+unexpand:JJ tabc:NN tdef:NN 
+assert:VB 
+expand:VB 
+assert:VB 
+unexpand:JJ 
+assert:VB 
+unexpand:JJ 

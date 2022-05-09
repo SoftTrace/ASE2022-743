@@ -1,0 +1,11 @@
+version:NN 
+connect:VB jdbc:NN derbi:NN memori:NN creat:VB true:JJ 
+creat:VB type:NN extern:JJ languag:NN java:NN 
+row:NNS insert:VBN updat:VBN delet:VBN 
+creat:VB tabl:NN ttt:NN int:NN check:NN cast:NN null:JJ typ:NN null:JJ 
+row:NNS insert:VBN updat:VBN delet:VBN 
+insert:NN ttt:NN valu:NNS 
+error:NN java:NNP 
+debug:NN build:NN 
+insert:NN ttt:NN valu:NNS 
+error:NN java:NNP assert:NNP fail:VBD current:JJ depend:JJ compil:NN 

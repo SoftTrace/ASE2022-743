@@ -1,0 +1,1 @@
+commit:VB rollback:NN call:VBN xaresourc:NN associ:VBN transact:NN 

@@ -1,0 +1,1 @@
+add jess style accumul function 

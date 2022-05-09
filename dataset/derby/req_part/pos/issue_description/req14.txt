@@ -1,0 +1,35 @@
+argument:NN diagnost:JJ tabl:NNS exist:VBP provid:VBP inform:NN run:VBG state:NN derbi:NNP error:NN messag:NNS 
+tabl:NNS invok:VBN awkward:JJ syntax:NN 
+select:VB 
+improv:NN provid:VB intern:JJ map:NN regular:JJ tabl:NN schema:NN 
+runtim:NN virtual:JJ tabl:NN code:NN 
+replac:VBN 
+select:VB 
+diagnost:JJ tabl:NN express:NNS regular:JJ tabl:NN express:NNS vti:NN construct:NN 
+normal:JJ tabl:NN 
+ddl:NN insert:NN updat:NN delet:NN compress:NN procedur:NN refer:NNS diagnost:JJ tabl:NN 
+result:VB 
+style:NN syntax:NN remain:VB place:NN deprec:VBN 
+tabl:NNS implement:VBN chang:NN 
+replac:VBZ 
+replac:VBZ 
+replac:VBZ 
+replac:VBZ 
+add:VBG tabl:NN tabl:NN drive:VBN easi:JJ provid:VB addit:JJ diagnost:NNS 
+inform:NN diagnost:JJ tabl:NNS system:NN catalog:NNS jdbc:NNP 
+queri:NN involv:VBG diagnost:JJ tabl:NN valid:JJ 
+step:NN progress:NN suppor:VBG applic:NN user:NN defin:VBN virtual:JJ tabl:NN 
+step:NNS part:NN jira:NN issu:NN add:VBD inform:NN purpos:NNS 
+step:NN support:VBG diagnost:JJ tabl:NNS paramet:NNS 
+select:VB 
+sale:NNS order:NNS 
+step:NN provid:VBG creat:VB virtual:JJ tabl:NN statement:NN databas:NNS support:VBP 
+form:NN virtual:JJ tabl:NN wrapper:NNS 
+ddl:NNP 
+datum:NNS access:NN standard:JJ 
+check:VB tabl:NN function:NNS part:NN sql:NN standard:JJ 
+syntax:NN defin:VBN give:VB general:JJ idea:NN 
+creat:VB virtual:JJ tabl:NN ticker:NNP varchar:NNP start:NNP timestamp:NNP timestamp:NNP 
+languag:NN java:NNP 
+paramet:NN style:NN java:NNP 
+extern:JJ 

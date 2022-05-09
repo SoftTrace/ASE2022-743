@@ -1,0 +1,4 @@
+derbi:NNP interfac:VBZ packag:NN implement:VB xpath:JJ support:NN 
+packag:NN part:NN java:NNP specif:NN 
+packag:NN includ:VBN intern:JJ api:NN major:JJ java:NNP runtim:NNS standard:JJ packag:NN 
+portabl:JJ break:VB futur:NN jvm:NNP vendor:NNS remov:VB intern:JJ api:NN 

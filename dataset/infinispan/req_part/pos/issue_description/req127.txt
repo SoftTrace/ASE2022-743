@@ -1,0 +1,11 @@
+propos:NN feel:VB free:JJ reject:VB 
+default:NN behaviour:NN 
+minidl:NN 
+timebetweenevictionrunsmilli:NN min:NN 
+idl:JJ ensur:VB connect:NN creat:VB 
+surpris:NN user:NN warn:NN 
+warn:NN timer:NN connect:VB server:NN 
+connect:NN refus:VBD 
+nativ:JJ method:NN 
+easi:JJ chang:VB minidl:NN properti:NN strang:JJ default:NN imho:NN 
+wdyt:NNP 

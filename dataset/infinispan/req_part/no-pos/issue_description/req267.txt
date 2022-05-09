@@ -1,0 +1,10 @@
+relationship configur cach programmat api abil read exist configur creat declar config 
+introduc concept configur inherit 
+local cach evict cach 
+evict strategi lir max entri 
+local cach 
+nbsp 
+local cach mycach templat evict cach 
+possibl cach templat abstract instanti cach 
+local cach evict cach abstract true 
+local cach 

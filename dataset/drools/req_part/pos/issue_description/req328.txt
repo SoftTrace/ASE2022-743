@@ -1,0 +1,2 @@
+stateless:NNP session:NNP 
+useabl:JJ session:NNS inject:VB global:NNS event:NN support:NN object:NNS 

@@ -1,0 +1,1 @@
+support:VBN local:NNS configur:VBN compon:NN descriptor:NN 

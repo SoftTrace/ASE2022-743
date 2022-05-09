@@ -1,0 +1,1 @@
+unus:JJ work:NN memori:NN testcas:NN leap:NNS compat:JJ 

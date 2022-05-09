@@ -1,0 +1,6 @@
+emb:VBN driver:NN rais:VBZ sqlexcept:NN link:VBN tostr:NN method:NN add:VBZ sqlstate:NN error:NN messag:NN 
+sqlexcept:NN rais:VBN client:NN driver:NN link:VBN add:VB sqlstate:NN 
+printstacktrac:NN give:VBZ inform:NN call:VBN emb:VBN 
+call:VB getsqlstat:NN client:NN order:NN sqlstate:NN 
+chang:VB tostr:NN method:NN work:VB 
+discuss:NN 

@@ -1,0 +1,2 @@
+add event handl hot rod 
+enabl hot rod server send event asynchron regist client persist connect case client maintain cach event server invalid key client side dev list thread info 

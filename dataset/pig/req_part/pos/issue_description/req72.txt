@@ -1,0 +1,2 @@
+hadoop:NNP stream:VBG convert:NNS jobconf:NN properti:NNS environ:NN variabl:NNS pig:NNP stream:NN 
+featur:NN pig:NNP stream:NN provid:VB 

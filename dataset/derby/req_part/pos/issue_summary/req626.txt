@@ -1,0 +1,1 @@
+parallel:JJ access:NN datum:NNS file:NNS 

@@ -1,0 +1,5 @@
+throw:VBZ type:NNS sql:NNP standard:NNP 
+sqlexcept:NN generat:VBN throw:VBN code:NN 
+level:NN code:NN sqlexcept:NN throw:VBN tedious:JJ handl:VB sqlexcept:NN standardexcept:NN higher:JJR level:NNS 
+propos:VBP replac:VB sqlexcept:NN standard:NNP 
+purpos:NN chang:NN consist:NN result:VBZ code:NN higher:JJR level:NNS 

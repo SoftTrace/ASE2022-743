@@ -1,0 +1,1 @@
+consol:NN messag:NNS print:VB time:NN stamp:NN 

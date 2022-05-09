@@ -1,0 +1,8 @@
+trait core field map requir field compat type due interfac requir desir defin custom map 
+declar trait 
+tfield string alia field 
+
+declar 
+field string 
+
+field map hard field field 

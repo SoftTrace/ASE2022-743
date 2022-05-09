@@ -1,0 +1,35 @@
+product pig script grow longer longer pig latin integr standard program techniqu separ code share offer function modul propos ad macro expans pig latin post 
+summari propos syntax exampl 
+macro definit 
+exist defin keyword expand definit pig macro 
+syntax 
+defin param return alias 
+pig latin fragment 
+
+
+defin macro sortkey return 
+filter filter 
+order sortkey 
+
+macro expans 
+syntax 
+alias macro param 
+macro pig script 
+load foo user address phone 
+macro user 
+store bar 
+script expand pig latin statement 
+load foo user address phone 
+macro macro filter filter 
+order macro macro user 
+store bar 
+note 
+alia macro isn visibl prefix macro suffix instanc avoid namespac collis 
+macro expans complet replac function call recurs expans support 
+macro import 
+import keyword add macro defin pig latin file 
+syntax 
+import pig latin file 
+
+import macro pig 
+note macro global namespac 

@@ -1,0 +1,3 @@
+profil:NN show:VBZ time:NN spend:VBN iter:NN loop:NNS 
+singl:JJ composit:NNP adapt:NNPS propag:NNS 
+avoid:VB custom:NN linkedlist:NN array:NNS 

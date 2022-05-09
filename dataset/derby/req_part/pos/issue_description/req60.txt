@@ -1,0 +1,3 @@
+insert:VB clob:NN tabl:NN rollback:NN transact:NN space:NN reclaim:VBN number:NN alloc:VBN page:NNS continu:VBZ grow:VB 
+add:VB test:NN case:NN refer:NN bug:NN 
+special:JJ case:NN bug:NN file:VB bug:NN general:JJ issu:NN 

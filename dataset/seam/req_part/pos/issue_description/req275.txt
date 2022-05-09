@@ -1,0 +1,1 @@
+seam:NNP support:VB featur:NNS includ:VB support:NN ejb:NN featur:NNS interfac:NN view:NNS singleton:NNS 

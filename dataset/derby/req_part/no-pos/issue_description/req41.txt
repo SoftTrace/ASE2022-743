@@ -1,0 +1,4 @@
+sysc import tabl sysc import data function import data extern resourc general process csv file creat tool header line 
+accept standard tool includ header line csv file column convent support excel tool 
+request extend sysc import tab sysc import data relat procedur includ extra indic number header line 
+extra bonus sysc import data accept column column index columnindex argument columnindex sale featur signific easier handl case extern input file extend includ addit column 

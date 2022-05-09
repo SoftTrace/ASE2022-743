@@ -1,0 +1,1 @@
+mock mock class dynam method properti grail domain object implement domain specif method mock gorm method 

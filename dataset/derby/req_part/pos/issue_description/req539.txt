@@ -1,0 +1,7 @@
+constructor:NNS result:NN set:NN class:NNS paramet:NNS creat:VBP row:NN templat:NNS size:NN column:NN type:NNS column:NN initi:VBD sql:NN null:JJ valu:NN 
+altern:NN compil:NN produc:VB instanc:NN put:VB savedobject:NNS field:NN constructor:NNS paramet:NN point:VBZ object:NN savedobject:NNS 
+result:NN set:NNS invok:VBP generat:VBN method:NN produc:VB fresh:JJ templat:NN clone:VB save:VBN object:NN 
+advantag:NNS suggest:VBN approach:NN 
+reduc:VB size:NN code:NN generat:NN reduc:VB total:JJ code:NN complex:NN 
+reduc:VB amount:NN generat:VBN code:NN easier:JJR tool:NNS profil:NNS static:NN code:NN analyz:NNS ide:NNS map:VB execut:JJ code:NN sourc:NN code:NN 
+reduc:VB actual:JJ number:NN generat:VBN method:NNS queri:NNS reflect:NN invok:VB remain:VBG generat:VBN method:NNS switchov:NN number:NN generat:VBN method:NNS exceed:VBZ 

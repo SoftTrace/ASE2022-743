@@ -1,0 +1,2 @@
+invalid:NN statement:NNS access:VBG tabl:NN issu:VBN drop:VBG statist:NNS write:VBG 
+guarante:VB compil:NNS statist:NNS drop:VB statist:NNS index:NN add:VB drop:VB invalid:NN work:NN reduc:VB chanc:NNS queri:NNS compil:VBN statist:NNS 

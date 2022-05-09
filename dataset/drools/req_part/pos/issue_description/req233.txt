@@ -1,0 +1,8 @@
+method:NN 
+determin:VBZ event:NNS pass:VBD paramet:NN occur:VBN 
+public:JJ boolean:JJ hasanyeventoccur:NN string:NN event:NNS 
+string:NN event:NNS 
+return:NN true:JJ 
+return:NN fals:NN 
+rule:NNS call:VB 
+workaround:VB string:NN 

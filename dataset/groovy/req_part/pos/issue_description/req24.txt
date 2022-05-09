@@ -1,0 +1,10 @@
+execut:VBG command:NN line:NN script:NN defin:VB method:NN method:NN execut:VBN loop:NN start:VBZ loop:NN file:NNS process:VBN 
+groovi:JJ 
+println:NN 
+split:NN 
+integ:NNP split:NN 
+integ:NNP 
+result:NNS 
+follow:VBG 
+patch:NN provid:VBZ function:NN 
+singular:JJ patch:NN happi:JJ provid:VB 

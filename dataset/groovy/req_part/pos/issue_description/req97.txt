@@ -1,0 +1,15 @@
+idea:NN similar:JJ exist:VBG great:JJ annot:NN differ:VBZ concept:NN appli:VBN field:NNS appli:VBN method:NNS provid:VBG wider:JJR field:NN 
+appli:VBN getter:NNS serv:VBZ altern:NN appli:VBD method:NNS provid:VBZ elimin:VBZ heavi:JJ refactor:NN situat:NNS user:NN add:VB annot:NN method:NN 
+suggest:NN work:VB 
+createx:NN 
+transform:VBN 
+privat:JJ result:VBP 
+createx:NN 
+result:VBP 
+null:JJ 
+return:VB 
+synchron:VBN 
+result:VBP null:JJ 
+result:NN 
+return:VB result:VBP 
+extend:VBN cach:NN result:NNS method:NN depend:VBG argument:NNS topic:NN discuss:NN 

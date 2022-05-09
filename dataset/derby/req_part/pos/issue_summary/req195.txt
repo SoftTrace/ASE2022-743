@@ -1,0 +1,1 @@
+move:VB page:NN latch:VBG lock:NN manag:NN 

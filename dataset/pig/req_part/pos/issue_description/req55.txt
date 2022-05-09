@@ -1,0 +1,2 @@
+generat:VBP uniqu:JJ signatur:NN user:NN key:JJ retriev:VB properti:NNS 
+similar:JJ mechan:NN 

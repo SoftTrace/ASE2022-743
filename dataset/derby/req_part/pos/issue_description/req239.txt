@@ -1,0 +1,2 @@
+vector:NNP hashtabl:NNP doesn:JJ synchron:NN provid:VBN class:NNS 
+replac:VBG improv:VB perform:NN kind:NNS oper:NNS 

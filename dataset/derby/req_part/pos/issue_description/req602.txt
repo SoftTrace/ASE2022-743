@@ -1,0 +1,10 @@
+derbi:NNP user:NNS class:NNS pluggabl:JJ modul:NNS 
+case:NNS verifi:VBZ class:NN implement:VBZ expect:VBN interfac:NN creat:VBZ instanc:NN class:NN 
+class:NNP class:NNP 
+sasclass:NN 
+throw:NN 
+specificauthenticationschem:NN 
+authent:NNP scheme:NNP userauthent:NN 
+case:NNS creat:VBZ instanc:NN check:VBG fail:VBZ classcastexcept:NN instanc:NN incorrect:JJ type:NN 
+good:JJ similar:JJ check:NNS case:NNS 
+give:VB clearer:JJR error:NN messag:NNS explain:VBP problem:NN safer:JJR limit:VBZ constructor:VBZ user:NNS forc:VB derbi:NNP engin:NN invok:VB 

@@ -1,0 +1,5 @@
+process:NN convert:VBG test:NN realiz:VBD run:VB test:NNS work:VB multipl:JJ connect:NNS 
+ijtestcas:NN run:VBZ script:NN main:JJ method:NN redirect:VBZ output:NN file:NN compar:VBZ file:NN canon:NNP 
+attach:VBG patch:NN issu:NN 
+test:NN creat:VBZ databas:NNS run:NN 
+unit:NNP wrapper:NNS test:NNS clean:VBG clean:VBN 

@@ -1,0 +1,10 @@
+contract:NN difficult:JJ broken:JJ 
+util:NN class:NN creat:VBN ensur:VB skip:VB procedur:NN derbi:NNP code:NN base:NN 
+suggest:VBN function:NN 
+skip:VBZ eof:NNP return:VBZ number:NN byte:NNS skip:VBD 
+void:JJ skip:VBZ request:VBN number:NN byte:NNS throw:VBZ eof:NNP byte:NNS stream:NN 
+approach:NNS skip:VBG loop:NN 
+verifi:VB eof:NN read:VBN call:NN skip:VB return:NNS 
+throw:VB eofexcept:NN skip:VB return:NNS request:VBN number:NN byte:NNS skip:VBN 
+relat:JJ code:NN 
+class:NN put:VBN packag:NN 

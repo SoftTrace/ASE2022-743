@@ -1,0 +1,16 @@
+move:VBN app:NN boss:NNP page:NN level:NN stop:VBD work:VB 
+analyz:VBG issu:NN trace:VBD problem:NN loadbundl:NN method:NN getcontextclassload:NN load:VB bundl:NNS 
+app:NN 
+properti:NNS file:NNS locat:VBN war:NNP root:NN facelt:NNS 
+xhtml:NN 
+work:VB 
+understand:NN classload:NN chang:VBN retriev:VBN getcontextclassload:NN access:NN properti:NNS file:NN find:VBN 
+suggest:VBP 
+document:NN explicit:JJ file:NN local:VBN web:NN inf:NN class:NNS 
+explan:NN page:NN level:NN bit:NN open:JJ interpret:NN 
+good:JJ reiter:VB page:NN level:NN file:NNS web:NN inf:NN class:NNS 
+modifi:VB scan:VB servletcontext:NN bundl:NN file:NNS compat:JJ app:NNS work:VB boss:NNP 
+notic:NN method:NNS 
+file:NNS place:VBN 
+xhtml:NN file:NN context:NN root:NN 
+riccardo:NNP 

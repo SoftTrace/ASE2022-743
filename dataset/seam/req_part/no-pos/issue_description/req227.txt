@@ -1,0 +1,16 @@
+jpa ident store usernam salt hash user password properti salt overrid jpa ident store 
+salt store user princip easier select properti salt annot overrid ident store compon 
+ing random generat salt general accept practic generat salt valu automat creat user ident manag api 
+suggest 
+annot password salt annot properti salt attribut 
+generat true|fals generat random valu 
+length salt length bit generat true 
+usag 
+class 
+password salt generat true length 
+string salt 
+
+password hash sha 
+string password hash 
+
+

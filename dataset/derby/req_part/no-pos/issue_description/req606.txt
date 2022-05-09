@@ -1,0 +1,8 @@
+code backup method backup directori string file paramet string version file version remov avoid duplic code 
+exampl method 
+basic databas backup 
+basic databas backup enabl log archiv mode 
+ram access manag backup 
+ram access manag backup enabl log archiv mode 
+raw store backup enabl log archiv mode 
+interfac 

@@ -1,0 +1,12 @@
+execut:NN jsf:NNP request:NN notic:VBD lot:NN call:NNS method:NN 
+couldn:JJ inform:NN cach:VBN 
+reflect:NN api:NN fast:JJ context:NN couldn:JJ metadata:NN compon:NN store:VBN class:NN member:NNS compon:NN class:NN 
+find:VBD add:VBN 
+class:NN method:NN call:VBN time:NNS request:NN 
+code:NN 
+privat:JJ boolean:JJ ispernestedconvers:NN string:NN 
+compon:NN compon:NN 
+return:NN compon:NN 
+null:JJ 
+pernestedconvers:NN class:NN member:NN add:VBN class:NN initi:VBN initi:VBG compon:NN annot:NN time:NN 
+haven:NN call:VBN similar:JJ optim:NNS 

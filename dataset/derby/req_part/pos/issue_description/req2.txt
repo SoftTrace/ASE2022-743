@@ -1,0 +1,86 @@
+convert:VB junit:NN 
+convert:VB junit:NN 
+convert:VB junit:NN 
+convert:VB junit:NN 
+convert:VB unit:NNP 
+execut:VBZ drda:NNP command:NNS file:NN write:VBN special:JJ purpos:NN languag:NN 
+statement:NNS assert:NNS easi:JJ convert:VB test:NN unit:NNP 
+suggest:VBN approach:NN chang:VB interpret:NN 
+host:NN port:NN number:NN 
+convert:VB derbynet:NN runtimeinfo:NN unit:NNP 
+convert:VB derbynet:NN derbynetautostart:NN unit:NNP 
+derbi:NN client:NN settransactionisol:NN execut:VBZ commit:VBZ isol:NN chang:VBN 
+check:NN isol:NN level:NN return:VB commit:VB 
+public:JJ void:NN settransactionisol:NN int:NN level:NN throw:VBZ sql:NNP 
+level:NN gettransactionisol:NN 
+return:NN 
+check:NN 
+good:JJ client:NN driver:NN act:VBD emb:VBN 
+finish:VB client:NN info:NN api:NN 
+complianc:NN task:NN 
+follow:VBG method:NNS finish:VBN 
+implement:VB implement:VBN emb:VBN method:NNS long:JJ long:JJ length:NN long:JJ long:JJ length:NN 
+follow:VBG method:NNS introduc:VBN interfac:NN part:NN jdbc:NNP implement:VBN 
+clob:NNP 
+long:JJ length:NN 
+blob:NN 
+long:JJ length:NN 
+implement:NN network:NNP client:NN part:NN derbi:NNP 
+expos:VB exist:VBG auto:NN generat:VBN key:JJ function:NN jdbc:NNP api:NNS derbi:NNP client:NNP 
+detail:NNS 
+desir:JJ function:NN issu:NN derbi:NNP client:NNP address:VBD emb:VBN mode:NN 
+detail:JJ prompt:NN error:NNP client:NN emb:VB 
+sql:NN script:NN 
+creat:VB tabl:NN int:NN int:NN 
+insert:NN datum:NNS tabl:NNS 
+insert:VB valu:NNS 
+insert:VB valu:NNS 
+set:VBN 
+nohold:JJ cursor:NN select:JJ 
+fetch:VBZ cursor:NN 
+commit:VB 
+commit:VB 
+fetch:VB cursor:NN commit:VB 
+cursor:NNS give:VB error:NNP 
+clean:JJ 
+close:JJ 
+line:NN error:NN throw:VBN 
+detail:JJ prompt:NN error:NNP client:NN emb:VB 
+client:NN mode:NN error:NN open:VB 
+verifi:VB autocommit:NN 
+emb:VBP mode:NN error:NN open:VB 
+oper:NN permit:VBN 
+verifi:VB autocommit:NN 
+behavior:NN client:NN emb:VBN mode:NNS updat:NN invalid:JJ cursor:NN 
+sql:NN snippet:NN 
+creat:VB tabl:NN test:NN int:NN int:NN 
+insert:VB test:NN valu:NNS 
+updat:NN test:NN set:VBN current:JJ 
+updat:NN line:NN error:NN invalid:JJ cursor:NN 
+client:NN mode:NN error:NN cursor:NNP find:VBN 
+verifi:VB autocommit:NN 
+emb:NNP mode:NN 
+chang:VB sysinfo:NN print:NN specif:JJ jvm:NNP inform:NN 
+nice:JJ sysinfo:NN print:VBN specif:JJ jvm:NN inform:NN provid:VBN java:NN version:NN 
+ibm:NNP jvm:NNP system:NN properti:NNS give:VBP inform:NN 
+research:NN multipl:JJ jvm:NNS tie:VB 
+sysinfo:JJ dump:VB system:NN properti:NN inform:NN output:NN big:JJ show:VBP irrelav:JJ inform:NN context:NNS 
+behaviour:NNP differ:VBZ emb:VBN client:NN 
+emb:VBN driver:NN behav:VBZ connect:NN close:JJ 
+map:NN argument:NN null:JJ throw:VB sqlexcept:NN sqlstate:NN 
+map:NN null:JJ empti:JJ throw:VB sqlexcept:NN sqlstate:NN 
+map:NN null:JJ empti:JJ 
+behaviour:NN client:NN driver:NN 
+throw:VB sqlexcept:NN sqlstate:NN 
+driver:NNS behav:VBP settypemap:NN call:VBN 
+simplifi:VB test:NNS 
+ineffici:JJ read:VBG byte:NN time:NN sourc:NN blob:NN 
+ineffici:JJ read:VBG byte:NN time:NN sourc:NN blob:NN 
+transfer:NN buffer:NN facilit:VB write:NN 
+releas:NN system:NN resourc:NNS 
+method:NN string:NNP canon:NNP canontestcas:NN cannonread:NN testoutput:NN close:VBN catch:NN block:NN occur:VBZ win:VBD close:VBN relat:JJ system:NN resourc:NNS win:VBD releas:VBN 
+releat:JJ problem:NN creat:VBN close:VBN string:NNP canon:NNP 
+point:VBN knut:NNP derbi:NNP javadoc:NN close:VBG effect:NN teardown:JJ method:NN add:VBN canontestcas:NN set:NNS rawbyt:NNS null:JJ 
+work:VB 
+null:JJ rawbyt:NNS string:NNP canon:NNP 
+cleaner:JJR null:JJ teardown:NN method:NN 

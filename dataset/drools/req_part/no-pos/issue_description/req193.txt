@@ -1,0 +1,1 @@
+rule xor group rule exist xor group fire cancel activ xor group 

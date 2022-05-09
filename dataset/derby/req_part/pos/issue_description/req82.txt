@@ -1,0 +1,19 @@
+derbi:NNP doesn:VBD order:NN nest:VBN set:NN operand:NN follow:VBG construct:NN 
+select:VB order:NN offset:VBN row:NN union:NN 
+select:VB order:NN desc:NN offset:VBN row:NNS 
+standard:NN understand:VB quot:NN section:NN sql:NN 
+queri:NN express:NN bodi:NN 
+queri:NN term:NN 
+queri:NN express:NN bodi:NN union:NNP 
+queri:NN term:NN 
+queri:NN express:NN bodi:NN 
+queri:NN term:NN 
+queri:NN term:NN 
+queri:NN primari:NN 
+queri:NN term:NN 
+queri:NN primari:NN 
+queri:NN primari:NN 
+simpl:JJ tabl:NN 
+leav:VBD paren:NN queri:NN express:NN bodi:NN 
+paren:NN 
+left:JJ paren:NN choos:VBZ altern:NN product:NN queri:NN primari:NN 

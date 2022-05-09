@@ -1,0 +1,2 @@
+lot:NN hard:JJ code:NN 
+refactor:VB generic:JJ work:VB jess:NN clip:NNS style:NN templat:NNS 

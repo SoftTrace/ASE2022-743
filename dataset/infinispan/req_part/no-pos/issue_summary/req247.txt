@@ -1,0 +1,1 @@
+jpa cach store work karaf 

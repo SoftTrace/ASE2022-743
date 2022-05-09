@@ -1,0 +1,2 @@
+current:JJ magic:NN number:NN base:VBN marshal:VBG framework:NN work:VBZ impl:NN clunki:JJ unread:JJ hard:JJ unit:NN test:VB 
+xnio:NNP lib:NNS marshal:NNS defin:VBN specif:JJ type:NNS 

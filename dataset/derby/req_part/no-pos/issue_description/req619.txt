@@ -1,0 +1,3 @@
+reus factori reduc object alloc convert number boolean primit type object type reus factori method wrapper standard librari method integ valu long valu 
+caller easili call valu method reli auto box cach reus factori reus factori purpos anymor 
+reus factori len byte array valu avoid alloc cost empti byte array array util class good home propos move remov reus factori class 

@@ -1,0 +1,4 @@
+defin rollback rule applic depend ejb reason close solut 
+api call set current rollback 
+kind annot control rollback potenti convers 
+possibl deprec member http error redirect 

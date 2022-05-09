@@ -1,0 +1,5 @@
+creat:VBZ hold:VBZ refer:NNS inform:NN plan:NN level:NN prepar:JJ plan:NN 
+hold:VBG inform:NN hurt:VBZ perform:NN memori:NN usag:NN object:NNS short:JJ live:VBD 
+save:VBG object:NN object:NN singl:JJ creation:NN lifetim:NN plan:NN share:VBN connect:NNS object:NN 
+save:VBG column:NN posit:NN map:NN add:VBN similar:JJ benefit:NN map:NN set:VBN prepar:JJ plan:NN executequeri:NN 
+test:NN chang:NNS attach:VB patch:NN perform:NN test:NN improv:VBZ 

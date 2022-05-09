@@ -1,0 +1,4 @@
+sert oper data valid assert write script 
+load int int 
+assert negat reason 
+script fail assert violat 

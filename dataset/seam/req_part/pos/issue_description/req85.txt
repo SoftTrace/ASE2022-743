@@ -1,0 +1,8 @@
+extend:VB class:NN order:NN integr:VB seam:NNP parti:NN librari:NNS acegi:NNP 
+work:VB overload:NN ident:NN subject:NN 
+subject:JJ attribut:NN privat:JJ ident:NN class:NN access:NN doesn:JJ getter:NN public:NN protect:VBN setter:NN overrid:VB 
+ident:NN class:NN modifi:VBN 
+subject:JJ attribut:NN protect:JJ 
+add:VBG protect:VBN setter:NN attribut:NN 
+solut:NN acce:VBG subject:JJ attribut:NN getter:NN 
+issu:NN relat:VBN post:NN 

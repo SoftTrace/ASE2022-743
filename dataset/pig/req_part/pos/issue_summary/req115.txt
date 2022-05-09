@@ -1,0 +1,1 @@
+default:NN parallel:NN pig:NNP 

@@ -1,0 +1,5 @@
+polici:NN handl:VBN engin:NN hint:NN expir:NN offset:VBN event:NNS mistak:NNS misunderstand:NN user:NNS 
+chang:VB polici:NN overrid:VB set:VB definit:JJ expir:NN offset:VBN event:NNS 
+declar:VB 
+event:NN 
+event:NNS expir:VBN memori:NN rule:NNS tempor:JJ oper:NNS slide:VBG window:NNS retain:VB event:NN time:NN requir:VB event:NN memori:NN amount:NN time:NN 

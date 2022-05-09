@@ -1,0 +1,1 @@
+stop:VB produc:VBG byte:NN code:NN qualifi:NNS 

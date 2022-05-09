@@ -1,0 +1,6 @@
+client userid password set connect url default secur mechan upgrad usridpwd clear text userid password secur hole 
+current client driver support encrypt userid password eusridpwd key agreement protocol current open group drda specif impos small prime base generat valu bit prevent jce apt ibm jce java cryptographi provid 
+thought 
+client check jvm run support encrypt eusridpwd support client upgrad eusridpwd 
+jvm client run doesnt support encrypt requir eusridpwd secur mechan set usridpwd 
+add support strong userid password option send encrypt password wire ad consid upgrad option eusridpwd 

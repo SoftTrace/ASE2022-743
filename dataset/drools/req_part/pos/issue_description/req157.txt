@@ -1,0 +1,1 @@
+nice:JJ featur:NN bill:NNP tarr:NNP generat:VB rule:NNS jdbc:NNP result:NN set:NN simpl:JJ 

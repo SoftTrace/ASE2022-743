@@ -1,0 +1,8 @@
+function:NN import:NN datum:NNS extern:JJ resourc:NNS 
+general:JJ process:VB csv:NNP file:NNS creat:VBD tool:NNS header:NN line:NN 
+accept:VBN standard:NN tool:NNS includ:VB header:NN line:NN csv:NNP file:NN column:NN 
+convent:NN support:VBN excel:NNP tool:NNS 
+request:NN extend:VB relat:JJ procedur:NNS includ:VB extra:JJ indic:NN number:NN header:NN line:NNS ignor:VBN 
+extra:JJ bonus:NN accept:VB column:NN column:NN index:NNS columnindex:NN argument:NNS 
+columnindex:NNP sale:NNS 
+featur:NN easier:JJR handl:VB case:NNS extern:JJ input:NN file:NNS extend:VBN includ:VB addit:JJ column:NNS 

@@ -1,0 +1,1 @@
+creat:VB procedur:NN empti:JJ statement:NN cach:NN expos:VBG exist:VBG function:NN 

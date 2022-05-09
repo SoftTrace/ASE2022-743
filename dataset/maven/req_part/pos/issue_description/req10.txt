@@ -1,0 +1,5 @@
+maven:NNP build:VB extens:NNS contribut:VB compon:NNS realiz:VBP custom:NN impl:NN api:NN defin:VBN maven:NNP core:NN artifact:NN handler:NNS lifecycl:NN map:NNS 
+support:VB tycho:NNP stock:NN maven:NNP distro:NN build:NN extens:NN provid:VB compon:NNS 
+realiz:VB api:NNS defin:VBN extens:NN unknown:JJ maven:NNP 
+access:VBN api:NN extens:NN plugin:NNS project:NN 
+share:VBN project:NNS reactor:NN extens:NN includ:VBG state:NN singleton:NNS 

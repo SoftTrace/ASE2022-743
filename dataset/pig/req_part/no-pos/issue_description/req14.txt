@@ -1,0 +1,3 @@
+ad custom partition give control output partit key valu add keyword languag 
+partit udf 
+similar syntax udf return number number output partit 

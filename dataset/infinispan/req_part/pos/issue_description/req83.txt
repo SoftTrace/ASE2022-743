@@ -1,0 +1,2 @@
+synchronis:NN code:NN dcm:NNP serialisez:NN cach:NN creation:NN 
+add:VBN optimis:VBN serial:VB access:NN concurr:JJ bit:NN 

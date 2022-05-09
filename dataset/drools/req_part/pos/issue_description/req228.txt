@@ -1,0 +1,1 @@
+generat:VB invok:NN class:NNS asm:NNP 

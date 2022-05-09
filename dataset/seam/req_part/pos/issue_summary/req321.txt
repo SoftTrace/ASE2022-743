@@ -1,0 +1,1 @@
+creat:VB seam:NNP resourc:NN servlet:NN 

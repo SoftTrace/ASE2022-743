@@ -1,0 +1,4 @@
+good:JJ perform:VB test:NN jvm:NN classpath:NNS includ:VBD emb:VBN environ:NN 
+run:VBG test:NNS platofrm:NNS cdc:NNP foundat:NNP support:VBN jar:NNS platform:NN support:VBZ class:NN path:NN 
+run:VBG hit:VBZ error:NN 
+fail:VBN invok:VB suit:NN 

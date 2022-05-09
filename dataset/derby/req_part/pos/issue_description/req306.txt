@@ -1,0 +1,4 @@
+derbi:NNP doesn:VBD support:VB entir:JJ rang:NN valid:JJ finit:JJ valu:NNS java:NNP primit:JJ type:NNS doubl:JJ float:NN column:NNS sql:NN type:NN doubl:VB real:NNP 
+limit:NN introduc:VBN compat:NN 
+request:NNS derbi:NN user:NN lift:VBP restrict:NN 
+restrict:NN enforc:VBN method:NNS normalizer:JJ normalizedoubl:NN 

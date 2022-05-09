@@ -1,0 +1,10 @@
+tabl clob blob column import export oper tabl 
+throgh unsupport featur 
+set schema iep 
+set schema iep 
+creat tabl ntype int clob 
+creat tabl ntype blob int 
+call sysc util sysc export tabl iep ntype extinout ntype dat 
+null null null 
+error xie column tabl type clob support 
+import export featur 

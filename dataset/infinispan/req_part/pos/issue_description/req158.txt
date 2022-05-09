@@ -1,0 +1,1 @@
+assign:VBN issu:NN reassign:VBG sann:NNP 

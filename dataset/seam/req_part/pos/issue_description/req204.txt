@@ -1,0 +1,3 @@
+descend:NN support:VBN type:NN field:NNS date:NN valu:NNS 
+object:NNS type:NN case:NN legaci:NN code:NN object:NNS seam:NNP remot:NNP 
+improv:NN object:NNS calendar:NN field:NNS client:NN side:NN 

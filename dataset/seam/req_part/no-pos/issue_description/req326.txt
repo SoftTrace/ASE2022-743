@@ -1,0 +1,4 @@
+order send mail gmail servic requir set 
+mail smtp socket factori class javax net ssl ssl socket factori 
+mail smtp socket factori port 
+good set addit option mail session compon 

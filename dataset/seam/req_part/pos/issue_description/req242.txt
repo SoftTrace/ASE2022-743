@@ -1,0 +1,1 @@
+similar:JJ offer:VBG develop:NNS map:VB entiti:NNS crud:NNP post:VBP delet:VBP put:VB request:NNS customiz:JJ resourc:NN uri:NNP generat:NN strategi:NN 

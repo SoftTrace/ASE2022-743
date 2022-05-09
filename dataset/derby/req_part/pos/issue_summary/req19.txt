@@ -1,0 +1,6 @@
+expos:VB boolean:JJ datatyp:NN user:NNS 
+veaceslav:NNP chicu:NNP start:VBD email:NN thread:NN august:NNP titl:VBN boolean:JJ type:NN 
+disappoint:JJ derbi:NNP doesn:VBD support:VB ansi:NN boolean:JJ datatyp:NN 
+closer:JJR inspect:NN derbi:NNP support:VB type:NN expos:VB support:NN user:NNS 
+derbi:NNP user:NNS declar:VB tabl:NN column:NNS type:NN boolean:JJ 
+index:JJ datatyp:NN 

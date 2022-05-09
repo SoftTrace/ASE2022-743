@@ -1,0 +1,1 @@
+turn:VB encrypt:NN encrypt:VBN databas:NN 

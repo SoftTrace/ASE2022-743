@@ -1,0 +1,7 @@
+express:NN view:NN pageflow:NN 
+bit:NN theme:NNS replac:VBG don:VBP initi:JJ indirect:NN 
+patch:NN function:NN trivial:JJ 
+altough:NNP 
+modifi:VBD method:NN evaul:VB valu:NN return:VBD replac:VB express:NNS 
+modifi:VBD number:NN guess:VB featur:NN 
+attach:VBN initi:JJ patch:NN proof:NN concept:NN interest:NN seam:NNP develop:NNS 

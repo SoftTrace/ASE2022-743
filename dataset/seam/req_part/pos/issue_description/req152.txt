@@ -1,0 +1,1 @@
+web:NN inf:NN class:NNS resourc:NNS root:NN 

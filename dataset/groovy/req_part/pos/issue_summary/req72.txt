@@ -1,0 +1,1 @@
+groovi:JJ equal:NN set:NNS map:NNS 

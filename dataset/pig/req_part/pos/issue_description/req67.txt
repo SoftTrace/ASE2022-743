@@ -1,0 +1,2 @@
+set:VB arbitrari:JJ key:NN valu:NN pair:NNS pig:NN program:NN front:NN cogroup:NN statement:NN 
+simplest:JJS add:VB featur:NN expand:VBG set:VBN command:NN function:NN 

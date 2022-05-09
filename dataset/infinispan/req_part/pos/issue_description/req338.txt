@@ -1,0 +1,4 @@
+extern:NN interfac:NN general:VBN order:NN typesaf:JJ 
+interfac:NN extern:NN 
+void:JJ writeobject:NN objectoutput:NN output:NN object:NN throw:VBZ 
+readobject:NN input:NN throw:VBZ class:NNP 

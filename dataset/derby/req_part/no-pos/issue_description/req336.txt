@@ -1,0 +1,9 @@
+ad replic state test 
+test replic local state negat test 
+test replic local state test big insert stop master 
+test replic local state test small insert stop master disabl due 
+test replic local state test big insert sleep stop master 
+test replic local state test small insert sleep stop master 
+test replic local state negat test 
+test replic local state negat test 
+refactor cleanup 

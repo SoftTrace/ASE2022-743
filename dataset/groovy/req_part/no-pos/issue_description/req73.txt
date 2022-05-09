@@ -1,0 +1,11 @@
+don curri left hand side fake rewrit revers method closur manual function languag support curri arbitrari index 
+rcurri method exampl 
+def divid 
+def halver divid rcurri 
+assert halver 
+ncurri method curri middl paramet argument method 
+curri middl param util method 
+collect binari search list list object key compar 
+def cat searcher collect amp binari search ncurri cat 
+def result cat searcher list compar 
+

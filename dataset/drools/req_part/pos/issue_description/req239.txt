@@ -1,0 +1,2 @@
+creat:VB rule:NN chain:VBG graph:NNS detect:VB circular:JJ issu:NNS add:VB meta:NN datum:NNS rule:NN class:NN describ:VBG class:NN fact:NNS consequ:NN insert:NNS modifi:VBZ retract:VBZ 
+insert:NNS modif:NNS request:VBN determin:VB field:NNS involv:VBN popul:VBN liter:NNS variabl:NNS 

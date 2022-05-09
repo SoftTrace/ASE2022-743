@@ -1,0 +1,13 @@
+exclud:VB modul:NNS larg:JJ reactor:NN build:NN 
+reason:NN respect:JJ modul:NN test:NNS long:JJ time:NN execut:VB don:VBP execut:VB 
+introduc:VBG profil:NN desir:JJ reason:NNS 
+handi:JJ 
+exclud:VB list:NN 
+root:NN 
+modul:NN 
+modul:NN 
+modul:NN 
+modul:NN 
+modul:NN 
+modul:NN 
+call:VBG mvn:NN build:VB modul:NNS execpt:VBP 

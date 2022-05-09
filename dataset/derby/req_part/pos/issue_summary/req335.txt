@@ -1,0 +1,1 @@
+sql:NN length:NN function:NN materi:VBZ blob:NN memori:NN 

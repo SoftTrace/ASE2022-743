@@ -1,0 +1,3 @@
+standard:NNP factori:NN method:NNS creat:VBG warn:NNS 
+newexcept:NN method:NNS messag:NN argument:NNS 
+singl:JJ method:NN vararg:NN argument:NN replac:VB method:NNS 

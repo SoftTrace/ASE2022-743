@@ -1,0 +1,2 @@
+bloom:NNP filter:NNS common:JJ select:VB limit:JJ set:NN record:NNS move:VBG datum:NNS join:VB heavi:JJ weight:NN oper:NN 
+pig:NNP add:VB udf:NNS support:VB build:NN bloom:NN filter:NNS 

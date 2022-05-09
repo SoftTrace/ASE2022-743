@@ -1,0 +1,5 @@
+store:NN save:VB length:NN inform:NN clob:NNP 
+length:NN find:VBN decod:VBG datum:NNS stream:NN 
+follow:VBG thread:NN rais:VBD issu:NN inform:NN store:NN background:NN inform:NN 
+inform:NN store:VB exact:JJ format:NN discuss:VBN determin:JJ 
+byte:NNS set:VBN length:NN inform:NN inadequ:JJ 

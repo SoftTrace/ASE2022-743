@@ -1,0 +1,29 @@
+atm:NNP default:NN valu:NN virtualnod:NNS 
+wheel:NN share:NN node:NN uneven:JJ small:JJ node:NNS cluster:NNS 
+increas:VBG valu:NN small:JJ number:NN improv:VB node:NN share:NN wheel:NN chanc:NN balanc:JJ datum:NNS distribut:NN cluster:NN 
+suggest:NNS email:NN dan:NNP 
+snip:NN 
+work:VBG test:NN search:VB optim:JJ default:NN valu:NN 
+measur:VBG number:NN key:NNS node:NN primari:JJ 
+owner:NN number:NN key:NNS owner:NNS 
+compar:VBN ideal:JJ distribut:NN key:NNS node:NN 
+work:NN node:NN expect:VBN 
+memori:NN node:NN 
+run:VBG loop:NNS max:NN figur:NN absolut:JJ 
+maximum:NN 
+bigger:JJR percentil:NN 
+full:JJ result:NNS 
+uniform:NN distribut:NN number:NN virtual:JJ 
+node:NNS number:NN physic:JJ node:NNS 
+default:NN node:NNS prefer:VBP decim:JJ 
+node:NNS chanc:NN node:NN hold:VB 
+key:NNS chanc:NN node:NN primari:JJ owner:NN 
+key:NNS 
+run:VBP risk:NN node:NN address:NNS 
+collid:VBG hash:NN wheel:NN 
+accord:VBG formula:NN birthday:NN 
+paradox:NNP page:NN 
+address:NNS hash:NN wheel:NN chanc:NN 
+collis:NN 
+node:NNS virtual:JJ node:NNS node:NNS 
+virtual:JJ node:NNS node:NNS virtual:JJ node:NNS 

@@ -1,0 +1,4 @@
+relat 
+scenario start cluster entir cluster start start work cach start view chang notif local node start node process start view chang cluster start cach process rebalanc state 
+solut node join event call node finish join cluster finish join state transfer happen node start 
+workaround featur forum post 

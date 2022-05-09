@@ -1,0 +1,5 @@
+nice:JJ provid:VB configur:VB flushmod:NN set:NN 
+configur:NN flushmod:NN manual:JJ default:NN 
+configur:VBN 
+save:VB lot:NN boilerpl:NN configur:NN common:JJ usag:NN 
+core:NN manag:NN convers:NN flushmod:NN manual:NN 

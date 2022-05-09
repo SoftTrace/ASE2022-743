@@ -1,0 +1,1 @@
+derbi:NNP renam:VB tabl:NNS refer:VBN foreign:JJ key:NNS 

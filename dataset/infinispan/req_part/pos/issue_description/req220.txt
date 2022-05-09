@@ -1,0 +1,3 @@
+current:JJ jgroupschannellookup:NN interfac:NN mechan:NN receiv:VB configur:NN prop:NNS 
+configur:VBG transport:NN infinispan:NNP arbitrari:JJ properti:NNS set:VBN 
+pass:VBN 

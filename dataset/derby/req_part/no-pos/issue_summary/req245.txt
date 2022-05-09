@@ -1,0 +1,1 @@
+charact type column ad creat tabl alter tabl collat type set schema collat type 

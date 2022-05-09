@@ -1,0 +1,2 @@
+local dispatch depend javax ejb timer 
+attempt creat port ynchronous annot spring correct creat spring dispatch compon overrid core dispatch compon local dispatch interfac depend javax ejb timer wrap spring dispatch implement javax ejb timer nice seam version javax ejb timer creat jar requir user ynchronous web 

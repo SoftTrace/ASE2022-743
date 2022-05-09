@@ -1,0 +1,1 @@
+constraint:NNS dialect:JJ express:NN evalu:NNS 

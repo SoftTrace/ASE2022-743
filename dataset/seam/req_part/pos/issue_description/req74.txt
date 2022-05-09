@@ -1,0 +1,24 @@
+nice:JJ match:VB provid:VBN entiti:NN queri:NN 
+deploy:NN error:NN throw:VBN 
+case:NNP data:NN tabl:NN drive:VBN entiti:NN queri:NN select:VB row:NN pass:VBG var:NN extend:VBN seam:NNP provid:VBZ 
+extend:JJ compat:JJ compon:NN librari:NNS trinidad:NNP ugli:JJ compon:NN bind:NNS current:JJ valu:NN select:VBN row:NN 
+nice:JJ hook:NN entiti:NN queri:NN 
+framework:NN entiti:NN queri:NN allus:NNS 
+ejbql:NN select:JJ user:NN 
+facelet:NNS page:NN 
+code:NN 
+tabl:NN valu:NN 
+allus:NNS 
+var:NN user:NN 
+column:NN 
+facet:NN header:NN 
+outputtext:NN valu:NN custom:NN 
+facet:NN 
+commandlink:NN text:NN 
+userusernam:NN 
+actionlisten:NN 
+column:NN 
+tabl:NN 
+seam:NNP bean:NNP 
+allus:NNS 
+list:NN user:NN userlist:NN 

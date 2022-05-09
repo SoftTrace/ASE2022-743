@@ -1,0 +1,2 @@
+exist:VBG evict:NN strategi:NNS fifo:NNP lru:NNP 
+case:NNS peopl:NNS don:VBP care:NN evict:NN order:NN effici:NN simpler:JJR datum:NNS 

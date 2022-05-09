@@ -1,0 +1,6 @@
+alter:VB tabl:NN 
+add:NN column:NN add:VB ident:NN column:NN 
+code:NN handl:VB ident:NN column:NNS disabl:JJ parser:NN 
+thread:NN derbi:NN user:NN 
+code:NN disabl:JJ compat:NN 
+compat:NN goal:NN derbi:NNP 

@@ -1,0 +1,4 @@
+select return error syntax find month group claus 
+select idissu month creation year creation count distinct idissu 
+
+group idissu month creation year creation 

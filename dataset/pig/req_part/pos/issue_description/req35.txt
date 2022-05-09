@@ -1,0 +1,6 @@
+pig:NNP boolean:JJ datum:NNS type:NN 
+pig:NNP depend:JJ 
+volunt:VBP 
+work:NN src:NN org:NN apach:NN pig:NN data:NN unit:NN test:VBZ work:NN 
+candid:NN project:NN googl:NNP summer:NN code:NN 
+inform:NN program:NN find:VBN 

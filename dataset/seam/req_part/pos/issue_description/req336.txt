@@ -1,0 +1,1 @@
+user:NN xml:NN seam:NNP mistak:NN kind:NN compon:NN 

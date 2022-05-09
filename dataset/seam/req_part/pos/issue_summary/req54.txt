@@ -1,0 +1,1 @@
+transact:NN rollback:NN rule:NNS seam:NNP compon:NNS 

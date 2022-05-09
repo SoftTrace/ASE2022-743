@@ -1,0 +1,1 @@
+stamp:NN groovi:JJ class:NNS version:NN groovi:JJ generat:VB 

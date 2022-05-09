@@ -1,0 +1,8 @@
+investig:VB sql:NN execut:NN layer:NN prevent:VBD scale:NN machin:NN write:VBD test:NN execut:VBD valu:NNS preparedstat:NN 
+run:VBD test:NN machin:NN cpus:NNS expect:VBD throughput:NN proport:JJ number:NN concurr:JJ client:NNS client:NNS number:NN cpus:NNS 
+throughput:NN small:JJ increas:NN client:NNS add:VBG client:NNS increas:VB throughput:NN 
+test:NN profil:NN thread:NNS spend:VBG lot:NN time:NN wait:VBG enter:VB synchron:NN block:NNS synchron:VBN object:NN 
+chang:VBD test:NN append:VBG comment:NN uniqu:JJ thread:NN valu:NNS statement:NN 
+thread:NNS work:NN thread:NN plan:NN genericpreparedstat:NN object:NN statement:NN cach:NN didn:NN regard:VBP sql:NN text:NN string:NNS ident:JJ 
+chang:NN test:NN scale:VBN concurr:JJ thread:NNS 
+find:VB scalabl:NN thread:NNS share:VBP plan:NN 

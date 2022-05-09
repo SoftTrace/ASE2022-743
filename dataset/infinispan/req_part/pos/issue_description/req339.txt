@@ -1,0 +1,5 @@
+order:NN coordin:NN address:NN follow:VBG hoop:NNS 
+transport:NNP 
+coordin:NNP 
+requir:VBZ obtain:VBG cluster:JJ cach:NN 
+interfac:NN expos:VBZ method:NNS access:VB local:JJ address:NN address:NN member:NNS local:JJ address:NN coordin:NN method:NN cluster:NN coordin:NN address:NN 

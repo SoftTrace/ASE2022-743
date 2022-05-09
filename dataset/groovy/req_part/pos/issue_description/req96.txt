@@ -1,0 +1,9 @@
+describ:VBN thread:NN groovi:JJ user:NN list:NN 
+implement:NN groupbi:NN receiv:VBZ list:NN array:NN closur:NNS criterion:NNS group:NN nest:VBN group:NNS 
+group:VBN 
+group:NNP 
+expect:VBN 
+assert:VB group:VBN 
+assert:VB group:VBN 
+assert:VB group:VBN null:JJ 
+groupbi:NN closur:NN criterion:NN behav:VB current:JJ implement:NN group:NNP 

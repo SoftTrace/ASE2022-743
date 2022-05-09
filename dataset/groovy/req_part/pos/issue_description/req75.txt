@@ -1,0 +1,4 @@
+unix:NNP translat:NN command:NN 
+good:JJ groovi:JJ support:VB similar:JJ 
+translat:NNS similar:JJ achiev:VBN regular:JJ express:NNS 
+notat:NN requir:VBN compact:JJ implement:NN effici:JJ 

@@ -1,0 +1,3 @@
+provid dgm method primit array 
+count size method primit array 
+case method java programm familiar provid approach 

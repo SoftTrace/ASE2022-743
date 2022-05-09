@@ -1,0 +1,3 @@
+empti:VBG statement:NN cach:NN diagnost:JJ capabail:NN test:VBN 
+current:JJ function:NN useabl:JJ creat:VBG user:NN procedur:NN map:VBZ derbi:NNP code:NN disabl:JJ 
+addit:NN function:NN control:NN databas:NN owner:NN automat:JJ sql:NN author:NN mode:NN system:NN procedur:NN 

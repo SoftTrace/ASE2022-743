@@ -1,0 +1,19 @@
+mojo:NN user:NN defin:VBZ altern:JJ configur:NN element:NN chang:VBG webstart:NN plugin:NN work:VBZ 
+idea:NN mojo:NN field:NN interfac:NN provid:VB default:NN implement:NN plugin:NN user:NN plexus:NN instanci:NN implemen:NN 
+user:NNS 
+configur:NN 
+configur:NN 
+configur:NN 
+implement:NN bla:NN 
+configur:NN 
+today:NN forc:VBN implement:NN case:NNS 
+inform:VB plugin:NN default:NN implement:NN 
+paramet:NN 
+bla:NN 
+type:NN type:NN 
+fail:VB 
+paramet:NN 
+implement:NN 
+bla:NNP 
+fail:VBZ 
+mark:VBG critic:JJ doesn:VBD add:VB featur:NNS plugin:NN break:VBG 

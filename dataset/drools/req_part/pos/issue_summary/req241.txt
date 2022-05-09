@@ -1,0 +1,1 @@
+support:NN map:NNS trait:NN core:NN class:NN field:NNS 

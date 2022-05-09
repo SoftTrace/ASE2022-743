@@ -1,0 +1,2 @@
+effect:JJ date:NN 
+expir:VBZ date:NN attribut:NNS 

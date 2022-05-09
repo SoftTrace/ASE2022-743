@@ -1,0 +1,1 @@
+index:NN share:VBN node:NNS suppos:VBN datum:NNS node:NN datum:NNS sync:NN view:NN chang:NNS 

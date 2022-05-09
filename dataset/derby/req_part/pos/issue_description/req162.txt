@@ -1,0 +1,3 @@
+grant:NNP revok:VB function:NN add:VBN derbi:NNP comment:NNS grant:NN revok:VB code:NN place:NNS refer:VBP databas:NN owner:NN dba:NN 
+grant:NN revok:VB world:NN dba:NN role:NN 
+haven:NN add:VBD role:NNS derbi:NNP current:JJ dba:NN comment:NNS confus:JJ start:VB work:VBG role:NNS includ:VBG dba:NN 

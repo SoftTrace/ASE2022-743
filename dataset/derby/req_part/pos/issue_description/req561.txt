@@ -1,0 +1,11 @@
+optim:NN implement:NNS load:VBN 
+implement:NN disabl:JJ comment:NN 
+optim:NN small:JJ configur:NNS 
+codelin:NN implement:NNS 
+chanc:NN pick:VBN 
+run:VBG modul:NNS 
+depend:VBG jdk:NN 
+resolv:NN siul:NNP dan:NNP 
+cloud:NN cloudtarget:NN 
+deprec:VBN support:NN small:JJ cdc:NNP configur:NN don:VBP resolut:NN siul:NNP dan:NNP 
+collaps:VBG optim:NNS reduc:VB static:NN footprint:NN 

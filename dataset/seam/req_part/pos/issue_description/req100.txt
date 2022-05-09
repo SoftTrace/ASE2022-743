@@ -1,0 +1,2 @@
+drool:NNPS api:NN chang:VBN 
+correspond:VBG chang:NNS seam:NNP codebas:NN seam:NN refer:NN drool:NNP futur:JJ seam:NNP 

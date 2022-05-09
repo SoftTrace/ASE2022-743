@@ -1,0 +1,1 @@
+transport:NN api:NN chang:NN collect:NN physic:JJ address:NNS return:VBN 

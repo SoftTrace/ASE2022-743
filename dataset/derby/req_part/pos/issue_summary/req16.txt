@@ -1,0 +1,17 @@
+enhanc:VB derbi:NNP add:VBG grant:NN revok:VB support:NN 
+grant:NN revok:NN provid:VBP finner:NN level:NN privileg:NNS provid:VBN derbi:NNP network:NN configur:NNS 
+derbi:NNP provid:VBZ simpl:JJ permiss:NNS scheme:NN suitabl:JJ emb:VBN databas:NN system:NN 
+user:NNS emb:VBN derbi:NNP derbi:NNP talk:VBP applic:NN emb:VBZ derbi:NNP 
+derbi:NNP leav:VBD access:NN control:NN work:NN applic:NN 
+scheme:NN derbi:NNP limit:NNS access:NN databas:NN system:NN basi:NN 
+user:NN grant:VBN full:JJ read:VB access:NN 
+suitabl:JJ general:JJ purpos:NN sql:NN server:NN 
+user:NNS divers:JJ applic:NNS issu:VB sql:NN command:NNS databas:NN derbi:NNP provid:VB precis:JJ mechan:NNS limit:VB databas:NN 
+propos:VBP enhanc:VB derbi:NNP implement:VBG subset:NN grant:NN revok:VB capabl:NNS sql:NN standard:NN 
+envis:VBP work:NN involv:VB follow:VBG task:NNS 
+develop:VB specif:NN capabl:NNS add:VB derbi:NNP 
+provid:VB high:JJ level:NN implement:NN scheme:NN 
+pursu:VB stage:VBN develop:NN plan:NN support:NN ddl:NNP add:VBD derbi:NNP 
+add:VB support:NN runtim:NN check:NN privileg:NNS 
+address:NN migrat:NN upgrad:VB issu:NNS previous:JJ releas:NNS scheme:NN newer:JJR databas:NN 
+larg:JJ task:NN invit:VB interest:JJ peopl:NNS work:VB larg:JJ import:JJ enhanc:NN derbi:NNP 

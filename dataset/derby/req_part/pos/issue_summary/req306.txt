@@ -1,0 +1,1 @@
+support:NN min:NN max:NN valu:NNS java:NNP type:NNS float:NN doubl:JJ real:JJ doubl:JJ column:NNS 

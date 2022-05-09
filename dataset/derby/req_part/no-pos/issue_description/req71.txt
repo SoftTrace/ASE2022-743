@@ -1,0 +1,12 @@
+java file creat derbi default 
+permiss oper system context unix 
+depend effect umask process start java 
+java method tighten 
+file set readabl set writabl 
+accident run derbi lenient default 
+suggest advantag derbi default java 
+higher limit visibl user start 
+unix equival run umask 
+secur default good 
+flag derbi storag default file permiss 
+set true give behavior 

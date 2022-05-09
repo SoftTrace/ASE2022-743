@@ -1,0 +1,5 @@
+attribut:NN type:NN string:NN 
+valu:NN attribut:NN describ:VBZ size:NN buffer:NN stream:VBG blob:NN clob:NN server:NN client:NN properti:NN handl:VBN integ:NN int:NN class:NN network:NN server:NN 
+type:NN chang:VBN int:NN function:JJ specif:NN reason:NN find:VBN string:NN 
+similar:JJ attribut:NNS return:NN type:NN int:NN 
+jmx:NNP client:NN valu:NN int:NN arbitrari:JJ string:NN chang:NN 

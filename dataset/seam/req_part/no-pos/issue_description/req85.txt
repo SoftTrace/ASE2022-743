@@ -1,0 +1,8 @@
+extend org jboss seam secur ident class order integr seam parti librari acegi 
+work overload ident subject subject attribut privat ident class access doesn getter public protect setter overrid 
+ident class modifi 
+subject attribut protect 
+ad protect setter attribut 
+solut acceed subject attribut getter 
+issu relat post 
+

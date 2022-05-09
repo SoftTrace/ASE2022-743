@@ -1,0 +1,4 @@
+improv:JJ integr:NN maven:NNP 
+load:VB extens:NN call:VB spi:NN cli:NN 
+enabl:VB spi:NN extens:NN adjust:VB major:JJ paramet:NNS build:NN set:NNS 
+provid:VB spi:NN extens:NN detail:JJ event:NNS execut:NN 

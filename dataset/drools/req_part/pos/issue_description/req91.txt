@@ -1,0 +1,8 @@
+async:NN assert:VB 
+fact:NN assert:VBN return:NNS 
+consum:NN provid:NN base:VBN queue:NN assert:VBZ stack:VBN item:NNS work:VBG memori:NN 
+user:NNS handl:VB async:NN 
+set:NNS phase:NN commit:VB call:VB fireallrul:NNS 
+call:VB assert:NN set:NN time:NN period:NN fact:NNS assert:VBN combin:NN 
+esiest:JJS call:VB fireallrul:NNS assert:NN queue:NNP 
+recommend:VBP thechannel:NN code:NN stuff:NN borrow:VBN hte:NN class:NNS refactor:VB 

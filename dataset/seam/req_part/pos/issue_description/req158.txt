@@ -1,0 +1,13 @@
+tomcat:NNP 
+pattern:NN match:VBG code:NN adapt:VBN tomcat:NNP 
+method:NN check:NNS 
+path:NN match:VBZ pattern:NN 
+request:NN request:NN path:NN 
+boolean:JJ true:JJ path:NN match:VBZ pattern:NN fals:JJ 
+public:JJ boolean:JJ ismappedtocurrentrequestpath:NN request:NN 
+url:NN pattern:NN 
+regex:NN 
+drop:NNP tomcat:NNP pattern:NN nonsens:NN wildcard:NNS regex:NN 
+compat:JJ addit:JJ url:NN pattern:NN regex:NN regex:NN 
+properti:NN 
+ecas:NNP filter:NNP servlet:NNS feed:NN 

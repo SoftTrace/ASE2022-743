@@ -1,0 +1,1 @@
+abil:NN tune:VB datum:NNS concurr:NN level:NNS 

@@ -1,0 +1,7 @@
+load issu hear nice org jboss seam util transact replac seam compon seam pluggabl transact manag provid pave support spring manag transact jpa local transact true hibern local transact seam applic run depend microcontain tomcat tighter framework integr spring 
+person work initi jta transact compon replac org jboss seam util transact creat spring transact compon proof concept extend transact compon 
+problem hand interact transact place seam applic context confin seam transact seam call simplifi matter transact cleanup place destroy transact compon filter 
+wouldn jta replac servic abstract java webapp enterpris servic ejb jca jta requir run tomcat simpl web resourc local transact manag spring abstract jpa hibern 
+ton problem worst case scenario issu great place document refer reject featur request 
+
+mike 

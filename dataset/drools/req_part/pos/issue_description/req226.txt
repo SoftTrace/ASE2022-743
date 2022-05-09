@@ -1,0 +1,1 @@
+rule:NNS control:VB conflict:NN resolut:NN 

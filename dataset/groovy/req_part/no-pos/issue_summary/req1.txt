@@ -1,0 +1,1 @@
+support namespac base navig node xml model 

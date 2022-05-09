@@ -1,0 +1,4 @@
+client:NN trace:NN enabl:VBN set:VBG attribut:NNS client:NN url:NN setxxx:NN method:NNS call:VBG enabl:VBN deploy:VBN client:NN applic:NN api:NN requir:VBP modif:NN applic:NN configur:NN file:NNS 
+good:JJ global:JJ turn:VB client:NN trace:NN 
+system:NN properti:NN point:VBG properti:NN file:NN possibl:NN ideal:JJ impact:NN class:NN loader:NN context:NNS 
+possibl:NNS 

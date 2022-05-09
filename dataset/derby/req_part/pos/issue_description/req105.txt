@@ -1,0 +1,6 @@
+cloudscap:NNP expos:VB virtual:JJ tabl:NN interfac:NNS class:NN implement:VBD includ:VBN queri:NN list:NN 
+derbi:NNP expos:VBZ number:NN vti:NNS diagnost:JJ tool:NNS 
+derbi:NNP prevent:VBZ custom:NNS declar:VBG vti:NNS 
+parser:NN rais:VBZ error:NN vti:NNP packag:NN isn:NN derbi:NNP diagnost:JJ packag:NNS 
+power:JJ featur:NN custom:NNS solv:VB problem:NNS 
+discuss:VB reason:NNS disabl:JJ plan:NN put:VBG power:NN custom:NNS hand:NNS 

@@ -1,0 +1,2 @@
+current:JJ implement:NN map:NN reduc:NN mapper:NNP reduc:NNP task:NNS execut:VBN remot:JJ jvm:NNS load:NN process:NN key:NN valu:NNS singl:JJ thread:NN 
+executor:NNS process:VB key:NNS valu:NNS parallel:NN 

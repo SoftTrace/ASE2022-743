@@ -1,0 +1,9 @@
+connect:VB provid:VBN channel:NN disconnect:VB close:VB provid:VBN channel:NN 
+case:NN wildfli:NNP distinguish:VB disconnect:VB close:VB 
+servic:NN provid:VBD channel:NN manag:VB lifecycl:NN 
+lead:VBZ condit:NNS infinispan:NN cach:NN manag:NN restart:VB jgroup:NNS channel:NN servic:NN 
+fix:VB introduc:VB hack:NNS channel:NN return:VBN channel:NN servic:NN introduc:VB separ:JJ method:NN invis:JJ infinispan:NNP perform:VB actual:JJ close:NN 
+propos:VBP follow:VBG 
+boolean:JJ shouldconnect:NN notic:NN renam:VBD distinct:NN start:NN connect:VB 
+boolean:JJ shoulddisconnect:NN 
+boolean:JJ shouldclos:NN 

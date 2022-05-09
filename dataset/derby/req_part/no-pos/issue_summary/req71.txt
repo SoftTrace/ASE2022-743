@@ -1,0 +1,1 @@
+tighten permiss file owner jdk 

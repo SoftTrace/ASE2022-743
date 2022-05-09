@@ -1,0 +1,13 @@
+profil:NN 
+classnam:NNS 
+activ:NN 
+file:NN 
+target:NN generat:VBN sourc:NNS classnam:NN generat:NN stuff:NN util:NN 
+file:NN 
+activ:NN 
+build:VB 
+exist:VBZ valid:JJ tag:NN file:NN 
+problem:NN patch:NN atm:NN ceas:VBZ work:VB context:NN subproject:NN exist:VBZ 
+mechan:NN absolut:JJ path:NN file:NN string:NN 
+object:NN profil:NNP pass:VBD empti:JJ null:JJ string:NN doesn:NN resolv:NN express:NNS 
+point:VBN direct:NN add:VBG express:NN resolut:NN put:VB talk:VBD kenney:NN bit:NN irc:NN morn:NN 

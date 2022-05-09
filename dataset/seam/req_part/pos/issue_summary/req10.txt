@@ -1,0 +1,7 @@
+http:NN header:NNS 
+page:NN view:NN expir:VBZ 
+expir:VBZ give:VBZ number:NN convert:VBN seam:NNP absolut:JJ time:NN 
+stuff:NN 
+page:NN view:NN 
+header:NN content:NN type:NN test:NN xml:NN header:NN 
+page:NN 

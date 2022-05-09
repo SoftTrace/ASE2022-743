@@ -1,0 +1,42 @@
+reason avoid 
+substanti perform hit observ client driver 
+appserv connect pool 
+problem 
+connect pool compar isol level 
+store connect valu return 
+connect transact isol time 
+request connect pool 
+user connect pool avoid 
+track current connect time queri 
+execut call connect pool connect method 
+connect connect pool 
+prepar statement prepar time 
+net result queri result sequenc 
+connect 
+transact isol roundtrip lookup server statement cach 
+prepar statment roundtrip lookup server statement cach 
+execut queri roundtrip 
+arguabl user error suggest kind 
+inform work fine datbas 
+postgr sql oracl 
+reason work databas statement cach 
+driver implement simpl statement 
+cach derbi client driver enabl cach 
+isol level 
+
+observ mark perform improv run appserv 
+load 
+proper statment cach implement 
+current schema current schema chang 
+statement prepar longer valid evict 
+cach 
+problem cach isol level current schema 
+driver chang server client 
+detect sql possibl store procedur 
+problem overcom piggi inform 
+cach messag client 
+util excsqlset drda command drda spec volum 
+page add sqlstt object sqlcard repli 
+cach addit session inform relev 
+excsqlset batch session state 
+client server 

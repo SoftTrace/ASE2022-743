@@ -1,0 +1,1 @@
+listen:NNS invok:VBN primari:JJ data:NN owner:NN 

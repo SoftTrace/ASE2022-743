@@ -1,0 +1,2 @@
+add:VB trampolin:NN capabl:NNS closur:NNS avoid:VB closur:NNS lot:NNS recurs:JJ call:NNS 
+patch:NNP contribut:VBD 

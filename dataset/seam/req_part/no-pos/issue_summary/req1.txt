@@ -1,0 +1,1 @@
+add jsf bean valid ejb support 

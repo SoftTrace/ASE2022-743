@@ -1,0 +1,2 @@
+analog:JJ collect:NNS empti:JJ map:NN 
+evalu:VB fals:JJ 

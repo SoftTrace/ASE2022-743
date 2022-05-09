@@ -1,0 +1,1 @@
+move:VB templat:NN mvel:NNP drop:VB 

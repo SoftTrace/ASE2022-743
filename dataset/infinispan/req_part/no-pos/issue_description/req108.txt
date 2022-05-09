@@ -1,0 +1,4 @@
+distribut interceptor unnecessari complex ad function top refactor 
+extract logic interceptor 
+requir move state transfer lock logic interceptor 
+separ cach extract remain logic transact distribut interceptor transact 

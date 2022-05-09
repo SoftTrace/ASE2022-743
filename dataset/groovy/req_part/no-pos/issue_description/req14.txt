@@ -1,0 +1,11 @@
+groovi support annot local variabl declar syntact legal annot local variabl ast produc carri annot 
+case ast builder annot local variabl 
+sourc compil phase convers 
+def sourc println compil date 
+annot properti closur declar express 
+def result builder build 
+phase compil phase convers 
+sourc 
+sourc println compil date 
+
+annot method ad declar express support 

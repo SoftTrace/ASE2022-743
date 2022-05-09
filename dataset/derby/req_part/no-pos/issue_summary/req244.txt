@@ -1,0 +1,1 @@
+data type descriptor dtd collat type collat deriv field appli charact string type type ignor 

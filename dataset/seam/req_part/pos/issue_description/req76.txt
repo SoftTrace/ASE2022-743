@@ -1,0 +1,18 @@
+logic:NN determin:VBG locat:NN hot:JJ deploy:JJ directori:NN java:NNP class:NNS reli:VBZ locat:NN jboss:NN seam:NN debug:NN jar:NN file:NN 
+work:VB jar:NN file:NN place:VBN web:NN inf:NN lib:NN relat:JJ web:NN inf:NN dev:NN directori:NN break:VBZ load:VBN applic:NN server:NN 
+instanc:NN run:VBG seam:NNP applic:NN jetti:NNP maven:NNP locat:NN jar:NN file:NN local:JJ repositori:NN 
+find:VBP scari:JJ hard:JJ code:VBN string:NN offset:NNS 
+string:NN hotdeploydirectori:NN dev:NN 
+understand:NN problem:NN add:VBD log:VBG messag:NNS captur:VB path:NN resolv:NN logic:NN jetti:NN build:VBZ classpath:NN maven:NN repositori:NN 
+meta:NN inf:NN detect:VBN jar:NN 
+hot:JJ deploy:VB directori:NN home:NN dallen:NN 
+repositori:NN public:NN jboss:NN seam:NN jboss:NN seam:NN debug:NN 
+jbossdev:NN 
+place:VBP file:NN src:NN main:JJ webapp:NN web:NN inf:NN lib:NN directori:NN bit:NN 
+meta:NN inf:NN detect:VBN jar:NN 
+hot:JJ deploy:VB directori:NN home:NN dallen:NN project:NNS connoisseur:NN src:NN main:JJ webapp:NN web:NN inf:NN lib:NN jbossdev:NN 
+propos:VBP web:NN inf:NN dev:NN directori:NN load:VBN servlet:NN context:NN 
+directori:NN locat:VBN project:NN develop:NN 
+featur:NN intend:VBN develop:NN seam:VBZ sens:NN 
+provid:VBN patch:NN seam:NNP 
+trunk:NN 

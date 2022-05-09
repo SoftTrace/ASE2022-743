@@ -1,0 +1,7 @@
+infinispan offici cli tool featur 
+simpl crud oper put delet 
+queri cach index 
+administr task invok jmx command 
+option cool 
+run map reduc script 
+import export xml csv 

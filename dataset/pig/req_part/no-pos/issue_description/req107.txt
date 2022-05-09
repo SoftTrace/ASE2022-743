@@ -1,0 +1,11 @@
+counter framework hadoop initi interest find number record read mapper reduc job script sampl code access statist job 
+string reduc plan stat pig stat stat job pig stat reduc plan 
+reduc plan null 
+
+system println record written stat pig stat stat job pig stat map output record 
+
+
+
+system println record written stat pig stat stat job pig stat reduc output record 
+
+patch test case includ test pig storag bin storag multipl job case 

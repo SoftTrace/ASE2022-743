@@ -1,0 +1,5 @@
+issu:NN start:VBG set:NN node:NNS cluster:NN coordin:NN surviv:VBG member:NNS state:VBP transfer:NN disabl:JJ 
+rebalanc:NN disabl:JJ cluster:NN run:VBG disabl:JJ 
+set:NN node:NNS join:VBP don:VBP rebalanc:NN disabl:JJ 
+consequ:NNS coordin:NN elect:VBN merg:NNP set:NN start:VBN node:NNS 
+prevent:VB ensur:VB greatest:JJS probablil:NN success:NN node:NN join:VBG state:NN flag:NN respons:NN coordin:NN 

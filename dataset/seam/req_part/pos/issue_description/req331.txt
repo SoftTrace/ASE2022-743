@@ -1,0 +1,4 @@
+user:NNS chang:VB password:NNS usernam:NNS log:VBN 
+chang:NN credenti:NNS replac:VB princip:NN ident:NN compon:NN 
+logout:NN login:NN user:NN 
+don:VBP destroy:VB session:NN 

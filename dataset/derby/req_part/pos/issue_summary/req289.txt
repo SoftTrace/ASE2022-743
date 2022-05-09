@@ -1,0 +1,1 @@
+cut:VB object:NN creation:NNS claus:NN implement:NN territori:NN base:VBN charact:NNS 

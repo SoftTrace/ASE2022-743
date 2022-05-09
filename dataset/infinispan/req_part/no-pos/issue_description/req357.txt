@@ -1,0 +1,8 @@
+infinispan support flexibl configur cach multipl level inherit 
+nice easi understand cach configur 
+jpa cach configur adjust 
+jmx debugg 
+convert configur instanc xml give quick overview appli set option nice featur implement xml string method overrid default jmx 
+jaxb annot present configur option coupl getter xml root element annot convert exist instanc xml effort 
+
+featur request fit transfer cach config xml 

@@ -1,0 +1,3 @@
+dot:NN qualifi:JJ compon:NN 
+page:NN 
+variabl:NNS kind:NNS context:NN variabl:NNS 

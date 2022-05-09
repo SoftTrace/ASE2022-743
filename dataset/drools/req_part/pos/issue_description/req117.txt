@@ -1,0 +1,3 @@
+discuss:VBN drool:NNPS boot:VBP camp:NN add:VB support:NN rule:NNS metadata:NN 
+rule:NN xyz:NN 
+bar:NN 

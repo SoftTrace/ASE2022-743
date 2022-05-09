@@ -1,0 +1,9 @@
+derbi:NNP move:VBN improv:VB error:NN report:NN 
+state:VBN initi:JJ commit:VB 
+set:VBN coupl:NN locat:NNS jdbc:NNP level:NN setup:NN nest:VBN sqlexcept:NNS 
+stack:NN trace:NN databas:NN fail:VBD start:VB includ:VBZ reason:NN 
+failur:NN 
+great:JJ run:VBG 
+junit:NN test:NNS failur:NNS start:VB databas:NN 
+initi:JJ commit:VB break:VBD numer:JJ test:NNS jdk:NNP author:NN time:NN investig:VB 
+patch:NN failur:NNS run:VBG test:NNS java:NNP 

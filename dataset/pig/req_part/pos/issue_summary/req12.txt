@@ -1,0 +1,4 @@
+accumul:NNS termin:VB 
+accumul:NNS forc:VBN process:VB bag:NN getvalu:NN call:VBN 
+earli:JJ termin:NN handi:JJ featur:NN empti:NNP 
+add:VB interfac:NN extend:VBG accumul:NNP 

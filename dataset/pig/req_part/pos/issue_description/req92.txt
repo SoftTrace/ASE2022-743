@@ -1,0 +1,6 @@
+admin:NN featur:NN provid:VBG abil:NN blacklist:NN whitelist:NN command:NNS oper:NNS 
+pig:NNP expos:VBZ safe:JJ multiten:JJ environ:NN 
+invok:VBZ shell:NN command:NNS set:VBN user:NNS chang:VB config:NNS 
+general:JJ abil:NN disabl:VB pig:NNP safer:JJR platform:NN 
+goal:NN administr:NNS control:NN user:NN script:NNS 
+default:NN behaviour:NN filter:NNS appli:VBD command:NNS oper:NNS 

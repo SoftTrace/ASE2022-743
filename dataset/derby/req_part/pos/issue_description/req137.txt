@@ -1,0 +1,3 @@
+antigc:JJ thread:NN creat:VBN avoid:VB class:NN garbag:NN collect:VBN refrenc:NNS exist:VBD load:VBN emb:VBN jdbc:NNP driver:NN shut:VBG engin:NN 
+issu:NN jdk:NN 
+derbi:NNP support:VB garbag:NN collect:NN class:NNS defin:VBN thread:NN serv:VBZ purpos:NN 

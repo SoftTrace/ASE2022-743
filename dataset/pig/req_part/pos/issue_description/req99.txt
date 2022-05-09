@@ -1,0 +1,3 @@
+case:NN write:NN delet:VBZ hbase:NN pig:NNP 
+preced:NN delet:JJ oper:NNS 
+valid:JJ case:NN pig:NNP hbase:NN delet:JJ write:NN tombston:NN marker:NN 

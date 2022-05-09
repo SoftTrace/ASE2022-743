@@ -1,0 +1,22 @@
+derbi:NNP serial:VBZ access:VBZ data:NN file:NN 
+implement:NN follow:VBZ 
+synchron:VBN 
+file:NNP file:NN object:NN 
+pageoffset:NN filedata:NN 
+pagedata:NN pages:NN 
+experi:VBN patch:NN introduc:VBN file:NN 
+descriptor:NNS randomaccessfil:NN object:NNS rafcontain:NN 
+read:NN 
+principl:NN reader:NNS busi:JJ 
+readpag:NN request:NN creat:VB reader:NN 
+maximum:JJ number:NN 
+reader:NNS 
+patch:NN throughput:NN improv:VBN 
+linux:NN 
+discuss:NN 
+challeng:NN suggest:VBN approach:NN mechan:NN 
+limit:VB number:NN open:JJ file:NN descpriptor:NNS 
+mike:NNP matrigali:NNP 
+suggest:VBN exist:VBG infrastructur:NN 
+purpos:NN 
+discuss:NN 

@@ -1,0 +1,4 @@
+implement layer stream method defin jdbc 
+jdbc introduc method paramet object sent sever length inform 
+method layer stream implement send object server 
+issu represent network client 

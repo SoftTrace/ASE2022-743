@@ -1,0 +1,11 @@
+chang:VB network:NN server:NN code:NN java:NN drda:NN space:NNS tab:NNS 
+mix:VBN tab:NNS space:NNS confus:JJ irrit:JJ time:NN consum:VBG develop:NNS network:NN code:NN client:NN space:NNS server:NN tab:NNS 
+option:NNS svn:NN merg:NN svn:NN diff:NN merg:VBZ reason:JJ chang:VBP tab:NNS space:NNS file:NNS java:NN drda:NN script:NN 
+bin:NN bash:NN 
+file:NNS 
+file:NN file:NNS 
+echo:VB file:NN 
+file:VB 
+sed:VBN file:NN 
+object:NNS chang:NN 
+pend:VBG drda:NN chang:NNS chang:NN 

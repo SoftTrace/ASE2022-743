@@ -1,0 +1,1 @@
+disallow user defin sql routin resolv entri point method class org apach derbi namespac 

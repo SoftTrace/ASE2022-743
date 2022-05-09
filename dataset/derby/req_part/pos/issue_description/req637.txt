@@ -1,0 +1,6 @@
+describ:VBN jdbc:NNP spec:NN section:NNS 
+method:NNS app:NN server:NNS listen:VBP connect:NN statement:NN closur:NN invalid:NN event:NNS 
+section:NN jdbc:NNP spec:NNP explain:VBZ connect:NN event:NNS connect:NN pool:NN manag:NNS implement:VBP connectioneventlisten:NN interfac:NN regist:VB listen:VB connectionclos:VBN fatal:JJ connectionerroroccur:JJ event:NNS 
+app:NN server:NNS event:NNS manag:VB recycl:NN connect:NNS connect:NN pool:NN 
+section:NN jdbc:NNP spec:NNP explain:VBZ statement:NN event:NNS statement:NNP pool:NNS implement:VBP regist:VB listen:VB statementclos:VBN statementerroroccurr:VBN event:NNS 
+statement:NN pool:NNS manag:VBP recycl:NN statement:NNS pool:NN 

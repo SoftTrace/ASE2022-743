@@ -1,0 +1,4 @@
+implement:NN test:NNS shift:VBD drool:NNP 
+integr:VB drool:NNP 
+zip:NN 
+uncom:JJ test:NNS tck:NN run:VBG 

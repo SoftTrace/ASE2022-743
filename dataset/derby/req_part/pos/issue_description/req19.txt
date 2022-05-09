@@ -1,0 +1,24 @@
+client:NN driver:NN treat:VBP boolean:JJ column:NNS emb:VBN driver:NN 
+oper:NN boolean:JJ column:NNS select:VB system:NN tabl:NNS 
+instanc:NN follow:VBG queri:NN select:VBZ boolean:JJ valu:NNS 
+select:VB systemalia:NNS 
+discrep:NNS emb:VBN client:NN driver:NNS handl:VBP boolean:JJ column:NNS 
+emb:VBN behavior:NN correct:JJ client:NN behavior:NN conform:VB 
+attach:VB spec:NN describ:VBG 
+function:NNS return:VB boolean:JJ valu:NNS 
+part:NN expand:VBG support:NN boolean:JJ datatyp:NN nice:JJ function:NNS return:VB boolean:JJ valu:NNS 
+explicit:JJ cast:VBZ string:NN valu:NNS boolean:NNP 
+sql:NN standard:JJ string:NNS cast:VBN boolean:JJ valu:NNS 
+string:NNP type:NN boolean:JJ cast:VBN boolean:NNP 
+part:NN expand:VBG support:NN boolean:JJ datatyp:NN cast:VBZ 
+cast:VBG string:NN type:NNS boolean:JJ defin:VBN part:NN section:NN cast:NN specif:NN general:JJ rule:NN 
+trim:VB whitespac:NN string:NN 
+appli:VB rule:NNS section:NN liter:JJ 
+trim:VBN string:NN true:JJ fals:JJ unknown:NNP case:NN 
+rais:VB 
+routin:NNS argument:NNS boolean:JJ type:NN 
+routin:NNS boolean:JJ argument:NNS part:NN expand:VBG support:NN boolean:JJ datatyp:NN 
+tabl:NN function:VBZ return:VB boolean:JJ column:NNS 
+function:NN return:VB tabl:NN boolean:JJ column:NN 
+enabl:VB boolean:NNP type:VBN column:NNS 
+tabl:NNS boolean:JJ column:NNS 

@@ -1,0 +1,4 @@
+handi:JJ sort:NN method:NN map:NN properti:NN key:NN 
+implement:NN properti:NN class:NN 
+deleg:NN 
+usag:NN 

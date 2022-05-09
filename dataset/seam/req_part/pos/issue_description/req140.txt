@@ -1,0 +1,2 @@
+ident:NN rais:VB event:NNS success:JJ login:NN fail:VBN login:NN jsf:NNP specif:JJ code:NN ident:NN refactor:VBN separ:JJ compon:NN 
+base:VBN event:NN type:NNS 

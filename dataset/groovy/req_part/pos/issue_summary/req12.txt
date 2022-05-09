@@ -1,0 +1,8 @@
+gdk:NNP method:NN 
+treat:VBP array:NNS list:NNS respect:NNS 
+method:NNS list:NN graft:VBN array:NNS method:NN handi:JJ scenario:NNS follow:VBG 
+element:NN 
+arrayofobject:NNS element:NNS 
+element:NN arrayofobject:NNS 
+arrayofobject:NNS element:NNS 
+notic:VB addit:JJ express:NN 

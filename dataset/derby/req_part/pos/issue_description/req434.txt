@@ -1,0 +1,6 @@
+simplifi:VBN releas:NN manag:NN perform:VB follow:VBG manual:JJ step:NNS feed:VB releas:NN note:NN generat:VBP datum:NNS 
+creat:VB manual:JJ jira:NNP filter:NN select:VB issu:NNS address:VBN releas:NN 
+save:VB filter:NN result:VBP disk:NN xml:NN 
+write:VB modifi:VB xml:NN parser:NN pars:VB report:NN 
+determin:VB record:VB jira:NNP releas:NN note:NN attach:NN issu:NNS requir:VBG releas:NN note:NN 
+current:JJ version:NN soap:NN api:NN step:NNS remov:VBN 

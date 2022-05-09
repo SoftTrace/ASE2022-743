@@ -1,0 +1,1 @@
+provid sql support updat ident column default keyword jira collect generat key statement return generat key flag suppli jdbc call updat sql 

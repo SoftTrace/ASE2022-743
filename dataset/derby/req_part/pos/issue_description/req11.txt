@@ -1,0 +1,4 @@
+implement:VB layer:NN stream:NN method:NNS defin:VBN 
+jdbc:NNP introduc:VBD method:NNS paramet:NNS object:NN send:VBN sever:VB length:NN inform:NN 
+method:NNS layer:NN stream:NN implement:VB send:VBG object:NN server:NN 
+issu:NN represent:NN network:NNP client:NNP 

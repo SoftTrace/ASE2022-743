@@ -1,0 +1,5 @@
+maven build extens contribut compon realiz custom impl api defin maven core artifact handler lifecycl map support tycho stock maven distro build extens provid compon 
+realiz api defin extens unknown maven 
+access api extens plugin project 
+share project reactor extens includ state singleton 
+

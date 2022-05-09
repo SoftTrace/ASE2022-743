@@ -1,0 +1,1 @@
+seam:NNP variabl:JJ resolv:NN drool:NNS 

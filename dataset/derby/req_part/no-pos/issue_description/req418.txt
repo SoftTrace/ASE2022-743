@@ -1,0 +1,4 @@
+databas applic prevent startup due corrupt 
+driver report databas exist app creat databas creat true url fail 
+happen due app kill task manag creat databas 
+databas save reproduc problem attach 

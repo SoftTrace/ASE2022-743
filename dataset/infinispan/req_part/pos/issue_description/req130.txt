@@ -1,0 +1,1 @@
+simpl:JJ configur:NN element:NN transport:NN node:NN pass:VBN group:NNP channel:NN clearer:JJR log:VBG 

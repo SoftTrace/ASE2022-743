@@ -1,0 +1,3 @@
+jpa:NNP permiss:NN store:NN rule:NN base:VBN permiss:NN resolv:NN persist:JJ permiss:NN resolv:NN configur:VBN order:NN permiss:NNS 
+persist:JJ permiss:NN resolv:NN permiss:NN resolv:NNS implment:NNS permiss:NN resolv:NN interfac:NN 
+nice:JJ chang:VB order:NN permiss:NNS 

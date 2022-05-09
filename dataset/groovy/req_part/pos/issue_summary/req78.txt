@@ -1,0 +1,1 @@
+groovi:JJ dgm:NNP dgm:NN method:NNS tab:NN manipul:NN 

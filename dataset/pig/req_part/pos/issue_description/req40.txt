@@ -1,0 +1,8 @@
+common:JJ case:NN pig:NNP peopl:NNS column:NNS datum:NNS oper:VB 
+store:VBG datum:NNS column:NNS user:NN perform:VB cast:NN column:NN 
+foreach:NN generat:VBP int:NN firstcol:NN secondcol:NN thridcol:NN forthcol:NN fifthcol:NN sixthcol:NN seventhcol:NN eigthcol:NN ninethcol:NN tenthcol:NN 
+store:NN output:NN 
+wors:JJR user:NN column:NNS 
+transform:VBN 
+foreach:NN generat:VBP int:NN firstcol:NN rest:NN 
+store:NN output:NN 

@@ -1,0 +1,1 @@
+infinispan server expos stat amount data read amount data written client 

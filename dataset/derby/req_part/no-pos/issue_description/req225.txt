@@ -1,0 +1,5 @@
+shutdown command broken part 
+sleep shutdown request ping server shutdown 
+time obtain socket order perform ping server shutdown socket creation fail correct time 
+socket creation time avoid socket send shutdown request 
+sleep time reduc sleep finer granular sec long time modern processor 

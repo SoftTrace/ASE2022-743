@@ -1,0 +1,5 @@
+agendafilt:NN implement:NNS 
+implement:NNS filter:VBG rule:NNS 
+aren:JJ common:JJ 
+activ:NN class:NN simpl:JJ workaround:NN wrap:VBG impl:NNS 
+handi:JJ box:NN implement:NNS 

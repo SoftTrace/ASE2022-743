@@ -1,0 +1,4 @@
+implement:VB function:NN give:VBN sort:VBN bag:NN add:VBZ tupl:NN uniqu:JJ increas:VBG identifi:NN gap:NNS rank:NNP sql:NN 
+candid:NN project:NN googl:NNP summer:NN code:NN 
+inform:NN program:NN find:VBN 
+function:NN implement:VBD 

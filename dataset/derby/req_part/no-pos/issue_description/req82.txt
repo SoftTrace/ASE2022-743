@@ -1,0 +1,19 @@
+derbi doesn order nest set operand construct 
+select order offset row union 
+select order desc offset row 
+standard understand quot section sql 
+queri express bodi 
+queri term 
+queri express bodi union 
+queri term 
+queri express bodi 
+queri term 
+queri term 
+queri primari 
+queri term intersect 
+queri primari 
+queri primari 
+simpl tabl 
+left paren queri express bodi 
+paren 
+left paren choos altern product queri primari 

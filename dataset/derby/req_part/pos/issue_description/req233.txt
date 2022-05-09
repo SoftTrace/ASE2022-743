@@ -1,0 +1,5 @@
+follow:VBG method:NNS introduc:VBN interfac:NN part:NN jdbc:NNP implement:VBN 
+clob:NNP 
+long:JJ length:NN 
+blob:NN 
+long:JJ length:NN 

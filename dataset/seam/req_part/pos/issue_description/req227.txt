@@ -1,0 +1,15 @@
+usernam:NN salt:NN hash:VBG user:NN password:NN 
+properti:NN salt:NN overrid:VB 
+salt:NN store:VBN user:NN princip:NN easier:JJR select:VB properti:NN salt:NN annot:VBG overrid:VB compon:NN 
+generat:VBN salt:NN accept:VBN practic:NN generat:VB salt:NN valu:NN creat:VBG user:NN api:NN 
+suggest:NN 
+annot:NN userpasswordsalt:NN annot:VB properti:NN salt:NN 
+attribut:NNS 
+generat:VBP true:JJ fals:JJ generat:VB random:JJ valu:NN 
+length:NN salt:NN length:NN bit:NNS generat:VBP true:JJ 
+usag:NN 
+class:NN user:NN 
+generat:VB true:JJ length:NN 
+string:NN getsalt:NN 
+hash:NN 
+string:NN getpasswordhash:NN 

@@ -1,0 +1,1 @@
+support:NN string:NN translat:NN similar:JJ unix:JJ command:NN 

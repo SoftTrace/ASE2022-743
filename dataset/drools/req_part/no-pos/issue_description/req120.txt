@@ -1,0 +1,22 @@
+ad extend keyword drl grammar rule extend pull entir lhs parent current rule execut 
+rule test rule 
+enabl fals 
+
+chees type stilton 
+
+list add string rule 
+
+rule test rule extend test rule 
+enabl fals 
+
+chees price 
+
+list add string rule 
+
+rule test rule extend test rule 
+
+chees price 
+
+list add string rule 
+
+test misc test java 

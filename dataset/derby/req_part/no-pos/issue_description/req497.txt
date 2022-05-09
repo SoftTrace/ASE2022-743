@@ -1,0 +1,10 @@
+background 
+sun jvms bundl crimson xml parser xerc 
+ibm jvms bundl xerc xml parser crimson 
+sun jvm bundl xerc crimson jaxp 
+don jvm xml pars 
+sue 
+derbi basic level support xml datatyp apach xerc parser parser hard code derbi derbi xml includ xerc classpath 
+basic xml function derbi crimson xerc parser nice improv derbi support parser dynam xml work jvm sun ibm assum jvm 
+derbi choos parser base jvm user databas properti chang peopl xml derbi environ choos forc download specif parser don sun jvm xml derbi download xerc ibm jvm xml derbi download crimson sun jvm desir download xerc parser sun jvm basic increas flexibl derbi xml valuabl user 
+haven detail improv worth file futur develop 

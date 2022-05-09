@@ -1,0 +1,34 @@
+add:VB scrollabl:JJ updat:JJ insensit:JJ result:NN set:NNS 
+jdbc:NNP result:VBP set:NNS creat:VBN properti:NNS type:NN concurr:NN 
+holdabl:NN 
+type:NN 
+concurr:NN 
+holdabl:NN 
+jdbc:NNP full:JJ cross:NN product:NN 
+sql:NN prohibit:VBZ 
+combin:NN 
+combin:NN support:VBN vendor:NNS oracl:NNP 
+derbi:NNP support:VBZ jdbc:NNP result:VB set:NNS limit:JJ 
+holdabl:NN support:VBN 
+follow:VBG 
+support:VBN 
+read:VB 
+updat:JJ updat:NN delet:VB insert:VB 
+network:NN driver:NN support:NN datum:NNS type:NNS 
+convers:NNS 
+scroll:NN insensit:JJ read:VB 
+fernanda:NNP andrea:NNP cooper:VB propos:VB 
+plan:NN add:VB support:NN combin:NN 
+scroll:NN insensit:JJ updat:JJ 
+emb:VBN driver:NN network:NN client:NN driver:NN 
+part:NN add:VB insert:NN 
+oper:NN 
+updat:JJ 
+result:NN set:NNS jira:NNP 
+remov:VB requir:NN explicit:JJ updat:NN claus:NN sql:NN 
+queri:NN achiev:VB updat:NN 
+jira:NNP 
+full:JJ propos:NN text:NN upload:VBN attach:NN includ:VBG propos:VBN 
+function:JJ specif:NN 
+jira:NNP track:VB effort:NN 
+link:VBN issu:NN 

@@ -1,0 +1,5 @@
+time:NN leaf:NN node:NN tree:NN visit:VBN index:NN scan:NN scan:NN protect:NN row:NN lock:VBN unlock:VBN 
+lock:NN oper:NN unlock:NN oper:NN alloc:VB recordid:JJ object:NN repres:VBG scan:NN protect:NN row:NN unlock:NN oper:NN alloc:VBZ object:NN recordid:NN 
+scan:NN protect:NN handl:VB creat:VBN ident:JJ equal:VBZ time:NN creat:VBN page:NN sens:NN cach:NN 
+alloc:VB protect:NN handl:VB page:NN long:JJ stay:VBZ page:NN cach:NN 
+save:VB object:NN alloc:NNS singl:JJ record:NN lookup:NN index:NN 

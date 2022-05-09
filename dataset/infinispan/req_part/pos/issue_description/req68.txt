@@ -1,0 +1,1 @@
+administr:NN bring:VB cluster:NN mode:NN cach:NN enter:VBD degrad:JJ mode:NN success:JJ node:NN crash:NNS 

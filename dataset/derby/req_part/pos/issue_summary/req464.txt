@@ -1,0 +1,1 @@
+support:NN drda:NN strong:JJ user:NN password:NN substitut:NN authent:NN usrssbpwd:NNP scheme:NN 

@@ -1,0 +1,6 @@
+pig:NNP simplifi:VB express:NN calcul:VBZ constant:JJ express:NN 
+optim:NN rule:NN buggi:NN disabl:VBP default:NN 
+featur:NN partit:NN predic:NN push:NN deal:VB complex:JJ constant:JJ express:NN replac:VB express:NN constant:JJ actual:JJ push:NN 
+user:NN calcul:NN rewrit:VB queri:NN rewrit:VB 
+case:NN user:NN push:VB datetim:NN predic:NN user:NN write:VB date:NNP udf:NNP pig:NNP datetim:NN constant:JJ 
+jira:NNP provid:VBP rule:NN simpler:JJR error:NN prone:JJ replac:VB 

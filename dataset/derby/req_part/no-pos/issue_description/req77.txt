@@ -1,0 +1,24 @@
+apach roller team databas migrat script updat databas roller releas common templat run veloc creat specif script databas support handicap derbi databas inabl renam tabl renam tabl return error derbi 
+renam tabl websit weblog 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+error oper renam perform object sql constraint websiteid depend object 
+sql state 
+error code 
+result migrat script messi drop constraint recreat rdbms requir great futur releas derbi code support tabl renam constraint defin 

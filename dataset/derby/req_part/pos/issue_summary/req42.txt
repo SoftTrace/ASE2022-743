@@ -1,0 +1,1 @@
+databas:NN user:NN execut:VB store:VBN procedur:NNS permiss:NNS databas:NN owner:NN routin:JJ defin:NN 

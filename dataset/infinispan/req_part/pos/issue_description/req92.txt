@@ -1,0 +1,3 @@
+verifi:VBN passiv:NNP evict:NN sens:NN 
+display:VB warn:NN good:JJ configur:NN 
+cach:NN store:NN win:VBD case:NN 

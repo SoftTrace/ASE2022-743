@@ -1,0 +1,44 @@
+derbi:NNP check:VB dtd:NNS compar:JJ call:VBZ method:NN 
+method:NN move:VB dtd:NN collat:NN inform:NN decid:VBG dtd:NNS compar:JJ 
+collat:NN inform:NN dtd:NN level:NN 
+inform:NN find:VBN 
+import:JJ info:NN thread:NN copi:VBN 
+suggest:VBG move:VB compar:JJ method:NN 
+exist:VBG code:NN decid:VB type:NNS 
+compar:VBN call:VB method:NN dtd:NN determin:VB 
+compar:NN 
+cleaner:JJR stuff:VBG collat:NN inform:NN 
+compar:JJ 
+defin:VBN dtd:NN start:NN 
+function:NN provid:VB dtd:NN 
+word:NNS don:VBP understand:VBP connect:NN dtd:NNP 
+fit:VBP 
+provid:VBZ function:NN dtd:NNP 
+dtd:NNP function:NN inform:NN 
+ignor:VBG compil:NN aspect:NN moment:NN compon:NNS 
+underli:VBG sql:NN type:NN integ:NN char:NNP 
+varchar:NNP xml:NN repres:VBN typeid:NN attribut:NNS 
+descriptor:NN nullabl:NN length:NN precis:NN scale:NN collat:NN 
+dtd:NN typeid:NN 
+attribut:NNS 
+function:NN applic:JJ type:NN specif:JJ 
+dtd:NN attribut:NNS method:NNS function:NN declar:VBN 
+typeid:NN dtd:NN 
+function:NN hand:NN attribut:NN inform:NN 
+display:NN length:NN type:NN function:NN 
+length:NN precis:NN scale:NN sql:NN type:NN 
+collat:NN chang:NNS move:VBN compar:JJ check:NN 
+reliant:JJ sql:NN type:NN typeid:NN depend:JJ type:NN 
+attribut:NNS collat:NN type:NN implicit:JJ explicit:JJ 
+origin:JJ 
+locat:NN compar:JJ method:NN sens:NN 
+typecompil:NN typeid:NN split:NN due:JJ earli:JJ plan:NN 
+execut:VB version:NN technolog:NN happen:VBN 
+demand:NN 
+benefit:NNS sql:NN engin:NN abil:NN 
+execut:VB arbitrari:JJ queri:NNS execut:VB 
+version:NN 
+code:NNP cleanup:NN 
+decreas:VB footrprint:NN derbi:NN 
+hth:NN 
+dan:NNP 

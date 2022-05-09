@@ -1,0 +1,3 @@
+current:JJ time:NN write:VB manifest:JJ entri:NN build:NN time:NN filter:NN file:NN 
+format:NN time:NN configur:JJ pom:NN element:NN properti:NN 
+relat:JJ issu:NN current:JJ nice:JJ build:VBN 

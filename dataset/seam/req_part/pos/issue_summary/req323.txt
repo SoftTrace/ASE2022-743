@@ -1,0 +1,1 @@
+requir:VB empti:JJ drl:NN file:NN secur:NN 

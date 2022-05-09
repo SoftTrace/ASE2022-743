@@ -1,0 +1,2 @@
+jsf:NNP compon:NN byte:NN file:NN url:NN inputstream:NN valu:NN display:VBP imag:NN 
+imag:NN manipul:VBN scale:VBN 

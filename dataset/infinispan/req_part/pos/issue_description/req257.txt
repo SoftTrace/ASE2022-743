@@ -1,0 +1,2 @@
+eas:NN manag:NN log:VBG major:JJ rebalanc:NN event:NNS send:VBN categori:NN 
+level:NN info:NN 

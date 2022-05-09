@@ -1,0 +1,2 @@
+implement:VB support:NN addit:JJ predic:JJ syntax:NN mandatori:JJ 
+pattern:NN 

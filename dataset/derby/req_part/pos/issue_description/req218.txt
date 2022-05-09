@@ -1,0 +1,26 @@
+updat:JJ result:NN set:NN jdbc:NNP spec:NN section:NN 
+modifi:VBG object:NNPS state:VBZ 
+object:NNS concurr:NN updat:VBN 
+object:NNS 
+addit:NN derbi:NNP requir:VBZ sql:NN select:JJ statement:NN 
+updat:NN claus:NN updat:NNS 
+usabl:NN issu:NN 
+jdbc:NNP api:NN tutori:NN refer:NN refer:NN 
+book:NN jdbc:NNP specif:NN includ:VB 
+updat:NN claus:NN sql:NN select:NN 
+mamta:NNP satoor:NNP 
+derbi:NNP implement:VBZ jdbc:NNP updat:JJ resultset:NN exist:VBG 
+updat:JJ cursor:NN implement:NN 
+order:NN requir:VBZ 
+select:JJ statement:NN includ:VB updat:NN claus:NN 
+chang:VB derbi:NNP implement:NN requir:VB 
+updat:NN claus:NN piggyback:NN updat:JJ cursor:NN implement:NN 
+dan:NNP brunner:NNP 
+cover:VBN jdbc:NNP standard:NN 
+jdbc:NNP state:VBZ requir:NNS sql:NN 
+statement:NN updat:JJ result:NN set:NN 
+jdbc:NNP tutori:NN book:NN 
+guidelin:NNS work:VB isn:NN 
+databas:NN engin:NN defin:VB work:VBZ 
+requir:VBG updat:NN 
+improv:NN 

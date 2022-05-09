@@ -1,0 +1,5 @@
+namespac navig 
+node root namespac doc 
+namespac xsd namespac http www org xml schema xsd 
+def root xsd annot 
+def root xsd annot xsd document 

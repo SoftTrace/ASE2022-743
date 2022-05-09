@@ -1,0 +1,1 @@
+event:NN log:NN queryabl:JJ categori:NN level:NN 

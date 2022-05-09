@@ -1,0 +1,8 @@
+api:NN specif:NN provid:VB inform:NN implement:NN detail:NNS queri:NN 
+defin:VBD tabl:NN function:NN function:NNP column:NNS 
+bind:VBP tabl:NN function:NN creat:NNP function:NNP sql:NN 
+user:NN execut:VBZ follow:VBG sql:NN 
+select:VB tabl:NN myfunct:NN 
+pass:VBG column:NN list:NN claus:NN argument:NNS tabl:NN function:NN implement:NN column:NNS row:NNS 
+build:VBN integr:VB distant:JJ legaci:NN datum:NNS cost:NN queri:NN prohibit:JJ 
+inform:NN regard:VBG column:NNS select:JJ restrict:NNS claus:NN pass:VBN develop:NN 

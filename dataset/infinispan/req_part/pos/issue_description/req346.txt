@@ -1,0 +1,163 @@
+review:VBG code:NN jonathan:NNP halliday:NNP bring:VBN follow:VBG aspect:NNS todo:NNS 
+packag:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+import:NN 
+act:VBZ local:JJ 
+implementor:NN 
+call:VBN manag:NN stage:NNS 
+public:JJ class:NN implement:VBZ xaresourc:NN 
+privat:JJ static:NN final:JJ log:NN log:NN 
+privat:JJ static:NN boolean:JJ trace:NN 
+comment:NN timeout:NN 
+client:NN separ:JJ process:NNS fail:VB 
+client:NN run:VBG separ:JJ process:NN crash:VBZ 
+scenario:NN win:VBD call:VB resourc:NNS hold:VBN 
+affect:VBG scenario:NNS esourc:NN colloc:VBN 
+privat:JJ int:NN txtimeout:NN 
+privat:JJ final:JJ icc:NN 
+privat:JJ final:JJ invok:NN 
+privat:JJ final:JJ commandsfactori:NN 
+privat:JJ final:JJ configur:NN configur:NN 
+privat:JJ final:JJ tabl:NNP 
+xaresourc:NN associ:VBN transact:NN enlist:NN 
+boundari:NN method:NNS prepar:VB commit:VB rollback:NN stateless:JJ 
+reefer:NNP section:NN jta:NNP spec:NN 
+privat:JJ final:JJ localtransact:NN 
+public:JJ tabl:NNP 
+configur:NN configur:NN invok:NN icc:NN 
+localtransact:NN 
+txtabl:NN 
+commandsfactori:NN 
+configur:NN 
+invok:NN 
+icc:NN 
+call:NN transact:NN object:NN 
+section:NN resourc:NN share:VBG jta:NNP spec:NN 
+public:JJ int:NN prepar:VB xid:NNP xid:NN throw:VBZ 
+todo:NN throw:VBP cleanup:NN resourc:NNS 
+rollback:NN call:VBN 
+localtransact:NN getlocaltransactionandvalid:NN xid:NN 
+comment:NN 
+validatenotmarkedforrollback:NN localtransact:NN 
+trace:NN receiv:VBN prepar:VB 
+skip:VBG call:NN 
+xid:NN 
+return:NN 
+preparecommand:NN 
+trace:NN send:VBG prepar:VB command:NN chain:NN preparecommand:NN 
+ctx:NN 
+localtransact:NN 
+ctx:NN preparecommand:NN 
+trace:NN readon:NNP transact:NN 
+forc:NN cleanup:NN releas:VB object:NNS hold:VBN 
+don:VBP call:NN commit:VB read:VB 
+ispn:NNP 
+commit:VB xid:NN fals:JJ 
+return:NN 
+return:NN 
+catch:NN throwabl:JJ 
+todo:NN throw:VBP lock:NNS clean:VBN win:VBD rollback:NN call:NN 
+handl:VB 
+node:NN fail:VBZ ack:VB prepar:VB node:NN part:NN cluster:NN sync:NN state:NN 
+push:VBG state:NN node:NN happen:VBZ node:NN ack:NN node:NN shun:VBN cluster:NN 
+error:NNP process:VBG 
+throw:VB 
+comment:NN appli:VBZ commit:VB 
+public:JJ void:NN commit:VB xid:NNP xid:NNP boolean:JJ isonephas:NN throw:VBZ 
+localtransact:NN getlocaltransactionandvalid:NN xid:NN 
+trace:NN commit:VBG transact:NN 
+ctx:NN 
+localtransact:NN 
+split:VBN 
+import:JJ user:NN ack:NN doesn:VBD consist:NN 
+case:NN isonephas:NN true:JJ method:NN commit:VBZ fail:VBZ clean:VBZ log:NNS 
+isonephas:NN 
+validatenotmarkedforrollback:NN localtransact:NN 
+trace:NN prepar:VB call:NN interceptor:NN chain:NN 
+command:NN true:JJ 
+ctx:NN command:NN 
+catch:NN throwabl:JJ 
+error:NNP process:VBG 
+throw:VB 
+commitcommand:NN 
+ctx:NN commitcommand:NN 
+catch:NN throwabl:JJ 
+error:NNP process:VBG 
+throw:VB 
+cleanup:NN localtransact:NN 
+comment:NN 
+appli:VBZ commit:VB 
+public:JJ void:NN rollback:NN xid:NN xid:NN throw:VBZ 
+rollbackimpl:NN xid:NN commandsfactori:NN icc:NN invok:NN txtabl:NN 
+public:JJ static:NN void:NN rollbackimpl:NN xid:NN xid:NN icc:NNP invok:NN tabl:NNP throw:VBZ 
+localtransact:NN xid:NN 
+localtransact:NN null:JJ 
+trace:NN find:VBN 
+xid:NN 
+throw:VB 
+trace:NN rollback:NN transact:NN 
+rollbackcommand:NN 
+ctx:NN 
+localtransact:NN 
+ctx:NN rollbackcommand:NN 
+catch:NN throwabl:JJ 
+rollback:NN 
+throw:VB 
+cleanupimpl:NN localtransact:NN txtabl:NN icc:NN 
+privat:JJ getlocaltransactionandvalid:NN xid:NN xid:NN throw:VBZ 
+xid:NN 
+null:JJ 
+happen:VB xaresourc:NN process:NN 
+find:VBN 
+xid:NN 
+throw:VB 
+return:NN 
+public:JJ void:JJ start:NN xid:NN xid:NN int:NN throw:VBZ 
+xid:NN 
+localtransact:NN 
+trace:NN start:VB call:VBN 
+public:JJ void:JJ xid:NN xid:NN int:NN throw:VBZ 
+trace:NN call:VBN 
+public:JJ void:NN forget:VB xid:NNP xid:NN throw:VBZ 
+trace:NN forget:VB call:VBN 
+public:JJ int:NN gettransactiontimeout:NN throw:VBZ 
+trace:NN start:VB call:VBN 
+return:NN txtimeout:NN 
+public:JJ boolean:JJ issamerm:NN xaresourc:NN xaresourc:NN throw:VBZ 
+xaresourc:NN instanceof:NN 
+return:NN fals:NN 
+xaresourc:NN 
+return:NN 
+public:JJ xid:NN recov:VB int:NN throw:VBZ 
+trace:NN recov:VB call:VBN 
+return:NN null:JJ 
+public:JJ boolean:JJ settransactiontimeout:NN int:NN throw:VBZ 
+return:NN true:JJ 
+public:JJ boolean:JJ equal:NNS object:NN 
+return:NN true:JJ 
+instanceof:NN transactionxaadapt:NN return:NN fals:NN 
+return:NN 
+public:JJ int:NN hashcod:NN 
+return:NN 
+public:JJ string:NN tostr:NN 
+return:NN 
+localtransact:NN localtransact:NN 
+privat:JJ void:JJ validatenotmarkedforrollback:NN throw:VBZ 
+trace:NN transact:NN mark:VBN rollback:NN 
+localtransact:NN 
+throw:VB 
+privat:JJ void:JJ cleanup:NN 
+tabl:NNP icc:NN 
+privat:JJ static:NN void:NN cleanupimpl:NN tabl:NNP icc:NN 
+localtransact:NN 

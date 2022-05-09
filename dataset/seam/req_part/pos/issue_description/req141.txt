@@ -1,0 +1,17 @@
+boss:NNP ident:NNP server:NN deleg:VBN secur:NN authent:NN jaa:NN config:NN attribut:NN secur:NN ident:NN xml:NN element:NN boss:NNP seam:NNP file:NN deploy:VBG bea:NNP server:NN authent:NN fail:VBG default:NN jaa:NNP modul:NN 
+follow:VBZ server:NN jaa:NNP configur:NN file:NN content:NN 
+myrealm:NN 
+requir:VBN authonlogin:NN true:JJ debug:NN fals:JJ 
+problem:NN server:NN pass:VBZ jaa:NNP callback:NN seam:NNP throw:VBZ class:NN 
+function:NN work:VB 
+creat:VB custom:NN jaa:NN modul:NN server:NN 
+extend:VB class:NNS overrid:VB 
+protect:VBN 
+method:NN includ:VBP branch:NN default:NN throw:VBZ 
+callback:NNS 
+class:NNP 
+equal:VBZ 
+ignor:VBN 
+includ:VB code:NN boss:NNP seam:NNP ident:NNP class:NN user:NN debug:NN work:VBG creat:VB class:NN extend:VB order:NN workabl:JJ 
+opinion:NN perform:VBG easier:JJR user:NN point:NN view:NN seam:NNP jaa:NNP server:NN authent:NN code:VBG boss:NNP seam:NNP user:NN point:NN view:NN 
+note:VB propos:VBN code:NN doesn:NN depend:VBP bea:NNP specif:JJ class:NNS 

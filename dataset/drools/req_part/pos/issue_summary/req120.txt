@@ -1,0 +1,1 @@
+add:VB rule:NN inherit:NN core:NNP drl:NNP support:NN 

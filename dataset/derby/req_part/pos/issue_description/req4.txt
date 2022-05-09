@@ -1,0 +1,9 @@
+network:NN server:NN start:VBN consol:NN output:NN flush:JJ output:NN start:VBG server:NN 
+confus:JJ consol:NN output:NN show:VBZ activ:NN 
+user:NNS autoflush:VB 
+starterwrit:NN file:NN true:JJ 
+derbyserv:NN 
+starterwrit:NN 
+repro:NN 
+chang:VB line:NN program:NN autoflush:VB follow:VBZ 
+starterwrit:NN file:NN fals:JJ 

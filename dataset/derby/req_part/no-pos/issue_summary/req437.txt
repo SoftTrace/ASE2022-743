@@ -1,0 +1,1 @@
+remov type bit type boolean switch jvm info 

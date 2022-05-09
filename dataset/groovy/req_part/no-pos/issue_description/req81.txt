@@ -1,0 +1,15 @@
+support compos oper closur 
+def 
+def 
+def 
+def longhand equival 
+assert 
+assert 
+def string char char 
+def integ amp hex string string char charact amp upper case 
+assert 
+def multipli 
+def ident 
+def ident multipli 
+assert collect 
+

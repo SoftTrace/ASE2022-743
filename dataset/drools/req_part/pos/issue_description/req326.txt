@@ -1,0 +1,3 @@
+rule:NN add:VBN add:VBZ scan:VB contenst:NN assignablefrom:NN 
+ensur:VBZ propag:VBP fact:NNS list:NN 
+key:JJ part:NN remov:VBP redund:NN don:VBP propag:VB fact:NN match:VBZ list:NN 

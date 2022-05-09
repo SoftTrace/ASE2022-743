@@ -1,0 +1,1 @@
+jdbc:NNP result:VBP set:NNS rule:VB generat:NN templat:NNS bill:NNP tarr:NNP 

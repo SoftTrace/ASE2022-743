@@ -1,0 +1,1 @@
+leftshift:NN oper:NN 

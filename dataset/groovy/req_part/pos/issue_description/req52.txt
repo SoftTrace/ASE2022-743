@@ -1,0 +1,5 @@
+jira:NN document:VB fact:NN annot:NN write:VBN 
+discuss:NN 
+debat:NN move:VB contrib:NN area:NN 
+issu:NN updat:VBN chang:NN 
+cheer:NNS paul:NNP 

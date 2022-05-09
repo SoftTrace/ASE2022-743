@@ -1,0 +1,6 @@
+transact:NN fail:VBD event:NN messag:NN 
+facesmessag:NN add:VBN transact:NN fail:VBZ 
+rais:VB event:NN observ:VBN compon:NN facestransactionev:NNS 
+observ:NN add:VB respons:NN 
+develop:NNS overrid:VB behavior:NN add:VB jsf:NNP log:VB messag:NN 
+implement:NN wicket:NNP 

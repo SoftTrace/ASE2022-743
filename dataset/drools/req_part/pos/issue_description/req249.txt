@@ -1,0 +1,11 @@
+constraint:NN invok:VBZ constructor:NN primit:JJ type:NN argument:NN pass:VBG correspond:VBG class:NN type:NN follow:VBG 
+class:NN person:NN 
+public:JJ integ:NN getageasinteg:NN 
+return:NN age:NN 
+rule:NN 
+person:NN integ:NN ageasinteg:NN 
+constraint:NN jitt:VBN follow:VBG throw:VBN 
+jit:NN integ:NN ageasinteg:NN 
+nativ:JJ method:NN 
+nativ:JJ method:NN 
+class:NN method:NN evalu:VB signatur:NN ljava:NN lang:NN object:NN lorg:NN drool:NN common:NN internalworkingmemori:NN lorg:NN drool:NN reteoo:NN lefttupl:NN expect:VBG find:VB integ:NN stack:NN 

@@ -1,0 +1,24 @@
+improv:VB perform:NN page:NN alloc:NN requir:VBG sync:NN alloc:VBN page:NNS 
+reason:NN sync:NN 
+redo:VB recoveri:NN handl:VB case:NN redo:VBG alloc:VB find:VBG space:NN 
+disk:NN 
+task:NNS singl:JJ user:NN load:NN sync:NN alloc:NN signific:JJ perform:NN issu:NN 
+case:NN insert:NN transact:NN total:JJ time:NN aproach:NNS durabl:NN test:NN sync:VBG 
+system:NN 
+instanc:NN test:NN load:VBG meg:NN number:NN tabl:NNS index:NNS ghz:NN laptop:NN ide:NN disk:NN 
+sun:NN window:NNS 
+follow:VBG type:NNS result:NNS 
+default:NN system:NN minut:NNS 
+alloc:NN sync:NN minut:NN 
+sync:VBG minut:NN 
+sync:VBG disabl:JJ recoveri:NN enhanc:VBN handl:VB space:NN condit:NN 
+recoveri:NN 
+handl:VBZ space:NN undo:VB handl:VB error:NN 
+stop:VB recoveri:NN produc:VB error:NN 
+user:NN add:VB disk:NN space:NN rerun:NN recoveri:NN system:NN bring:VBN 
+jvm:NNP win:VBD happen:VB system:NN jvm:NNP space:NN sync:VBG valu:NNS 
+page:NNS disk:NN 
+point:NN reserv:VB space:NN file:NN tabl:NNS grab:VB space:NN 
+project:NN space:NN recoveri:NN path:NN test:NNS 
+redo:VB recoveri:NN encount:VBG garbag:NN 
+alloc:VBN page:NN redo:VB creat:VB page:NN test:VBN 

@@ -1,0 +1,2 @@
+implement:VB annot:NN 
+rule:NN annot:VBN behav:VB rete:NN 

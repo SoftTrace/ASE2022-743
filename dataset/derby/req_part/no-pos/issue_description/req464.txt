@@ -1,0 +1,5 @@
+jira add support drda strong password substitut authent usrssbpwd scheme network client server driver layer 
+current derbi drda network client driver support encrypt userid password eusridpwd key agreement protocol current open group drda specif impos small prime base generat valu bit prevent jce java cryptographi provid typic minimum secur requir bit bit absolut minimum key agreement protocol generat session key 
+strong password substitut authent usrssbpwd part drda specif altern provid cipher password wire 
+support usrssbpwd authent scheme enabl addit jce encrypt password requir wire 
+usrssbpwd authent scheme derbi network client user secur mechan properti connect properti valu encrypt password secur defin order support drda authent scheme 

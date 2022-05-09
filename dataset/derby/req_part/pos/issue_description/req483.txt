@@ -1,0 +1,7 @@
+network:NN client:NNS derbi:NNP network:NNP client:NN test:VBN support:VBN derbi:NNP protocol:NN base:VBN client:NN understand:VB derbi:NNP drda:NN extens:NNS deviat:NNS store:VBN procedur:NN usag:NN 
+good:JJ idea:NN network:NN server:NN reject:VB network:NN client:NNS derbi:NNP network:NNP client:NNP 
+elimin:VB confus:NN front:NN awar:JJ univers:NNP jdbc:NNP driver:NN runtim:NN client:NN support:VBN 
+clean:JJ reason:JJ error:NN hit:VBG protocol:NN error:NNS 
+add:VB support:NN network:NN client:NN futur:NN add:VB line:NNS code:NN identifi:VB good:JJ 
+code:NN chang:NN hard:JJ biggest:JJS impact:NN run:VBZ test:NNS jcc:NNP trunk:NN disabl:VB test:NNS 
+separ:JJ issu:NN jayaram:NNP work:VBG complet:VB remov:VB jcc:NNP relat:VBN code:NN test:NNS test:NN infrastructur:NN 

@@ -1,0 +1,1 @@
+support:NN import:NN export:NN tabl:NNS clob:NN blob:NN binari:JJ datum:NNS type:NNS good:JJ addit:NN derbi:NN 

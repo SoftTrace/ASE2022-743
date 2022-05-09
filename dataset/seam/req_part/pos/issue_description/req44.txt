@@ -1,0 +1,10 @@
+download:NN valu:NN contenttyp:NN 
+creat:VB general:JJ compon:NN user:NN download:VB file:NN resourc:NN excel:NNP file:NN document:NN 
+plan:NN creat:VB compon:NN uidownload:NN attribut:NNS valu:NN contenttyp:NN 
+uidownload:NN bean:NN valu:NN valid:JJ word:NN seam:NN world:NN 
+generat:VB datum:NNS byte:NN 
+uidownload:NN creat:VBZ store:VBN 
+uidownload:NN generat:VBZ html:NN redirect:VBZ browser:NN 
+downloadresourc:NN hold:NN datum:NNS push:VBZ browser:NN 
+reason:NN build:VBG portlet:NNS seam:NNP imposs:JJ download:VB file:NNS portal:JJ environ:NN addit:JJ servlet:NN good:JJ idea:NN reus:VB exist:VBG stuff:NN 
+patch:NNP work:VB 

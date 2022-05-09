@@ -1,0 +1,3 @@
+releas:VBN 
+detail:NNS improv:NNS 
+updat:VB hash:NN version:NN hot:NNP rod:NNP 

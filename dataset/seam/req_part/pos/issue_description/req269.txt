@@ -1,0 +1,4 @@
+rid:VBN list:NN class:NNS addcompon:NNS 
+move:VB debug:NN compon:NNS debug:NN jar:NN 
+rid:VBN special:JJ case:NN scanner:NN 
+add:VB foo:NN scannerignor:NN true:JJ 

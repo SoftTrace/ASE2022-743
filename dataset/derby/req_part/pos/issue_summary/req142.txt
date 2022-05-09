@@ -1,0 +1,1 @@
+factor:NN type:NN check:NNS 

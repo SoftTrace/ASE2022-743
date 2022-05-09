@@ -1,0 +1,4 @@
+order:NN trigger:NN action:NN access:NN valu:NNS trigger:NN tabl:NN creat:NNP trigger:NN referenc:NN claus:NN 
+referenc:NN claus:NN valu:NNS trigger:VBG tabl:NN access:VBN trigger:NN action:NN 
+base:VBN improv:VB derbi:NNP memori:NN util:NN valu:NNS refer:VBG claus:NN 
+good:JJ code:NN optim:NN introduc:VBG optim:NN trigger:NN tabl:NN lob:NN column:NNS 

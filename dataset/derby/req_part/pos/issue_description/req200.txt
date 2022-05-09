@@ -1,0 +1,3 @@
+safe:JJ replac:VB synchron:VBN collect:NNS unsynchron:JJ 
+investig:VBN unnecessari:JJ synchron:NN remov:VBN 
+discuss:NN 

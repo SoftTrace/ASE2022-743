@@ -1,0 +1,2 @@
+oversight:NN 
+stateless:JJ natur:NN api:NN isn:VBZ add:VB method:NNS interfac:NN 

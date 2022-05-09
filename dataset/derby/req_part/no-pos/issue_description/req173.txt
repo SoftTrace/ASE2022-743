@@ -1,0 +1,10 @@
+document updat commit refer manual describ alter tabl drop column featur drop column tabl 
+document alter tabl command unwieldi restructur page easier approach 
+document import describ restrict cascad behavior user confus restrict refus drop column comment alter tabl constant action java 
+specif document note possibl unexpect behavior 
+column present index index 
+restrict refus drop column column simpli drop 
+index column index entir index drop 
+explicit check constraint restrict refus drop column 
+primari key foreign key uniqu constrant unnam simpl 
+null constraint column restrict refus drop 

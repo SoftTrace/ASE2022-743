@@ -1,0 +1,64 @@
+shouldn:JJ distinctscalaraggregat:NN implement:VB close:JJ finish:NN method:NN 
+differ:NN close:VB scan:NN control:NN 
+close:JJ finish:NN method:NNS explain:VBN javadoc:NN 
+languag:NN class:NN 
+note:NN jdbc:NNP object:NN 
+system:NN call:NNS 
+row:NNP open:JJ call:NN 
+finish:NN system:NN access:NN 
+databas:NN inform:NN result:NN set:NN 
+close:JJ open:VBN access:NN 
+finish:NN 
+code:NN doesn:JJ match:NN 
+confus:NN 
+languag:NNP jdbc:NNP open:VBN multipl:JJ 
+time:NNS scan:VBG tabl:NN multipl:JJ time:NNS join:VB 
+activ:NN repres:VBZ intern:JJ state:NN 
+object:NN lifetim:NN 
+top:JJ level:NN languag:NN 
+top:NN level:NN languag:NN provid:VBZ execut:NN sql:NN 
+statement:NN dml:NNP ddl:NNP queri:NN 
+top:JJ level:NN 
+tree:NN structur:NN 
+simpl:JJ 
+case:NN primari:JJ key:JJ lookup:NN queri:NN 
+select:JJ custom:NN 
+activ:NN 
+top:JJ result:NN set:NN 
+reason:NN api:NN 
+case:NNS result:NN set:VBN tree:NN throw:VBN 
+execut:NN 
+top:JJ result:NN set:NN finish:NN 
+method:NN call:VBN activ:NN remov:VBZ refer:NN 
+execut:NN ident:JJ tree:NN set:VBN 
+potenti:JJ huge:JJ perform:NN gain:NN top:JJ level:NN result:NN 
+set:NN tree:NN lifetim:NN 
+activ:NN 
+save:NN form:NNS creat:VB 
+object:NNS execut:NN creat:VBG short:JJ live:JJ object:NNS 
+garbag:NN collector:NN handl:VB 
+simpl:JJ fix:NN coupl:NN line:NNS code:NN call:VBG close:JJ 
+finish:VB correct:JJ time:NNS simpl:JJ primari:JJ key:NN 
+lookup:NN queri:NN perform:NN select:VBZ 
+cach:VBN datum:NNS singl:JJ user:NN 
+post:VB patch:NN 
+indic:NN direct:NN separ:VB chang:NNS 
+client:NN 
+run:VBG derbi:NNP test:NNS 
+failur:NNS languag:NN resultset:NN implement:NNS 
+write:VBN 
+failur:NN 
+aggregr:JJ test:NN issu:NN manish:NNP 
+derbyal:NN pass:VBD nervous:JJ submit:VBG patch:NN 
+real:JJ don:VBP lot:NN test:NN repeat:NN 
+execut:NNS test:NNS 
+test:NNS 
+statement:NNP singl:JJ activ:NN chang:NN 
+affect:VB 
+patch:NN regress:VB derbi:NNP 
+exist:VBG bug:NNS expos:VBN 
+give:VBN perform:NN gain:NNS start:VB 
+resultset:NNS activ:NN devis:VB ensur:VB test:NN 
+cover:VBZ 
+main:JJ issu:NN larg:JJ number:NN 
+implement:NNS cover:VB 

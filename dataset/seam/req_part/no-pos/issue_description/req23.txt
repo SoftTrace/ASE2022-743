@@ -1,0 +1,3 @@
+fix propos manag pass addit page xml file page compon 
+problem definit compon web inf page xml propos refactor process node page compon page xml process defin handler 
+altern implement page compon notifi compon page xml process specif encapsul compoent fed page xml file 

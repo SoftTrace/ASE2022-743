@@ -1,0 +1,13 @@
+descriptor 
+chang top level server servic 
+servic add 
+parent resourc type jmx server plugin jmx 
+parent resourc type boss server plugin boss 
+parent resourc type boss server plugin boss 
+sourc 
+implement resourc compon convert extend bean resourc compon statist compon 
+reduc code chang 
+base work 
+test 
+test admin consol drop plugin jar plugin subdirectori admin consol 
+test rhq 

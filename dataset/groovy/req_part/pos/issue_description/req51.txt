@@ -1,0 +1,4 @@
+gdk:NNP conveni:NN method:NNS wrap:VB date:NN 
+format:NN yyyi:NN 
+add:VBN calendar:NN 
+complimentari:JJ pars:VB method:NN 

@@ -1,0 +1,98 @@
+prevent deadlock ispn transact sort key call method acquir lock cach put cach remov don lock stripe lock key case creat deadlock 
+thread 
+
+acquir lock 
+cach put 
+acquir lock 
+cach put 
+acquir lock releas 
+commit 
+thread 
+
+acquir lock 
+cach put 
+acquir lock 
+cach put 
+acquir lock releas 
+commit 
+prevent deadlock simpli sort key lock acquisit order lock stripe sort key face deadlock predict lock distribut key test case creat deadlock lock stripe enabl 
+public class test deadlock extend test case 
+
+
+unpredict deadlock implement 
+reentrant stripe lock key 
+map lock 
+map lock 
+case key sort deadlock 
+
+public void test lock stripe true unpredict dead lock throw 
+
+default cach manag manag default cach manag 
+manag default configur set invoc batch enabl true 
+manag default configur set lock acquisit timeout 
+final cach string string cach manag cach 
+final count latch start signal count latch 
+final count latch signal count latch 
+final atom refer atom refer 
+thread 
+
+
+java lang thread run 
+
+overrid 
+public void run 
+
+
+
+cach start batch 
+start signal await 
+
+cach put aaaaaaaa valu 
+
+cach put aaaaaaaaaaaaaa valu 
+cach batch true 
+
+catch 
+
+set 
+
+final 
+
+signal count 
+
+
+start 
+thread 
+
+
+java lang thread run 
+
+overrid 
+public void run 
+
+
+
+cach start batch 
+start signal await 
+
+cach put aaaaaaaaaaa valu 
+
+cach put aaaaaaaaaaaaa valu 
+cach batch true 
+
+catch 
+
+set 
+
+final 
+
+signal count 
+
+
+start 
+start signal count 
+signal await 
+assert null 
+
+
+lock public api sort key valu avoid deadlock lock stripe enabl 

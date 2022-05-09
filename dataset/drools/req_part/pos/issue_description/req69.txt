@@ -1,0 +1,5 @@
+method:NN descr:NN 
+move:VBP param:NNS singl:JJ line:NN indexof:NN fine:JJ start:NN descr:NN compil:VBN code:NN 
+find:VB offiset:NN map:VB error:NN descr:NN 
+complex:JJ error:NN handl:VBG rework:VBN 
+compilationproblem:JJ object:NNS stuff:VBN rule:NN error:NNS seper:JJ rule:NN error:NNS multipl:JJ line:NN error:NNS 

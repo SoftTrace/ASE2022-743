@@ -1,0 +1,2 @@
+code:VB groovi:JJ method:NNS extend:VBG core:NN jdk:NN class:NNS 
+foo:NN 

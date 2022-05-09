@@ -1,0 +1,1 @@
+creat:VB live:JJ querri:NNS receiv:VBP chang:NN event:NNS iter:JJ set:NN 

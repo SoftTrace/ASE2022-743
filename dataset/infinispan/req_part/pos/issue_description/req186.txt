@@ -1,0 +1,1 @@
+async:NN method:NNS exist:VBG natur:JJ method:NN getasync:NN prefetch:NN datum:NNS requir:VBN 

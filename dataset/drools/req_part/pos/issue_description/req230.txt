@@ -1,0 +1,4 @@
+good:JJ possibl:NN add:VB option:JJ descript:NN resourc:NN chang:NN set:NN 
+attribut:NN expos:VBN attribut:NNS expos:VBN knowledg:NN api:NN 
+implement:VBN 
+attribut:NNS don:VBP effect:NN resourc:NNP behavior:NN function:NN server:NN document:NN chang:NN set:NN 

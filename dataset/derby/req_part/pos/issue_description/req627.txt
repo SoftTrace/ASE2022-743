@@ -1,0 +1,4 @@
+replac:VB 
+fetch:VB method:NNS call:NNS general:JJ call:NNS scan:NNS 
+singl:JJ object:NN life:NN queri:NN 
+general:JJ derbi:NNP avoid:VB creat:VBG object:NNS row:NN statement:NN oper:VBG larg:JJ number:NN row:NNS high:JJ 

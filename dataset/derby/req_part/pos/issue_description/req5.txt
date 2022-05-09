@@ -1,0 +1,16 @@
+sql:NN role:NNS add:VB parser:NN support:NN 
+sql:NN role:NNS add:VB upgrad:NN support:NN 
+derbi:NNP role:NNS introduc:VBP system:NN catalog:NN sysrol:NNP 
+databas:NN hard:JJ upgrad:VBN catalog:NN add:VBN 
+sql:NN role:NNS implement:VB author:NN stack:NN sql:NN session:NN context:NN hold:VB 
+current:JJ user:NN author:NN identifi:NN sql:NN session:NN 
+lcc:NN share:VBN context:NN nest:VBN connect:NNS open:VBN store:VBN procedur:NNS 
+role:NNS current:JJ role:NN store:VBN lcc:NN 
+sql:NN requir:VBZ 
+author:NN identif:NNS push:VBN author:NN stack:NN call:VBG store:VBN procedur:NN 
+sql:NN vol:NN section:NN 
+caller:NN current:JJ role:NN call:NN chang:VBN store:VBN procedur:NN 
+issu:NN implement:VB current:JJ role:NN part:NN cell:NN author:NN stack:NN 
+author:NN stack:NN implement:VBN part:NN sql:NN session:NN context:NN 
+patch:NN implement:VB push:VBG current:JJ unqualifi:JJ schema:NN part:NN 
+sql:NN session:NN context:NN 

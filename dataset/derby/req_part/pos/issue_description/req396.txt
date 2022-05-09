@@ -1,0 +1,17 @@
+claus:NN 
+creat:VB tabl:NN integ:NN 
+row:NNS insert:VBN updat:VBN delet:VBN 
+creat:VB tabl:NN integ:NN 
+row:NNS insert:VBN updat:VBN delet:VBN 
+creat:VB tabl:NN integ:NN 
+row:NNS insert:VBN updat:VBN delet:VBN 
+insert:NN valu:NNS 
+row:NN insert:VBN updat:VBN delet:VBN 
+insert:NN valu:NNS 
+row:NN insert:VBN updat:VBN delet:VBN 
+insert:NN valu:NNS 
+row:NNS insert:VBN updat:VBN delet:VBN 
+select:JJ select:VB 
+row:NNS select:VBN 
+select:JJ join:VB select:VB 
+error:NN claus:NN associ:VBN join:VB oper:NN valid:JJ 

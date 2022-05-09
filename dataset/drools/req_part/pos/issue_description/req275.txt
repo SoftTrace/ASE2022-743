@@ -1,0 +1,9 @@
+exist:VBZ condit:JJ element:NN implement:VBN sequenc:NN node:NNS 
+suboptim:JJ perform:NN add:VBZ complex:NN network:NN special:JJ constraint:NNS requir:NN specif:JJ 
+implement:NN unnecessari:JJ work:NN perform:VBN 
+instanc:NN trace:VB work:NN termin:JJ node:NN follow:VBG 
+packag:NN 
+queri:NN person:NNS status:NN 
+person:NN status:NN status:NN age:NN age:NN 
+exist:VBZ person:NN status:NN status:NN age:NN age:NN 
+replac:VB current:JJ implement:NN special:JJ 

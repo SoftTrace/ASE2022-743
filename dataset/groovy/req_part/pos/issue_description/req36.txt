@@ -1,0 +1,11 @@
+groovi:JJ transpos:NN method:NN 
+rubi:NNP transpos:NN method:NN array:NNS 
+python:NN zip:NN method:NN 
+expect:JJ behaviour:NN 
+assert:VB 
+transpos:VB 
+assert:VB transpos:NN 
+assert:VB transpos:NN 
+assert:VB transpos:NN 
+assert:VB transpos:NN 
+assert:VB transpos:NN 

@@ -1,0 +1,1 @@
+default:NN load:NN store:NN func:NNS configur:JJ 

@@ -1,0 +1,17 @@
+general:JJ group:NN oper:NN pig:NNP mapper:NNS reduc:NNS aggreg:NN reduc:NNS 
+incur:VBZ disk:NN write:VBZ read:VBZ mapper:NNS reduc:NNS 
+case:NNS input:NN datum:NNS follow:VBG properti:NNS 
+record:NNS key:NN group:VBN datum:NNS sort:VBN key:NNS 
+record:NNS key:NN mapper:NN input:NN 
+group:NN oper:NN perform:VBN mapper:NNS remov:VB overhead:NN disk:NN write:VBZ read:VBZ 
+alan:NNP propos:VBD add:VBG hint:NN group:NN claus:NN 
+load:NN input:NN loader:NNP 
+group:NN mapsid:NN 
+foreach:NN generat:VBP 
+propos:VBN addit:NN mapsid:NN group:NN mapsid:NN group:NN oper:NN collect:VBZ record:NNS give:VBN key:NN buffer:NN 
+key:JJ chang:NN emit:VB key:NN bag:NN record:NNS buffer:VBN 
+assum:VB key:NNS give:VBN record:NN collect:VBN buffer:VB key:NNS 
+expect:VBN loader:NNP implement:VBN datum:NNS system:NNS zebra:NNP ensur:VB datum:NNS emit:VBN loader:NN satisfi:VBZ properti:NNS 
+respons:NN user:NN loader:NN guarante:VB properti:NNS invok:VBG mapsid:NN hint:NN group:NN claus:NN 
+pig:NNP runtim:NN check:VB error:NNS input:NN datum:NNS 
+group:NN claus:NNS mapsid:NN hint:NN pig:NNP latin:NNP support:VB group:NN column:NNS includ:VBG group:NN express:NNS group:NN 

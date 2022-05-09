@@ -1,0 +1,8 @@
+unus:JJ method:NNS remov:VBN syncsidelog:NN pagetodirti:NN gettempdirectori:NN 
+addit:NN suggest:VBP follow:VBG cleanup:NNS 
+remov:NN unus:JJ import:NNS 
+remov:NN unnecessari:JJ return:NN statement:NN 
+synchron:NN object:NN freezesemaphor:NN final:JJ 
+remov:NN unus:JJ instanc:NN variabl:JJ backuppath:NN 
+remov:NN unus:JJ local:JJ variabl:NN instanti:NN multiplejbmswarn:NN 
+replac:VB boolean:NNP 

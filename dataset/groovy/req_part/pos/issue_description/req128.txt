@@ -1,0 +1,24 @@
+implement:VB iscas:NN closur:NNS 
+public:JJ boolean:JJ iscas:NN object:NN candid:NN 
+return:NN call:NN candid:NN 
+closur:NNS play:VB switch:NN case:NNS 
+void:JJ testswitchwithclosur:NN 
+switch:NN 
+case:NN 
+true:JJ 
+break:NN 
+default:NN assert:VB fals:JJ 
+switch:NN 
+case:NN 
+fals:JJ 
+assert:VB fals:JJ 
+switch:NN 
+case:NN 
+break:NN 
+default:NN assert:VB fals:JJ 
+switch:NN 
+case:NN 
+candid:NN candid:NN 
+break:NN 
+default:NN assert:VB fals:JJ 
+switch:VB logic:NN 

@@ -1,0 +1,7 @@
+pig:NNP handl:VB deep:JJ cast:NN bag:NN bag:NN tupl:NN tupl:NN 
+follow:VBG script:NN produc:VB desir:VBN result:NN 
+load:NN bag:NN tupl:NN doubl:JJ 
+generat:VB bag:NN tupl:NN int:NN 
+dump:NN 
+result:NN tupl:NN int:NN tupl:NN bag:NN 
+fix:VB case:NN cast:VBD bytearray:NN bag:NN tupl:NN complex:JJ type:NN includ:VBG type:NNS bag:NN bag:NN tupl:NN tupl:NN effect:JJ 

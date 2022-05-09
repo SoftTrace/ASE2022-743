@@ -1,0 +1,1 @@
+consult:VB class:NN attribut:NN compon:NN xml:NN declar:NN namespac:NN 

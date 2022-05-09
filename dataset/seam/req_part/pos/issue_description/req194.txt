@@ -1,0 +1,6 @@
+difficult:JJ creat:VB rule:NNS order:NN paramet:NNS jump:VBZ 
+happen:VBZ paramet:NNS append:VBN plain:JJ link:NN button:NN give:VBG guarante:NN order:NN 
+feel:NN paramet:NNS maintain:VB insert:NN order:NN accomplish:VBN 
+paramet:NNS sort:VBN 
+control:NN develop:NN order:VB link:NNS fit:NN 
+document:VB order:NN seam:NNP append:VBZ paramet:NNS develop:NN predict:VB order:NN paramet:NNS url:NN 

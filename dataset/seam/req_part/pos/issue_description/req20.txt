@@ -1,0 +1,9 @@
+imagin:VB scenario:NN 
+client:NN call:VBZ somemethod:NN compon:NN call:VBN foo:NNP 
+inject:VB foo:NN attribut:NNS requir:VBZ call:VBG factori:NN method:NN bar:NN 
+bar:NNP factori:NN method:NN turn:NN call:VBZ 
+foo:NN state:NN support:VB method:NN call:NNS process:NN inject:VBG depend:NNS sort:NN cyclic:JJ depend:NN 
+seam:NN throw:VB case:NN 
+code:VBN someothermethod:NN run:VB complaint:NNS attribut:NNS null:JJ depend:VBG field:NNS inject:VBN 
+chang:NNS chang:VBN behavior:NN finit:JJ loop:NN result:NNS 
+behavior:NNS desir:JJ 

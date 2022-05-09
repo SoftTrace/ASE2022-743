@@ -1,0 +1,2 @@
+convers:NN generat:NN manag:VBN compon:NN overrid:VBN specif:JJ deploy:NNS 
+provid:VBG interest:JJ default:NN option:JJ strategi:NN guid:NNP 

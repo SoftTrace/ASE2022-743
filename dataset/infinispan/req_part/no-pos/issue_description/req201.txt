@@ -1,0 +1,3 @@
+paramet annot primari prevent replica fire updat 
+listen primari true 
+public class listen 

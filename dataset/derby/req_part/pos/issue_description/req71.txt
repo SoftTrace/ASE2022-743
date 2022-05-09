@@ -1,0 +1,12 @@
+java:NNP file:NNS creat:VBN derbi:NNP default:NN 
+permiss:NNS oper:NN system:NN context:NN 
+unix:NNP 
+depend:VB effect:JJ umask:NN process:NN start:VBD java:NNP 
+java:NNP method:NNS tighten:VBG 
+run:VB derbi:NNP lenient:JJ default:NN 
+suggest:VBP advantag:NN derbi:NNP default:NN java:NNP 
+higher:JJR limit:VB visibl:NN user:NN start:VBZ 
+unix:NNP equival:JJ run:VBG umask:NN 
+secur:JJ default:NN good:JJ 
+flag:NN 
+set:VBN true:JJ give:VB behavior:NN 

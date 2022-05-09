@@ -1,0 +1,4 @@
+add:VB import:NN export:NN support:NN udt:NNS 
+import:NN export:NN work:VB udt:NNS 
+add:VB dblook:JJ support:NN udt:NNS 
+dblook:NN tool:NN support:VB udt:NNS usag:NN privileg:NNS grant:VBN 

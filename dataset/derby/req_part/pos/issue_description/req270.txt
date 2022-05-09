@@ -1,0 +1,10 @@
+read:VBZ clob:NNP stream:NN includ:VBG decod:VBG find:VB length:NN 
+time:NN length:NN 
+intern:JJ clob:NNP represent:NN clob:NNP read:VBN 
+user:NN updat:NNS clob:NNP transfer:VBN modifi:JJ clob:NNP represent:NN 
+determin:VBN safe:JJ cach:NN length:NN byte:NNS charact:NNS store:NN stream:NN improv:VB perform:NN reduc:VB load:NN derbi:NNP clob:NNP oper:NNS 
+lock:NN mechan:NN clob:NNP analyz:VBN 
+obtain:VBN clob:NNP object:NN lock:NN place:NN stop:VBZ chang:VBG content:NN 
+isol:NN level:NNS 
+scrollabl:JJ result:NN set:NNS 
+stream:VBN content:NN store:NN chang:VBN invalid:VB cach:VBN length:NN 

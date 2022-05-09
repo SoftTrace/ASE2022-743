@@ -1,0 +1,1 @@
+corrupt databas prevent startup automat repair 

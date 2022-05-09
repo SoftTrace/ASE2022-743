@@ -1,0 +1,11 @@
+find pig storag conveni storag data interchang compress import excel analysi environ 
+pain mainten column fix locat add column case 
+great load pig storag read default schema schema file store data store pig storag store schema file data 
+test hadoop hdfs pig exectyp local mode ignor file call schema directori part file 
+chain pig script execut 
+load data pig storag int int 
+store data pig storag 
+load data pig storag 
+describ 
+describ output 
+int int 

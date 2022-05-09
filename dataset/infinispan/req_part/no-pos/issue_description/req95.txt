@@ -1,0 +1,14 @@
+index config xml 
+infinispan 
+default 
+invoc batch enabl true 
+index enabl true index local true 
+properti 
+properti hibern search default directori provid valu ram 
+properti 
+index 
+default 
+infinispan 
+queri modul depend classpath 
+expect warn case 
+local queri interceptor isn ad interceptor chain index report 

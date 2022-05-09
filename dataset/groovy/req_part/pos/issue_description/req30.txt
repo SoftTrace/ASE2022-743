@@ -1,0 +1,4 @@
+good:JJ 
+object:NN 
+shorthand:NN 
+object:NN 

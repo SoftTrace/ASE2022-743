@@ -1,0 +1,1 @@
+creat util class skip data input stream 

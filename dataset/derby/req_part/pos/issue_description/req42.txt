@@ -1,0 +1,17 @@
+hide:VB datum:NNS databas:NN structur:NN emb:VBN derbi:NN user:NN 
+accomplish:VB requir:NN follow:VBZ 
+creat:VB encrypt:VBN databas:NN datum:NNS protect:VBN 
+enabl:VB authent:NN sql:NN author:NN databas:NN 
+creat:VB user:NNS dbuser:NN dbowner:NN 
+store:NNP applic:NN logic:NN store:VBN procedur:NN databs:NN user:NNP tabl:NNS accecc:VBN applic:NN logic:NN hide:VBG tabl:NN structur:NN 
+revok:VB select:JJ permiss:NN dbuser:NN describ:VB tabl:NNS protect:VBG tabl:NN structur:NNS 
+give:VB execut:VB permiss:NNS store:VBN procedur:NNS dbuser:VB 
+step:NNS ensur:VB datum:NNS datum:NNS structur:NN hide:VBN applic:NN deliv:VBN user:NN 
+problem:NN user:NN select:JJ permiss:NN store:VBN procedur:NNS execut:VB 
+request:VBG follow:VBG enhanc:NN derbi:NNP 
+dbowner:NN give:VBN execur:NNP permiss:NN store:VBN procecur:NN dbuser:NN store:VBN procedur:NN execut:VB dbuser:NN select:JJ permiss:NN 
+otherword:NNS dbuser:NN call:VBZ store:VBN procedur:NN databas:NN dbowner:NNS author:NN execut:VB store:VBN procedur:NN dbuser:NNS 
+implement:VBN creat:VBG permiss:NN call:VBN 
+owner:NNP grant:VB permiss:NN dbuser:NN execut:VB store:VBN procedur:NN 
+implement:VBN applic:NNS creat:VBN hide:VB databas:NN structur:NN datum:NNS user:NNS 
+databas:NN behav:VB blackbox:NN datum:NNS expos:VBN store:VBN procedur:NNS 

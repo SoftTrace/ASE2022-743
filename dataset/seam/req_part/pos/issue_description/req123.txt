@@ -1,0 +1,4 @@
+assign:VB valu:NN enum:NNP properti:NN compon:NN configur:NN mechan:NN 
+enum:NNS easi:JJ support:VB java:NNP build:VBN mechan:NN translat:VBG string:NNS enum:NNP 
+support:NN add:VBN regist:VBG convers:NNPS 
+work:VBZ jsf:NNP enum:NN convert:NN 

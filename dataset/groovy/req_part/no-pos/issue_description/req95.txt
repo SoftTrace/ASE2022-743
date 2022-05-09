@@ -1,0 +1,5 @@
+similar url writabl file 
+url text 
+url byte 
+url reader 
+

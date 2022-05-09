@@ -1,0 +1,5 @@
+nicola:NNP dufour:NNP email:NN thread:NN titl:VBN function:NNS list:NN start:VBD novemb:NNP request:NNS abil:NN creat:VB user:NN defin:VBN aggreg:NNS 
+function:NN cloudscap:NNP 
+disabl:JJ 
+machineri:NN featur:NN code:NN 
+user:NN defin:VBN aggreg:NNS agre:VBP accept:JJ syntax:NN 

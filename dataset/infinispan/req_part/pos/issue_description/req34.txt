@@ -1,0 +1,10 @@
+dist:NN mode:NN request:NN key:NN map:VBN remot:JJ send:VBN datum:NNS owner:NNS key:NN respons:NN 
+add:VB unnecessari:JJ load:NN network:NN node:NNS respond:VB valu:NNS larg:JJ lot:NN unnecessari:JJ network:NN traffic:NN 
+purpos:NN broadcast:NN datum:NNS owner:NNS respond:VB overload:VBN respond:VB 
+solut:NN base:VBN 
+provid:VB configur:JJ stagger:NN timeout:NN 
+rpc:NNP random:JJ 
+wait:VB timeout:NN 
+respons:NN rpc:NN 
+broadcast:VBN configur:JJ subset:NN owner:NNS numown:NNS 
+care:JJ thought:NN design:NN 

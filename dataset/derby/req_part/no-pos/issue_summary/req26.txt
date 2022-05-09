@@ -1,0 +1,1 @@
+time compil comparison oper collat type operand match throw meaning error messag 

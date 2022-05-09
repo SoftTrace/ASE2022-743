@@ -1,0 +1,18 @@
+claus territori base charact implement correct base sql standard object string collat element iter creation introduc cut knut simpl solut copi solut implement solut improv perform territori base charact 
+copi 
+simpl cut string alloc express iapi type check equal 
+val loc pat loc 
+
+charact string consist 
+singl charact equal territori 
+return true 
+
+collat null 
+
+charact unequ uc basic 
+return fals 
+
+string string val loc 
+string string pat loc 
+return collat compar 
+alloc object charact equal 

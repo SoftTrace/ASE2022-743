@@ -1,0 +1,7 @@
+secur:VB storag:NN server:NN password:NNS 
+question:NN pose:NN maven:NNP user:NN group:NNP suggest:VBN add:VBP 
+benefiti:JJ provid:VB secur:JJ store:VBG password:NN server:NNS list:VBN 
+store:VBN plain:JJ text:NN secur:NN breach:NN 
+numer:JJ organ:NNS unaccept:JJ secur:NN risk:NN prevent:VB widespread:JJ adopt:NN 
+suggest:VB leav:VBG option:NN encrypt:VB password:NN set:NNS file:NN secur:JJ foolproof:JJ requir:VBG password:NN provid:VBN build:NN prevent:VB autom:NN build:NNS 
+secur:JJ solut:NN problem:NN part:NN releas:NN 

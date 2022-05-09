@@ -1,0 +1,4 @@
+generat:VBZ bytecod:NN ensur:VBZ result:NN object:NN null:JJ call:VBG method:NN implement:VBZ oper:NN 
+break:VBZ pattern:NN oper:NNS ensur:VBZ result:NN object:NN null:JJ method:NN implement:VBZ oper:NN generat:VBN bytecod:NN complic:VBZ code:NN 
+comment:NNS current:JJ approach:NN choos:VBN prevent:VB null:JJ check:NN happen:VBG execut:NN time:NN generat:VBN bytecod:NN perform:VB null:JJ check:NN execut:NN time:NN generat:VBG byte:NN code:NN shouldn:JJ real:JJ benefit:NN write:VBG java:NNP code:NN 
+general:JJ implement:VBG execut:NN time:NN code:NN java:NNP code:NN prefer:VBN implement:VBG bytecod:NN easier:JJR read:VB debug:VB java:NNP code:NN generat:VBN bytecod:NN share:VBN execut:NN plan:NNS memori:NN 

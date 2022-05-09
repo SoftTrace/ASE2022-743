@@ -1,0 +1,2 @@
+databas:NN owner:NN refer:VBN dba:NN code:NN comment:VBZ check:VBN derbi:NNP grant:NN revok:VB work:NN 
+clean:VB point:NN 

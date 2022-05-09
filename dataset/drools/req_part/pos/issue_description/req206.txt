@@ -1,0 +1,2 @@
+add:VB list:NN core:NN evalu:NNS 
+descript:NN find:VBN 

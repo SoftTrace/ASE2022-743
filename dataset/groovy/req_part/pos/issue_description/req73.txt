@@ -1,0 +1,12 @@
+don:VBP curri:VB left:JJ hand:NN side:NN 
+fake:JJ rewrit:VBG revers:JJ method:NN closur:NNP function:JJ languag:NNS support:VBP curri:VBG arbitrari:JJ index:NN 
+rcurri:NN method:NN 
+divid:NN 
+halver:NN 
+assert:VB halver:NN 
+ncurri:NN method:NN curri:VB middl:JJ paramet:NN argument:NN method:NN 
+curri:NN middl:NN param:NN util:NN method:NN 
+collect:NNS list:NN list:NN object:NN key:NN compar:NNP 
+catsearch:NN collect:NNS 
+cat:NN 
+result:NN catsearch:NN mylist:NN mycompar:NN 

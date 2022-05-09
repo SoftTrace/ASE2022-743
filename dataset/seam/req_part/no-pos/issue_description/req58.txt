@@ -1,0 +1,14 @@
+put orm xml config entiti secur listen 
+persist unit metadata 
+persist unit default 
+entiti listen 
+entiti listen class org jboss seam secur entiti secur listen 
+entiti listen 
+persist unit default 
+persist unit metadata 
+run unit test thrown 
+java lang runtim java lang reflect invoc target 
+
+alternativ med pacjent deklaracja poz unit test utworz deklaracja poz unit test java 
+caus java lang illeg state activ session context 
+entiti secur listen config orm xml test run fine 

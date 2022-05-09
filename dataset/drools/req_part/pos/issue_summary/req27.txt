@@ -1,0 +1,1 @@
+support:NN default:NN expir:NN event:NNS 

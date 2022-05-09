@@ -1,0 +1,2 @@
+implement jdbc metadata api function paramet 
+implement return empti result set compliant provid real metadata 

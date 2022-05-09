@@ -1,0 +1,7 @@
+creat:VB support:NN cach:NN pattern:NN distribut:VBN cach:NN 
+detail:JJ descript:NN find:VBN oracl:NNP coher:NNP document:NN cameron:NNP purdi:NNP present:NN 
+base:VBN combin:NN cach:NN local:JJ jvm:NNP applic:NN combin:NN cach:NN base:VBN distribut:VBN cach:NN cluster:NN server:NNS 
+implement:VB support:VB client:NN side:NN listen:NNS throw:VBN 
+cool:JJ regist:VB kind:NN evict:NN listen:NN client:NN side:NN invalid:NN record:NNS local:JJ cach:NN base:VBN event:NN remot:JJ distribut:VBN cach:NN 
+kind:NN workaround:NN describ:VBN don:VBP implement:VB cach:NNP listen:NNS server:NN side:NN jms:NNP notifi:VB client:NNS build:VB 
+great:JJ cach:NN infinispan:NN 

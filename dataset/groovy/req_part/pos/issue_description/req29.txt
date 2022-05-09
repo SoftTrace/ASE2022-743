@@ -1,0 +1,9 @@
+file:NN gdk:NNP follow:VBG method:NNS 
+void:JJ eachdir:NN closur:NN 
+void:JJ eachfil:NN closur:NN 
+void:JJ eachfilematch:NN filter:NN closur:NN 
+void:JJ eachfilerecurs:NN closur:NN 
+coher:NN good:JJ 
+void:JJ eachdirmatch:NN filter:NN closur:NN 
+void:JJ eachdirrecurs:NN closur:NN 
+discuss:NN dev:NN mail:NN list:NN 

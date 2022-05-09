@@ -1,0 +1,11 @@
+tabl:NN clob:NN blob:NN column:NN import:NN export:NN oper:NNS tabl:NN 
+throgh:NNS unsupport:JJ featur:NN 
+set:VBN schema:NN iep:NN 
+set:VBN schema:NN iep:NN 
+creat:VB tabl:NN ntype:NN int:NN clob:NN 
+creat:VB tabl:NN blob:NNP int:NN 
+call:VB 
+iep:NN ntype:NN extinout:NN 
+null:JJ null:JJ null:JJ 
+error:NN column:NN tabl:NN type:NN clob:NNP support:VBN 
+import:NN export:NN featur:NN 

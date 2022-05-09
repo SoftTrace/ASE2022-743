@@ -1,0 +1,5 @@
+add:VBG custom:NN partition:NN give:VB control:NN output:NN partit:NN key:NN valu:NN 
+add:VB keyword:NNS languag:NN 
+partit:NN udf:NNP 
+similar:JJ syntax:NN 
+udf:NNP return:VBZ number:NN number:NN output:NN partit:NNS 

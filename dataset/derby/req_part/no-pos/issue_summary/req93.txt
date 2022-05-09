@@ -1,0 +1,12 @@
+investig overhead jdbc layer compil activ code simpl embed read result set 
+simpl result set usag 
+result set execut queri 
+
+
+int 
+int 
+int 
+
+close 
+interest overhead remov simpl possibl remov simpl result set implement read result set complet implement result set type updat scrollabl introduc updat result set degrad perform read result set code chang typic read resultset affect code requir richer result set 
+

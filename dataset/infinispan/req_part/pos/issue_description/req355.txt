@@ -1,0 +1,14 @@
+tedious:JJ set:VB configur:NN toggl:NN coars:JJ api:NNS configur:NNP 
+simplifi:VB model:NN user:NNS set:VB relat:JJ unit:NNS configur:NN group:VBN api:NNS 
+class:NN 
+class:NN 
+marshal:NNP 
+class:NNP 
+extend:VBZ marshal:NNP 
+string:NN 
+string:NN string:NN valu:NN 
+properti:NNP 
+top:JJ fluent:JJ api:NN configur:NN set:VBG easier:JJR 
+settyp:NN 
+addproperti:NN foo:NN bar:NN 
+setvers:NN 

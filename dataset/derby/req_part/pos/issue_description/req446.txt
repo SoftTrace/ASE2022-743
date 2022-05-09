@@ -1,0 +1,3 @@
+jira:NNP soap:NNP api:NN fetch:VB list:NN issu:NNS fix:VBN releas:NN 
+releas:NN manag:NN creat:VB jira:NNP filter:NN feed:VB filter:NN tool:NN 
+apach:NNP jira:NNP instanc:NN updat:VBN jira:NNP queri:NNP languag:NNP jql:NNP avoid:VB manual:JJ step:NN 

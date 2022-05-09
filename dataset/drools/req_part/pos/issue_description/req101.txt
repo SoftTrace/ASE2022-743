@@ -1,0 +1,1 @@
+configur:NN lightweight:JJ prevent:VBZ interoper:NN migrat:VBN heaver:NN dom:NN element:NN xml:NN fragment:NNS 

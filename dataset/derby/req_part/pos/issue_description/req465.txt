@@ -1,0 +1,3 @@
+implement:NNS bubbl:NN sort:NN replac:VBN call:NNS 
+isn:NN perform:NN critic:JJ code:NN sort:VBG vector:NNS column:NN refer:NNS tabl:NN node:NNS compil:VBP time:NN shouldn:JJ gain:VB hand:NN code:VBG sort:NN 
+benefit:NNS result:VBZ code:NN implement:NN test:NN hand:NN code:VBN 

@@ -1,0 +1,7 @@
+thread:NN groovi:JJ user:NN list:NN 
+method:NN addit:NN groovi:JJ codebas:NN 
+assum:VBN work:VB similar:JJ languag:NNS 
+assert:VB 
+assert:VB 
+assert:VB 
+method:NN work:VB collect:NNP string:NNP map:NNP iter:NNP reader:NNP 

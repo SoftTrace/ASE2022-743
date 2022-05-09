@@ -1,0 +1,10 @@
+current:JJ algorithm:NN messag:NNS network:NN worst:JJS case:NN happend:VBD 
+origin:NN primari:JJ owner:NN 
+primari:JJ owner:NN backup:NNS 
+backup:NNS primari:JJ owner:NN ack:NN 
+primari:JJ owner:NN origin:NN repli:NN 
+algorithm:NN improv:VBN follow:VBG 
+origin:NN primari:JJ owner:NN 
+primari:JJ owner:NN backup:NNS primari:JJ owner:NN origin:NN parallel:NN 
+backup:NNS origin:NN backup:NN primari:JJ owner:NNS ack:NNS 
+main:JJ flow:NN origin:NN primari:JJ backup:NNS origin:NN triangl:NN 

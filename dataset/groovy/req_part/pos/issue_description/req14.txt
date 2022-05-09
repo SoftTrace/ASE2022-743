@@ -1,0 +1,11 @@
+groovi:JJ support:VB annot:NNS local:JJ variabl:JJ declar:NNS 
+legal:JJ annot:VB local:JJ variabl:NN ast:NNP produc:VBD carri:VB annot:NN 
+case:NN ast:NNP builder:NN 
+annot:VB local:JJ variabl:NN 
+sourc:NN println:NN compil:VBN date:NN 
+annot:VB properti:NN closur:NN declarationexpress:NN 
+result:NN astbuild:NN 
+build:VB 
+phase:NN 
+sourc:NN println:NN compil:VBN date:NN 
+getannot:NNS method:NN add:VBN support:VB 

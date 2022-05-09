@@ -1,0 +1,27 @@
+warn:NNS point:NNS java:NNP class:NN librari:NNS set:VBN properti:NN setter:NN 
+javac:NN code:NN derbi:NN java:NN engin:NN org:NN apach:NN derbi:NN impl:NN servic:NNS jmx:NN warn:NN uncheck:JJ uncheck:JJ convers:NN 
+javac:NN find:VBD 
+javac:NN requir:VBN 
+javac:NN bean:NN beaninterfac:NN 
+javac:NN 
+javac:NN code:NN derbi:NN java:NN engin:NN org:NN apach:NN derbi:NN impl:NN servic:NNS jmx:NN warn:NN uncheck:JJ uncheck:JJ method:NN invoc:NN standardmbean:NN appli:VBN 
+javac:NN bean:NN beaninterfac:NN 
+javac:NN 
+javac:NN warn:NNS 
+javac:NN code:NN derbi:NN java:NN demo:NN vtis:NN java:NN org:NN apach:NN derbydemo:NN vtis:NN core:NN warn:NN uncheck:JJ uncheck:JJ call:NN method:NNP 
+member:NN raw:JJ type:NN 
+javac:NN methodnam:NN class:NN 
+javac:NN 
+javac:NN code:NN derbi:NN java:NN demo:NN vtis:NN java:NN org:NN apach:NN derbydemo:NN vtis:NN core:NN warn:NN uncheck:JJ uncheck:JJ call:NN method:NNP 
+member:NN raw:JJ type:NN 
+javac:NN methodnam:NN class:NN 
+javac:NN 
+javac:NN code:NN derbi:NN java:NN demo:NN vtis:NN java:NN org:NN apach:NN derbydemo:NN vtis:NN core:NN warn:NN uncheck:JJ uncheck:JJ call:NN constructor:NNP 
+member:NN raw:JJ type:NN 
+javac:NN class:NN 
+javac:NN 
+javac:NN code:NN derbi:NN java:NN demo:NN vtis:NN java:NN org:NN apach:NN derbydemo:NN vtis:NN snapshot:NN warn:NN uncheck:JJ uncheck:JJ call:NN method:NNP 
+member:NN raw:JJ type:NN 
+javac:NN methodnam:NN class:NNP 
+javac:NN 
+javac:NN warn:NNS 

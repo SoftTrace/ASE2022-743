@@ -1,0 +1,1 @@
+support:NN statenod:NN finit:NNP state:NNP machin:NNPS 

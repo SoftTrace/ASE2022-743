@@ -1,0 +1,4 @@
+add:VB cli:NN option:NN control:VB locat:NN global:JJ set:NNS command:NN line:NN 
+system:NN properti:NNS set:NNS set:NNS support:VBN maven:NNP 
+replac:VBN exist:VBG cli:NN option:NN set:NNS possibl:NN control:VB locat:NN global:JJ set:NNS 
+full:JJ control:NN set:NNS 

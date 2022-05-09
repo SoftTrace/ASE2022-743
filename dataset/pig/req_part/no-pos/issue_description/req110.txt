@@ -1,0 +1,24 @@
+comput top result group 
+natur express pig 
+load pig storag 
+date int 
+count int 
+url chararray 
+
+group date 
+foreach 
+order count desc 
+limit 
+generat 
+flatten 
+
+dump 
+yeah write udf piggi bank function top result limit exist statement work nest foreach context 
+workaround code 
+foreach 
+order count desc 
+util top 
+generat 
+flatten 
+
+dump 

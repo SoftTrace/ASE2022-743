@@ -1,0 +1,4 @@
+derbi:NNP network:NNP server:NN derbi:NNP emb:VBN driver:NN coupl:NN place:NNS order:NN connect:NN actual:JJ databas:NN 
+network:NN server:NN oper:VB environ:NNS reason:NN access:VB emb:VBN driver:NN 
+general:JJ behavior:NN unexpect:JJ load:VB emb:VBN driver:NN 
+observ:VBN issu:NN check:VBD relev:JJ usag:NNS unchang:JJ trunk:NN 

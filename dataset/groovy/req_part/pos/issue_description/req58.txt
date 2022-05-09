@@ -1,0 +1,3 @@
+explain:VBN follow:VBG thread:NN scal:NN provid:VBZ stripmargin:NN method:NN string:NNS situat:NNS 
+fancier:JJR cover:VBN default:NN behavior:NN user:NN roll:VB impl:NN 
+link:NN scala:NNP api:NNP doc:NNS 

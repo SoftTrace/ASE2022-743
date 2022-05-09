@@ -1,0 +1,2 @@
+small:JJ chang:NN compon:NNS inject:VBN lifecycl:NN particip:NNS 
+chang:NN 

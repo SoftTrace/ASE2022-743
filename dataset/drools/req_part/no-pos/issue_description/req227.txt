@@ -1,0 +1,13 @@
+link verifi compon descript 
+simpl access inform descript compon verifi messag base 
+test ad verifi compon constructor base descr 
+public abstract class verifi compon implement compar verifi compon 
+privat base descr descr 
+public verifi compon base descr descr 
+
+descr descr 
+
+
+integr visitor 
+work 
+add test case provid patch git pull request 

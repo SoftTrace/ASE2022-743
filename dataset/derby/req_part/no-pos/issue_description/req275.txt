@@ -1,0 +1,1 @@
+time leaf node tree visit index scan scan protect row lock unlock lock oper unlock oper alloc record object repres scan protect row unlock oper addit alloc page key object record scan protect handl creat ident equal time creat page sens cach base page alloc protect handl page long stay page cach save object alloc singl record lookup index 

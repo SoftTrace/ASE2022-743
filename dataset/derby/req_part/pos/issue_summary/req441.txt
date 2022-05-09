@@ -1,0 +1,1 @@
+refactor:NNP access:NN primari:JJ structur:NNS 

@@ -1,0 +1,1 @@
+replac:VB bound:VBN hash:NN map:NN altern:NN 

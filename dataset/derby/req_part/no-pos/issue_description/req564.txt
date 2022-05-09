@@ -1,0 +1,30 @@
+nice overrid optim choic complet queri plan compact summari syntax output xml opt trace optim handl statement requir bind queri plan queri block level obvious candid featur 
+extend derbi properti comment queri 
+add extra claus queri block claus mark derbi extens 
+add full queri plan properti 
+select tablenam sys systabl sys syscolumn sys sysalias 
+tablenam columnnam columnnam alia 
+derbi properti full queri plan syscolumn heap sysalias index systabl index 
+union 
+select tablenam sys systabl sys syscolumn sys sysalias sys syssequ 
+tablenam columnnam columnnam alia alia sequencenam 
+derbi properti full queri plan syscolumn heap systabl index sysalias index syssequ index 
+
+add derbi join order claus 
+select tablenam sys systabl sys syscolumn sys sysalias 
+tablenam columnnam columnnam alia 
+derbi join order syscolumn heap sysalias index systabl index 
+union 
+select tablenam sys systabl sys syscolumn sys sysalias sys syssequ 
+tablenam columnnam columnnam alia alia sequencenam 
+derbi join order syscolumn heap systabl index sysalias index syssequ index 
+
+comparison approach 
+
+portabl queri text rdbm ses 
+pars derbi properti grammer 
+
+pars parser 
+portabl 
+slight prefer approach pursu approach move pars parser 
+interest opinion address featur 

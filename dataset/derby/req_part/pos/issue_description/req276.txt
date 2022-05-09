@@ -1,0 +1,3 @@
+time:NN transact:NN commit:VBN abort:VBN stack:NN statement:NN context:NNS invok:VBZ resetsavepoint:NN 
+travers:VBG list:NN object:NN fetch:VBZ read:NN view:NN list:NN 
+lifetim:NN object:NN list:NN span:VB multipl:JJ transact:NNS read:NN view:NN creat:VBN time:NN call:VBN object:NN 

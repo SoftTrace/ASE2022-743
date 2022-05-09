@@ -1,0 +1,1 @@
+creat:VB util:NN class:NN skip:VBG datum:NNS 

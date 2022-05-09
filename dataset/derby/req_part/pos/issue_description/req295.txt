@@ -1,0 +1,46 @@
+reason:NN avoid:VB 
+substanti:JJ perform:NN hit:VBD observ:VBN client:NN driver:NN 
+appserv:NN connect:NN pool:VBG 
+problem:NNS 
+connect:NN pool:NN compar:VB isol:NN level:NN 
+store:VBN connect:NN valu:NN return:VBN 
+time:NN 
+request:NNS connect:NN pool:NN 
+user:NNS connect:NN pool:NN avoid:VB 
+track:NN current:JJ connect:NN 
+time:NN queri:NN 
+execut:VBN call:NN connect:NN pool:NN getconnect:NN method:NN 
+connect:NN connect:NN pool:NN 
+prepar:VBN time:NN 
+net:JJ result:NN queri:NN result:VBZ follow:VBG sequenc:NN 
+getconnect:NN 
+roundtrip:NN lookup:NN server:NN statement:NN cach:NN 
+preparestat:NN roundtrip:NN lookup:NN server:NN statement:NN cach:NN 
+executequeri:NN roundtrip:NN 
+user:NN error:NN suggest:VBG 
+inform:VBN work:VBZ fine:JJ datbas:NNS 
+oracl:NNP 
+reason:NN work:VBZ databas:NNS statement:NN cach:NN 
+driver:NN 
+implement:VB simpl:JJ statement:NN 
+cach:NN derbi:NNP client:NN driver:NN cach:NN 
+isol:NN level:NN 
+chang:NNS 
+observ:VBP mark:JJ perform:NN improv:NN run:VBG appserv:NN 
+load:NN 
+proper:JJ statment:NN cach:NN implement:VBN 
+current:JJ schema:NN 
+current:JJ schema:NN chang:VBN 
+statement:NN prepar:VBN valid:JJ evict:VBN 
+cach:NN 
+problem:NN cach:VBG isol:NN level:NN current:JJ schema:NN 
+driver:NN chang:VB server:NN client:NN 
+detect:VBG sql:NN store:VBN procedur:NNS 
+problem:NN overcom:VBN piggi:NN inform:NN 
+cach:NN messag:NNS client:NN 
+util:VBG excsqlset:NNP drda:NNP command:NN 
+accord:VBG drda:NNP spec:NN volum:NN 
+page:NN add:VB sqlstt:NN object:NNS sqlcard:NNP repli:NN 
+cach:NN addit:JJ session:NN inform:NN relev:JJ 
+excsqlset:NN batch:NN session:NN state:NN chang:NNS 
+client:NN server:NN 

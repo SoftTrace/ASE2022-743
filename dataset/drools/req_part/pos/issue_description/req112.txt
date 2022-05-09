@@ -1,0 +1,1 @@
+reset:VB memori:NNS work:VBG memori:NN cancel:NN event:NNS 

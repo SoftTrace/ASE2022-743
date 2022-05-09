@@ -1,0 +1,13 @@
+creat:VBG multipl:JJ cach:NNS configur:VBD result:VBZ unpredict:JJ behaviour:NN 
+creat:VBG persist:VBZ entri:NNS strang:JJ behaviour:NN 
+cach:NN foocach:NN foo:NN 
+cach:NN barcach:NN bar:NN 
+singl:JJ put:NN 
+world:NNP 
+restart:VB 
+true:JJ 
+true:JJ 
+circumv:VB behaviour:NN solut:NN creat:VB cach:NNP 
+migth:JJ lot:NN 
+solut:NN imho:NN add:VB sopport:NN cachenam:NN column:NN 
+cach:NNS share:VB tabl:NN 

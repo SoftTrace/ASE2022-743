@@ -1,0 +1,49 @@
+jira:NNP explain:VBZ improv:NNS drl:NNP parser:NN ide:NNP 
+eclips:NN ide:NN rule:NN parser:NN 
+creat:VB outlin:NN view:NN base:VBN return:VBD pars:VBG drl:NNP file:NN 
+retriev:VB import:NNS function:NNS queri:NNS templat:NNS packag:NN drl:NNP file:NN perform:VBG auto:NN complet:NN 
+determin:VB locat:NN cursor:NN request:VBG auto:NN complet:NN part:NN rule:NN cursor:NN pars:VBN base:VBN incomplet:JJ return:VBN parser:NN determin:VB kind:NN locat:NN cursor:NN situat:NN column:NN constraint:NN eval:NN statement:NN 
+retriev:VB paramet:NNS defin:VBN rule:NN locat:NN auto:NN complet:NN request:VBN 
+retriev:VB error:NNS warn:NNS signal:VBP syntax:NN error:NNS drl:NNP file:NN 
+place:NNS result:NNS drl:NNP parser:NN 
+determin:VB element:NN select:VBN base:VBN charact:NN select:NN rang:NN 
+provid:VB real:JJ time:NN syntax:NN check:VBG 
+determin:VB chang:VBN drl:NNP chang:VBN 
+refactor:NN 
+automat:JJ error:NN solv:VBG 
+info:NN return:VBN parser:NN reach:VBG boundari:NN info:NN return:VBN 
+describ:VB enhanc:NNS advanc:JJ ide:NN featur:NNS 
+charact:NN number:NN addit:NN line:NN number:NN column:NN 
+eclips:NN charact:NN number:NNS line:NN column:NN number:NNS situat:NNS 
+charact:NN number:NN describ:VBZ locat:NN charact:NN occur:VBZ file:NN column:NN line:NN 
+creat:VB map:NN charact:NN number:NN line:NN column:NN number:NN result:VBN annoy:JJ error:NNS relat:VBN newlin:NN charact:NN platform:NNS 
+charact:NN number:NNS elimin:VB problem:NN 
+element:NNS start:NN locat:NN 
+getlin:NN getcolumn:NN element:NNS return:VBN parser:NN don:VBP 
+line:NN column:NN 
+import:NNS string:NNS 
+packag:NN locat:NN 
+inform:NN advanc:JJ featur:NNS element:NNS start:NN locat:NN ide:NNP addit:JJ pars:VBG determin:VB locat:NN element:NNS 
+element:NNS locat:NN 
+getendlin:NN getendcolumn:NN locat:NN store:VBN thx:NN mic:NN add:VBG code:NN complet:NN 
+inform:NN advanc:JJ featur:NNS element:NNS locat:NN ide:NNP addit:JJ pars:VBG determin:VB locat:NN element:NNS 
+nest:VBN element:NNS 
+element:NNS start:NN locat:NN start:NN locat:VBN start:NN locat:NN parent:NN 
+work:VBG current:JJ implement:NN start:NN locat:NN element:NNS 
+parser:NN return:VB info:NN rule:NN incomplet:JJ 
+import:JJ lot:NN drl:NNP finish:JJ perform:VBG auto:NN complet:NN 
+crucial:JJ parser:NN return:VB error:NN encount:VBZ error:NN pars:VB remaind:NN file:NN return:VB info:NN 
+pars:VB follow:VBG incomplet:JJ rule:NN 
+rule:NN myrul:NN 
+class:NNP 
+parser:NN return:VB ruledescr:NN rule:NNP class:NNP start:NN locat:NN locat:NN reach:VBN close:NN bracket:NN 
+work:VB releas:NN 
+notic:VBN branch:NN return:VBZ null:JJ 
+eval:NN add:VBN eval:NN close:VBN 
+result:NN ide:NNP redo:VB lot:NN pars:VBG check:VB situat:NNS 
+parser:NN return:VBZ info:NN add:VBG subdescr:NN start:VBN finish:JJ ide:NNP pars:VBG 
+error:NNS warn:NNS give:VB exact:JJ locat:NNS drl:NN 
+previous:JJ improv:NNS error:NNS return:VBN parser:NN precis:JJ feedback:NN give:VBN exact:JJ locat:NN error:NNS return:VBN charact:NN start:NN line:NN number:NNS 
+error:NN start:NN line:NN rule:NN error:NN 
+precis:JJ error:NN determin:NN precis:JJ error:NN visual:NN automat:JJ error:NN solv:VBG 
+hope:VBP kind:NN explain:VBZ improv:NNS parser:NN ide:NNP 

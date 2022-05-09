@@ -1,0 +1,4 @@
+sun:NNP java:NNP higher:JJR includ:VBZ xalan:NNP derbi:NNP doesn:VBD find:VB move:VBN packag:NN 
+derbi:NNP detect:VB class:NNS find:VB xalan:NNP standard:JJ packag:NN classpath:NN 
+easier:JJR user:NNS start:VB derbi:NNP xml:NN featur:NNS 
+discuss:NN thread:NN url:NN 

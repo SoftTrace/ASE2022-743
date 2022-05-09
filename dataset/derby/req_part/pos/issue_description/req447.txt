@@ -1,0 +1,16 @@
+automat:JJ index:NN statist:NNS daemon:NN default:JJ log:NN 
+messag:NNS write:VBN normal:JJ oper:NN 
+wed:NNP mar:NNP cet:NN thread:NN main:JJ main:JJ 
+istat:NN app:NN 
+updat:NN schedul:VBN reason:NN stat:NNS row:NN estim:NN queuesiz:NN 
+wed:NNP mar:NNP cet:NN thread:NN index:NN stat:NN thread:NN main:JJ istat:NN 
+app:NN 
+generat:VBG index:NN statist:NNS 
+wed:NNP mar:NNP cet:NN thread:NN index:NN stat:NN thread:NN main:JJ 
+istat:NN app:NN 
+generat:NN complet:JJ 
+wed:NNP mar:NNP cet:NN thread:NN main:JJ main:JJ istat:NN 
+stop:VBG daemon:NN activ:JJ fals:JJ work:NN age:NN err:VBP rej:NN 
+messag:NNS diagnos:VBG bug:NNS sourc:NN confus:NN user:NNS expect:VBP error:NNS problem:NNS log:VBN default:NN 
+workload:NNS larg:JJ quantiti:NNS log:NN produc:VBN disk:NN space:NN 
+disabl:VB log:VBG releas:NN instruct:VB user:NNS experi:VBP problem:NNS enabl:VB log:VBG properti:NN 

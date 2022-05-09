@@ -1,0 +1,14 @@
+minor:JJ issu:NN code:NN 
+public:JJ void:NN forgetcontext:NN 
+boolean:JJ maystillrun:NN 
+cancel:VB 
+maystillrun:NN 
+synchron:VBN 
+statementcontext:NN null:JJ 
+maystillrun:NN 
+cancel:VB confus:JJ 
+javadoc:NN return:NN valu:NN task:NN run:VB 
+confus:JJ code:NN 
+public:JJ void:NN forgetcontext:NN 
+synchron:VBN statementcontext:NN null:JJ 
+cancel:VB 

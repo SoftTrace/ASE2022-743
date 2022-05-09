@@ -1,0 +1,2 @@
+add:VB tag:NN fact:NNS properti:NN chang:NN support:NN 
+declar:VB myfact:NN 

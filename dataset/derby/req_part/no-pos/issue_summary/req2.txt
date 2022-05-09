@@ -1,0 +1,3 @@
+statement set queri timeout support 
+call statement set queri timeout throw function support import jdbc featur limit option derbi jdbc code implement jdbc function derbi easier adopt 
+

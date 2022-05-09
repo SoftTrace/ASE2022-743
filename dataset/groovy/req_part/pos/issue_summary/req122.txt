@@ -1,0 +1,1 @@
+minv:NN maxv:NN closur:NN comput:VBZ valu:NN 

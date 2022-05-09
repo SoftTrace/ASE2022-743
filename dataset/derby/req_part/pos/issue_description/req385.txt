@@ -1,0 +1,20 @@
+store:NN stream:NN clob:NNP modifi:VBN write:VBN temporari:JJ area:NN derbi:NNP repres:VBD 
+transfer:NN datum:NNS manner:NN reason:NNS 
+transfer:NN complet:JJ clob:NNP copi:NN method:NN oper:VBZ byte:NN level:NN save:VB charact:NN length:NN 
+transfer:NN part:NNS clob:NNP truncat:NN decod:VB utf:NN encod:VBG find:VB byte:NN count:NN transfer:VB byte:NNS 
+intend:VBP follow:VBG chang:NNS 
+add:VB getcharlengthifknow:NN method:NN 
+add:VB utf:NN awar:JJ copi:NN method:NN 
+complet:JJ clob:NNP copi:VBN code:NN execut:VBN 
+cachedcharlength:NN 
+cachedcharlength:NN 
+exist:VBG byte:NN orient:VBN copi:NN method:NN perform:NN copi:NN eof:NN 
+cachedcharlength:NN 
+part:NNS clob:NNP copi:VBN utf:NN awar:JJ copi:NN method:NN cheap:JJ rang:NN check:NN 
+cachedcharlength:NN 
+cachedcharlength:NN requestedlength:NN cachedcharlength:NN 
+throw:NN eofexcept:NN 
+requestedlength:NN 
+exist:VBG byte:NN orient:VBN copi:NN method:NN perform:NN copi:NN eof:NN 
+cachedcharlength:NN requestedlength:NN 
+add:VBG utf:NN awar:JJ copi:NN method:NN start:VBN includ:VBG comment:NNS revis:NN patch:NN 

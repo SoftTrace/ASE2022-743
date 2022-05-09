@@ -1,0 +1,4 @@
+open:VBG larg:JJ number:NN databas:NNS parallel:NN thread:NNS stick:VBN long:JJ time:NN report:VBN thread:NN derbi:NN user:NN 
+synchron:NN monitor:NN instanc:NN share:VBN instanc:NN 
+databas:NNS share:VBP instanc:NN thread:NNS access:VBP method:NNS serial:VBN 
+method:NN creat:VBD privilegedact:NN privilegedexceptionact:NN instanc:NN monitor:NN run:NN method:NN method:NNS wouldn:JJ synchron:NN 

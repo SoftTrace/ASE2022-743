@@ -1,0 +1,1 @@
+map:NN set:VBN properti:NNS configur:VBN maintain:VB order:VBG 

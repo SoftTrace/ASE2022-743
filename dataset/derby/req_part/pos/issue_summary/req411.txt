@@ -1,0 +1,1 @@
+refactor:NNP extend:VB datum:NNS type:NN clone:VBG facil:NNS 

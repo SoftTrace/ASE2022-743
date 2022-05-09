@@ -1,0 +1,10 @@
+enabl:VB test:NN har:NN support:VB version:NN ibm:NNP implement:NN base:VBN jdk:NN spec:NN version:NN 
+product:NN webspher:NNP everyplac:NNP micro:NNP edit:NNP 
+ibm:NNP 
+support:VBP match:VBZ jdk:NN spec:NN 
+add:VB match:VBZ jdk:NN spec:NN 
+propos:VBG switch:VB autom:VBN test:NNS newer:JJR version:NN minim:VB complex:NN chang:NN canon:NNS reflect:VBP behavior:NN version:NN 
+differ:NNS minim:JJ 
+run:VB result:NNS differ:VBP failur:NNS occur:VB version:NN 
+reason:NNS move:VBG version:NN bug:NN older:JJR version:NN secur:NN manag:NN prevent:VBG smooth:JJ run:NN junit:NN test:NNS run:VB short:JJ run:NN test:NNS derbyal:NN version:NNS 
+reason:NN spec:NN 

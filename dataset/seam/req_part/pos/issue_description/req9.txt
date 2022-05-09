@@ -1,0 +1,5 @@
+enabl:VB 
+mei:NNP 
+cluster:NN convers:NN scop:VBD 
+ejb:NNS convers:NN scop:VBD 
+add:VB configur:NN core:NN init:NN user:NN enabl:VB cluster:NN mode:NN autodetect:NN upgrad:VB isinterceptoren:JJ method:NN account:NN 

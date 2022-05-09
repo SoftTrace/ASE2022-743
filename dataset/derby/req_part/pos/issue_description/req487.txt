@@ -1,0 +1,8 @@
+issu:NNS 
+boot:NN issu:NN chanc:NN wrong:JJ bootpassword:NN boot:NN proceed:VB decod:VBN key:NN wrong:JJ boot:NN fail:VB 
+password:NN chang:NN issu:NN chanc:NN wrong:JJ bootpassword:NN accept:VBN chang:VB 
+bootpassword:NN algorithm:NNS check:VB initi:NN vector:NN addit:NN 
+digest:NN des:NNP ecb:NNP pad:NNP 
+case:NN lead:VB datum:NNS corrupt:NN discuss:NN 
+risk:NN execut:NN permiss:NN chang:VB properti:NN sql:NN author:NN scenario:NNS suppli:VBN exist:VBG password:NN correct:JJ 
+result:NNS bad:JJ good:JJ reduc:VB elimin:VB risk:NN 

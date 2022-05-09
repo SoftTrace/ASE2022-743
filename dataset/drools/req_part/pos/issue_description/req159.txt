@@ -1,0 +1,7 @@
+determin:VB iter:VB work:VBG memori:NN stream:NNS rule:NN follow:VBG 
+entri:NN 
+entri:NN point:NN stream:NN 
+find:VB method:NN finid:VB actual:JJ text:NN entri:NN point:NN write:VBN rule:NN entri:NN point:NN xxxx:NN 
+list:VB readabl:JJ entri:NN point:NNS session:NN 
+list:VB entri:NN point:NNS drop:NN applic:NN profil:NNS select:VBN entri:NN point:NN rule:NNS insert:VBN 
+chris:NNP 

@@ -1,0 +1,2 @@
+subqueri:NNP return:VB singl:JJ column:NN derbi:NN hibern:VB jpa:NNP queri:NNS creat:VBN jpa:NNP spec:NN 
+tabl:NNS subqueri:NNS creat:VBN column:NNS select:JJ claus:NN 

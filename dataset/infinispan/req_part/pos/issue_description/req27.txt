@@ -1,0 +1,5 @@
+modifi:VBG evict:NN size:NN jmx:NNP dmr:NNP 
+cach:NN bound:VBN modifi:VB evict:NN size:NN runtim:NN jmx:NNP dmr:NNP 
+evict:NN size:NN paramet:NN configur:JJ runtim:NN 
+case:NN runtim:NN configur:VBP max:NN entri:NNS paramet:NN evict:NN configur:NN 
+decreas:VB max:NN entri:NNS system:NN start:VBZ run:VBG oom:NN 

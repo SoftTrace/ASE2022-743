@@ -1,0 +1,2 @@
+base:VBN mail:NN list:NN feedback:NN split:NN worthwhil:JJ partit:NN replic:VBN groupbi:NN worth:JJ 
+function:NN findal:NN return:VBZ accept:VBN reject:VBN element:NNS list:NNS 

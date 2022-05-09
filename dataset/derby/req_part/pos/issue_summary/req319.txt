@@ -1,0 +1,1 @@
+attribut:NN type:NN int:NN string:NN 

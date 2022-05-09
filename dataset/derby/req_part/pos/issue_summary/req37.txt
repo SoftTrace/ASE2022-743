@@ -1,0 +1,1 @@
+appli:VB bulk:NN insert:NN optim:NN insert:VBG tabl:NN function:NN 

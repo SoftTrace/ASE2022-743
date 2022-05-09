@@ -1,0 +1,7 @@
+groovi:JJ compil:NN flag:NN enabl:VB type:NN check:VBG class:NNS method:NNS class:NNS method:NNS annot:VBN annot:NN antonym:NN 
+larg:JJ project:NNS class:NNS type:NN check:VBG code:NN boilerpl:NN rememb:VB put:VB annot:NNS class:NN 
+requir:VB refactor:VB method:NNS dynam:JJ code:NN separ:JJ class:NNS satisfi:VB contract:NN 
+compil:NN flag:NN revers:VB type:NN check:VBG contract:NN type:NN check:VBN class:NNS method:NNS mark:VBN dynam:JJ code:NN 
+discuss:VBN guillaum:NNP laforg:NNP talk:NN groovi:NNP copenhagen:NNP 
+agre:VBD good:JJ addit:NN groovi:JJ open:VB jira:NNP ticket:NN 
+audienc:NN member:NN request:NN 

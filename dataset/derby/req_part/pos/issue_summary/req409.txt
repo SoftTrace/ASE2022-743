@@ -1,0 +1,1 @@
+avoid:VB unnecessari:JJ lookup:NN transact:NN tabl:NN add:VBG transact:NN 

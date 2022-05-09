@@ -1,0 +1,1 @@
+add strip margin multi line string 

@@ -1,0 +1,3 @@
+split:VBN 
+suggest:JJ replicatecommand:JJ simillr:JJ code:NN hard:JJ read:VB 
+replic:VBG singl:JJ command:NN current:JJ impl:NN ineffici:JJ build:VBZ array:NN store:VB singl:JJ entri:NN 

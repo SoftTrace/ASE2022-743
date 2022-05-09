@@ -1,0 +1,2 @@
+moment:NN equal:VBZ constraint:NN person:NN age:NN age:NN index:VBN 
+request:VBN creat:VB similar:JJ index:NNS comparison:NN constraint:NNS person:NN age:NN age:NN 

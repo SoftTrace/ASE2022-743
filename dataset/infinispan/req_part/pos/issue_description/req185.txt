@@ -1,0 +1,7 @@
+similar:JJ brake:VBG stale:JJ lock:NNS boss:NNP cach:NNP 
+prevent:VB situat:NNS 
+start:VBZ acquir:VBZ lock:NNS 
+prepar:VBZ 
+acquir:VBZ lock:NNS 
+crash:VBZ 
+lock:NNS hold:VBN resourc:NNS releas:VBN 

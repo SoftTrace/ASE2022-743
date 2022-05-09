@@ -1,0 +1,15 @@
+bind:VB map:NNP entri:NN inputtext:NN 
+code:NN extract:NNS valu:NN key:NN page:NN load:VBN submit:VBP page:NN reload:VBZ error:NN field:NN model:NN valid:NN fail:VBD string:NN index:NN rang:NN 
+validateal:NN wrap:VBZ inputtext:NN work:VB 
+gavin:NNP suggest:VBD submit:VBP jira:NNP forum:NN thread:NN refer:NN 
+xhtml:NN 
+code:NN 
+form:NN dataentryform:NN 
+inputtext:NN asdf:NN requir:VBN true:JJ valu:NN 
+biomark:NNS 
+form:NN 
+session:NN bean:NN 
+code:NN 
+map:NN string:NN string:NN biomark:NNS string:NN string:NN 
+method:NN code:NN prep:VBZ map:NN prior:JJ 
+waist:NN 

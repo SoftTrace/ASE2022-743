@@ -1,0 +1,2 @@
+disallow:VB code:NN instal:VBN jar:NNS resolv:VBG class:NNS 
+namespac:NN public:JJ api:NN 

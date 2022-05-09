@@ -1,0 +1,3 @@
+chain:NNP fact:NNS assert:VBN propgat:VBN network:NN propag:NN match:NN place:NN result:VBZ rule:NNS fire:VBN rule:NNS event:NN base:VBN fire:VBN respons:NN chang:VBN work:VBG memori:NN 
+chain:VBG queri:NN base:VBN 
+rule:NNS attempt:VBP fire:VB match:VBN fact:NNS fact:NNS pull:VBN extern:JJ sourc:NN 

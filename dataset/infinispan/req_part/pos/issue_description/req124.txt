@@ -1,0 +1,1 @@
+xml:NN xsd:NN attribut:NN 

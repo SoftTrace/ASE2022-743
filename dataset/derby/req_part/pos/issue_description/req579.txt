@@ -1,0 +1,3 @@
+class:NNS lot:NN packag:NN visibl:JJ field:NNS 
+hard:JJ reason:VB 
+issu:NN track:VBZ improv:NNS encapsul:NN class:NNS 

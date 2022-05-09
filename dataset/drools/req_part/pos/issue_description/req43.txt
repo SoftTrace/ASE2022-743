@@ -1,0 +1,7 @@
+increment:JJ updat:NN featur:NN drool:NNP updat:VB 
+case:NN updat:VBN rule:NNS global:NNS defin:VBN class:NNS origin:JJ rule:NNS 
+set:VBD global:JJ drool:NNP check:VBZ global:JJ defin:VBN throw:VB error:NN 
+updat:VBP global:JJ remov:VBN rulebas:NN global:JJ remov:VBN map:NN issu:NNS memori:NN leak:NNS 
+session:NN updat:VBN global:NNS defin:VBN rule:NN base:NN remov:VBN 
+reproduc:NN 
+clone:NN repo:NN run:VB mvn:NN clean:JJ test:NN 

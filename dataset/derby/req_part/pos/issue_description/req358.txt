@@ -1,0 +1,5 @@
+rick:NNP suggest:VBD nice:JJ inspect:NN enabl:VBD role:NNS 
+view:NN inform:NN schema:NN sql:NN vol:NN section:NN 
+enclos:VBP patch:NN suggest:NN vti:NNP tabl:NN syntact:JJ sugar:NN 
+command:NN show:NN 
+commit:VB point:NN handl:VB general:JJ question:NN inform:NN schemata:NN 

@@ -1,0 +1,12 @@
+derbi:NNP encount:VBZ method:NN call:VBN reflect:NN actual:JJ problem:NN hide:VBN long:JJ chain:NN 
+creat:VB tabl:NN int:NN 
+row:NNS insert:VBN updat:VBN delet:VBN 
+call:NN 
+null:JJ null:JJ null:JJ null:JJ null:JJ 
+error:NN throw:VBN evalu:VBG express:NN 
+throw:VBN evalu:VBG express:NN 
+error:NN throw:VBN evalu:VBG express:NN 
+error:NN java:NNP 
+error:NN datum:NNS file:NN null:JJ 
+provid:VBZ inform:NN user:NN case:NN 
+good:JJ remov:VB chain:NN easier:JJR spot:VB actual:JJ problem:NN 

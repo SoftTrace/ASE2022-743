@@ -1,0 +1,50 @@
+revok:VB execut:VB restrict:VB fail:VB depend:JJ object:NNS execut:VB privileg:NN 
+function:JJ spec:NN attach:VBN revok:VB execut:VB restrict:VB fail:VB depend:JJ object:NNS execut:VB privileg:NN 
+order:NN implement:VB revok:VB execut:VB execut:VBN special:JJ invalid:NN action:NN send:VBN depend:JJ object:NNS catch:VB invalid:NN throw:VB 
+depend:NNS throw:VBN revok:VB execut:VB succeed:VB 
+creat:VBG jira:NNP entri:NN easier:JJR track:VB item:NNS 
+link:VB jira:NNP entri:NN 
+function:JJ spec:NN attach:VBN 
+view:NN drop:VBN privileg:NN requir:VBN view:NN revok:VBN 
+view:NN track:VBZ privileg:NNS requir:NNS derbi:NNP depend:NNP manag:NNP 
+requir:VBN privileg:NNS revok:VBN view:NN drop:VBN 
+creat:VBG jira:NNP entri:NN easier:JJR track:VB item:NNS 
+link:VB jira:NNP entri:NN 
+function:JJ spec:NN attach:VBN 
+upgrad:VB test:NN enhanc:VBN test:VB grant:NN revok:VB 
+grant:NNP revok:NNP featur:NNS target:VBN releas:NN 
+upgrad:NN test:NN modifi:VBN test:VB featur:NN upgrad:NN scenario:NNS work:VBZ 
+add:VB derbynetclientmat:NNS 
+notic:VBD run:VBG lang:NN 
+client:NN fail:VBZ 
+unexpect:JJ 
+connect:NN authent:NN failur:NN occur:VBD 
+reason:NN userid:NN password:NN invalid:JJ 
+connect:NN authent:NN failur:NN occur:VBD 
+reason:NN userid:NN password:NN invalid:JJ 
+connect:NN authent:NN failur:NN occur:VBD 
+reason:NN userid:NN password:NN invalid:JJ 
+fail:VBD 
+error:NN 
+test:NNP fail:VBD 
+test:NN configur:NN problem:NN sort:NN good:JJ client:NN test:NN grant:NN revok:VB 
+remov:VB derbi:NNP 
+add:VBN grant:NNP revok:VB function:NN 
+grant:NNP revok:VB function:NN 
+derbi:NNP engin:NN track:NN view:NN constraint:NN trigger:NN depend:NNS privileg:NNS 
+tabl:NN add:VBN purpos:NN 
+depdenc:NNS mantain:VBN exist:VBG depend:NN manag:NN 
+bit:NN work:NN depend:NN manag:NN grant:NNP revok:VB 
+releas:NN drop:VB derbi:NNP code:NN updat:VB grant:NN revok:NN function:JJ spec:NN 
+trigger:NN drop:VBN privileg:NN requir:VBN trigger:NN revok:VBN 
+trigger:NN track:VBZ privileg:NNS requir:NNS derbi:NNP depend:NNP manag:NNP 
+requir:VBN privileg:NNS revok:VBN trigger:NN drop:VBN 
+creat:VBG jira:NNP entri:NN easier:JJR track:VB item:NNS 
+link:VB jira:NNP entri:NN 
+function:JJ spec:NN attach:VBN 
+constraint:NN drop:VBN privileg:NN requir:VBN constraint:NN revok:VBN 
+constraint:NN track:VBZ privileg:NNS requir:NNS derbi:NNP depend:NNP manag:NNP 
+requir:VBN privileg:NNS revok:VBN constraint:NN drop:VBN 
+creat:VBG jira:NNP entri:NN easier:JJR track:VB item:NNS 
+link:VB jira:NNP entri:NN 
+function:JJ spec:NN attach:VBN 

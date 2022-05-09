@@ -1,0 +1,1 @@
+current:JJ segment:NN base:VBN approach:NN term:NNS memori:NN footprint:NN perform:NN high:JJ concurr:NN 

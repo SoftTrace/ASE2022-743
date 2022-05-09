@@ -1,0 +1,2 @@
+optim xsite synchron replic synchron replic perform origin site transact context remot lock acquir prepar time guarante consist data 
+default featur requir configur option backup true tradit enabl 

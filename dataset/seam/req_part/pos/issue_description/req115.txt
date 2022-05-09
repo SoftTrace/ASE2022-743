@@ -1,0 +1,7 @@
+seamgen:NNP generat:VBZ class:NNS deriv:VBN custom:VBN user:NN develop:NN 
+document:NN javadoc:NNS function:NNS inherit:VBN home:NNP contract:NN wire:NN iswir:NN function:NNS 
+instanc:NN initi:VBN default:NN valu:NNS createinst:NN 
+wire:NN 
+getdefinedinst:NN intend:VBN 
+circumst:NNS set:NNP call:VBN 
+seamgen:NNP good:JJ work:VBG crud:NNP applic:NN run:VBG generat:VBN file:NNS edit:VBN adapt:VBN custom:VBN document:NN intend:VBN user:NN develop:NN guess:VB seamgen:NN framework:NN intend:VBZ 

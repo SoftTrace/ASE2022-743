@@ -1,0 +1,18 @@
+fabl:JJ distribut:VBN lock:NN 
+api:NNS follow:VBG sig:NNS 
+void:JJ lock:NN key:NN boolean:JJ eager:JJ 
+void:JJ lock:NN collect:NNP 
+extend:VBZ key:NNS boolean:JJ eager:JJ 
+void:JJ unlock:NN key:NN 
+void:JJ unlock:NN collect:NNP 
+extend:VBZ key:NNS 
+implement:NN command:NNP 
+boolean:JJ lock:NN unlock:NN 
+boolean:JJ eager:JJ lock:NN 
+array:NN key:NNS lock:VBN unlock:VBN 
+command:NN handl:VBN acquir:VB releas:NN lock:NNS 
+eager:JJ replic:VB command:NN repl:NN mode:NN async:NN ensur:VB remot:JJ node:NNS lock:VBN unlock:VBN 
+sync:NN forc:NN lock:NN unlock:NN 
+dist:NN replic:VBN peer:NNS relev:JJ key:NNS map:VBN 
+transact:NN prepar:VB lock:NN eager:JJ respect:VBN appli:VBN 
+transact:NN rollback:NN lock:NNS unlock:VBN usual:JJ unlock:NN command:NNS part:NN prepar:VB 

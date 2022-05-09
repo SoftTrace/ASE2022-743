@@ -1,0 +1,4 @@
+idea:NN drop:VB object:NNS base:VBN input:NN derbi:NNP system:NN catalog:NNS meta:NN datum:NNS insuffici:JJ 
+junit:NNP test:NNS share:VB databas:NNS 
+develop:VBN step:NN drop:NN view:NNS 
+tabl:NNS 

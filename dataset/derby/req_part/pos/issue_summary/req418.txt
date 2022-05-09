@@ -1,0 +1,1 @@
+corrupt:VBN databas:NN prevent:VBZ startup:NN repair:VBN 

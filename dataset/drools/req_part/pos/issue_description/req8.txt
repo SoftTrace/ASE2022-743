@@ -1,0 +1,6 @@
+edson:NNP issu:NN couldn:VBP find:VB jira:NN 
+long:NNP 
+accumul:VBP 
+queen:NN 
+queen:NN 
+count:NN 

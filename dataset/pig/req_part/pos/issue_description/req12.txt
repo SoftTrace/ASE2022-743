@@ -1,0 +1,15 @@
+provid:VB easier:JJR accumul:NN interfac:NN 
+introduc:VBZ interfac:NN final:JJ 
+cool:JJ patch:NN build:VBN top:NN exist:VBG accumul:NNP code:NN work:VB 
+easier:JJR write:VB accumul:NNS fork:NN pig:NNP codebas:NN 
+downsid:NN provid:VB clean:JJ interfac:NN thread:NN 
+explor:VB potenti:JJ perform:NN implic:NNS give:VBN easi:JJ pig:NNP stuff:NN perform:NN implic:NNS long:JJ measur:VBP document:VBP worth:JJ usabl:JJ interfac:NN 
+don:VBP bad:JJ thread:NN heavi:JJ lift:NN ferri:NNS valu:NNS 
+sum:NN write:VBN 
+public:JJ class:NN sum:NN extend:VBZ long:NNP 
+public:JJ long:JJ exec:NN iter:NNP tupl:NNP throw:VBZ 
+sum:NN 
+sum:NN 
+return:NN sum:NN 
+perform:NN test:NNS figur:VB test:VB sort:NN 
+advic:NN front:NN 

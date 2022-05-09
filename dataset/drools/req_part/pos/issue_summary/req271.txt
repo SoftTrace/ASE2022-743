@@ -1,0 +1,1 @@
+plugeabl:JJ queri:NN result:VBP handler:NNS 

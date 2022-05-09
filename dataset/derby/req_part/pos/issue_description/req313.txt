@@ -1,0 +1,8 @@
+addit:JJ system:NN permiss:NNS propos:VBN sens:NN chang:VB style:NN action:NNS 
+today:NN shutdown:NN propos:VBN potenti:JJ futur:JJ shutdownengin:NN shutdownserv:NN action:NNS 
+propos:VBG jmxcontrol:NN servercontrol:NN action:NNS 
+standard:JJ permiss:NN class:NN repres:VB object:NN permiss:NN appli:VBZ action:NN repres:VBP action:NNS object:NN 
+sens:NN consist:JJ permiss:NNS 
+server:NN action:NN control:NN monitor:NN shutdown:NN 
+engin:NN action:NN control:NN monitor:NN shutdown:NN 
+action:NN control:NN 

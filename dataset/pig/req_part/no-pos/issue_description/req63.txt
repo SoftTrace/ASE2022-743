@@ -1,0 +1,2 @@
+barebon patch avro storag enabl support multipl input schema assumpt input consist avro file schema union flat record 
+simpl illustr attach avro storag union schema test tar run creat avro pig creat avro pig read avro pig 

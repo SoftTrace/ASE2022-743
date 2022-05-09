@@ -1,0 +1,10 @@
+process:NN xml:NN nest:VBN element:NNS text:NN 
+text:NN level:NN time:NN text:NN method:NN return:VBZ text:NN childrend:NN bring:VB local:JJ 
+sampl:NN consol:NN 
+groovi:JJ model:NN 
+parsetext:NN amodel:NN apar:JJ bubba:NN text:NN achild:NN child:NN text:NN achild:NN apar:NN amodel:NN 
+groovi:JJ 
+text:NN 
+groovi:JJ 
+groovi:JJ 
+result:NN textchild:JJ text:NN 

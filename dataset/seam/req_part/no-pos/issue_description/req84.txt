@@ -1,0 +1,6 @@
+inject request paramet bean bellow express 
+valu 
+param 
+requir fals 
+privat long 
+seam error java lang illeg argument param valu type string doesn match field type long inject seam basic convers string primit primit wrapper 

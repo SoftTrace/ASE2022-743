@@ -1,0 +1,7 @@
+statement creat prepar local transact default holdabl sett global transact 
+default holdabl hold cursor commit derbi support held cursor global transact 
+chang statement global transact return result set close cursor commit 
+statement cach applic server 
+jdbc section holdabl handl implement specif global transact 
+chang compat derbi start support held cursor global transact pretti 
+function display set holdabl function 

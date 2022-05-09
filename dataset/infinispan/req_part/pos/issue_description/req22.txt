@@ -1,0 +1,16 @@
+jmx:NNP oper:NN suppress:VB state:NN transfer:NN 
+featur:NN request:NN expos:VB jmx:NN oper:NN node:NN suppress:VB state:NN transfer:NN period:NN time:NN 
+flag:NN fals:JJ default:NN 
+case:NN flag:NN eas:VB bring:VBG cluster:NN mainten:NN work:NN 
+typic:JJ workflow:NN 
+shut:VB applic:NN request:NNS datum:NNS grid:NN 
+suppress:VB state:NN transfer:NN node:NNS jmx:NNP 
+bring:VB node:NNS 
+perform:VB mainten:NN work:NN 
+bring:VB node:NNS time:NN 
+node:NN disabl:VB state:NN transfer:NN node:NN jmx:NNP 
+node:NNS enabl:VB state:NN transfer:NN node:NN jmx:NNP 
+applic:NN request:NNS reach:VB grid:NN 
+purpos:NN smooth:JJ fast:JJ shutdown:NN startup:NN remov:VB risk:NN oom:NN error:NNS bring:VBG grid:NN 
+small:JJ subset:NN full:JJ manual:JJ state:NN transfer:NN defin:VBN 
+control:VBN cluster:NN shutdown:NN datum:NNS restor:VBP persist:JJ storag:NN 

@@ -1,0 +1,11 @@
+requir:VBN refer:VBG custom:NN seam:NN compon:NNS 
+align:VB seam:NNP convent:NN configur:NN philosophi:NN file:NN option:JJ assumpt:NNS 
+absenc:NN xml:NN namespac:NN custom:NN compon:NNS defin:VBN map:NN java:NNP packag:NN 
+map:NN defin:VBN 
+xml:NN namespac:NN parsabl:JJ automat:JJ map:NN abort:VBN 
+protocol:NN scheme:NN www:NN subdomain:NN port:NN queri:NN paramet:NNS anchor:NNS refer:NNS userinfo:NN ignor:VBN present:JJ 
+top:JJ level:NN domain:NN root:NN java:NNP packag:NN 
+subdomain:NNS java:NNP packag:NNS root:NN packag:NN appli:VBN leav:VBN order:NN uri:NNP 
+path:NN return:VBN map:VBN java:NNP packag:NNS path:NN element:NN java:NNP packag:NN append:VBN left:JJ order:NN 
+abc:NN 
+jira:NNP isn:NNP display:VBG 

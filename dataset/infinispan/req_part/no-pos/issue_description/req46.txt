@@ -1,0 +1,12 @@
+note affect distribut replic cach mode 
+cluster symmetr assum node infinispan assum node set cach deploy node design problem applic cach defin start lazili node 
+cach manag cach dist mode deploy node 
+distribut manag proper handl scenario 
+stop trigger rehash cach rehash trigger view chang failur rehash stop cach inadvert data loss backup cach entri stop 
+dist mode cach start coordin join request sent stuck infinit loop cach manag cach 
+critic node start cach cach manag start prematur trigger rehash cach instanc 
+solv propos involv 
+provid cach coordin distribut cach coordin rehash group coordin cach share cach coordin 
+dist manag maintain list member subset member rpc manag 
+concept leav messag broadcast cach stop serv effect view chang member remov affect singl cach 
+place proper solut devis handl asymmetr distribut cluster 

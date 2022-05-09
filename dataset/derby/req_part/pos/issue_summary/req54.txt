@@ -1,0 +1,2 @@
+paramet:NNS 
+offset:NN fetch:VB 

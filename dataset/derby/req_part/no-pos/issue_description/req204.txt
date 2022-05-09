@@ -1,0 +1,1 @@
+timeout set session socket client thread socket timeout care connect close derbi drda time slice set client idl longer timeslic detail 

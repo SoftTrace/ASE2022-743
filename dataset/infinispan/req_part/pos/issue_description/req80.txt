@@ -1,0 +1,8 @@
+merg:VBG pull:NN request:NNS today:NN includ:VBG issu:NN kill:VBN node:NN group:NNP pass:VBZ view:NN 
+happen:VB coordin:NN kill:VBN 
+member:NN write:VBZ map:NN segment:NNS dead:JJ node:NN fail:VB 
+ispn:JJ trace:NN log:NNS 
+cluster:NN 
+phl:NN 
+phl:NN 
+phl:NN node:NN kill:VBN 

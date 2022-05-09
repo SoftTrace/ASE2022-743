@@ -1,0 +1,2 @@
+lhs:NNP normal:JJ constraint:NNS coerc:VBP string:NN date:NN 
+mvel:NN action:NNS date:NN liter:JJ string:NN guff:NN setup:NN date:NN 

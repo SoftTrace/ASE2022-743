@@ -1,0 +1,2 @@
+concaten oper node generat bytecod ensur result object null call method implement oper break pattern oper ensur result object null method implement oper generat bytecod unnecessarili complic code binari oper node 
+comment current approach chosen prevent null check happen execut time generat bytecod perform null check execut time generat byte code shouldn real benefit write java code general implement execut time code java code prefer implement bytecod easier read debug java code generat bytecod share execut plan memori 

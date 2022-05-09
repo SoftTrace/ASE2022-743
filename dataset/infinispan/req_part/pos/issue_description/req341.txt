@@ -1,0 +1,5 @@
+irc:NN discuss:NN manik:NNP 
+icv:NNP creat:VBN ice:NNP persist:VBP entri:NN order:NN avoid:VB duplic:JJ marshal:NN key:NN 
+creat:VBN icv:NN valu:NN unmarshal:JJ 
+avoid:VB unnecessari:JJ creation:NN object:NNS ice:NNP aggreg:NN icv:NN deleg:VB state:NN call:VBZ 
+impl:NNP note:NN order:NN deleg:NN ice:NNP icv:NNP icv:NN method:NNS final:JJ 

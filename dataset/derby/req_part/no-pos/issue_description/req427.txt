@@ -1,0 +1,41 @@
+add mechan system function easili ad resolut function check sysfun function call sql function qualifi schema current schema function match addit resolut sysfun 
+add tabl driven mechan simpl singl argument function expand futur 
+add function 
+
+sysfun function 
+function 
+return type 
+java class 
+method 
+paramet type singl paramet 
+
+
+privat static final string sysfun function 
+
+aco doubl java lang math aco doubl 
+
+asin doubl java lang math asin doubl 
+
+atan doubl java lang math atan doubl 
+
+cos doubl java lang math cos doubl 
+
+sin doubl java lang math sin doubl 
+
+tan doubl java lang math tan doubl 
+
+degre doubl java lang math degre doubl 
+
+radian doubl java lang math radian doubl 
+
+doubl java lang math log doubl 
+
+exp doubl java lang math exp doubl 
+
+ceil doubl java lang math ceil doubl 
+
+ceil doubl java lang math ceil doubl 
+
+floor doubl java lang math floor doubl 
+
+

@@ -1,0 +1,1 @@
+pig:NNP work:VB hadoop:NN 

@@ -1,0 +1,2 @@
+implement:VB jdbc:NNP metadata:NN api:NN getfunctionparamet:NNS 
+implement:VBG return:VB empti:JJ result:NN set:VBN compliant:JJ provid:VB real:JJ metadata:NN 

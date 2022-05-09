@@ -1,0 +1,2 @@
+default:NN statement:NNS pig:NN 
+multipl:JJ user:NNS pig:NN interact:JJ mode:NN 

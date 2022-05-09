@@ -1,0 +1,3 @@
+jdk standard decor unit test 
+return test configur default suit agg builtin test class 
+order test fixtur run indeterminist undesir doesn add coverag product test brittl 

@@ -1,0 +1,2 @@
+provid implement rollup form multi dimension group sql standard 
+detail inform aspect sql standard 

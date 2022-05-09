@@ -1,0 +1,13 @@
+support:VB compos:VB oper:NN closur:NNS 
+longhand:NN equival:JJ 
+assert:VB 
+assert:VB 
+integ:NN 
+tohexstr:NN charact:NN 
+touppercas:NN 
+assert:VB 
+multipli:VB 
+ident:NN 
+ident:NN multipli:VB 
+assert:VB 
+collect:VB 

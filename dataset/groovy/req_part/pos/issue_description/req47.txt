@@ -1,0 +1,3 @@
+method:NNS gdk:NNP type:NN parameter:VBN reflect:VB generic:JJ collect:NNS 
+add:VBG map:NNS list:NNS obtain:VBG element:NNS getat:NN 
+affect:VB runtim:NN semant:NNS respect:JJ method:NNS power:JJ static:NN analyz:VBZ 

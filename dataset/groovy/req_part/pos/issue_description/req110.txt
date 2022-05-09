@@ -1,0 +1,1 @@
+observ:JJ version:NNS map:NN list:NN set:VBN 

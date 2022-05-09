@@ -1,0 +1,6 @@
+class:NN spsdescriptor:NN hard:JJ understand:VB doesn:JJ follow:VB pattern:NN tupl:NN descriptor:NNS 
+part:NNS code:NN don:VBP agre:VBP document:NN mark:VBN implement:VBN 
+issu:NN track:NNS work:VBP class:NN easier:JJR understand:VB modifi:VB 
+critic:JJ part:NN chang:VBN synchron:VBN 
+problem:NN databas:NN lock:NNS obtain:VBN critic:JJ region:NNS special:JJ case:NNS deadlock:NNS 
+fix:VBN level:NN continu:VB investig:NN 

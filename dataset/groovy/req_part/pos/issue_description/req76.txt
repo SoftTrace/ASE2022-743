@@ -1,0 +1,2 @@
+kind:NN code:NN write:VBP set:VBG jsr:NNP engin:NN similar:JJ 
+syntact:JJ sugar:NN improv:VB code:NN polyglot:JJ scenario:NNS 

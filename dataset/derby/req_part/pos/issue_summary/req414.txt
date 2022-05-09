@@ -1,0 +1,1 @@
+creat:NNP trigger:NN referenc:NN claus:NN valu:NNS trigger:NN tabl:NN 

@@ -1,0 +1,16 @@
+
+rule outcom redirect document 
+redirect view wiki xhtml 
+param node valu 
+document home instanc 
+
+redirect 
+rule 
+
+rule outcom redirect document 
+redirect url 
+wiki render url document home instanc 
+
+rule 
+give nice url rewrit acrobat 
+

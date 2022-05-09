@@ -1,0 +1,1 @@
+passiv:NN memori:NN entri:NNS cach:NN store:NN shutdown:NN 

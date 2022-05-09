@@ -1,0 +1,7 @@
+user:NNS set:VB job:NN pig:NNP latin:NNP 
+set:VBN job:NN 
+abil:NN set:VB prioriti:NN nice:JJ patch:NN small:JJ 
+goal:NN 
+set:VBN high:JJ 
+throw:VB prioriti:NN string:NN valu:NNS enum:NN normal:JJ high:JJ 
+case:NNP insensit:NN nicer:JJR 

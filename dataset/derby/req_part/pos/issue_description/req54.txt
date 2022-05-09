@@ -1,0 +1,8 @@
+offset:NN fetch:NN syntax:NN support:VB paramet:NNS 
+toursdb:NN follow:VBG 
+prepar:VB foo:NN select:JJ citi:NNS offset:VBN 
+row:NNS fetch:VBP row:NNS 
+result:VBZ follow:VBG syntax:NN error:NN 
+error:NN syntax:NN error:NN encount:VBN 
+line:NN column:NN 
+parameter:VBN offset:NN fetch:NN import:JJ perform:NN prepar:JJ secur:NN sql:NN string:NNS creat:VBN fli:NN 

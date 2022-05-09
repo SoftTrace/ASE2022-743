@@ -1,0 +1,3 @@
+expert:NN group:NN follow:VBG chang:NNS spec:NN 
+chang:VBG getfunctioncolumn:NNS 
+constant:NNS chang:VBG functioncolumn:NN 

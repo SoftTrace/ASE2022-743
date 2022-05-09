@@ -1,0 +1,6 @@
+distinct:JJ set:NNS rule:NNS share:VB common:JJ declar:VBN type:NN intern:JJ util:NN fact:NN 
+build:NN process:NN forbid:VBZ multipl:JJ declar:NNS fact:NN drl:NNS 
+quickest:JJS solut:NN remov:VBG declar:NN feasibl:JJ file:NNS deploy:VBN 
+extern:VBG declar:NNS file:NN feasibl:JJ full:JJ control:NN drl:NNS generat:VBN 
+acquir:VBN extern:JJ sourc:NNS 
+builder:NN recogn:VB equival:JJ declar:NNS exist:VBG ignor:VB 

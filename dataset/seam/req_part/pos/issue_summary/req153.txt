@@ -1,0 +1,1 @@
+wildcard:NNP view:NN descript:NNS convers:NN switcher:NN 

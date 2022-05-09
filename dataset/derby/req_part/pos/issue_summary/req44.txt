@@ -1,0 +1,1 @@
+add:VB proper:JJ delet:JJ mechan:NN memori:NN databas:NNS 

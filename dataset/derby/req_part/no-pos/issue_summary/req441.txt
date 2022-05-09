@@ -1,0 +1,1 @@
+refactor access primari structur alter tabl constant action 

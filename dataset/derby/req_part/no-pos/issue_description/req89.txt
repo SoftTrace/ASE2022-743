@@ -1,0 +1,2 @@
+jdbc spec section 
+add support statement method ad jdbc address jira close result set holdabl 

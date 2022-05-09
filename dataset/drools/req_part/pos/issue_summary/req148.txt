@@ -1,0 +1,1 @@
+dynam:JJ hoc:NNP node:NN 

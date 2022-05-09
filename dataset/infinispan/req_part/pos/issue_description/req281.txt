@@ -1,0 +1,1 @@
+framework:NN power:VB segment:NN awar:JJ map:NN reduc:VB framework:NN event:NNS requir:VBP execut:NN cluster:NN 

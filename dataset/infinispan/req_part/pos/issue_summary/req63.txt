@@ -1,0 +1,1 @@
+abil:NN group:NN datum:NNS entri:NNS 

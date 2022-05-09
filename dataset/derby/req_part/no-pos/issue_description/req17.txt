@@ -1,0 +1,2 @@
+jpa requir databas support ansi featur esp abil chose trim charact 
+trim str 

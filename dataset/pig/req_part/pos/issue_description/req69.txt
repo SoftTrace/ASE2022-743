@@ -1,0 +1,3 @@
+add:VBD tagsourc:NN option:NN add:VB filenam:NNS record:NNS return:VBN tupl:NNS 
+user:NNS path:NN sourc:NN file:NN 
+propos:VBP add:VB tagpath:NN option:NN 

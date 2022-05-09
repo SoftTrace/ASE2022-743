@@ -1,0 +1,6 @@
+good:JJ idea:NN user:NNS avoid:VB edit:VBG creat:VBG valid:NNS convert:NNS 
+public:JJ class:NN implement:VBZ convert:NNP 
+targetclass:NN 
+public:JJ class:NN implement:VBZ convert:NNP 
+public:JJ class:NN implement:VBZ valid:NNP 
+scan:VB guy:NNS startup:NN regist:VB jsf:NNP 

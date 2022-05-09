@@ -1,0 +1,1 @@
+creat:VB tabl:NN queri:NN 

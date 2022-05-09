@@ -1,0 +1,5 @@
+derbi:NNP page:NN cach:NN memori:NN footprint:NN larger:JJR pages:NN pagecaches:NN 
+larg:JJ contributor:NN footprint:NN array:NN object:NNS 
+memori:NN consum:VBN object:NNS larg:JJ larger:JJR byte:NN array:NNS raw:JJ page:NN datum:NNS 
+instanc:NN 
+reduc:VBG size:NN object:NNS reduc:VB derbi:NNP memori:NN footprint:NN page:NN cach:NN larg:JJ page:NNS tabl:NNS small:JJ record:NNS index:NNS 

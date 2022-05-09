@@ -1,0 +1,3 @@
+cluster:NN listen:NNS queri:NNP dsl:NN filter:NN project:NN view:NNS 
+don:VBP tie:VB lucen:NNP 
+discuss:VBN implement:VB reflect:NN 

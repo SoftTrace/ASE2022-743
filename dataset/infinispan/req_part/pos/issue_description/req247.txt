@@ -1,0 +1,5 @@
+jpa:NNP cach:NN store:NN work:VB karaf:NNP 
+work:VB osgi:NN 
+hibern:VB osgi:NN depend:NN chang:VB depend:NNS 
+expos:VBN servic:NN blueprint:NNP 
+obtain:VBN servic:NN registri:NN similar:JJ 

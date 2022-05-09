@@ -1,0 +1,3 @@
+support ad sequenc permit select sequenc obtain increas decreas valu ident column work fine time applic applic obtain sequenc number prior databas write subsequ call tabl column result number call 
+sql 
+select valu sequenc somet result valu 

@@ -1,0 +1,1 @@
+provid collat sensit subclass sql char sql varchar sql longvarchar sql clob pass collat collat default collat uc basic 

@@ -1,0 +1,1 @@
+check data type descriptor dtd compar collat decis 

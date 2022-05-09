@@ -1,0 +1,14 @@
+creat:VBG test:NN databas:NN extern:JJ usb:NN drive:NN format:VBN tabl:NNS larg:JJ binari:JJ object:NNS conjunct:NN hibern:NNP 
+cryptic:JJ error:NN messag:NN 
+scari:JJ 
+warn:NNP sql:NN error:NN sqlstate:NN 
+error:NN jdbcexceptionreport:NN network:NN protocol:NN error:NN encount:VBN connect:NN termin:VBN request:VBN command:NN encount:VBD unarchitect:JJ implement:NN specif:JJ condit:NN architect:VBN messag:NN 
+error:NN abstractflushingeventlisten:NN synchron:VB databas:NN state:NN session:NN 
+insert:VB proteinchainmoleculebinarydata:NN 
+java:NN 
+occur:VB due:JJ drive:NN figur:VBD tabl:NN file:NN oper:NN limit:NN file:NN 
+derbi:NN log:NN reveal:JJ incorrect:JJ error:NN messag:NN 
+error:NN page:NN page:NN write:VBN disk:NN check:VB disk:NN full:JJ 
+space:NN disk:NN 
+nativ:JJ method:NN 
+error:NN speak:VBG incorrect:JJ disk:NN full:JJ creat:VBN file:NN big:JJ disk:NN type:NN error:NN closer:JJR truth:NN inform:NN derbi:NN client:NN display:VB scari:JJ messag:NN 

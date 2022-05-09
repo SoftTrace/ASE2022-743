@@ -1,0 +1,4 @@
+peopl:NNS extend:VBG mock:VBG infinispan:NNP test:NNS 
+implement:VB 
+case:NN abstract:JJ deleg:NN constructor:NN deleg:NN call:NNS 
+call:VBN 

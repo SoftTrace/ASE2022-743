@@ -1,0 +1,22 @@
+pig:NNP map:NN type:NN untyp:JJ map:NN valu:NN bytearray:NN 
+unknown:JJ type:NN 
+unknown:JJ type:NN shuffl:NN key:NN reliev:VBP problem:NN 
+type:VBN map:NN benefici:JJ 
+user:NN semant:JJ map:NN valu:NN type:NN 
+user:NN cast:VB map:NN valu:NN ugli:JJ 
+unknown:JJ type:NN shuffl:NN key:NN perform:NN suffer:VBZ 
+don:VBP raw:JJ compar:NN unknown:JJ type:NN instanti:VB valu:NN object:NN invok:VB compar:NN 
+propos:VBN syntax:NN type:VBN map:NN 
+map:NN type:NN 
+type:VBN map:NN place:NN untyp:JJ map:NN occur:VB 
+load:NN map:NN int:NN 
+generat:VB map:VB int:NN map:NN valu:NN tupl:NN 
+stream:NN cat:NN map:NN 
+int:NN chararray:NN 
+map:NN valu:NN bag:NN 
+type:VBN map:NN result:VB datatyp:NN map:NN valu:NN 
+load:NN map:NN int:NN 
+generat:VB key:NN user:NNS ghalex:NN eclips:NN workspac:NN cluster:NN itrac:NN data:NN pig:NN 
+schema:NNP 
+int:NN 
+behavior:NN untyp:JJ map:NN remain:VB 

@@ -1,0 +1,1 @@
+reduc:VB memori:NN footprint:NN 

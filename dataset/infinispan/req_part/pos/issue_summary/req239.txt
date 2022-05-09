@@ -1,0 +1,1 @@
+add:VB queri:NNP cdi:NNP cach:NNP level:NNP rest:NN modul:NNS 

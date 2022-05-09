@@ -1,0 +1,1 @@
+store:NN jpa:NNP persist:NN 

@@ -1,0 +1,1 @@
+configur:NN builder:NNS parser:NNS cloud:NNP cach:NNP store:NNP 

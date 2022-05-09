@@ -1,0 +1,1 @@
+short:JJ circuit:NN page:NN action:NNS navig:NN event:NN 

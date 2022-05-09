@@ -1,0 +1,13 @@
+dan:NNP suggest:VBD 
+set:VBG spread:VBN locat:NNS class:NN act:VBG struct:NN 
+gennormalizeresultsetnod:NN method:NN copylengthsandtypestosourc:NN 
+good:JJ implement:NN 
+logic:NN creat:VB 
+origin:JJ describ:VBZ desir:VBN outcom:NN clear:JJ 
+refer:VB list:NN process:NN 
+chanc:NN 
+recurs:NN point:NN wrap:VBN 
+type:NNS column:NNS express:NN don:VBP match:NN handl:VBN regular:JJ 
+move:VBG setup:NN class:NN input:NNS wrap:VB 
+clear:VB code:NN comment:NNS add:VBN action:NNS 
+separ:VBG task:NN separ:JJ issu:NN work:VBN 

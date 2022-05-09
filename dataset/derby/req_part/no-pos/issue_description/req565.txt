@@ -1,0 +1,5 @@
+file util class reflect call java file method 
+set writabl boolean boolean 
+set readabl boolean boolean 
+set execut boolean boolean 
+reflect method introduc java code run older platform java lowest support platform call method 

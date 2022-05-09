@@ -1,0 +1,12 @@
+run kerbero secur environ user face limit job run longer remain ticket lifetim kerbero ticket environ work ticket expir hour limit maximum job durat hour problem 
+hadoop tool featur authent kerbero keytab file essenti file encrypt form kerbero princip password ing run applic request ticket kerbero server initi ticket expir 
+java hadoop applic common includ line 
+system set properti java secur krb conf krb conf 
+group inform login user keytab nbasj xxxxxx net home nbasj krb nbasj keytab 
+run apach flink base applic hour week kerbero secur yarn cluster 
+propos featur set relev kerbero valu pig script run pig job day secur cluster 
+propos pig script 
+set java secur krb conf krb conf 
+set job secur krb princip nbasj xxxxxx net 
+set job secur krb keytab home nbasj krb nbasj keytab 
+iff set aforement group inform login user keytab method call submit job cluster 

@@ -1,0 +1,1 @@
+execut:VBG command:NN line:NN script:NNS execut:VB method:NN akin:JJ awk:NN perl:NN 

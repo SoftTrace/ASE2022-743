@@ -1,0 +1,2 @@
+list:NN folk:NNS expos:VBN jmx:NNP jopr:NN 
+add:VB comment:NNS 

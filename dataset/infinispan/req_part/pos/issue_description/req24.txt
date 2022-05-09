@@ -1,0 +1,2 @@
+step:NN discuss:VBN 
+provid:VB cach:NNP refer:NNS provid:VB cdi:NNP defin:VBN inject:NN point:NNS remot:JJ task:NNS inject:NN happen:VB node:NN avoid:VBG serial:NN inject:VBN compon:NNS 

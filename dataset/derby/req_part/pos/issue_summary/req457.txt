@@ -1,0 +1,1 @@
+put:VB stern:JJ readm:NNP file:NN log:NN directori:NNS warn:VB user:NNS corrput:NN touch:VBP file:NNS 

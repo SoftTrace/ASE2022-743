@@ -1,0 +1,6 @@
+detect:NN chang:NNS implement:VBN client:NN warn:NNS write:NN 
+row:NN delet:VBN updat:VBN warn:NN send:VBN client:NN fact:NN 
+warn:NN send:VBN time:NN data:NN row:NN send:VBN client:NN warn:NNS lose:VBN 
+extend:JJ diagnost:JJ send:VB warn:NNS data:NN row:NN 
+propos:VBP extend:JJ diagnost:NNS send:VB warn:NNS 
+extend:VBN warn:NNS plan:VB part:NN work:NN issu:NN 

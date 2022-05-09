@@ -1,0 +1,1 @@
+wildcard:NNS depend:NN exclus:NNS 

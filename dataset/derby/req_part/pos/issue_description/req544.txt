@@ -1,0 +1,15 @@
+tool:NN dump:VBG datum:NNS corrupt:JJ databas:NN 
+start:VB custom:NN tool:NN 
+debug:VBP tool:NN experi:NN promot:VBG undocu:JJ option:JJ tool:NN ship:VBP product:NN 
+tool:NN behavior:NN 
+tool:NN subvert:VB secur:NN corrupt:VBN databas:NN 
+corrupt:VBN databas:NN password:NN protect:VBN present:VB dbo:NN credenti:NNS order:NN tool:NN 
+encrypt:NN key:NN present:VBN order:NN decod:VB encrypt:VBN databas:NN 
+tool:NN stop:VB read:VBG tabl:NN hit:VBZ corrupt:JJ record:NN 
+tool:NN soldier:NN collect:VB list:NN warn:NNS bad:JJ record:NNS 
+tool:NN situat:NNS part:NN heap:NN tabl:NN corrupt:JJ follow:VBG heap:NN conglomer:NNS intact:JJ 
+sysschema:NN 
+systabl:NNP 
+syscolumn:NNP 
+properti:NN conglomer:NN 
+tool:NN situat:NNS datum:NNS dump:VBN delet:VBP log:NN file:NNS order:NN circuit:NN recoveri:NN 

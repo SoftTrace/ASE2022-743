@@ -1,0 +1,2 @@
+replac:VBG bound:VBD concurr:JJ hash:NN map:NN caffein:NNP 
+rid:VBN equival:NN time:NN 

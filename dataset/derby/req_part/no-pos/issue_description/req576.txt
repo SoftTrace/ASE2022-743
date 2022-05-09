@@ -1,0 +1,11 @@
+version 
+connect jdbc derbi memori creat true 
+creat type typ extern java util array list languag java 
+row insert updat delet 
+creat tabl ttt int check cast null typ null 
+row insert updat delet 
+insert ttt valu 
+error java java lang null pointer 
+debug build 
+insert ttt valu 
+error java assert fail current depend compil org apach derbi share common saniti sert failur 

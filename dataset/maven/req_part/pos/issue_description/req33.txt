@@ -1,0 +1,5 @@
+creat:VB pom:NNS jdbc:NN jdo:NN hous:VB jar:NNS ibiblio:NNP 
+attempt:NN present:JJ provid:VB error:NN messag:NN 
+provid:VB plugin:NN instal:VB file:NN local:JJ repositori:NN 
+instal:VBP instal:VB dartifact:NN dgroupid:NN jdbc:NN dartifactid:NN jdbc:NN dversion:NN 
+modifi:VB instal:VB instal:VB mojo:NN paramet:NNS 

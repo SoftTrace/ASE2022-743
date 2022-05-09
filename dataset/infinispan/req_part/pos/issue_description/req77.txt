@@ -1,0 +1,9 @@
+user:NN custom:VB map:NN key:NNS segment:NNS custom:NN hash:NN function:NN 
+hash:NN function:NN doesn:NN give:VB user:NN direct:JJ control:NN key:NN map:VBN ultim:JJ locat:NN depend:VBZ implement:NN 
+implement:NN customiz:JJ harder:JJR user:NN 
+replac:VB hash:NN 
+public:JJ interfac:NN 
+public:JJ int:NN getseg:NN object:NN key:NN int:NN numseg:NNS 
+easier:JJR implement:VB grouper:NN interfac:NN user:NN doesn:NN addit:JJ group:NN featur:VBZ 
+replac:VB topolog:NN updat:NN constant:JJ wrapper:NN 
+comput:VB segment:NN key:NN save:VB context:NN comput:VBG time:NN locat:NN key:NN 

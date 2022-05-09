@@ -1,0 +1,14 @@
+client driver pre fetch data 
+execut queri call call 
+result set pre fetch data execut queri reduc 
+network traffic improv perform 
+drda protocol support descript opnqri open 
+queri 
+qryrowset paramet specifi rowset row 
+return command honor dynam 
+scrollabl cursor qryattsn equal qrysnsdyn 
+scrollabl cursor conform limit block queri 
+protocol target server fetch request 
+number row fetch row restrict extra 
+queri block limit fetch oper result negat 
+sqlstate sqlstate 

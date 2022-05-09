@@ -1,0 +1,48 @@
+usag 
+action param featur paramet call action 
+command button action 
+hotel book book hotel hotel user 
+class button valu book hotel 
+paramet hotel user evalu valu express pass book hotel method manag bean altern forc inject happen action method call 
+pass liter string singl doubl quot 
+command link action 
+foo bar messag 
+valu click 
+command link action 
+foo bar messag 
+valu click 
+notat action method don param pass improv readabl clear express method express valu express 
+link valu cancel action 
+hotel book cancel 
+button class button link style button 
+handi pass jsf implicit object 
+page view mypag jsp action 
+foo method face context view 
+
+desir oper method defin spec put method param 
+command link action 
+foo bar face context 
+valu click 
+tag 
+exampl seam tag 
+command button 
+command link 
+drop replac command button command link facelet class attribut ad facelet implement tag 
+note jsf style tag work proper fix requir tag written jsf style fix assum jsf present 
+tag 
+link support action param 
+action defin page xml support action param 
+facelet support 
+enabl action param facelet seam facelet view handler facelet view handler face config xml 
+applic 
+view handler org jboss seam facelet seam facelet view handler view handler 
+applic 
+issu 
+method express method bind creat paramet type pass hand case action jsf assum param pass action param express param type paramet evalu evalu param doesn happen method express invok minor consequ 
+call invok method express hand param pass param defin express preced 
+facelet method express method bind call method express method info param type time express action param method invok 
+case exceed rare appli invok method express hand 
+method express method bind action param method invok determin express determin method base criteria 
+method match method express 
+number paramet match number param express 
+method match criteria case thrown explain criteria fix point hairi 

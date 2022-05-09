@@ -1,0 +1,15 @@
+process:NN pig:NN datum:NNS process:NN compon:NN integr:NN 
+feel:VBP pig:NN storag:NN func:NNS lack:VBP 
+awar:JJ job:NN succeed:VBN 
+creat:VBZ problem:NN storag:NN func:NNS upload:VB result:NNS system:NN 
+ftp:NN file:NN system:NN 
+dbstorag:NN piggybank:NN mechan:NN task:NN follow:VBG 
+creat:VBZ recordwrit:NN case:NN open:JJ connect:NN 
+open:VB transact:NN 
+write:VBZ record:NNS batch:NN 
+execut:VBZ commit:VB rollback:NN depend:VBG task:NN success:JJ 
+aproach:NN work:VBZ great:JJ task:NN level:NN work:VB job:NN level:NN 
+task:NNS succeed:VB job:NN fail:VB partial:JJ record:NNS upload:VBN 
+idea:NNS workaround:NN 
+current:JJ workaround:NN ugli:JJ creat:VBD java:NN wrapper:NN launch:VBZ pig:NN job:NNS upload:VBZ pig:NN job:NN success:JJ 
+approach:NN work:VBZ integr:VBN pig:NN 

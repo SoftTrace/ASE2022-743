@@ -1,0 +1,1 @@
+enabl infinispan spi implement command 

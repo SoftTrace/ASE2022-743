@@ -1,0 +1,2 @@
+pig tupl signific overhead due fact field object 
+tupl primit field int long avoid overhead result signific memori save 

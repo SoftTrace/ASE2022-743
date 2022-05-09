@@ -1,0 +1,2 @@
+replic test invok runtim exec order spawn process process run host main test process start helper method base test case exec java cmd test helper method easier pass specif flag process creat test run 
+note replic test code start process remot host ssh base test case exec java cmd local process start helper method replic test run part suit spawn process run local 

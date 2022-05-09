@@ -1,0 +1,47 @@
+groovi work regular express easier java coupl hole implement 
+attach patch add coupl simpl method regular express easier 
+common case search string regular express pattern match match valu 
+groovi recommend creat matcher index work match 
+assert york 
+
+string doesn match regular express index bound safe check matcher find match requir entir string match string 
+def york 
+
+def zip 
+find 
+
+zip 
+
+inconsist behavior regular express captur group return array match captur group forc index array match 
+assert foo car baz 
+groovi ad closur awar replac method string class patch add complimentari find method string return string match closur worri matcher object array index 
+call closur full match group 
+assert york find 
+
+safe return null match isn clean boilerpl safeti check bit user check null groovi truth 
+def zip york find 
+return null 
+zip 
+
+work captur group manipul valu pass closur find method pass full match captur group collect base regular express method work 
+captur group match pass closur 
+assert bar foo bar baz find 
+match return match 
+captur group 
+assert foo bar baz find 
+match letter return letter 
+captur group pass closur full match 
+assert adsf adsf find 
+
+
+
+
+match area code exchang station number 
+assert match 
+assert null area code 
+assert exchang 
+assert station number 
+return exchang station number 
+
+patch includ number unit test exercis demonstr function 
+traffic blog post explan regular express groovi peopl struggl bit current implement patch work regular express easier intuit 

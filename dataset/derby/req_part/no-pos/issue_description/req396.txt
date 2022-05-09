@@ -1,0 +1,20 @@
+claus 
+creat tabl integ 
+row insert updat delet 
+creat tabl integ 
+row insert updat delet 
+creat tabl integ 
+row insert updat delet 
+insert valu 
+row insert updat delet 
+insert valu 
+row insert updat delet 
+insert valu 
+row insert updat delet 
+select select 
+
+
+row select 
+select join select 
+error claus join oper valid 
+

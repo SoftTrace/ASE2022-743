@@ -1,0 +1,1 @@
+give:VBN condit:JJ element:NN turn:VB child:NNS rete:NNP network:NN 

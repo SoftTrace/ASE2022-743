@@ -1,0 +1,4 @@
+nice:JJ load:VB column:NNS column:NN famili:NN short:JJ hand:NN syntax:NN 
+cpumetr:NNS load:NN hbase:NN systemmetr:NNS cpu:NN loadkey:NN 
+assum:VBG column:NNS cpu:NNP cpu:NN cpu:NN user:NN cpu:NN user:NN cpu:NN column:NN famili:NN 
+rowkey:NN cpu:NN cpu:NN cpu:NN user:NN cpu:NN user:NN 

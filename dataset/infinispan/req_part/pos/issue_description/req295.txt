@@ -1,0 +1,5 @@
+expos:VBZ entri:NN iter:NN hot:NNP rod:NNP filter:VB base:VBN segment:NNS 
+order:NN calcul:VB segment:NNS filter:VBN ownership:NN inform:NN cach:NN expos:VBN 
+api:NN suggest:NN 
+set:VBN integ:NN getseg:NNS 
+map:NN address:NN set:VBN integ:NN getsegmentsbyserv:NN 

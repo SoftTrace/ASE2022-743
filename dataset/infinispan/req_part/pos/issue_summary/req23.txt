@@ -1,0 +1,13 @@
+enabl:VB extern:JJ user:NN framework:NN defin:VBN extern:NNP 
+creat:VB intern:JJ magic:NN number:NN user:NN defin:VBN extern:NNS 
+avoid:VB user:NNS number:NN space:NN 
+stream:NN 
+user:NNS user:NN defin:VBN magic:JJ number:NN int:NN stream:NN 
+mandat:NN unsign:JJ int:NNS optimis:VB send:VBG variabl:JJ lenght:NN 
+intern:JJ framework:NNS high:JJ number:NNS byte:NNS 
+byte:NN 
+byte:NNS 
+byte:NNS 
+class:NN type:NN extern:NNP ext:NN int:NN 
+class:NNP type:NN extern:NNP ext:NN int:NN 
+futur:JJ improv:NN generat:VBP user:NN defin:VBN class:NNS 

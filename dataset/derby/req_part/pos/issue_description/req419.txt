@@ -1,0 +1,3 @@
+iter:VBZ argumentslist:NN acceptchildren:NN preprocess:NN remapcolumnreferencestoexpress:NNS isequival:NN 
+helper:NN method:NNS helper:NN method:NNS simplifi:VB code:NN 
+helper:NN method:NN isequival:NN similar:JJ code:NN find:VBN isequival:NN method:NNS add:VB helper:NN class:NNS 

@@ -1,0 +1,5 @@
+nice:JJ construct:NN 
+person:NN address:NN null:JJ age:NN 
+short:JJ circuit:NN 
+special:JJ alpha:NN node:NNS type:NN join:VB node:NN 
+common:JJ problem:NN user:NNS 

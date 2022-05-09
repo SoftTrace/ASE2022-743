@@ -1,0 +1,5 @@
+switch:NN user:NN local:NN 
+templat:VBN resourc:NN bundl:NNS 
+messag:NNS 
+text:NN 
+express:NN 

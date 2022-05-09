@@ -1,0 +1,1 @@
+reduc size encod buffer short charact valu 

@@ -1,0 +1,1 @@
+server:NN side:NN script:NN jsr:NN 

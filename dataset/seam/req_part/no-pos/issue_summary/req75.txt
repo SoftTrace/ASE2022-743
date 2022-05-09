@@ -1,0 +1,1 @@
+entiti queri refresh clear pars ejbql variabl 

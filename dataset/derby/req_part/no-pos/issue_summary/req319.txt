@@ -1,0 +1,1 @@
+drda stream buffer size attribut network server bean type int string 

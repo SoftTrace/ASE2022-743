@@ -1,0 +1,1 @@
+desir:JJ execut:VB execut:VBN latest:JJS knowledgebas:NN session:NN agent:NN awar:JJ check:VB agent:NN latest:JJS kbase:NN 

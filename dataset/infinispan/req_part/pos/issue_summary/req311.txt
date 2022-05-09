@@ -1,0 +1,1 @@
+add:VB abil:NN defin:VB index:JJ class:NNS config:NN 

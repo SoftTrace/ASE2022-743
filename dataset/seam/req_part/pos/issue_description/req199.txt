@@ -1,0 +1,4 @@
+set:NN configur:VB collect:NN support:VBN local:NNS 
+applic:NN class:NN jsf:NNP api:NN expos:VBZ public:JJ method:NN setsupportedlocal:NNS collect:NNP configur:VB collect:NN 
+support:VB featur:NN request:NN applic:NN scop:VBN compon:NN creat:VBN intern:JJ packag:NN 
+user:NN session:NN 

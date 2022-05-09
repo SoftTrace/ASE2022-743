@@ -1,0 +1,1 @@
+tighten:VB permiss:NNS file:NNS owner:NN 

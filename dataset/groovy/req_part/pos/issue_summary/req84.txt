@@ -1,0 +1,1 @@
+closur:NNP memoiz:NNP 

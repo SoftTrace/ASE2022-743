@@ -1,0 +1,1 @@
+hbasestorag:NN support:VB set:VBG timestamp:NN field:NN 

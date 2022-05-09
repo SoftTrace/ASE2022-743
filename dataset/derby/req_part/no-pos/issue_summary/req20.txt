@@ -1,0 +1,1 @@
+enhanc alter tabl syntax user chang valu generat ident column 

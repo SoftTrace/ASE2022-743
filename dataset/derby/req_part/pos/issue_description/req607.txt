@@ -1,0 +1,3 @@
+getnextrowcor:NN method:NN exact:JJ cut:NN copi:NN method:NN overrid:VBZ superclass:NN 
+code:NN reduc:VB cut:NN brittl:NN 
+discov:VBN investig:VBG 

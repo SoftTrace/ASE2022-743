@@ -1,0 +1,7 @@
+notic:VBD session:NNP cooki:NN send:VBD client:NN authent:NN remain:VBZ login:NN succede:NN 
+lead:VB man:NN middl:NN attack:NN sessionid:NN sniff:VBN 
+nice:JJ session:NN switch:VBG server:NN side:NN forc:VBG session:NN invalid:NN session:NN creation:NN true:JJ client:NN authent:VBZ 
+session:NN datum:NNS copi:VBN session:NN 
+case:NN session:NNP cooki:NN send:VBN client:NN client:NN ticket:NN request:NNS 
+mechan:NN collid:VBZ actual:JJ seam:NN implement:NNS call:VBN 
+seam:NNP execut:VB task:NN authent:NN phase:NN 

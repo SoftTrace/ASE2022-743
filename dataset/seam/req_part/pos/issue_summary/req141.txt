@@ -1,0 +1,1 @@
+seam:NNP work:VB jaa:NNP server:NN authent:NN sourc:NN code:NN modif:NNS 

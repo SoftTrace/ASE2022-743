@@ -1,0 +1,18 @@
+part attract languag groovi rubi flexibl method dispatch part metaprogram java script style prototyp base oop groovi addit class proto object class attach proto object java prototyp base oop groovi 
+proto object write groovi script 
+creat prototyp object 
+def proto object 
+add method 
+func 
+println 
+creat object 
+def proto object 
+greet 
+println world 
+set prototyp 
+proto 
+print world 
+greet 
+call func proto 
+func 
+proto object class similar groovi expando expando set current object deleg closur work properti multithread proto object class pass argument closur closur deleg method search closur code properti access direct user write deleg properti explicit argument 

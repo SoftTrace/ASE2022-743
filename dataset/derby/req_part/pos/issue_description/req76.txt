@@ -1,0 +1,1 @@
+add:VBG support:NN truncat:NN tabl:NN command:NN aid:VB portabl:NN 

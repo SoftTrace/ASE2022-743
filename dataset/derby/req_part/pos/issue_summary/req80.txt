@@ -1,0 +1,1 @@
+provid:VB support:NN uniqu:JJ constraint:NN key:NNS includ:VBP nullabl:JJ column:NNS 

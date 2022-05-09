@@ -1,0 +1,10 @@
+current algorithm messag network worst case happend sequenti 
+origin primari owner 
+primari owner backup 
+backup primari owner ack 
+primari owner origin repli 
+algorithm improv 
+origin primari owner 
+primari owner backup amp primari owner origin parallel 
+backup origin amp backup primari owner ack 
+main flow origin primari backup origin triangl 

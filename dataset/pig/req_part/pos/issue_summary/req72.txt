@@ -1,0 +1,1 @@
+stream:VBG provid:VB conf:NN set:NNS environ:NN 

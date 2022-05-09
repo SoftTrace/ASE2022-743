@@ -1,0 +1,7 @@
+handl:VB interrupt:VBP receiv:VBN wait:VBG databas:NN lock:NN 
+subtask:NNP issu:NN track:VBZ chang:NNS handl:VB interrupt:VB receiv:VBN thread:NN wait:VBG databas:NN lock:NN 
+queri:NN stop:VB execut:NN interrupt:VBP time:NN check:VBP queri:NN timeout:NN 
+subtask:NNP 
+check:VBP statement:NN cancel:VBN time:VBD time:NNS queri:NN execut:NN 
+interrupt:VBP execut:NN throw:VB point:NN 
+stop:VBP execut:NN batch:NNS batch:NN element:NN interrupt:VB 

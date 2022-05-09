@@ -1,0 +1,1 @@
+move:VBG jfdi:NNP mvel:NNP maintain:VBN champion:VBN 

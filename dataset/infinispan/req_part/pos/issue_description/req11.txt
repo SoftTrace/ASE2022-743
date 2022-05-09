@@ -1,0 +1,7 @@
+case:NN state:NN transfer:NN distribut:NN state:NN transfer:NN code:NN reus:VBN replic:VBN cach:NNS 
+main:JJ reason:NN improv:NN simplifi:VB reduc:VB code:NN 
+addit:JJ benefit:NNS 
+atm:NNP replic:VBN mode:NN group:NNP coordin:NN play:VBZ role:NN main:JJ lock:NN owner:NN 
+coordin:NN overwhelm:JJ process:VB addit:JJ transact:NN direct:JJ consequ:NN main:JJ lock:NN owner:NN 
+distribut:VBN mode:NN lock:NN owner:NN spread:VBN cluster:NN member:NNS 
+optimis:NN repl:NN mode:NN multicast:NN udp:NNP messag:NN send:VBG 

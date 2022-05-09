@@ -1,0 +1,18 @@
+open:VBG connect:NN network:NN url:NN jdbc:NN derbi:NN localhost:NN datum:NNS 
+netag:NN catch:VBZ doesn:JJ report:VBP check:VBN 
+chang:VBG line:NNS 
+socket:NN server:NN port:NN 
+catch:NN 
+throw:VB disconnect:NNP 
+error:NN open:NN socket:NN server:NN server:NN port:NN port:NN messag:NN 
+return:VBZ check:NN inform:NN 
+socket:NN server:NN port:NN 
+catch:NN 
+throw:VB disconnect:NNP 
+class:NNP 
+error:NN open:NN socket:NN server:NN server:NN port:NN port:NN messag:NN 
+getmessag:NN 
+report:VBZ messag:NNS 
+error:NN open:NN socket:NN server:NN localhost:NN port:NN messag:NN null:JJ 
+fix:NN report:VBZ 
+error:NN open:NN socket:NN server:NN localhost:NN port:NN messag:NN connect:NN refus:VBD connect:VB 

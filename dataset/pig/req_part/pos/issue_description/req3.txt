@@ -1,0 +1,5 @@
+access:NNP control:NNP process:NNS read:VB column:NN group:NNS zebra:NNP handl:VB disallow:VBN user:NN applic:NN access:VBZ 
+secur:NN eventuallt:NN grant:VBN correspond:VBG hdfs:NNP secur:NN datum:NNS store:VBN 
+expect:JJ behavior:NN column:NN group:NN permiss:NNS set:VBN 
+user:NN select:VBZ column:NNS permiss:NNS access:VB zebra:NNP return:VB error:NN messag:NN error:NN permiss:NN deni:VBD access:VBG column:NN column:NN 
+access:NNP control:NN appli:VBZ entir:JJ column:NN group:NN column:NNS column:NN group:NN permiss:NNS 

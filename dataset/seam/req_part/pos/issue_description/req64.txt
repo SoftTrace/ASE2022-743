@@ -1,0 +1,2 @@
+plug:VB user:NN defin:VBN strategi:NN decod:NN encod:VBG conversationid:NN request:NN respons:NN 
+support:VB ajax:NN soap:NN invoc:NNS 

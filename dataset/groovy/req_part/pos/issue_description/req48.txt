@@ -1,0 +1,5 @@
+annot:NN great:JJ 
+reduc:VBZ amount:NN boilerpl:NN code:NN requir:VBN groovi:JJ bean:NNS 
+logic:JJ step:NN annot:NN appli:VBN attribut:NNS groovi:NNP properti:NNS defin:VBP ident:NN busi:NN key:NN call:NN bean:NN 
+object:NN equal:VBZ hashcod:NN tostr:NN behav:VB 
+relat:VBN mark:JJ won:NNP fix:VB 

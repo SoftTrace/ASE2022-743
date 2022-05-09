@@ -1,0 +1,5 @@
+direct:JJ properti:NN access:NN pattern:NN bind:VBN variabl:NNS 
+usag:NN direct:JJ properti:NN access:NN pattern:NN bind:VBN variabl:NNS 
+rule:NN test:NN auto:NN bind:NNS 
+person:NN 
+chees:NN type:NN price:NN 

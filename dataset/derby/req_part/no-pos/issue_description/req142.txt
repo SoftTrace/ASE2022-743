@@ -1,0 +1,28 @@
+emb prepar statement emb result set occurr 
+switch 
+
+case type char 
+case type varchar 
+case type longvarchar 
+case type clob 
+break 
+default 
+throw data type convers 
+
+
+switch 
+
+case type binari 
+case type varbinari 
+case type longvarbinari 
+case type blob 
+break 
+default 
+throw data type convers 
+
+copi code good factor 
+method share instanc add 
+method data type descriptor 
+public static boolean ascii stream compat int jdbc type 
+public static boolean binari stream compat int jdbc type 
+public static boolean charact stream compat int jdbc type 

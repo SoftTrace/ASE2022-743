@@ -1,0 +1,5 @@
+queri:NNS form:NN column:NN string:NN constant:JJ optim:VBN index:NN scan:NNS equival:JJ express:NN concaten:NN column:NN string:NN constant:JJ result:VB tabl:NN scan:NN 
+queri:NNS form:NN column:NN 
+optimiz:JJ generat:VBN paramet:NN doesn:VBD fetch:VBN generat:VB paramet:NN concaten:NN string:NNS string:NN express:NNS valu:NN calcul:VBN 
+limit:VBN case:NNS result:NN string:NN express:NN calcul:VBN independ:JJ column:NNS queri:NN 
+work:VB add:VBG string:NN constant:JJ string:NN constant:JJ condit:NN 

@@ -1,0 +1,7 @@
+issu:NN mpartifact:NN maven:NNP code:NN base:NN 
+current:JJ version:NN snapshot:NN deploy:VB creat:VBZ snapshot:NN artifact:NN artifact:NN date:NN time:NN 
+lot:NN artifact:NNS creat:VBN continu:JJ build:NN 
+featur:NN configur:JJ turn:VB happen:VB schedul:VBN basi:NN 
+relat:JJ note:NN good:JJ date:NN timestamp:VBN version:NN word:NN snapshot:NN 
+easi:JJ determin:VB project:NN depend:NNS snapshot:NN unreleas:JJ version:NNS 
+pars:VB date:NN time:NN format:NN common:JJ snapshot:NN keyword:NN easier:JJR 

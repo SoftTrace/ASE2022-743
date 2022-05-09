@@ -1,0 +1,16 @@
+rdbms support sql standard statist function stddev pop stddev samp var pop var samp 
+stddev varian 
+
+hsqldb 
+ingr 
+sql 
+oracl 
+postgr 
+sql server stdevp stdev varp var 
+sybas ase 
+sybas sql 
+don 
+derbi 
+lite 
+addit derbi 
+larger list statist aggreg function list postgr document 

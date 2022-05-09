@@ -1,0 +1,18 @@
+store:NNS cach:NNS concurr:JJ map:NN 
+call:NN cach:NNP cach:NN exist:VB cach:NN creat:VBN put:VBN map:NN putifabs:NN cach:NN start:VBN 
+subsequ:JJ concurr:JJ thread:NN call:VBG cach:NNP cach:NN cach:NN readi:JJ lead:VBG unexpect:JJ behavior:NN 
+call:VBZ cach:NNP block:VB request:VBN cach:NN creat:VBN start:VBN 
+request:NNS start:VBN cach:NN block:VB 
+implement:NN involv:VB store:VBG cach:NN side:NN volatil:JJ singl:JJ thread:NN gate:NN concurr:JJ map:NN 
+algorithm:NN 
+lookup:VB map:NN entri:NN cach:NN gate:NN cach:NN 
+map:NN entri:NN exist:VBZ gate:NN present:JJ return:VB cach:NN 
+map:NN entri:NN exist:VBZ latch:VB present:JJ wait:VB latch:VB timeout:NN return:VB cach:NN 
+map:NN entri:NN exist:VB creat:VB cach:NN put:VB map:NN absent:JJ thread:NN gate:NN 
+put:NN success:JJ entri:NN exist:VBD goto:NN 
+start:VB cach:NN start:NN fail:VBZ stop:VB cach:NN remov:VB map:NN entri:NN thread:NNS wait:VBG gate:NN timeout:NN 
+open:VB gate:NN 
+remov:VB gate:NN map:NN entri:NN 
+return:VB cach:NN 
+generic:JJ version:NN find:VBN jdbc:NN sourc:NN code:NN 
+demonstr:VBG registri:NNP find:VBN 

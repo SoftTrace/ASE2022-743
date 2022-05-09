@@ -1,0 +1,9 @@
+unknown:JJ set:NN type:NNS lot:NN scan:NN involv:VBG reflect:NN simpl:JJ copi:NN constructor:NN 
+includ:VBP 
+collect:NNS 
+collect:NNS 
+collect:NNS 
+collect:NNS 
+collect:NNS 
+collect:NNS 
+treat:VBN avoid:VB reflect:NN call:NNS 

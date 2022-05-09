@@ -1,0 +1,1 @@
+default:NN configur:NN option:NN flushmod:NN manual:NN 

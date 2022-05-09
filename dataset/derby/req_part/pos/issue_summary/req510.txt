@@ -1,0 +1,1 @@
+reduc:VB window:NN opportun:NN queri:NNS compil:VBN statist:NNS istat:JJ updat:NN 

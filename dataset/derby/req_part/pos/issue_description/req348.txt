@@ -1,0 +1,16 @@
+derbi:NNP max:NN length:NN varbinari:NNP varchar:NNP byte:NNS charact:NNS 
+work:VBG lob:NNS repres:VBN locat:NNS read:NN buffer:NN larger:JJR max:NN valu:NN server:NN process:VB datum:NNS 
+read:NN buffer:NN byte:NNS byte:NNS request:VBN client:NN 
+request:NNS 
+assum:VB stream:NN posit:NN read:VB 
+follow:VBG happen:VBZ 
+blobgetbyt:NN instruct:VBZ read:VB byte:NNS advanc:VBG stream:NN posit:NN 
+derbi:NNP fetch:VBZ receiv:VBZ byte:NNS send:VB 
+rest:NN datum:NNS byte:NNS discard:VBN 
+client:NN receiv:VBZ byte:NNS recalcul:VBZ posit:NN length:NN argument:NNS send:VBZ request:NN 
+blobgetbyt:NNS locat:NN execut:VBN 
+detect:VBZ stream:NN posit:NN advanc:VBN reset:VBZ stream:NN posit:NN skip:VBZ read:VBZ posit:NN reach:VBN 
+remain:VBG byte:NNS send:VBN client:NN 
+issu:NN deal:NNS point:NNS avoid:VBG reset:VB stream:NN 
+point:NNS problemat:JJ larg:JJ number:NN byte:NNS read:VBN megabyt:NNS issu:NN 
+unfortun:JJ buffer:NN size:NN worst:JJS case:NN byte:NNS 

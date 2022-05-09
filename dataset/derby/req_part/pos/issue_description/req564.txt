@@ -1,0 +1,26 @@
+nice:JJ overrid:VB optim:NN choic:NN complet:JJ queri:NN plan:NN compact:JJ summari:NN syntax:NN output:NN 
+give:VBN optim:NN handl:VBZ statement:NN requir:VB bind:VBG queri:NN plan:NN queri:NN block:NN level:NN 
+obvious:JJ candid:NNS featur:NN 
+extend:VB derbi:NNP properti:NNPS comment:NNS queri:NN 
+add:VB extra:JJ claus:NN queri:NN block:NNS 
+claus:NN mark:JJ derbi:NNP extens:NN 
+add:VBP fullqueryplan:JJ properti:NN 
+select:VB tablenam:NN 
+derbi:NN properti:NNPS 
+union:NN 
+select:VB tablenam:NN 
+derbi:NN properti:NNPS 
+add:VBP derbi:NN join:VB order:NN claus:NN 
+select:VB tablenam:NN 
+derbi:NN join:VB order:NN 
+union:NN 
+select:VB tablenam:NN 
+derbi:NN join:VB order:NN 
+comparison:NN approach:NNS 
+portabl:NN queri:NN text:NN rdbms:NNS 
+pars:NN derbi:NNP properti:NNPS happen:VBZ grammer:NN 
+pars:VBG happen:VBZ parser:NN 
+portabl:JJ 
+prefer:VBP approach:NN 
+pursu:VBP approach:NN move:VB pars:VBG parser:NN 
+interest:JJ opinion:NNS address:VB featur:NN 

@@ -1,0 +1,1 @@
+prevent load memori caus oom unnecessari evict thread churn requir cach loader interfac method load int max entri default version method call load trim resultset size sophist impl load number entri limit sql queri jdbc cach store 

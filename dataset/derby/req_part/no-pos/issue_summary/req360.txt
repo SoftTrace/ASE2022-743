@@ -1,0 +1,1 @@
+replic npe start slave encrypt databas 

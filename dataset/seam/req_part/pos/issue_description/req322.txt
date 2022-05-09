@@ -1,0 +1,9 @@
+simpler:JJR altern:NN restrict:VB 
+restrict:VB class:NN 
+page:NNS login:NN view:NN 
+page:NN view:NN login:NN requir:VBN true:JJ 
+page:NN 
+page:NNS 
+convers:NN requir:VBN today:NN 
+special:JJ code:NN handl:NN work:NN 
+add:VB messag:NN today:NN 

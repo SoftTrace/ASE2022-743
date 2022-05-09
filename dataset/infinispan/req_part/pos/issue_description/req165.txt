@@ -1,0 +1,14 @@
+issu:NNS 
+invok:VBG handletopologyaffectedcommand:NN calcul:VBZ param:NN invoc:NN 
+logic:NN filter:VBZ command:NNS late:JJ command:NNS happen:VBD state:NN transfer:NN complet:VBN 
+pendingch:NN 
+null:JJ cmdtopologyid:NN localtopologyid:NN 
+write:NNP 
+set:VBN object:NN affectedkey:NNS getaffectedkey:NNS ctx:NN command:NN 
+set:VBN address:NN newtarget:NNS affectedkey:NNS 
+updat:NN topolog:NN prevent:VB cycl:NNS 
+localtopologyid:NN 
+command:NN target:NNS command:NN newtarget:NNS 
+todo:NN find:VB command:NN async:NN receiv:VBN async:NN 
+newtarget:NNS command:NN true:JJ fals:JJ 
+remov:VBN 

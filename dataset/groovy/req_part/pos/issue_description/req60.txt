@@ -1,0 +1,47 @@
+groovi:JJ work:VBG regular:JJ express:NNS easier:JJR java:NNP coupl:NN hole:NNS implement:NN 
+attach:VBN patch:NN add:VBZ coupl:NN simpl:JJ method:NNS regular:JJ express:NNS easier:JJR 
+common:JJ case:NNS search:VB string:NN regular:JJ express:NN pattern:NN 
+match:NN find:VBN match:VBN valu:NN 
+groovi:JJ recommend:VBN creat:VB matcher:NN index:NNS work:VB match:NNS find:VBN 
+assert:VBP york:NNP 
+string:NN doesn:VBD match:VBP regular:JJ express:NN indexoutofboundexcept:NN 
+safe:JJ check:VB match:NNS requir:VBZ entir:JJ string:NN match:VB 
+string:NN 
+york:NNP 
+zip:NN 
+zip:NN 
+inconsist:JJ behavior:NN regular:JJ express:NN happen:VBZ captur:NN group:NNS 
+return:VBZ array:NN match:NN captur:NN group:NNS forc:VBG index:NN array:NN match:NN 
+assert:VB foo:NN car:NN baz:NN 
+groovi:JJ add:VBN closur:NN awar:JJ replac:VB method:NN string:NN class:NN 
+patch:NN add:VBZ complimentari:JJ find:NN method:NN string:NN return:VB string:NN match:VBN closur:NN worri:VB matcher:NN object:NNS array:NN index:NNS 
+call:VB closur:NN full:JJ find:VBN match:NN group:NNS 
+assert:VBP york:NNP 
+find:VB 
+return:VBZ null:JJ match:NN isn:NN find:VBN clean:VB boilerpl:NN safeti:NN check:NNS bit:NN 
+user:NN check:VB null:JJ groovi:JJ truth:NN 
+zip:NN york:NNP 
+find:VB 
+return:NNS null:JJ 
+zip:NN 
+work:VB captur:NN group:NNS manipul:VB valu:NN pass:VB closur:NN find:NN method:NN pass:VBN full:JJ match:NN captur:NN group:NNS collect:NN base:VBN regular:JJ express:NN method:NNS work:VBP 
+captur:NN group:NNS match:NN pass:VBN closur:NN 
+assert:VB bar:NN foo:NN bar:NN baz:NN 
+find:VB 
+match:NN return:NN match:NN 
+captur:NN group:NN 
+assert:VB foo:NN bar:NN baz:NN 
+find:VB 
+match:NN firstlett:NN return:NN firstlett:NN 
+captur:NN group:NNS pass:VBD closur:NN full:JJ match:NN 
+assert:VBP adsf:NN adsf:NN 
+find:VB 
+match:NN areacod:NN exchang:NN stationnumb:NN 
+assert:VBP match:NN 
+assert:VB null:JJ areacod:NN 
+assert:VBP exchang:NN 
+assert:VBP 
+return:VB exchang:VB 
+patch:NN includ:VBZ number:NN unit:NN test:VBZ exercis:VB demonstr:VB function:NN 
+traffic:NN blog:NN post:NN explan:VBG regular:JJ express:NNS groovi:JJ peopl:NNS struggl:VBP bit:NN current:JJ implement:NN 
+patch:NN work:VBG regular:JJ express:NNS easier:JJR intuit:JJ 

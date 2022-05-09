@@ -1,0 +1,2 @@
+user:NNS time:NNS 
+don:NNP support:VB flatten:NNP user:NNS write:VB udf:NNP 

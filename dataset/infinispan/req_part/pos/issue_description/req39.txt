@@ -1,0 +1,13 @@
+introduc:VB dialect:NN attribut:NN jdbc:NN cach:NN store:NNS 
+main:JJ goal:NN provid:VB specif:JJ configur:NN attribut:NN xml:NN configur:NN 
+string:NN key:VBN jdbc:NN store:NN jdbc:NN store:NN datasourc:NN java:NN jboss:NN datasourc:NNS jdbcds:NN dialect:NN mysql:NN 
+custom:NN properti:NN 
+string:NN key:VBN jdbc:NN store:NN jdbc:NN store:NN datasourc:NN java:NN jboss:NN datasourc:NNS jdbcds:NN 
+properti:NN databasetyp:NN properti:NN 
+string:NN key:VBN jdbc:NN store:NN 
+result:VB configur:VBG ispn:NNP emb:VBN mode:NN 
+addstor:NN 
+tabl:NN 
+databasetyp:NN 
+addstor:NN 
+dialect:NN 

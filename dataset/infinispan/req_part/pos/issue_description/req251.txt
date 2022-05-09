@@ -1,0 +1,3 @@
+current:JJ implement:NN find:VB transact:NN manag:NN emb:VBN apach:NNP karaf:NNP 
+apach:NNP karaf:NNP includ:VBZ apach:NNP ari:NNP instal:VBG option:JJ featur:NN transact:NN featur:NN instal:VB transact:NN transact:NN manag:NN jndi:NNP 
+check:VB address:NN 

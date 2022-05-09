@@ -1,0 +1,19 @@
+count number object meet criteria suppos town object list person object write rule 
+find town disabl peopl incom 
+town resid poor children age add teacher children 
+shaki jbr syntax translat 
+rule disabl 
+
+array list size collect person disabl incom town person 
+
+stuff 
+
+rule teacher 
+
+town town popul 
+count arraylist collect person disabl incom town person 
+count size 
+
+town add teacher count size 
+
+work town peopl easili understood exampl 

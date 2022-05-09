@@ -1,0 +1,1 @@
+skew:VBD join:VB skew:VBN outer:JJ join:VB scale:VB presens:NN join:VB key:NNS don:VBP fit:NN memori:NN 

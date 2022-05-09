@@ -1,0 +1,1 @@
+virtual:JJ tabl:NN map:NN argument:NN diagnost:JJ tabl:NNS 

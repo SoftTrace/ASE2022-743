@@ -1,0 +1,2 @@
+method:NNS class:NN call:VBN lock:NN manag:NN cach:NN manag:NN 
+class:NNS extend:VBP declar:VBN final:JJ run:NN time:NN compil:NN optim:VBP method:NN call:VBZ 

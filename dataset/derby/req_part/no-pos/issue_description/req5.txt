@@ -1,0 +1,14 @@
+sql role add parser support 
+sql role add upgrad support 
+derbi role introduc system catalog sysrol databas hard upgrad catalog ad 
+sql role implement author stack sql session context hold 
+current languag connect context user author identifi sql session 
+lcc share context nest connect open store procedur 
+role current role store lcc sql requir 
+author identif push author stack call store procedur 
+sql vol section 
+caller current role call chang store procedur 
+issu implement current role part cell author stack 
+author stack implement part sql session context 
+patch implement push current unqualifi schema part 
+sql session context 

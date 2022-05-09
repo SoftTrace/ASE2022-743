@@ -1,0 +1,2 @@
+minor:JJ conveni:NN concurr:JJ scenario:NNS groovi:JJ annot:NN similar:JJ offer:VBN project:NN lombok:NNP 
+easier:JJR follow:VB good:JJ practic:NN rememb:VB rule:NNS 

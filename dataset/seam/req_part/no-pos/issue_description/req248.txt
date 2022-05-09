@@ -1,0 +1,5 @@
+org jboss seam navig page major pain point method mark privat static don 
+select data model row privat line index data model row count don caus lot pain integr rich face extend data model data scroller basic rang databas row count queri databas avoid data model data model select complet overrid instal page compon copi pretti page custom page chang line talk anti dri give detail 
+addit cool method public static string request scheme face context face context determin request secur url scenario overrid method case ssl acceler acceler termin ssl connect creat http connect app server option pass http header acceler decrypt https packet app server request origin secur redirect 
+class design extens improv 
+

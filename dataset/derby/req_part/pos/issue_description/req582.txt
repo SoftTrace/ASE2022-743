@@ -1,0 +1,6 @@
+top:JJ level:NN rais:VBN error:NN jdbc:NNP version:NN emb:VBN driver:NN 
+primari:JJ purpos:NN class:NN jdbc:NNP minimum:JJ jdbc:NNP level:NN top:JJ level:NN vanilla:JJ special:JJ subtyp:NNS 
+top:JJ level:NN sqlexcept:NN link:VBZ order:NN provid:VB extra:JJ inform:NN messag:NN network:NN server:NN encod:VBG transport:NN wire:NN 
+network:NN server:NN inform:NN standard:NNP chain:NN 
+emb:VBN derbi:NNP rais:VBZ subclass:NN link:VBN link:VBN standard:NNP 
+find:VB elimin:VB chain:NN stack:NN trace:NNS easier:JJR read:VB structur:NN chain:NNS consist:JJ client:NN 

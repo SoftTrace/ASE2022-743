@@ -1,0 +1,2 @@
+jdbc metadata api function implement 
+implement return empti result set compliant implement 

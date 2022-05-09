@@ -1,0 +1,7 @@
+seam:NNP special:JJ process:NN qualifi:JJ 
+alia:NN shorter:JJR factori:NN 
+provid:VB 
+global:JJ import:NN qualifi:NN 
+import:NN compon:NN java:NNP packag:NN 
+import:NN page:NN 
+view:NN 

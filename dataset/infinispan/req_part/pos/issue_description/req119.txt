@@ -1,0 +1,3 @@
+cpu:NN memori:NN perform:NN improv:NN 
+case:NNS singl:JJ key:NN access:VBN command:NN 
+place:NNS evict:VB putforexternalread:NN map:NN context:NN 

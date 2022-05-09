@@ -1,0 +1,1 @@
+bind:NN map:NN inputtext:NN valu:NN model:NN valid:NN fail:VBD string:NN index:NN rang:NN 

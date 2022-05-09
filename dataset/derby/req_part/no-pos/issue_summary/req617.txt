@@ -1,0 +1,1 @@
+enhanc xml function move path queri support 

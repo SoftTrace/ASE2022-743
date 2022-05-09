@@ -1,0 +1,8 @@
+rule java class pattern 
+packag test 
+import org drool chees 
+rule chees 
+type declar class chees creat assign 
+rule packag test natur class packag 
+org drool prevent effici lookup type declar 
+class key 

@@ -1,0 +1,2 @@
+expos:VB addhandl:NN method:NN compon:NN add:VB handler:NNS 
+expos:VB protect:JJ method:NN extend:VB compon:NN handler:NNS defin:VBN altern:JJ locat:NNS add:VBN compon:NN 

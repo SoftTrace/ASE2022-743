@@ -1,0 +1,2 @@
+defin:VB action:NNS paramet:NNS view:NN file:NN 
+import:JJ seam:NN 

@@ -1,0 +1,4 @@
+classpath instanc infinispan modul properti file log idea load extens 
+specif modul log registr happen 
+org infinispan tree lifecycl callback mention enabl 
+registr modul doesn happen peopl experi mislead error 

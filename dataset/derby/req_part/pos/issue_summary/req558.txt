@@ -1,0 +1,1 @@
+reduc:VB number:NN factori:NN method:NNS standard:NNP 

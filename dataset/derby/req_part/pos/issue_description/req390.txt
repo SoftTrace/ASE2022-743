@@ -1,0 +1,6 @@
+instanc:NNS public:JJ static:NN field:NNS intend:VBN constant:JJ final:JJ 
+code:NN safer:JJR constant:JJ field:NNS final:JJ 
+patch:NNP follow:VB problem:NN field:NNS 
+fix:VBN 
+accessor:NN lookup:VB valu:NNS 
+ditto:NN 

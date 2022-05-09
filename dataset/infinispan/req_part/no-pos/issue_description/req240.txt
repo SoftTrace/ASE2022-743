@@ -1,0 +1,2 @@
+infinispan regist transact manag synchron failur commit report user 
+regist synchron faster case default safe version 

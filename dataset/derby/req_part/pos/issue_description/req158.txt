@@ -1,0 +1,24 @@
+default:NN mysql:NN case:NN insensit:JJ string:NN comparison:NNS sql:NNP doc:NNS show:VBN 
+similar:JJ function:NN sybas:NNP 
+true:JJ derbi:NNP 
+chanc:NNS 
+awar:JJ function:NNS forc:VB comparison:NNS upper:JJ case:NN subvert:VBZ index:NNS search:NNS 
+peopl:NNS find:VB featur:NN abscenc:NN 
+great:JJ work:NN 
+terri:NNP 
+sql:NNP doc:NNS 
+start:VB 
+default:NN mysql:NN search:NNS case:NN sensit:JJ charact:NN set:VBZ case:NN insensit:JJ czech:NN 
+search:VBP column:NN valu:NNS start:VBP 
+search:NN case:NN sensit:JJ operand:NNS case:NN sensit:JJ binari:JJ collat:NN 
+compar:VBG column:NN string:NN charact:NN set:NN collat:NNP oper:NN operand:NN collat:NN 
+collat:VB 
+collat:VB 
+collat:VB 
+collat:VB 
+column:NN treat:VBN case:NN sensit:JJ fashion:NN declar:VB case:NN sensit:JJ binari:JJ collat:NN 
+section:NN creat:NNP tabl:NN syntax:NN 
+default:NN search:NN perform:VBN case:NN insensit:JJ fashion:NN 
+mysql:NN full:JJ text:NN search:NN binari:JJ collat:NN index:VBN column:NNS 
+column:NN charact:NN set:NN assign:VBN collat:NN case:NN sensit:JJ full:JJ text:NN search:NNS 
+quot:NN 

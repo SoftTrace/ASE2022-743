@@ -1,0 +1,2 @@
+encrypt:VB unencrypt:JJ databas:NN chang:VB encrypt:NN key:NN encrypt:VBN databas:NN 
+derbi:NNP expos:VB turn:VB unencrypt:JJ encrypt:VBN databas:NN 

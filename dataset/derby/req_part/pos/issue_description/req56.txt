@@ -1,0 +1,40 @@
+error:NN subqueri:NNP return:VB singl:JJ column:NN 
+problem:NN derbi:NN hibern:VB jpa:NNP queri:NNS creat:VBN jpa:NNP engin:NN jpa:NNP spec:NN 
+tabl:NNS subqueri:NNS creat:VBN column:NNS select:JJ claus:NN select:JJ 
+activityid:NN 
+assign:NN queri:NN 
+support:NN derbi:NNP jpa:NNP 
+hibern:VB select:VB distinct:JJ 
+activityid:NN 
+createdbi:NN 
+createdon:NN 
+lastmodifiedbi:NN 
+lastmodifiedon:NN 
+activityd:NN 
+activitytypehierarchyid:NN 
+activitytypeid:NN 
+campaignid:NN 
+comment:NNS 
+descript:NN 
+inputid:NN 
+inputtypeid:NN 
+note:NNS 
+organizationid:JJ 
+parentactivitytypeid:NN activ:NN activ:NN join:VB 
+activityid:NN 
+activityid:NN join:VB 
+activityscheduleid:NN 
+activityscheduleid:NN join:VB activityschedulestatustyp:NN 
+activityschedulestatustypeid:NN 
+activitytypehierarchyid:NN 
+activitytypehierarchyid:NN 
+activitytypehierarchyid:NN 
+exist:VBZ select:VB 
+activityid:NN 
+assign:NN 
+activityid:NN 
+activ:NNP 
+activ:NNP 
+activityid:NN 
+rout:NNP 
+error:NN ejb:NN timer:NN target:NN ear:NN derbi:NN jar:NN servic:NN subqueri:NN return:VB singl:JJ column:NN 

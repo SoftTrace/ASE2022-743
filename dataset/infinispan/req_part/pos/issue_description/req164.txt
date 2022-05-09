@@ -1,0 +1,1 @@
+expos:VBN jmx:NNP expos:VB 

@@ -1,0 +1,7 @@
+databas:NN creat:VBN logdevic:NN point:VBG directori:NN 
+log:NN file:NNS experi:VB error:NNS recoveri:NN 
+error:NN page:NN page:NN version:NN 
+log:NN file:NN chang:NN version:NN log:NN record:NNS 
+page:NN page:NN write:VBN disk:NN 
+avoid:VB problem:NN databas:NN creation:NN fail:VB logdevic:NN 
+point:VBG exist:VBG directori:NN 

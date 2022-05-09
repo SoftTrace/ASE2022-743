@@ -1,0 +1,3 @@
+code:NN switch:VB base:VBN jvm:NNP version:NN 
+support:VBD java:NNP introduc:VBN java:NNP platform:NNS 
+support:VBD jdbc:NNP version:NNS includ:VBG jsr:NNP small:JJ devic:NNS code:NN 

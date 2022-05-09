@@ -1,0 +1,1 @@
+copi:VBG entir:JJ sourc:NN tree:NN generat:VB javadoc:NN ant:NN nest:VBN fileset:NNS javadoc:NN target:NN sourc:NN file:NNS 

@@ -1,0 +1,12 @@
+lack:NN boolean:JJ datum:NNS type:NN derbi:NNP forc:NNS express:NNS express:VB true:JJ fals:JJ 
+generat:VBN sql:NN statement:NNS tend:VBP express:NNS derbi:NNP meta:NN datum:NNS queri:NNS 
+derbi:NNP optim:NNS boolean:JJ true:JJ fals:JJ 
+instanc:NN elimin:VB predic:NNS case:NNS entir:JJ predic:NN constant:JJ true:JJ fals:JJ valu:NNS 
+pars:VBG compil:NN express:NNS rewrit:VBN true:JJ don:VBP benefit:NN boolean:JJ optim:NN code:NN 
+lead:VBZ complex:JJ effici:JJ byte:NN code:NN generat:VBN statement:NNS 
+boolean:JJ constant:NNS assign:VBN select:NN fals:JJ true:JJ match:VB row:NNS fals:JJ row:NNS true:JJ 
+express:NN select:NN oper:NN 
+select:NN assign:VBN 
+oper:NNS select:NN select:NN actual:JJ select:NN express:NN true:JJ 
+lead:VBZ odditi:NNS optim:NN choos:VBG plan:NN chang:VBP claus:NN 
+queri:NN tree:NN replac:VB occurr:NNS comparison:NNS constant:JJ valu:NNS boolean:JJ constant:JJ bind:NN time:NN queri:NNS simpler:JJR byte:NN code:NN select:NN pass:VBD optim:NN accur:JJ result:VBG plan:NN choos:VBN 

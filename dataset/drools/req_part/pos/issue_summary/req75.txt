@@ -1,0 +1,1 @@
+dynam:JJ rule:NNS lock:VB seri:NN updat:NNS fireallrul:NNS option:JJ 

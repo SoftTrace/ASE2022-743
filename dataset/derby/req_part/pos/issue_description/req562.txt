@@ -1,0 +1,3 @@
+find:VBN method:NNS generat:VBP messag:NNS collaps:VBN singl:JJ method:NN vararg:NNS 
+exist:VBP multipl:JJ variant:NNS messag:NN argument:NNS 
+constructor:NNPS sql:NNP 

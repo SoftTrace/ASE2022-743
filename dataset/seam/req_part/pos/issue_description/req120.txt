@@ -1,0 +1,12 @@
+don:VBP reason:NN queri:NNP defin:VBN queri:NN queri:NN 
+general:JJ design:NN queri:NNP oper:VBZ static:NN base:NN queri:NN condit:NNS dynam:JJ 
+item:NN type:NN result:NN list:NN anticip:VBN 
+case:NN defin:VB generic:JJ type:NN object:NN 
+cite:VB start:VBP 
+public:JJ class:NN entityqueri:NN extend:VBZ queri:NN 
+public:JJ class:NN extend:VBZ categori:NNP 
+categori:NN 
+didn:NN cast:VB 
+hand:NN queri:NN compon:NN defin:VBN type:NN work:VB 
+type:NN treat:VBN 
+public:JJ class:NN extend:VBZ 

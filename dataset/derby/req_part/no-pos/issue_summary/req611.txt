@@ -1,0 +1,1 @@
+updat statement collect generat key statement return generat key flag suppli jdbc call 

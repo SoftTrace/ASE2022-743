@@ -1,0 +1,13 @@
+hadoop:JJ user:NN don:VBP number:NN reduc:NNS hadoop:NN reduc:NN default:NN valu:NN 
+previous:JJ hadoop:NN default:NN reduc:NN number:NN good:JJ 
+reduc:NN user:NN 
+user:NN parallel:JJ keyword:NN number:NN reduc:NNS statement:NN wordi:JJ 
+conveni:JJ user:NNS express:VB desir:VBN number:NN reduc:NNS 
+propos:VB 
+add:VB properti:NN pig:NNP 
+user:NN set:VB script:NN 
+set:VBN 
+hint:NN pig:NNP 
+pig:NNP free:JJ optim:VB number:NN reduc:NNS parallel:JJ keyword:NN 
+mechan:NN determin:VB optim:JJ number:NN reduc:NNS grant:VBN overrid:NN parallel:JJ keyword:NN 
+user:NN put:VBD multipl:JJ script:NN entri:NN 

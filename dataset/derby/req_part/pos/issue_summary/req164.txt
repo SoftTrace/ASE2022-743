@@ -1,0 +1,1 @@
+inbuilt:JJ function:NNS sign:NNP sqrt:NNP rand:NNP random:NNP cosh:NNP sinh:NNP tanh:NNP 

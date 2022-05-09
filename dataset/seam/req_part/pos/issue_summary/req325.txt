@@ -1,0 +1,1 @@
+recogn:VB field:NNS super:JJ class:NNS 

@@ -1,0 +1,1 @@
+rev jdbc spec clarifi databas rais sql applic call method close sql object result set preparedstat callabl statement connect statement verifi conform 

@@ -1,0 +1,3 @@
+swing:NN model:NNS follow:VB standard:NN common:JJ oper:NNS int:NN set:NN int:NN element:NN clear:JJ provid:VBP iter:NN method:NN sens:NN 
+request:NN enhanc:VB swing:NNP class:NNS model:NNS addit:JJ method:NNS bridg:VBP gap:NN collect:NN groovi:JJ method:NNS 
+port:NN 

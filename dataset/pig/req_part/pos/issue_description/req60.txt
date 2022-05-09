@@ -1,0 +1,7 @@
+conveni:JJ implement:VB wire:VB pig:NN script:NN 
+jira:NN support:VB set:VBG listen:NN constructor:NN arg:NNS command:NN 
+noformat:JJ 
+pig:NN mylisten:NN foo:NN bar:NN bat:NN 
+pig:NN 
+noformat:JJ 
+listen:NNP singl:JJ string:NN constructor:NN pass:VBN foo:NN bar:NN bat:NN 

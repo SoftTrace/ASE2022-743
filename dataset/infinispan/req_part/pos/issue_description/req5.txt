@@ -1,0 +1,42 @@
+prevent:VB deadlock:NNS ispn:NNP transact:NNS sort:VB key:NNS call:VBG method:NN acquir:VBZ lock:NN 
+don:VBP lock:NN stripe:NN lock:NN key:NN follow:VBG case:NN creat:VB deadlock:NN 
+thread:NN 
+acquir:VBP lock:NN 
+acquir:VBP lock:NN 
+acquir:VBN lock:NNS releas:VBN 
+thread:NN 
+acquir:VBP lock:NN 
+acquir:VBP lock:NN 
+acquir:VBN lock:NNS releas:VBN 
+prevent:VB deadlock:NN sort:VB key:NNS lock:NN acquisit:NN order:NN 
+lock:NN stripe:NN sort:VBP key:NNS face:VB deadlock:NNS predict:VB lock:NNS distribut:VBN key:NNS 
+follow:VBG test:NN case:NN creat:VBZ deadlock:NN lock:NN stripe:NN enabl:VBN 
+public:JJ class:NN extend:VBZ 
+unpredict:JJ deadlock:NN implement:NN 
+key:NNS 
+map:VBN lock:NN 
+map:VBN lock:NN 
+case:NN key:NNS sort:VBN deadlock:NN 
+public:JJ void:NN testuselockstripingtrueunpredictabledeadlock:NN throw:VBZ 
+manag:NN 
+true:JJ 
+setlockacquisitiontimeout:NN 
+final:JJ cach:NN string:NN string:NN cach:NN 
+final:JJ 
+final:JJ signal:NNP 
+final:JJ atomicrefer:NN atomicrefer:NN 
+thread:NN 
+public:JJ void:NN run:NN 
+aaaaaaaa:NN valu:NN 
+aaaaaaaaaaaaaa:NN valu:NN 
+true:JJ 
+catch:NN 
+start:VB 
+thread:NN 
+public:JJ void:NN run:NN 
+aaaaaaaaaaa:NN 
+aaaaaaaaaaaaa:NN 
+true:JJ 
+catch:NN 
+start:VB 
+lock:NN public:JJ api:NN sort:VB key:NNS accord:VBG valu:NN avoid:VB deadlock:NNS lock:NN stripe:NN enabl:VBN 

@@ -1,0 +1,4 @@
+provid:VB mock:JJ support:NN pure:JJ groovi:JJ interceptor:NNPS 
+extern:JJ mock:JJ librari:NN 
+rang:NNS closur:NNS demand:VBG behaviour:NN 
+strict:JJ loos:JJ expect:NNS term:NNS sequenc:NN depend:NN demand:NN specif:NNS effect:VBD method:NN call:NNS 

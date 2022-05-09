@@ -1,0 +1,4 @@
+support:VB xml:NN bind:NNS descr:NNP class:NNS 
+start:VBG 
+xmlbean:NNS similar:JJ 
+idea:NN provid:VB xml:NN support:NN xml:NN author:NN generat:VBG tool:NNS provid:VBP nativ:JJ drool:NNP xml:NN format:NN xslt:NN ruleml:NN owl:NN descr:NNP ast:NNP class:NNS 

@@ -1,0 +1,8 @@
+open web applic secur project suggest harder attack crack hash password 
+builtin authent servic doesn follow suggest doesn add random salt perform hash oper 
+propos add properti configur builtin random salt run multipl iter hash oper 
+derbi authent builtin salt length length random salt add byte 
+derbi authent builtin iter number time perform hash oper 
+suggest set default random salt multipl iter default owasp page mention bit salt byte minimum iter consult secur expert thought recommend sound believ recommend salt length revis suggest byte price pay byte store byte extra user databas don reason set default derbi authent builtin salt length high set default derbi authent builtin iter authent user slower point experi machin suggest run default hash function sha time authent establish connect databas neglig cost 
+salt length set iter set hash exact previous version 
+properti respect data dictionari version higher user soft upgrad databas log downgrad 

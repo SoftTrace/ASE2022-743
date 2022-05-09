@@ -1,0 +1,7 @@
+exist:VBZ method:NN getworkingmemoryentrypoint:NN string:NN return:VB entri:NN point:NN 
+api:NN call:NN expos:VBN collect:NN entri:NN point:NNS gather:VBN 
+collect:NNP getworkingmemoryentrypoint:NNS 
+develop:NNS maintain:VB entri:NN point:NNS list:NN point:NNS gui:NN test:VBZ rule:NNS select:NN entri:NN point:VBP event:NN enter:VBZ 
+develop:NN forc:VBN hold:VB sync:NN inform:NN drool:NNS code:NN messi:JJ prone:JJ bug:NNS fault:NNS 
+typic:JJ hold:VB list:NN entri:NN point:NNS creation:NN hope:VBP code:NN remov:VBZ entri:NN point:NN updat:VBG list:NN 
+discuss:VBN tirellus:NNS irc:NNP 

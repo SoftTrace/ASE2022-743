@@ -1,0 +1,6 @@
+type:NNS creat:VBN enhanc:VBN drl:NN declar:NN construct:NN retriev:JJ knowledgebas:NN 
+declar:VB getdeclar:NN string:NN pkg:NN string:NN 
+declar:VB object:NN provid:VB getter:NNS string:NN getpackagenam:NN getnam:NN map:NN string:NN object:NN getmetadata:NN rule:NN 
+declar:VB object:NN provid:VB class:NN 
+return:VBG creat:VBN enhanc:VBN 
+declar:VB object:NN provid:VB long:JJ getinferredexpir:NNS return:VBG event:NN infer:VBN expir:NN offset:VBN 

@@ -1,0 +1,12 @@
+run:VBN situat:NN creat:VB map:NN equal:JJ size:JJ list:NNS list:NN key:NNS list:NN valu:NNS 
+find:VB compact:JJ doesn:VBD requir:VBP loop:NN intermedi:JJ variabl:NN 
+add:VB method:NN map:NN 
+list:NN keylist:NN list:NN valuelist:NN 
+assert:VBP 
+int:NN 
+keylist:NN valuelist:NN 
+deleg:NN 
+call:VB put:NNP map:NN pass:VBG equal:JJ size:JJ list:NNS 
+assert:VB 
+put:NNP 
+worth:JJ add:VBG base:NN gdk:NN 

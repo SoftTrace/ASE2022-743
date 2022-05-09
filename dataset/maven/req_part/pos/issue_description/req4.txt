@@ -1,0 +1,3 @@
+manag:VBN depend:NNS incorpor:VBN project:NN project:NN inherit:NN 
+problemat:JJ includ:VB project:NNS requir:VBN depend:NNS parent:NN 
+issu:NN creat:VBN track:VB propos:NNS resolut:NN issu:NN 

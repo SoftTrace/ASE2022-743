@@ -1,0 +1,8 @@
+rule:NN java:NN class:NN pattern:NN 
+packag:NN 
+import:NN 
+rule:NN chees:NN 
+typedeclar:NN class:NN creat:VBN assign:VBN 
+rule:NN packag:NN natur:JJ class:NN packag:NN 
+prevent:VBZ effici:JJ lookup:NN typedeclar:NN 
+class:NN key:NN 

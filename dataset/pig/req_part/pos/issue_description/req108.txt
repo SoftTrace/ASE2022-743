@@ -1,0 +1,1 @@
+autocomplet:NNP keyword:NNS context:NNS nice:JJ complet:VBD alia:NNS alia:NN expect:VBN 

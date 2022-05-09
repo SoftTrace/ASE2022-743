@@ -1,0 +1,23 @@
+note:VB affect:VB distribut:VBN replic:VBN cach:NN mode:NNS 
+cluster:NNS symmetr:JJ 
+assum:VBP node:NNS 
+infinispan:NNP assum:VBZ node:NN set:NN cach:NNS deploy:VBN node:NN design:VBN 
+problem:NNS applic:NNS cach:NNS defin:VBN start:VBN node:NN 
+cach:NN manag:NN cach:NNS dist:NN mode:NN deploy:VBN node:NNS 
+handl:VB follow:VBG scenario:NNS 
+stop:VB 
+trigger:VB rehash:NN cach:NN 
+rehash:VBG trigger:VBN view:NN chang:NN 
+failur:NN rehash:NN stop:VBG cach:NN datum:NNS loss:NN backup:NNS give:VBN cach:NN entri:NN stop:VBN 
+dist:NN mode:NN cach:NN start:VBN 
+coordin:NN join:VB request:NN send:VBN stick:VBN infinit:JJ loop:NN cach:NN manag:NN cach:NN 
+node:NN start:VBN 
+cach:NN cach:NN manag:NN start:VBN 
+trigger:VBZ rehash:NN cach:NNS instanc:NNS 
+solv:VB propos:NN involv:VB 
+provid:VBG cach:NN coordin:NN distribut:VBN cach:NN coordin:VB rehash:NNS 
+group:NNP coordin:NN cach:NNS share:VB cach:NN coordin:NN 
+maintain:VB list:NN member:NNS subset:NN member:NNS 
+concept:NN leav:VB messag:NN broadcast:NN cach:NN stop:VBZ 
+serv:VB effect:NN view:NN chang:NN member:NN remov:VBN affect:VBG singl:JJ cach:NN 
+place:NN proper:JJ solut:NN devis:VBN handl:VB asymmetr:JJ distribut:VBN cluster:NNS 

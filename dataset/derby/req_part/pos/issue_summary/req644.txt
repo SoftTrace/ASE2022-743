@@ -1,0 +1,1 @@
+partial:JJ log:NN record:NN write:VBZ occur:VB order:NN write:VBZ handl:VBN recoveri:NN 

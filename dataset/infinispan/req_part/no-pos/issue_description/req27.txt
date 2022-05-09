@@ -1,0 +1,4 @@
+modifi evict size jmx dmr 
+cach bound modifi evict size runtim jmx dmr 
+evict size paramet configur runtim 
+case dynam runtim configur max entri paramet evict configur decreas max entri dynam system start run oom 

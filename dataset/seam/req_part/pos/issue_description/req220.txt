@@ -1,0 +1,3 @@
+folk:NNS request:VBP restrict:NNS combin:VBN 
+depend:VBZ case:NN sens:NN give:VB develop:NN option:NN 
+limit:NNS restrict:NNS queri:NNP open:VBZ coupl:NN case:NNS extens:NN 

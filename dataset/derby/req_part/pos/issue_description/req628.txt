@@ -1,0 +1,2 @@
+field:NNS columngotupd:JJ copyofdatabaserow:NN alloc:VBN maintain:VBN requir:VBN result:NN set:NN updat:JJ 
+improv:NN execut:NN rate:NN simpl:JJ valu:NNS claus:NN fix:VBG 

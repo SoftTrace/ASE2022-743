@@ -1,0 +1,6 @@
+function:NNS sysfun:NNP schema:NN method:NNS 
+method:NNS 
+java:NNP add:VBD method:NNS function:NNS drop:VB implement:NN 
+cosh:NN 
+sinh:NNP 
+tanh:NN 

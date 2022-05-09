@@ -1,0 +1,13 @@
+jsr:NNP interfac:NN subset:NN jdbc:NNP jdbc:NNP implement:NN class:NNS extend:VB jsr:NNP implement:NN class:NNS 
+jsr:NNP jdbc:NN implement:NN class:NNS extend:VBP common:JJ base:NN class:NN 
+reason:NN structur:NN jsr:NNP compil:VB target:NNS option:JJ jdbc:NNP class:NNS depend:VB 
+class:NN javadoc:NN comment:NN 
+implement:NN 
+add:VBZ function:NN abstract:JJ parent:NN class:NN 
+derbi:NNP compil:VBN parent:NN 
+class:NN concret:JJ class:NN environ:NN 
+jdbc:NNP specif:JJ class:NNS 
+download:JJ cdc:NNP foundat:NNP 
+jar:NN file:NNS class:NN requir:VBN compil:VBN option:JJ target:NN 
+jsr:NNP code:NN option:JJ comment:NN suggest:VBZ base:NN class:NN 
+simplifi:VB class:NN tree:NN 

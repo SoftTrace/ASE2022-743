@@ -1,0 +1,1 @@
+run standalon network server secur manag default 

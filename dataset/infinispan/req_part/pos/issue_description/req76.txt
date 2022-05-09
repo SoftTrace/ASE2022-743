@@ -1,0 +1,16 @@
+add:VB jmx:NN hook:NN obtain:VB hibern:NNP search:VB statist:NNPS properti:NN 
+index:NN enabl:VBD true:JJ indexlocalon:NN true:JJ 
+properti:NNS 
+properti:NN valu:NN true:JJ 
+properti:NNS 
+index:NN 
+tough:JJ properti:NN multipl:JJ registr:NN registr:NN cach:NN 
+nice:JJ wrap:VB statist:NNPS object:VBP actual:JJ cach:NN object:NN mbean:NN 
+guess:VBP implement:NN 
+search:NN factori:NN statist:NNS 
+statist:NNS 
+getstatist:NNS 
+wrap:NN search:NN factori:NN statist:NNS 
+mbean:NN statist:NNS 
+expos:VB mbean:NN 
+object:NNP mbean:NN 

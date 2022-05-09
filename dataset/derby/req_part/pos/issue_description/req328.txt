@@ -1,0 +1,2 @@
+good:JJ simplifi:VB derbi:NNP build:VB product:NN build:VBN box:NN check:VBN derbi:NNP repositori:NN 
+step:NN goal:NN good:JJ build:VB support:NN download:VB proprietari:JJ librari:NNS 

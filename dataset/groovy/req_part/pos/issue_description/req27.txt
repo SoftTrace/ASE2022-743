@@ -1,0 +1,6 @@
+provid:VB result:NN addit:NN map:NNS 
+assert:VB 
+term:NNS map:NNP semant:NNS prioriti:NN duplic:JJ key:NNS left:JJ 
+java:NNP add:VBZ element:NNS give:VBN map:NN side:NN preced:NN 
+assert:VB 
+origin:JJ email:NN thread:NN 

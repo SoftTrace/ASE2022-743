@@ -1,0 +1,30 @@
+work:VBG map:NNPS scenario:NNS 
+special:JJ default:NN valu:NN key:JJ doesn:JJ exist:VBP 
+null:JJ 
+creat:VB object:NN key:JJ doesn:JJ exist:VBP 
+propos:VBN syntax:NN 
+map:NN defaultvalu:NN xxx:NN 
+assert:VB 
+assert:VB xxx:NN 
+map:NN 
+assert:VB 
+assert:VB 
+assert:VB 
+map:NN 
+assert:VB 
+assert:VB 
+assert:VB 
+abstract:NNP constant:JJ valu:NN closur:NN creat:VBG map:NN valu:NNS 
+key:JJ doesn:JJ exist:VBP constant:JJ return:VBN result:NN run:VBG closur:NN 
+key:NN paramet:NN closur:NN 
+note:NN check:VBG key:JJ doesn:JJ exist:VBP suffici:JJ check:VB return:VBZ null:JJ map:NNS null:JJ valu:NNS 
+implement:NN note:NN suggest:VBP implement:VB wrapper:NN defaultvaluemap:NN handl:VBZ default:NN case:NN 
+method:NNS wrap:VBN map:NN 
+public:JJ object:NN object:NN key:NN 
+containskey:NN key:NN 
+return:NN defaultvalu:NN 
+return:NN key:NN 
+open:VB question:NNS 
+happen:VBZ closur:NN return:VBZ null:JJ 
+key:NN valu:NN pair:NN shouldn:NN add:VBN case:NN 
+add:VB 

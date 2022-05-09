@@ -1,0 +1,3 @@
+mortar:NNP easi:JJ store:VB pars:VB script:NN map:NN reduc:VB plan:NN 
+add:VBD xml:NN output:NN format:NN plan:NN easier:JJR 
+add:VBD flag:NN track:NN store:NN load:NN origin:JJ script:NN associ:VBN alia:NN temporari:JJ store:NN load:NN generat:VBN pig:NNP 

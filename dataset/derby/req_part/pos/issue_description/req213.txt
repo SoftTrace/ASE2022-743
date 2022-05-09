@@ -1,0 +1,2 @@
+jira:NNP separ:VBZ databas:NN owner:NN power:NNS system:NN privileg:NNS master:NN secur:NN jira:NNP 
+restrict:VB follow:VBG power:NNS databas:NN owner:NN moment:NN shutdown:NN upgrad:VB encrypt:NN 

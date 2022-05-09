@@ -1,0 +1,6 @@
+network:NN server:NN listen:VB port:NN listen:VBZ permiss:NN grant:VBN basic:JJ server:NN polici:NN instal:VBN default:NN 
+doesn:JJ problem:NNS case:NNS jvm:NNP default:NN polici:NN grant:NNS code:NN basi:NNS listen:VB rang:NN port:NNS derbi:NNP network:NN server:NN port:NN rang:NN 
+network:NN server:NN reli:VB fact:NN 
+run:VB network:NN server:NN port:NN port:NNS happen:VBP rang:NN give:VBN cart:NN blanch:NN platform:NN default:NN polici:NN 
+network:NN server:NN run:VB port:NNS basic:JJ polici:NN custom:NN polici:NN secur:NN manag:NN disabl:JJ 
+default:NN polici:NN permiss:NN explicit:JJ 

@@ -1,0 +1,4 @@
+add:VB remain:VBG jdbc:NNP bit:NNS java:NNP javadoc:NN 
+addit:NN jdbc:NNP bit:NNS visibl:JJ java:NNP javadoc:NN coupl:NN item:NNS jdbc:NNP mainten:NN review:NN spec:NN 
+spec:NN publish:VBN jcp:NNP websit:NN 
+attach:VB function:JJ spec:NN remain:VBG bit:NNS 

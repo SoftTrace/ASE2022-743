@@ -1,0 +1,8 @@
+review:VBG network:NN server:NN code:NN profil:NN 
+area:NNS show:VBD potenti:NN provid:VBG perform:NN 
+improv:NN 
+function:NNS optim:VBG prevent:VB unneed:JJ object:NN 
+creation:NN excess:JJ decod:NN 
+ddmwriter:NN ddmreader:NN system:NNP routin:NNPS 
+write:VBG code:NN function:NNS copi:NN array:NNS 
+pad:NN string:NNS 

@@ -1,0 +1,4 @@
+derbi:NNP object:NNS declar:VB function:NN procedur:NN argument:NN type:NN blob:NN clob:NNP 
+kind:NNS argument:NNS sql:NN standard:NN match:NN java:NNP type:NNS 
+summari:NN attach:VBN 
+lift:VB restrict:NN function:NNS procedur:NNS larg:JJ object:NN argument:NNS 

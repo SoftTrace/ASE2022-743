@@ -1,0 +1,6 @@
+replic:NN test:NNS invok:VBP order:NN spawn:VB process:NNS 
+run:VBP host:NN main:JJ test:NN process:NN start:VBN helper:NN method:NN 
+test:NNS helper:NN method:NN easier:JJR pass:VB specif:JJ flag:NNS creat:VBN test:NN run:NN 
+note:VB replic:NN test:NNS code:NN start:VBG process:NNS remot:JJ host:NN ssh:NN 
+local:JJ process:NNS start:VBN helper:NN method:NN 
+replic:NN test:NNS run:VBP part:NN spawn:VBN process:NNS run:VBP 

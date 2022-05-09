@@ -1,0 +1,6 @@
+discuss drool boot camp add support rule metadata 
+rule xyz 
+foo bar 
+foo bar 
+
+

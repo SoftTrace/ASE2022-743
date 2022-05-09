@@ -1,0 +1,1 @@
+add:VB configur:JJ properti:NNS configur:NN lookup:NN class:NN 

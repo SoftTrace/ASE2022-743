@@ -1,0 +1,1 @@
+publish:VB rule:NN meta:NN datum:NNS modifi:VBZ insert:NNS retract:NNS 

@@ -1,0 +1,26 @@
+sum:VBG long:NNS accumul:VBP 
+number:NN accumul:VBP 
+sum:NN 
+problem:NNS 
+loss:NN precis:NN long:JJ sum:NN return:VB 
+sum:NN incorrect:JJ 
+loss:NN perform:NN sum:VBG doubl:JJ total:NN slower:JJR sum:VBG long:JJ total:NN integ:NN total:NN 
+complex:NN minor:JJ agre:VBP argument:NN number:NN abstract:NN doesn:VBD bring:VB valu:NN case:NN 
+worthless:JJ complex:NN 
+solut:NN propos:NN discuss:VBN mario:NNP 
+base:VBN argument:NN type:NN sum:NN function:NN compil:NN select:VBZ sum:NN function:NN implement:NN 
+similar:JJ java:NN overload:NN mechan:NN select:VBZ method:NN implement:NN 
+support:NN sum:NN long:NNP 
+long:NNP accumul:VBP 
+sum:NN 
+sum:NN 
+accumul:VBP 
+sum:NN 
+support:VBP sum:NN integ:NN sum:NN 
+work:VBZ function:NNS jira:NN issu:NN 
+special:JJ case:NN sum:NN number:NN default:VB sum:NN doubl:JJ compat:NN 
+number:NN accumul:VBP 
+sum:NN 
+special:JJ case:NN sum:VB integ:NNS long:JJ total:NN user:NN 
+long:NNP accumul:VBP 
+sum:NN 

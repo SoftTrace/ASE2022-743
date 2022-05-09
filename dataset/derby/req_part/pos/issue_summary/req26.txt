@@ -1,0 +1,1 @@
+time:NN compil:NN comparison:NN oper:NN collat:NN type:NNS operand:NNS match:VB throw:VB meaning:JJ error:NN messag:NN 

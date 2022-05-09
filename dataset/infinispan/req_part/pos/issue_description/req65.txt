@@ -1,0 +1,3 @@
+creat:VB notif:NN send:VB notif:NN cach:NN entri:NN evict:VBN expir:VBN 
+mage:VB cach:NN entri:NN valu:NN send:VBN event:NN 
+notif:NN send:VB entri:NN valu:NN event:NN 

@@ -1,0 +1,5 @@
+insert:VBG tabl:NN function:NN lot:NN import:VBG file:NN 
+derbi:NNP limit:VBN visibl:NN size:NN extern:JJ datum:NNS sourc:NN 
+user:NN import:VB larg:JJ datum:NNS set:VBN 
+import:NN procedur:NNS assum:VBP derbi:NNP appli:VB bulk:NN insert:NN optim:NN import:VBG file:NN 
+assumpt:NN reason:JJ tabl:NN function:NN sourc:NN stream:NN insert:NNP 

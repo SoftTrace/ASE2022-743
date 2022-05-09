@@ -1,0 +1,1 @@
+add:VB support:NN time:NN unit:NNS pars:VBG fix:NN tempor:JJ oper:NNS document:VB 

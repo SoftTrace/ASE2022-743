@@ -1,0 +1,5 @@
+wait:VBG java:NNP modul:NN system:NN project:NN jigsaw:NN decid:VBN defin:VB subset:NNS java:NNP platform:NN specif:NN jep:NN 
+quot:NN jep:NNP featur:NN intend:VBN enabl:VB migrat:NN applic:NNS build:VBN top:NN java:NNP connect:NNP devic:NN configur:NN cdc:NNP profil:NNS java:NNP platform:NN part:NN long:JJ term:NN effort:NN converg:VB cdc:NNP java:NNP 
+good:JJ derbi:NNP run:VB limit:JJ profil:NNS 
+current:JJ propos:NN place:NNS jdbc:NNP compact:NNP profil:NNP link:NN librari:NNS derbi:NNP jndi:NN profil:NNP larger:JJR 
+good:JJ derbi:NNP run:VB smallest:JJS posibl:JJ platform:NN profil:NNP involv:VB chang:NNS derbi:NNP limit:VB function:NN librari:NNS 

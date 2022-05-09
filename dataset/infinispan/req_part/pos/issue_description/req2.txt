@@ -1,0 +1,24 @@
+client:NN support:VB separ:JJ cach:NN 
+asymmetr:JJ cluster:NNS cach:NN consist:JJ hash:NN primari:JJ owner:NN key:NN cach:NN owner:NN cach:NNS 
+symmetr:JJ cluster:NN client:NN access:VB distribut:VBN replic:VBN cach:NNS 
+order:NN send:VB oper:NNS correct:JJ owner:NN client:NN cach:NN 
+revisit:VB cach:NN predefinit:NN limit:NN cach:NN server:NNS 
+primari:JJ reason:NNS infinispan:NNP server:NNS requir:VBP predefin:JJ cach:NNS start:VBN startup:NN invoc:NNS undefin:JJ cach:NNS 
+concurr:JJ cach:NN startup:NNS result:VBG npe:NNS solv:VBN day:NNS 
+infinispan:NNP issu:NNS deal:VBG asymmetr:JJ cluster:NNS 
+issu:NNS resolv:VBN revisit:VB limit:NN 
+add:VB support:NN segment:NN base:VBN protocol:NN 
+server:NN chang:VBN version:NN virtual:JJ node:NNS base:VBN segment:NN base:VBN client:NN stay:VBD 
+server:NN translat:VB server:NN client:NN translat:NN imperfect:JJ 
+client:NN comput:VBZ primari:JJ owner:NN server:NN 
+client:NN slower:JJR number:NN segment:NNS increas:NNS server:NN perform:NN stay:VBZ 
+default:NN factori:NN 
+fix:VBN good:JJ default:NN 
+variat:NN number:NN segment:NNS node:NN segment:NNS primari:JJ segment:NNS accept:JJ purpos:NNS 
+major:JJ advantag:NN schf:NNP depend:VBZ cach:NN member:NNS order:NN join:VBD 
+user:NNS expect:VBP key:NN map:VB node:NN cach:NNS cach:NNS member:NNS 
+downsid:NN schf:NNP test:NN segment:NN ownership:NN differ:VBZ test:NN run:NNS base:VBN random:JJ address:NN assign:VBN node:NN 
+test:NNS depend:VBP key:JJ ownership:NN 
+verifi:VB number:NN segment:NNS move:VBN schf:NNP compar:JJ number:NN segment:NNS move:VBN 
+index:NNP affin:NNP support:NN 
+describ:VBN 

@@ -1,0 +1,5 @@
+retriev node xml easi clone node process chang origin xml 
+workaround 
+def clone node xml parser pars text xml util serial xml node 
+lot easier node object copi constructor clone support 
+

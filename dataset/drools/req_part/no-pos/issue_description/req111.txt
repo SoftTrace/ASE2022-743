@@ -1,0 +1,1 @@
+xml format support variabl paramet data type boolean integ object list 

@@ -1,0 +1,11 @@
+relationship:NN configur:NN cach:NNS 
+programmat:JJ api:NN abil:NN 
+read:VB exist:VBG configur:NN creat:VB declar:JJ config:NN 
+introduc:VB concept:NN configur:NN inherit:NN 
+local:JJ cach:NN evict:NN cach:NN 
+evict:NN strategi:NN lir:NN maxentri:NNS 
+local:JJ cach:NN 
+local:JJ cach:NN mycach:NN templat:NN evict:NN cach:NN 
+cach:NN templat:NNS abstract:JJ instanti:VBN cach:NNS 
+local:JJ cach:NN evict:NN cach:NN abstract:NN true:JJ 
+local:JJ cach:NN 

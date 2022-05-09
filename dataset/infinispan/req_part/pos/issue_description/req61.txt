@@ -1,0 +1,3 @@
+portofil:NNP defin:VBG schema:NN hold:VBN separ:JJ cach:NN 
+user:NNS manag:VB schema:NN hotrod:NN client:NN 
+secur:NN 

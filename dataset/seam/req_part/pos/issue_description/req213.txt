@@ -1,0 +1,18 @@
+peopl:NNS report:VBP authent:NN method:NN call:VBN 
+condit:NNS lead:VB problem:NN common:JJ develop:NNS 
+condit:JJ render:NN 
+contrari:JJ popular:JJ understand:NN 
+write:VBN 
+simpl:JJ style:NN accessor:NN method:NN 
+attempt:VB perform:VB login:NN user:NN authent:VBN method:NN unsuit:JJ condit:JJ render:NN 
+troublesom:JJ happen:VBZ success:JJ login:NN login:NN fail:VBZ guest:NN user:NN brows:NN page:NN call:VBZ method:NN seam:NNP trigger:VBZ authent:NN method:NN arbitrari:JJ point:NNS time:NN 
+simpl:JJ workaround:NN 
+fals:JJ 
+creat:VB method:NN ident:NN compon:NN check:VBZ user:NN princip:NN null:JJ 
+public:JJ boolean:JJ authent:NNP 
+return:VB princip:NNP 
+null:JJ 
+prefer:JJ check:VB user:NN secur:NN princip:NN 
+note:NN doubl:JJ messag:NN add:VBP authent:NN method:NN 
+seam:NNP build:VBN authent:NN messag:NNS don:VBP doubl:JJ messag:NN quietlogin:NN method:NN call:VBN log:NNP skip:VBZ add:VBG messag:NNS 
+aren:VBP privi:JJ inform:NN authent:NN method:NN call:VBN quietlogin:NN messag:NN registr:NN purpos:NNS 

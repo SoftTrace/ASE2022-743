@@ -1,0 +1,4 @@
+spin:NN 
+request:VBN featur:NN distinct:JJ entri:NNS assign:VBN custom:NN arbitrari:JJ group:NNS 
+time:NN group:NNS flush:VBN demand:NN knowledg:NN entri:NN key:NNS 
+featur:NN exist:VBZ open:JJ sourc:NN cach:NN librari:NN 

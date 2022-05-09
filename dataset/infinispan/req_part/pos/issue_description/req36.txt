@@ -1,0 +1,20 @@
+follow:VB servic:NN registri:NN style:NN approach:NN deleg:VBG lifecycl:NN event:NNS modul:NNS regist:VB hook:NNS 
+purpos:NN modul:NNS perform:VB setup:NN 
+tree:NN modul:NN regist:VB specif:JJ type:NNS marshal:NNP 
+queri:NN modul:NN regist:VB interceptor:NN cach:NNP cach:NNP enabl:VBN queri:VBG 
+approach:NN jdk:NN servic:NN registri:NN style:NN approach:NN 
+core:NNP modul:NN defin:VBZ modulelifecycl:NN interfac:NN 
+interfac:VB 
+void:JJ cachemanagerstart:NN gcr:NNP 
+void:JJ cachemanagerstart:JJ gcr:NNP 
+void:JJ cachemanagerstop:NN gcr:NNP 
+void:JJ cachemanagerstop:NN gcr:NNP 
+void:JJ cachestart:NN string:NNP cach:NNP 
+void:JJ cachestart:JJ string:NNP cach:NNP 
+void:JJ cachestop:NN string:NNP cach:NNP 
+void:JJ cachestop:NN string:NNP cach:NNP 
+modul:NN implement:VB interfac:NN 
+registr:NNP perform:VBN modul:NN maintain:VBG infinispan:NN modul:NN file:NN classpath:NN 
+modulelifecycl:NN impl:NN 
+start:VBG scan:VBZ classpath:NN infinispan:JJ modul:NN regist:VBZ listen:NNS 
+cach:NN manag:NN start:VBZ stop:VBZ cach:NNS start:VBP stop:VBP callback:NNS invok:VBN 

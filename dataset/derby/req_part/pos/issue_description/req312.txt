@@ -1,0 +1,4 @@
+side:NN effect:NN tostr:NN warn:NN chang:VB format:NN start:VBG sqlwarn:NN match:VB warn:NNS creat:VBN network:NN client:NN side:NN 
+comment:NNS correct:JJ packag:NN 
+note:NN generatecssqlwarn:NN remov:VBN doesn:VBD 
+note:NN sqlwarningfactori:JJ extend:VB 

@@ -1,0 +1,1 @@
+typedeclar:NNS java:NNP class:NNS pattern:NNS creat:VBN wrong:JJ packag:NN 

@@ -1,0 +1,1 @@
+expos:VB mutabl:JJ configur:NN attribut:VBZ jmx:NNP 

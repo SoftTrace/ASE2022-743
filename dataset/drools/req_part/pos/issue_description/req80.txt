@@ -1,0 +1,1 @@
+test:NN effect:JJ date:NN 

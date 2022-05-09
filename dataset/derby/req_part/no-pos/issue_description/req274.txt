@@ -1,0 +1,11 @@
+network client connect databas retriev error messag print messag token ascii token separ derbi log locat good messag format present messag user ascii charact 
+reproduc databas shutdown databas shutdown client retriev actual messag server print token 
+start network server 
+java org apach derbi drda network server control start 
+java org apach derbi tool 
+version 
+connect jdbc derbi localhost wombat creat true 
+connect jdbc derbi localhost wombat shutdown true 
+error derbi sql error sqlcode sqlstate sqlerrmc wombat databas wombat shutdown server log derbi log 
+
+note actual offend charact replac output bug break jira xml retriev 

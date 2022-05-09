@@ -1,0 +1,10 @@
+union:NNP node:NN generat:VB byte:NN code:NN call:VB method:NN 
+activ:NN activ:NN 
+int:NN resultsetnumb:NN 
+doubl:JJ optimizerestimatedrowcount:NN 
+doubl:JJ optimizerestimatedcost:NN 
+closecleanup:NN method:NN pass:VBN null:JJ result:VBP set:NNS tree:NN top:JJ 
+pass:VBG result:NN set:NN effici:JJ setclosemethod:NN call:VBN top:JJ result:NN set:NN 
+closecleanup:NN method:NN interfac:NN call:VB reflect:NN 
+appli:VBZ node:NN closecleanup:NN method:NN 
+split:NNP 

@@ -1,0 +1,9 @@
+list:NN 
+method:NN invok:VBZ method:NN item:NNS list:NN 
+support:VB list:NN 
+method:NN invok:VBZ method:NN item:NNS list:NN list:NNS list:NN 
+assert:VB 
+assert:VB animallist:NNS 
+size:NN 
+assert:VB animallist:NNS 
+size:NN 

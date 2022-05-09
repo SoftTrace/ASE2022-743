@@ -1,0 +1,9 @@
+great:JJ altern:JJ form:NN min:NN max:NN closur:NN return:VBZ valu:NN compar:VBN comparison:NN 
+choos:VB desir:JJ element:NN list:NN express:NN comput:VBZ desir:NN 
+wordi:JJ write:VB desir:NN express:NN explicit:JJ argument:NNS closur:NN 
+great:JJ maxv:NN write:VB 
+maxv:NN maximum:NN valu:NN 
+minv:NN 
+trivial:JJ implement:VB global:JJ function:NN 
+minv:NN closur:NNP 
+return:NN 

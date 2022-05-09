@@ -1,0 +1,20 @@
+run select max index column big 
+tabl minut minut 
+expect 
+bit investig full index scan 
+perform row referenc rightmost tree 
+node delet 
+improv 
+implement scan tree suggest 
+comment tree max scan 
+parent node leaf node 
+left side continu valid max valu 
+derbi travers tree 
+latch higher level node 
+tree negat impact 
+concurr 
+left travers leaf level 
+control row left sibl throw 
+page latch wait 
+left search max valu fall 
+left approach conflict aris 

@@ -1,0 +1,10 @@
+automat index statist daemon default log messag written derbi log normal oper 
+wed mar cet thread main main 
+istat app updat schedul reason stat row estim queue size 
+wed mar cet thread index stat thread main istat 
+app generat index statist 
+wed mar cet thread index stat thread main 
+istat app generat complet 
+wed mar cet thread main main istat 
+stop daemon activ fals work age err rej 
+messag diagnos bug sourc confus user expect error problem log default workload larg quantiti log produc disk space disabl log releas instruct user experi problem enabl log manual derbi storag index stat log properti 

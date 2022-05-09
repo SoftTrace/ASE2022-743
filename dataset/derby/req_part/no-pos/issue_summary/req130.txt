@@ -1,0 +1,1 @@
+implement jdbc method creat empti lob embed client 

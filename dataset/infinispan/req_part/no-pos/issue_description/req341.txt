@@ -1,0 +1,5 @@
+irc discuss manik 
+intern cach valu icv creat intern cach entri ice cach store persist entri order avoid duplic marshal key 
+intern cach entri creat icv valu unmarshal 
+avoid unnecessari creation object ice aggreg icv deleg state call 
+impl note order deleg ice icv icv method final 

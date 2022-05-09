@@ -1,0 +1,2 @@
+don:VBP fail:VBP expiri:NNP enabl:VBN chach:NN store:VB lucen:NNP directori:NNP 
+directori:NNP implement:NN check:VB fail:VBP error:NN messag:NN 

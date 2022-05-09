@@ -1,0 +1,4 @@
+nice:JJ pig:NNP provid:VBP interoper:NN hive:NNP 
+wrap:VB hive:NNP udf:NNP pig:NNP hive:NNP udf:NNP pig:NNP 
+candid:NN project:NN googl:NNP summer:NN code:NN 
+inform:NN program:NN find:VBN 

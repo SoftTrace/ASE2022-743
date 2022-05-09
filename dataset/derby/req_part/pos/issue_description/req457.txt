@@ -1,0 +1,7 @@
+user:NNS bad:JJ advic:NN desper:NN touch:NN delet:VB file:NNS log:NN directori:NNS log:NN 
+good:JJ databas:NNS upgrad:NN file:NN creat:VBN directori:NNS 
+txt:NN 
+warn:VB peril:NNS corrupt:VBG effect:NNS elimin:VB possibl:NN salvag:NN 
+encourag:VB user:NNS zip:NN backup:NN databas:NN directori:NN jvm:NN access:VBG databas:NN corrupt:JJ 
+point:NN backup:VB restor:VB document:NN encourag:VB restor:VB good:JJ backup:NN empti:JJ directori:NN databas:NN corrupt:JJ 
+couldn:JJ hurt:NN 

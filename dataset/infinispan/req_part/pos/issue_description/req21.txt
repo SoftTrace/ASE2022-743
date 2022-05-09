@@ -1,0 +1,1 @@
+add:VB flag:NN hot:NNP rod:NNP protocol:NN datum:NNS load:VBN cach:NN store:NN 

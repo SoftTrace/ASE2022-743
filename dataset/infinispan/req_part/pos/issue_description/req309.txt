@@ -1,0 +1,9 @@
+configur:VB state:NN transfer:NN provid:NNS consum:NNS 
+short:JJ term:NN strategi:NN node:NN provid:NN 
+fetchinmemoryst:NN attribut:NN determin:VB node:NN consum:NN 
+updat:VBN remov:VB isstatetransferen:VBN check:NN 
+node:NN state:NN transfer:NN provid:NN 
+public:JJ void:JJ start:NN 
+updat:VBN check:VB fetchinmemoryst:NN attribut:NN determin:VB node:NN oper:VB consum:NN 
+public:JJ void:NN generatest:NN 
+updat:VBN node:NN generat:VB state:NN 

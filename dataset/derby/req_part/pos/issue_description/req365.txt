@@ -1,0 +1,4 @@
+simpl:JJ algorithm:NN sum:NN valu:NNS array:NN 
+give:VBZ poor:JJ distribut:NN hash:NN valu:NNS similar:JJ valu:NNS higher:JJR probabl:NN map:NN hash:NN code:NN higher:JJR bit:NNS win:VBD array:NN 
+chang:VB method:NNS algorithm:NN similar:JJ describ:VBN url:NN 
+posit:JJ effect:NN perform:NN hash:NN scan:NNS reduc:VB likelihood:NN collis:NNS hash:NN tabl:NN 

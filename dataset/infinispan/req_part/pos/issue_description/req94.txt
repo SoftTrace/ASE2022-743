@@ -1,0 +1,16 @@
+cach:NN entryset:NN keyset:NN valu:NNS implement:NNS account:NN entri:NNS expir:VBN collect:NNS return:VBD key:NN valu:NN pair:NNS remov:VBN 
+side:NN effect:NN bulk:NNP remot:JJ cach:NN oper:NN return:VBG entri:NNS lifespan:NN 
+martin:NNP 
+relat:VBN getbulk:NN oper:NN infinispan:NNP client:NN 
+simpl:JJ test:NN snippet:NN fail:VBZ atm:NNP 
+map:NN string:NN string:NN mapin:NN string:NN string:NN 
+map:NN string:NN string:NN mapout:NN string:NN string:NN 
+akey:NN avalu:NN 
+bkey:NN bvalu:NN 
+mapout:NN lifespaninsec:NNS 
+sleepforsec:NNS lifespaninsec:NNS 
+mapin:NN 
+fail:VBZ entri:NNS 
+call:VBP key:JJ key:NNS bulk:NNP getbulk:NN return:NN empti:JJ map:NN 
+oper:NNS entri:NNS remov:VBN cach:NN 
+implement:VB getbulk:NN oper:NN reject:VB explan:NN 

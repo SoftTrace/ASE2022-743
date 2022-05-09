@@ -1,0 +1,6 @@
+shutdown:NN command:NN break:VBN part:NNS 
+sleep:NN shutdown:NN request:NN ping:NN server:NN shutdown:NN 
+time:NN obtain:VB socket:NN order:NN perform:VB ping:NN server:NN shutdown:NN 
+socket:NN creation:NN fail:VBZ time:NN 
+socket:NN creation:NN time:NN avoid:VBN socket:NN send:VB shutdown:NN request:NN 
+sleep:NN time:NN reduc:VBN sleep:VBG finer:JJR granular:NN sec:NNS long:JJ time:NN modern:JJ processor:NN 

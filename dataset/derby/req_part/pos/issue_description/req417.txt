@@ -1,0 +1,4 @@
+fix:VBN user:NNS upgrad:VBG jvm:NNP error:NN dual:JJ boot:NN good:JJ 
+time:NN diagnos:VB dual:JJ boot:NN harder:JJR complex:JJ system:NN legaci:NN code:NN 
+properti:NN set:VB print:VB stack:NN trace:NN boot:NN attempt:NN success:JJ diagnos:VB applic:NN error:NN 
+true:JJ 

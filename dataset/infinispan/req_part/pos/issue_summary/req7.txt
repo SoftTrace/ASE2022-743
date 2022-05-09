@@ -1,0 +1,6 @@
+redesign:NN marshal:NNS cach:NN instanc:NN thread:NN 
+switch:VBN explicit:JJ classload:NNS infinispan:NNP pass:VB correct:JJ classload:NN boss:NNP marshal:NNP reli:VB tccl:NN 
+moment:NN marshal:NNS thread:NN cach:NN instanc:NN 
+chang:VB marshal:NNS creat:VBN marshal:NN thread:NN cach:NN instanc:NN 
+requir:VB investig:NN propag:VBG system:NN 
+dan:NNP suggest:VBN 

@@ -1,0 +1,7 @@
+trace:NN logic:NN optim:NN hard:JJ code:VBN produc:VB stream:NN diagnost:NNS 
+good:JJ plug:VB altern:JJ trace:NN logic:NN optim:NN 
+follow:VBG 
+plug:NNP trace:NN logic:NN produc:VBZ format:NNS easier:JJR studi:VB analyz:VBN 
+xml:NN format:VBN output:NN 
+plug:NNP trace:NN logic:NN unit:NN test:NN verifi:VB optim:NN pick:VBN plan:NN 
+time:NN easier:JJR migrat:VB canon:NNP base:VBN test:NNS assert:NN base:VBN test:NNS 

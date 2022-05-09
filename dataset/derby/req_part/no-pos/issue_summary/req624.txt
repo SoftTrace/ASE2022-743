@@ -1,0 +1,1 @@
+drda conn thread data static alloc sql object 

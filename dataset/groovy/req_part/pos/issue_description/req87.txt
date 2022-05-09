@@ -1,0 +1,7 @@
+follow:VBG discuss:NN ast:NNP transform:NNP transpar:JJ script:NN interrupt:NN worker:NN thread:NN interrupt:VBN 
+add:VBZ thread:NN interrupt:NN check:NNS point:NNS code:NN 
+closur:NNS 
+type:NNS loop:NNS 
+method:NN statement:NN 
+attach:VBN file:NN preliminari:JJ implement:NN propag:VB haven:NN find:VBD simpl:JJ script:NN test:NNS 
+feel:VB free:JJ review:VB patch:NN 

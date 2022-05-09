@@ -1,0 +1,13 @@
+unschedul:JJ 
+tim:NNP fox:NNP 
+imagin:VB set:VB valu:NN cach:NN time:NN respons:NN valu:NN set:VBN cach:NN replic:VBN node:NN redund:NN guarante:NNS high:JJ avail:NN 
+block:VB thread:NN call:VBZ set:NN replic:NN perform:VBN node:NN return:NNS involv:VB network:NN trip:NN set:NN 
+nice:JJ acknowledg:NNS replic:NN stream:NN 
+set:VBN cach:NN acknowledg:NN replic:NN set:NNP cach:NN 
+block:NN approach:NN 
+wait:VBP ack:NN set:VBN call:VBG set:NN involv:VBZ network:NN rtt:NN set:NN 
+block:VBG pipelin:JJ approach:NN call:VBP set:NNS quick:JJ success:NN wait:VBG respons:NN time:NN ack:NN 
+block:VBG throughput:NN network:NN limit:VBN latenc:NN 
+kind:NN messag:NN replic:NN send:VBZ load:NN messag:NN network:NN rtt:NN messag:NN slow:JJ replic:VB guarante:NN messag:NN reach:VBN backup:NN acknolwedg:NN send:VB 
+manik:NNP 
+return:VBG futur:NN api:NN api:NN behav:VB cach:NN mode:NN cluster:NN config:NN 

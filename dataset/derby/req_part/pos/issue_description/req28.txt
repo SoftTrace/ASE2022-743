@@ -1,0 +1,4 @@
+derbi:NNP queri:NN optim:NN choic:NN join:VB order:NN access:NN path:NN 
+default:NN join:VB strategi:NN work:VBZ 
+case:NNS user:NN overrid:VB optim:NN default:NN valu:NNS 
+provid:VBG support:NN optim:NN overrid:NNS user:NNS hand:VB tune:VB optim:NN queri:NNS 

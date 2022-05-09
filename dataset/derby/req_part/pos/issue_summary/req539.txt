@@ -1,0 +1,1 @@
+creat:VB row:NN templat:NNS generat:VBN code:NN 

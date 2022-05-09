@@ -1,0 +1,9 @@
+separ:JJ startup:NN script:NNS memcach:JJ hotrod:NN singl:JJ script:NN protocol:NN paramet:NN determin:VB server:NN modul:NN start:VB 
+email:NN infinispan:JJ dev:NN 
+notic:VBP script:NN start:VB memcach:JJ server:NN 
+give:VBN start:VBG memcach:VBN 
+script:NN reus:VBN pass:VBG flag:NN protocol:NN speak:VB 
+memcach:NN 
+hotrod:NN 
+server:NN core:NN modul:NN base:VBN protocol:NN flag:NN pass:VBD kick:NN start:VB server:NN 
+wdyt:NNP 

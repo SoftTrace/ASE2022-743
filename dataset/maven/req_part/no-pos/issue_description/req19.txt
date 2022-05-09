@@ -1,0 +1,13 @@
+exclud modul larg reactor build 
+reason respect modul test long time execut don execut 
+introduc profil desir reason 
+handi exclud list 
+
+root 
+modul 
+modul 
+modul 
+modul 
+modul 
+modul 
+call mvn build modul execpt 

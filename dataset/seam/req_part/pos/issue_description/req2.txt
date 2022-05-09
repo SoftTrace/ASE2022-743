@@ -1,0 +1,9 @@
+cool:JJ tie:VB express:NNS seam:NNP remot:VBG 
+method:NN call:NN 
+action:NNP 
+valu:NNP sayhellocallback:NN 
+rewrit:VBN tie:VBN page:NN context:NN 
+namevalu:NN 
+sayhellocallback:NN 
+perfect:JJ demonstr:VBZ potenti:NN featur:NN 
+remot:VBG consist:JJ rest:NN seam:NNP 

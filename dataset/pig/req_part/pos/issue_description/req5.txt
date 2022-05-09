@@ -1,0 +1,4 @@
+layer:NN provid:VB high:JJ level:NN datum:NNS access:NN abstract:NN tabular:JJ view:NN datum:NNS hadoop:NNP free:VB pig:NNP user:NNS implement:VBG datum:NNS storag:NN retriev:NN code:NN 
+layer:NN includ:VB columnar:JJ storag:NN format:NN order:NN provid:VB fast:JJ datum:NNS project:NN cpu:NN space:NN effici:JJ datum:NNS serial:NN schema:NN languag:NN manag:VB physic:JJ storag:NN metadata:NN 
+support:VB predic:JJ pushdown:NN perform:NN improv:NN 
+layer:NN contrib:NN project:NN pig:NNP hadoop:JJ subproject:NN 

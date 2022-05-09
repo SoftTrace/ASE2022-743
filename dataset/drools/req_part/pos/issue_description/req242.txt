@@ -1,0 +1,2 @@
+lot:NNS peopl:NNS forget:VBG add:VB depend:NNS 
+catch:VB throw:VBN refect:NN probe:VB class:NNS requir:VBN jar:NNS present:JJ give:VB meaning:JJ messag:NN 

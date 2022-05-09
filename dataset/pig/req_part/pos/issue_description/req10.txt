@@ -1,0 +1,8 @@
+deepcopi:VB express:NN 
+deepcopi:NN creat:VB object:NN chang:NNS object:NN reflect:VB copi:NN 
+reason:NNS don:VBP overrid:NN clone:NN 
+deepcopi:NN copi:NN semant:NNS explicit:JJ expens:JJ 
+import:JJ reason:NN defin:VBG deepcopi:NN separ:JJ routin:NN pass:VBN plan:NN argument:NN updat:VBN express:NN copi:VBN 
+usag:NN follow:VBG 
+copyexpress:NN logicalplan:NN 
+motiv:NN construct:VBG express:NNS constitut:VBP cnf:NNP form:NN express:NN 

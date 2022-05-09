@@ -1,0 +1,1 @@
+statist:NNS record:NNS read:VBN mapper:NN reduc:NN 

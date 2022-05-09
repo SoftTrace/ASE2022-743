@@ -1,0 +1,19 @@
+derbi complet disk bound thread starv 
+raf read page real problem multipl client 
+repeat access small number larg tabl 
+case observ high maximum respons time 
+minut worst case simpl transact 
+averag respons time affect 
+starvat caus synchron block 
+raf read page 
+synchron 
+
+file data seek page offset 
+file data read fulli page data page size 
+
+thread read page file 
+long queue thread wait monitor java 
+specif guarante thread wait monitor 
+treat thread wait long time 
+monitor ualli coupl thread full throughput 
+wait 

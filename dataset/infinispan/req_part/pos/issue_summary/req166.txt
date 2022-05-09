@@ -1,0 +1,1 @@
+default:NN task:NN failov:NN polici:NN enhanc:NNS 

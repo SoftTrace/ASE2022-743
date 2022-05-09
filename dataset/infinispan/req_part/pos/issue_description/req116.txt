@@ -1,0 +1,2 @@
+add:VB function:NN option:JJ combin:NN map:NNP reduc:VB phase:NNS part:NN combin:NN function:NN 
+enabl:VBZ adjust:VB api:NN restrict:JJ function:NN consum:VB return:VB type:NNS object:NNS 

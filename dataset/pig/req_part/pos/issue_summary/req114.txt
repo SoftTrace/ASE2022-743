@@ -1,0 +1,1 @@
+support:NN cast:NN chararray:NN simpl:JJ type:NNS 

@@ -1,0 +1,4 @@
+support:NN claus:NN creat:NNP trigger:NN statement:NNS 
+claus:NN describ:VBN sql:NN standard:NN chapter:NN trigger:NN definit:NN trigger:VBD action:NN 
+trace:NNS code:NN suggest:VBZ work:NN earlier:JJR 
+add:VB comment:NN issu:NN 

@@ -1,0 +1,1 @@
+support:NN queri:NN cach:NNP configur:VBD invalid:NNP mode:NN 

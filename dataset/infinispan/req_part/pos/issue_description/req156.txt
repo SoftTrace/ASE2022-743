@@ -1,0 +1,4 @@
+expos:VB kind:NN differenci:VBZ rest:NN 
+machin:NNS run:VBG deploy:VBG instanc:NNS jmxdomain:NN valid:JJ 
+reason:NN jopr:NNP show:VB cach:NN manag:NN resourc:NNS 
+show:VB 

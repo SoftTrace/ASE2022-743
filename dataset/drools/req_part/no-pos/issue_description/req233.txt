@@ -1,0 +1,17 @@
+method 
+
+determin event pass paramet occur 
+
+public boolean event occur string event 
+string event 
+event occur 
+
+return true 
+
+
+return fals 
+
+rule call 
+event occur event event event workaround event occur string 
+event event event 
+

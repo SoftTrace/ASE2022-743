@@ -1,0 +1,7 @@
+doc:NNS revok:NNP execut:VB restrict:VB 
+fail:VB depend:JJ constraint:NN 
+restrict:NN claus:NN execut:NNP privileg:NN 
+revok:VBN routin:NN view:NN trigger:NN 
+constraint:NN privileg:NN revok:VBN owner:NN 
+view:NN trigger:NN constraint:NN 
+revok:VBG privileg:NN restrict:VBN wrong:JJ reason:NN 

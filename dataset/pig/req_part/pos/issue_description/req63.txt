@@ -1,0 +1,6 @@
+barebon:JJ patch:NN enabl:VBZ support:NN multipl:JJ input:NN schema:NNS 
+assumpt:NN input:NN consist:VBZ avro:JJ file:NNS schema:NNS union:JJ flat:JJ record:NNS 
+simpl:JJ illustr:JJ attach:VBN run:VB 
+pig:NN follow:VBN 
+pig:NN follow:VBN 
+pig:NN 

@@ -1,0 +1,11 @@
+piec:NN code:NN 
+remov:NN entri:NN conglomer:NN directori:NN add:VB 
+tempconglom:NNS 
+null:JJ 
+long:NNP conglom:NNP 
+long:NNP conglom:NNP conglom:NN 
+accord:VBG code:NN coverag:NN report:NN line:NNS test:VBN 
+test:NN cover:VBZ add:VBN regress:NN suit:NN 
+null:JJ check:NN unnecessari:JJ case:NN inspect:NN code:NN incomplet:JJ line:NN throw:VB check:NN tempconglom:NNS null:JJ 
+call:NN remov:VB put:NN redund:JJ remov:VB map:NN 
+object:NN put:VBN remov:VBN line:NNS delet:VBN 

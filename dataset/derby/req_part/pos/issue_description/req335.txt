@@ -1,0 +1,14 @@
+sql:NN length:NN function:NN materi:VBZ entir:JJ lob:NN memori:NN 
+public:JJ final:JJ int:NN getlength:NN throw:VBZ standard:NNP 
+stream:NN 
+null:JJ 
+return:VB 
+return:NN getbyt:NNS null:JJ 
+getbyt:NNS 
+length:NN 
+bad:JJ call:VBP getbyt:NNS materi:VB 
+good:JJ read:VB length:NN stream:NN stream:VB valu:NN length:NN materi:VBG memori:NN 
+reproduc:VB run:VB attach:VBN repro:NN 
+java:NN 
+give:VBZ memori:NN 
+java:NNP heap:NN space:NN 

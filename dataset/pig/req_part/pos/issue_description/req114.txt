@@ -1,0 +1,2 @@
+pig:NNP support:VB cast:NN chararray:NN integ:NN float:VB bytearray:NN 
+convers:NN fail:VBZ reason:NNS overflow:NN cast:NN return:VB null:JJ log:VB warn:NN 

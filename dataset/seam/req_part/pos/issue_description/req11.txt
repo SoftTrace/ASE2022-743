@@ -1,0 +1,2 @@
+creat:VB configur:NN option:NN disabl:VB default:NN interceptor:NNS improv:VBG applic:NN perform:NN 
+system:NNS necess:NN interceptor:NNS transact:JJ degrad:VBP perform:NN 

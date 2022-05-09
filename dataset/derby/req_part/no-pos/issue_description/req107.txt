@@ -1,0 +1,56 @@
+shouldn distinct scalar aggreg implement close finish method 
+differ close scan control 
+close finish method explain javadoc 
+languag org apach derbi iapi sql result set class 
+note jdbc java sql result set object 
+close system call 
+row open call 
+finish system access 
+databas inform result set 
+close result set open access 
+finish 
+code doesn match 
+confus 
+languag result set jdbc open multipl 
+time scan tabl multipl time join 
+activ repres intern state 
+java sql prepar statement object amp lifetim 
+java sql prepar statement top level languag result set 
+top level languag result set execut sql 
+statement dml ddl queri top level result set 
+result set tree structur simpl 
+case primari key lookup queri 
+select custom 
+activ 
+top result set 
+project restrict index row base row tabl scan 
+reason api result set 
+case result set tree thrown 
+execut top result set finish 
+method call activ remov refer 
+execut ident tree set 
+potenti huge perform gain top level result 
+set tree lifetim 
+activ save form creat 
+object execut creat short live object 
+garbag collector handl 
+simpl fix coupl line code call close 
+amp finish correct time simpl primari key 
+lookup queri perform select 
+cach data singl user post patch short 
+indic direct separ 
+client 
+run derbi test 
+failur languag result set implement 
+correct written open interest failur 
+aggregr test issu manish 
+derbyal pass nervous submit patch 
+real don lot test repeat 
+execut prepar statement test test 
+statement singl activ chang 
+affect patch regress derbi 
+exist bug expos 
+perform gain start 
+result set activ devis ensur test 
+cover main issu larg number 
+result set implement cover 

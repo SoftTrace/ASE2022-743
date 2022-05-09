@@ -1,0 +1,13 @@
+network server network client blocksiz 
+return databas data qrydta block 
+statement drda spec volum page 
+block appli qrydta repli object 
+queri block qrydta dss maximum queri block size 
+valu qryblksz paramet increas 
+accomod larger data volum 
+requir modern data intens applic 
+import larger block size depend strong applic 
+profil applic perform singl record select 
+influenc block size 
+applic abil larger block 
+size valuabl 

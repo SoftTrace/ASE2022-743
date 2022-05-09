@@ -1,0 +1,3 @@
+builtin:NNP authent:NN scheme:NN protect:VBZ password:NNS hash:VBG sha:NN algorithm:NN 
+nice:JJ algorithm:NN user:NNS advantag:NN stronger:JJR algorithm:NNS provid:VBN jce:NNP provid:NN desir:VBN 
+issu:NN track:VBZ respons:NN secur:NN vulner:NN cve:NN marcel:NNP major:NNP identifi:VBD 

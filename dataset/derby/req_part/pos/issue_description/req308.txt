@@ -1,0 +1,6 @@
+replic:NN sourc:NN code:NN packag:NN 
+impl:NN iapi:NN 
+servic:NNS packag:NN intend:VBN level:NN modul:NNS 
+replic:NN code:NN integr:VBN store:NN modul:NNS replic:NN code:NN move:VBN 
+impl:NN iapi:NN 
+discuss:NN mail:NN thread:NN 

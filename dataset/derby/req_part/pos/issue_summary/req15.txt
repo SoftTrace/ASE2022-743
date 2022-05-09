@@ -1,0 +1,2 @@
+invok:VBG java:NN store:VBN procedur:NNS trigger:NN 
+call:NN valid:JJ statement:NN trigger:NN bodi:NN 

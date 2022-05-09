@@ -1,0 +1,14 @@
+featur:NN aim:VBN provid:VBG shortcut:NNS command:NNS illustr:VBP dump:VB explain:VB describ:VB quit:VB 
+featur:NN inspir:VBN postgr:NNS psql:NN shortcut:NNS 
+implement:VBG simpl:JJ shortcut:NN quit:VBG grunt:NN shell:NN minim:JJ chang:NNS 
+featur:NN save:VB keystrok:NNS user:NNS 
+featur:NN submit:VB current:JJ patch:NN review:NN implement:VBG follow:VBG shortcut:NNS 
+alia:NN illustr:VBP 
+alia:NN explain:VB 
+alia:NN describ:VB 
+alia:NN dump:NN 
+view:VB inform:NN tabl:NNS statist:NNS store:VBN catalog:NNP similar:JJ psql:NN 
+alia:NN display:NN tabl:NN 
+display:NN metadata:NN 
+delimit:NNS charact:NNS shortcut:NNS 
+thought:NNS 

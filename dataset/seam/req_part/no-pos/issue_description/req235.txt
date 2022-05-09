@@ -1,0 +1,11 @@
+creat implement org jboss seam log log interfac org jboss seam log log impl class goal enrich log messag ad inform 
+org jboss seam log log log provid string boolean method default access mode callabl class packag case log impl 
+featur request org jboss seam log log log provid string boolean method public 
+workaround call method introspect 
+method log class declar method log provid class 
+string class boolean class 
+
+set access true 
+log provid log log provid invok null object 
+categori wrap 
+

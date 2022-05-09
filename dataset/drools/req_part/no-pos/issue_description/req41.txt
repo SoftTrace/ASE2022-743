@@ -1,0 +1,5 @@
+ruleflow agenda group unifi 
+attribut rule result 
+overwritten specif rfg implement 
+rfg case conflict 
+warn generat case potenti conflict 

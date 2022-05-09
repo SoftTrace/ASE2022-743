@@ -1,0 +1,9 @@
+jsr:NNP spec:NN includ:VBZ class:NN class:NN method:NNS access:NN underli:VBG cach:VBG implement:NN 
+unwrap:VB cach:NN cachemanag:NN instanc:NN concret:JJ jcach:NN jcachemanag:NN implement:NNS 
+class:NNS expos:VB underli:VBG infinispan:NN cach:NN embeddedcachemanag:NN 
+follow:VBG 
+jcach:NN 
+icach:NN 
+jmanag:NN 
+imanag:NN 
+cach:NNP 

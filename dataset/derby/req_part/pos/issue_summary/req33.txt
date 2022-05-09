@@ -1,0 +1,1 @@
+tablefunct:NNS provid:VBP inform:NN limit:VB underli:VBG queri:NN 

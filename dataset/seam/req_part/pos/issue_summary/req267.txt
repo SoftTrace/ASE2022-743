@@ -1,0 +1,1 @@
+fine:JJ grain:JJ specif:NN page:NN action:NNS paramet:NNS 

@@ -1,0 +1,1 @@
+desir:JJ nullifi:VB inject:VBN depend:NNS invoc:NN 

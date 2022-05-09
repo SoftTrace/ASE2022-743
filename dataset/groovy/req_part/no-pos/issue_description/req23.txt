@@ -1,0 +1,9 @@
+regroup element closur criteria map index valu criteria 
+def expect 
+def list quot quot quot quot 
+def result list group 
+class 
+assert result integ 
+assert quot quot quot quot result string 
+assert result big decim 
+assert result size 

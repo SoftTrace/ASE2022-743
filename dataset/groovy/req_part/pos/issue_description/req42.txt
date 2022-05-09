@@ -1,0 +1,9 @@
+situat:NN initi:VB jce:NNP certif:NNP url:NN 
+cfurl:NN 
+newrootcert:NN 
+put:VBG fact:NN method:NNS don:VBP return:VB closur:NN return:NN valu:NN creat:VB separ:JJ jira:NNP withinputstream:NN method:NN url:NN 
+work:VB groovier:JJR 
+newrootcert:NN 
+stream:NNP 
+attach:VBN patch:NN add:VB 
+doesn:VBD test:NNS couldn:VBP find:VB exist:VBG test:NNS matter:NN wasn:NN handl:VB 

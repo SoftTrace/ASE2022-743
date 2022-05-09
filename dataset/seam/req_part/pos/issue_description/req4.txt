@@ -1,0 +1,9 @@
+test:VB presenc:NN compon:NN 
+add:VB verifi:VB password:NN 
+subclass:NN 
+assert:VB 
+getmessag:NNS 
+msg:NN compon:NN 
+don:VBP compon:NN tree:NN script:NN add:NN method:NN didn:NN assign:VB messag:NN compon:NN test:VB getmessag:NNS 
+accur:JJ getmessag:NN 
+compon:NN 

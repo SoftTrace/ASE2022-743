@@ -1,0 +1,7 @@
+set java complil path base java compil path jdbc support built 
+check jdbc stub build jdbc support java librari compil set java compil classpath 
+jdbc stub 
+
+java compil classpath 
+
+

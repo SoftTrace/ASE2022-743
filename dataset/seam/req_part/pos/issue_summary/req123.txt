@@ -1,0 +1,1 @@
+support:NN enum:NN properti:NNS compon:NN configur:NN 

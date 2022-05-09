@@ -1,0 +1,4 @@
+maven:NNP ansi:NNP color:NNP log:VBG 
+maven:NNP log:NNS easier:JJR read:VB increas:VB visibl:NN item:NNS user:NN give:VBN point:NN time:NN 
+andrew:NNP william:NNP work:NN plexus:NNP sandbox:NN enabl:VB color:NN log:VBG 
+color:NN logger:NN ant:NN 

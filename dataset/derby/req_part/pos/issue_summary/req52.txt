@@ -1,0 +1,1 @@
+support:NN claus:NN creat:NNP trigger:NN statement:NNS 

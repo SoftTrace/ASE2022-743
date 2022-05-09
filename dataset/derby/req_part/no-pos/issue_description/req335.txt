@@ -1,0 +1,16 @@
+sql length function materi entir lob memori sql binari length 
+public final int length throw standard 
+
+stream null 
+
+stream valu length 
+return stream valu length 
+
+return byte null byte length 
+
+doubli bad call byte materi 
+good read length stream stream valu length materi memori 
+reproduc run attach repro 
+java xmx length larg lob 
+memori 
+caus java lang memori error java heap space 

@@ -1,0 +1,2 @@
+renam:VB 
+renam:VB correspond:VBG test:NN class:NNS affect:VBN renam:NN 

@@ -1,0 +1,1 @@
+pig support cast chararray integ long float doubl bytearray convers fail reason overflow cast return null log warn 

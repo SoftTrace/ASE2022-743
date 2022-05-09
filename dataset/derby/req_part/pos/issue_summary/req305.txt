@@ -1,0 +1,1 @@
+logic:NN restor:VB entri:NN isol:NN level:NN connect:NN compil:NN 

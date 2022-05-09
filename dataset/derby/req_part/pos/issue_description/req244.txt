@@ -1,0 +1,12 @@
+ground:NN work:VBZ kind:NNS collat:NNS work:VBG charact:NN string:NN type:NNS 
+inform:NN project:NN find:VBN 
+type:NNS derbi:NNP dtd:NN associ:VBN 
+charact:NN string:NN type:NNS dtd:NNS valid:JJ valu:NNS collat:NN deriv:NN collat:NN type:NN 
+datum:NNS type:NNS field:NNS appli:VB ignor:VBN 
+sql:NN spec:NN talk:NNS charact:NN string:NN type:NNS collat:NN type:NN collat:NN deriv:NN associ:VBN sql:NN spec:NN section:NN comparison:NN charact:NN string:NNS 
+collat:NN deriv:NN explicit:JJ implicit:JJ valid:JJ collat:NN type:NN associ:VBN charcter:NN string:NN type:NN 
+collat:NN deriv:NN collat:NN type:NN establish:VBN charact:NN string:NN type:NN 
+collat:NN deriv:NN explicit:JJ collat:NNP claus:NN charact:NN string:NN type:NN possibl:NN derbi:NNP plan:VBG support:VB sql:NN collat:VB claus:NN releas:NN 
+collat:NN deriv:NN implicit:JJ collat:NN determin:VBN collat:NNP claus:NN tabl:NN char:NN collat:NN user:NNP charact:NN set:NN 
+trim:NN result:NN charact:NN string:NN trim:NN oper:NN collat:NN operand:NN 
+collat:NN deriv:NN aggreg:JJ method:NNS deal:VBG charact:NN string:NNS collat:NNS section:NN datum:NNS type:NNS result:NNS aggreg:NNS syntax:NNP rule:NNP 

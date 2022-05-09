@@ -1,0 +1,2 @@
+pigstorag:NN default:NN load:NN storefunc:NN 
+configur:JJ 

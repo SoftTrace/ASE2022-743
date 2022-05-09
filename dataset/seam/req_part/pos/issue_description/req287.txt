@@ -1,0 +1,9 @@
+follow:VBG idea:NNS follow:VBN 
+multipl:JJ page:NN action:NNS view:NN 
+page:NN view:NN 
+action:NN express:NN 
+action:NN express:NN 
+page:NN 
+suggest:NN outcom:NN short:JJ circuit:NNS stack:NN 
+convers:NN convers:NN action:NN navig:NN 
+error:NN action:NN navig:NN 

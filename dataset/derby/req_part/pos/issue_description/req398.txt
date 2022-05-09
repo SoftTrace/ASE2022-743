@@ -1,0 +1,16 @@
+sql:NN offset:NN fetch:NN result:VBP offset:VBN claus:NN fetch:VB 
+claus:NN subqueri:NNS 
+derbi:NNP 
+outer:JJ cursor:NN level:NN 
+order:NN subqueri:NNS extens:NN portabl:JJ 
+sql:NN featur:NNS 
+nest:VBN fetch:VB claus:NN queri:NN express:NN 
+top:NNP level:NN fetch:VB claus:NN queri:NN express:NN present:JJ 
+fetch:VB claus:NN subqueri:NNS 
+top:NNP level:NN fetch:VB claus:NN view:NNS 
+dynam:NN fetch:VB row:NN count:NN fetch:VB claus:NN present:JJ 
+top:NNP level:NN result:NN offset:VBN claus:NN queri:NN express:NN present:JJ 
+result:NN offset:VBN claus:NN subqueri:NNS 
+nest:VBN result:VBP offset:VBN claus:NN queri:NN express:NN 
+top:NNP level:NN result:NN offset:VBN claus:NN view:NNS 
+dynam:JJ offset:JJ row:NN count:NN result:VBP offset:VBN claus:NN present:JJ 

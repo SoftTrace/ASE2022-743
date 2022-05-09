@@ -1,0 +1,1 @@
+encrypt:VBG exist:VBG unencrypt:JJ exist:VBG encrypt:VBN 

@@ -1,0 +1,3 @@
+current:JJ action:NN framework:NN action:NN action:NN node:NN 
+action:NNS add:VBN locat:NNS entri:NN exit:NN action:NNS node:NNS 
+action:NN framework:NN general:VBN support:VB kind:NNS action:NNS 

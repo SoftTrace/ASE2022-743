@@ -1,0 +1,1 @@
+type:VBN map:NN pig:NNP 

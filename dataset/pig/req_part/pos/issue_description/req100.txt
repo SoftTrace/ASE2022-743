@@ -1,0 +1,1 @@
+replic:VBN join:VBP doesn:JJ trigger:NN reduc:VB chang:VB output:NN order:VBG merg:NN join:VB work:VB 

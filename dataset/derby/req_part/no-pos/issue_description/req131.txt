@@ -1,0 +1,2 @@
+client trace enabl set attribut client url set xxx method data sourc call driver manag set log writer enabl deploy client applic api requir modif applic configur file 
+good global turn client trace system properti point properti file possibl ideal impact class loader context possibl 

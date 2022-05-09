@@ -1,0 +1,1 @@
+rewrit clob updat reader constructor 

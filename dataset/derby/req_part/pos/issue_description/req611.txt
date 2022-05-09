@@ -1,0 +1,2 @@
+provid:VBG sql:NN support:NN updat:VB ident:NN column:NNS default:NN keyword:NN 
+jira:NN collect:VBG generat:VBN key:NNS flag:NN suppli:VBN jdbc:NNP call:NN updat:NN sql:NN 

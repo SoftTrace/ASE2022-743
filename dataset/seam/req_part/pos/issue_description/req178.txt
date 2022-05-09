@@ -1,0 +1,2 @@
+equival:NN depend:VBZ 
+compon:NN space:NN separ:VBN 

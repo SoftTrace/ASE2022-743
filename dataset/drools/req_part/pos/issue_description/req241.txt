@@ -1,0 +1,7 @@
+trait:NN core:NN field:NN map:VBG requir:VBZ field:NNS compat:JJ type:NNS 
+interfac:NN requir:NNS desir:JJ defin:VB custom:NN map:NN 
+declar:VB trait:NN 
+tfield:NN string:NN cfield:NN 
+declar:VB 
+field:NNP string:NN 
+tfield:NN map:VBN hard:JJ field:NN field:NNP 

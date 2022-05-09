@@ -1,0 +1,2 @@
+amaz:JJ 
+solv:VB resolv:NNP 

@@ -1,0 +1,1 @@
+reduc:VB size:NN encod:VBG buffer:NN short:JJ charact:NN valu:NNS 

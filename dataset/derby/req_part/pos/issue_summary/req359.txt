@@ -1,0 +1,1 @@
+alter:VB tabl:NN add:NN column:NN add:VB ident:NN column:NNS 

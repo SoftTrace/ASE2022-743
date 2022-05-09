@@ -1,0 +1,2 @@
+local:NNP dvf:NNP 
+local:NN object:NN construct:VB collat:NNP object:NN user:NN request:VBN territori:NN base:VBN collat:NN 

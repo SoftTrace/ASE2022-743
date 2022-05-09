@@ -1,0 +1,14 @@
+network:NNP client:NNP connect:VB databas:NN retriev:VB error:NN messag:NN print:VB messag:NN token:NNS token:NN separ:NNS derbi:NN log:NN locat:NN 
+good:JJ messag:NN format:VBN present:VB messag:NN user:NN charact:NNS 
+reproduc:VB databas:NN shutdown:NN 
+databas:NN shutdown:NN client:NN retriev:VB actual:JJ messag:NN server:NN 
+print:VBZ token:NNS 
+start:VB network:NN server:NN 
+java:NN start:NN 
+version:NN 
+connect:VB jdbc:NN derbi:NN localhost:NN wombat:NN creat:VB true:JJ 
+connect:VB jdbc:NN derbi:NN localhost:NN wombat:NN shutdown:NN true:JJ 
+error:NN derbi:NN sql:NN error:NN sqlcode:NNP sqlstate:NN sqlerrmc:NNP wombat:NN shutdown:NN 
+server:NN log:NN 
+note:NN actual:JJ offend:VBG charact:NNS replac:VBN output:NN bug:NN 
+break:VBP jira:NNP xml:NN retriev:NN 

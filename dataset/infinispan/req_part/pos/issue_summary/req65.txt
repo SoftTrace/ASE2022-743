@@ -1,0 +1,1 @@
+creat:VB expir:NN notif:NN memori:NN cach:NN entri:NNS 

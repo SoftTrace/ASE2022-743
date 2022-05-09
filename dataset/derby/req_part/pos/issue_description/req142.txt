@@ -1,0 +1,24 @@
+occurr:NNS 
+switch:NN 
+case:NN 
+case:NN 
+case:NN 
+case:NN 
+break:NN 
+default:NN 
+throw:VB datatypeconvers:NN 
+switch:NN 
+case:NN 
+case:NN 
+case:NN 
+case:NN 
+break:NN 
+default:NN 
+throw:VB datatypeconvers:NN 
+copi:NNS code:NN good:JJ factor:NN 
+method:NNS share:VBN 
+instanc:NN add:VB 
+method:NNS 
+public:JJ static:NN boolean:JJ isasciistreamcompat:NN int:NN jdbctype:NN 
+public:JJ static:NN boolean:JJ isbinarystreamcompat:NN int:NN jdbctype:NN 
+public:JJ static:NN boolean:JJ ischaracterstreamcompat:NN int:NN jdbctype:NN 

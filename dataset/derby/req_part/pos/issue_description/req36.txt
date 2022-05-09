@@ -1,0 +1,3 @@
+uniqu:JJ constraint:NN violat:VBN insert:NN statement:NN derbi:NNP throw:VBZ sqlintegrityconstraintviolationexcept:NN 
+error:NN messag:NN constraint:NN tabl:NN 
+distinguish:VB case:NNS constraint:NNS derbi:NNP throw:VB subclass:NN method:NNS constraint:NNP gettablenam:NN 

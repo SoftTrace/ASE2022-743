@@ -1,0 +1,11 @@
+nice:JJ redirect:VB direct:NNS messag:NN sever:NNS defin:VBN 
+happen:VBZ lot:NN scenario:NNS redirect:VB 
+user:NN info:NN messag:NN error:NN warn:NNP 
+instanc:NN sever:NN flag:NN add:VBN messag:NN follow:VBG 
+class:NN 
+convers:NN 
+redirect:VB view:NN myglob:NN unprot:NN page:NNS 
+messag:NN sever:NN error:NN 
+login:NNP fail:VBD 
+messag:NN 
+redirect:VB 

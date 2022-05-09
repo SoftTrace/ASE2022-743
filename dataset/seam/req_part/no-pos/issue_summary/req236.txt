@@ -1,0 +1,1 @@
+add xml resolv hibern classpath prefix work 

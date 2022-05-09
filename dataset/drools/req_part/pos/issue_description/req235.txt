@@ -1,0 +1,4 @@
+express:NNS bind:VBN variabl:NNS timer:NN attribut:NN 
+rule:NN parametr:NNP timer:NN 
+timer:NN expr:NN 
+bean:NNP delay:NN period:NN 

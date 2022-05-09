@@ -1,0 +1,3 @@
+spring:NNP secur:NNP secur:NN context:NN integr:NN filter:NN wrap:VBZ secur:NN framework:NN respond:VB getremoteus:NN isuserinrol:NN 
+support:VB style:NN integr:NN ident:NN compon:NN seam:NNP pride:VBZ standard:JJ java:NNP stuff:NN work:NN 
+fact:NN easi:JJ 

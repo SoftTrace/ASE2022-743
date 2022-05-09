@@ -1,0 +1,6 @@
+common case pig peopl column data oper store data ten column user perform cast column 
+foreach generat int firstcol secondcol thridcol forthcol fifthcol sixthcol seventhcol eigthcol ninethcol tenthcol 
+store output 
+wors user column ideal transform 
+foreach generat int firstcol rest 
+store output 

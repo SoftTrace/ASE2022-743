@@ -1,0 +1,6 @@
+seam:NNP featur:VBZ scan:NN multipl:JJ resourc:NN bundl:NNS common:JJ resourc:NNS share:VBN mutlipl:NN applic:NNS 
+accomplish:VBN 
+renam:VB default:NN bundl:NN seam:NN scan:NN multipl:JJ seam:NN ear:NN 
+add:VB properti:NN chang:VB properti:NN handl:VB delimit:JJ list:NN resourcebundl:NNS 
+default:NN implement:NN singl:JJ bundl:NN add:VBG configur:NN properti:NN scan:NN multipl:JJ resourc:NN bundl:NNS order:NN 
+implement:VB cascad:VBG scheme:NN similar:JJ sampl:NN post:VBN forum:NN 

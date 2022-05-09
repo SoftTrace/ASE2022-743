@@ -1,0 +1,1 @@
+dynam:JJ proxi:NN shadow:NN fact:NN support:NN 

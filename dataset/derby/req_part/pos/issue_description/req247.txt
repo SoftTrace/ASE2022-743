@@ -1,0 +1,6 @@
+add:VB api:NN dvf:NN local:NNP object:NN dvf:NNP 
+api:NN dvf:NNP call:VBN boot:NN method:NN finish:VBN boot:VBG dvf:NNP 
+local:NN local:NNP obtain:VBN territori:NN attribut:NN suppli:VBN user:NN jdbc:NNP url:NN databas:NN creat:VBP time:NN user:NN didn:NN provid:VBP territori:NN attribut:NN databas:NN creat:VBP time:NN set:VBN default:NN jvm:NNP local:NN 
+local:NN object:NN dvf:NN construct:VB collat:NNP object:NN user:NN request:VBN territori:NN base:VBN collat:NN 
+api:NN follow:VBG 
+void:JJ setlocal:NN local:NNP 

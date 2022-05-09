@@ -1,0 +1,11 @@
+enhanc:VB jsf:NNP navig:NN rule:NNS facil:NN support:VB follow:VBG 
+navig:NN case:NN 
+action:NN 
+action:NN 
+view:NN view:NN 
+redirect:VB 
+param:JJ searchpattern:NN 
+param:NN 
+redirect:VB 
+navig:NN case:NN 
+propos:VBP introduc:VB file:NN reproduc:VB function:NN jsf:NNP navig:NN rule:NNS seam:NNP yuck:NN 

@@ -1,0 +1,1 @@
+transpar:JJ eager:JJ lock:NN transact:NNS 

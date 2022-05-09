@@ -1,0 +1,1 @@
+base:NN project:NNS standalon:JJ sql:NN syntax:NN checker:NN discuss:VBN 

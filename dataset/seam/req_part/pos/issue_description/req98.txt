@@ -1,0 +1,2 @@
+resourcebundl:NN compon:NN wierd:JJ local:NN 
+http:NNP request:NN 

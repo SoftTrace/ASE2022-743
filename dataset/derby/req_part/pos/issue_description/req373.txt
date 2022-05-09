@@ -1,0 +1,16 @@
+provid:VBN store:VBN procedur:NN 
+updat:VB statist:NNS 
+code:NN work:NN add:VBN method:NN class:NN activ:NN activ:NN 
+code:NN copi:VBN exist:VBG unus:JJ class:NN unus:JJ class:NN remov:VBN derbi:NNP code:NN 
+copi:VBN code:NN updatestatist:NNS compil:VB transact:NN show:VBN work:NN updat:VBG statist:NNS 
+javadoc:NN follow:VBG 
+transact:NN control:NN languag:NN connect:NN 
+context:NN compil:VB time:NN 
+work:NN compil:VB phase:NN 
+rest:NN code:NN transact:NN control:NN 
+chang:NNS run:VB exist:VBG test:NNS break:VBZ 
+run:VBD issu:NN gettransactionexecut:NN gettransactioncompil:NN work:VBG provid:VB admin:JJ updat:VBG statist:NNS 
+run:VB statist:NNS inlin:NN duirn:VBP compil:VB phase:NN select:JJ queri:NN run:VBD statist:NNS updat:VBN read:NN mode:NN 
+chang:VBP run:VB read:NN mode:NN 
+comment:NNS 
+run:VB exist:VBG test:NNS failur:NNS commit:VB chang:NN gettransactionexecut:NN gettransactioncompil:NN updatestatist:NNS 

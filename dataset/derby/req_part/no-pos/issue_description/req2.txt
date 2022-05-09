@@ -1,0 +1,74 @@
+convert org apach derbi test function test test lang hold cursor sql junit 
+convert org apach derbi test function test test lang hold cursor sql junit 
+convert org apach derbi test function test test store hold cursor jdbc sql junit 
+convert org apach derbi test function test test store hold cursor extern sort jdbc sql junit 
+convert derbynet test protocol java unit 
+test protocol java execut drda command file written special purpos languag statement assert easi convert test unit 
+suggest approach chang interpret test proto java sert fail system err println system exit base test case println system println test configur host port number 
+convert derbynet runtimeinfo unit 
+convert derbynet derbi net auto start unit 
+derbi client set transact isol execut commit isol chang 
+emb connect set isol check isol level return commit 
+public void set transact isol int level throw sql 
+level transact isol 
+return 
+org apach derbi client connect check good client driver act embed 
+finish client info api jdbc complianc task 
+java sql connect method finish 
+client info 
+client info java lang string 
+set client info java lang string java lang string 
+implement implement embed method blob binari stream long pos long length clob charact stream long pos long length 
+method introduc java sql clob java sql blob interfac part jdbc implement 
+clob 
+
+charact stream long pos long length 
+blob 
+
+binari stream long pos long length 
+implement network client part derbi 
+expos exist auto generat key function jdbc api derbi client 
+detail desir function issu specif derbi client address embed mode 
+detail prompt error xcl client emb 
+sql script 
+creat tabl int int 
+insert data tabl 
+insert valu 
+insert valu 
+set autocommit 
+autocommit 
+nohold cursor jdk select 
+fetch cursor 
+jdk 
+commit 
+commit 
+fetch cursor commit 
+cursor jdk give error xcl 
+jdk 
+clean 
+close jdk 
+line jdk error xcl thrown detail prompt error xcl client emb 
+client mode error xcl result set open verifi autocommit 
+emb mode error xcl result set open oper permit verifi autocommit 
+behavior client embed mode updat invalid cursor 
+sql snippet 
+creat tabl test int int 
+insert test valu 
+updat test set current jdk 
+updat line error invalid cursor jdk client mode error cursor jdk verifi autocommit emb mode 
+chang sysinfo print specif jvm inform 
+nice sysinfo print specif jvm inform java version ibm jvm system properti java runtim version java fullvers give inform research multipl jvms tie altern sysinfo dump system properti inform output pretti big show irrelav inform context 
+behaviour set type map differ embed client 
+embed driver connect set type map behav connect close 
+map argument null throw sql sql state 
+map null empti throw sql sql state 
+map null empti 
+behaviour client driver 
+throw sql sql state 
+driver behav set type map call simplifi test data sourc test 
+sql binari write blob ineffici read byte time sourc blob 
+sql binari write blob ineffici read byte time sourc blob 
+transfer buffer facilit write 
+releas system resourc canon test case 
+method compar canon string canon canon testcas buffer reader cannon reader test output close catch block occur buffer reader won close relat system resourc won releas 
+releat problem byte array output stream raw byte canon testcas creat output stream close compar canon string canon point knut derbi byte array output stream javadoc close effect tear method ad canon test case set raw byte null work null raw byte compar canon string canon cleaner null tear method 

@@ -1,0 +1,2 @@
+api:NN user:NNS provid:VB runnabl:JJ callabl:JJ set:NN key:NNS run:VB abil:NN move:VB code:NN datum:NNS execut:VB return:VBG result:NNS network:NN 
+scope:NN object:NNS task:NN describ:VBN 

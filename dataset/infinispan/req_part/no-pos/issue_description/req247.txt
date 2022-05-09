@@ -1,0 +1,4 @@
+jpa cach store work karaf work 
+hibern osgi depend possibl chang depend 
+jpa store configur parser expos servic blueprint 
+entiti manag factori obtain servic registri similar 

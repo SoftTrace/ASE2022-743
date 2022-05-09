@@ -1,0 +1,3 @@
+open:JJ connect:NNS databas:NNS run:VBG copi:VB datum:NNS 
+featur:NN copi:VB datum:NNS derbi:NNP databas:NNS 
+agnost:JJ eas:VB import:NN export:NN jdbc:NNP compliant:JJ datum:NNS sourc:NN 

@@ -1,0 +1,1 @@
+config:NN option:NN ident:NN jaa:NNP default:NN configur:NN 

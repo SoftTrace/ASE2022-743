@@ -1,0 +1,11 @@
+enhanc derbi ad grant revok support grant revok provid finner level privileg derbi network configur 
+derbi simpl permiss scheme suitabl embed databas system user embed derbi derbi talk applic emb derbi derbi left access control work applic scheme derbi limit access databas system basi user grant full read access 
+suitabl general purpos sql server user divers applic issu sql command databas derbi provid precis mechan limit databas 
+propos enhanc derbi implement subset grant revok capabl sql standard envis work involv task 
+develop specif capabl add derbi 
+provid high level implement scheme 
+pursu stage develop plan support ddl ad derbi 
+add support runtim check privileg 
+address migrat upgrad issu previous releas scheme newer databas 
+larg task invit interest peopl work larg import enhanc derbi 
+

@@ -1,0 +1,6 @@
+dist mode request key map local remot sent data owner key respons add unnecessari load network node eventu respond valu larg lot unnecessari network traffic 
+purpos broadcast data owner respond overload respond faster 
+solut base 
+provid configur stagger timeout rpc random owner wait timeout respons rpc owner 
+broadcast configur subset owner num owner 
+care thought design 

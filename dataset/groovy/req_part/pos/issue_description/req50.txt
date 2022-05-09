@@ -1,0 +1,2 @@
+provid:VBZ similar:JJ behavior:NN list:NN 
+fire:VB event:NNS element:NNS add:VBN remov:VBN clear:VBN multi:JJ ad:JJ remov:JJ allal:NN removeal:NN retainal:NN 

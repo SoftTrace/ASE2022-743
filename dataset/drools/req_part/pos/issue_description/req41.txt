@@ -1,0 +1,6 @@
+ruleflow:NNP agenda:NN group:NNS unifi:VBN 
+attribut:NNS rule:NN result:VB 
+overwritten:JJ 
+rfg:NNS implement:VBN 
+rfg:NNP case:NN conflict:NN 
+warn:NN generat:VBN case:NN potenti:JJ conflict:NNS 

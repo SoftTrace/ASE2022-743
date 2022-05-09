@@ -1,0 +1,13 @@
+major:JJ pain:NN point:NN method:NNS mark:JJ privat:JJ static:NN don:VB 
+selectdatamodelrow:NN privat:JJ line:NN index:NN don:VBP 
+lot:NN pain:NN integr:VB 
+rang:NNS databas:NN queri:VB databas:NN 
+avoid:VB 
+overrid:VB instal:VBG page:NNPS compon:NN copi:VB page:NNPS chang:VB line:NN talk:VB 
+give:VB detail:NNS 
+addit:NN cool:JJ method:NN public:JJ static:NN string:NN getrequestschem:NN determin:VBZ request:NN secur:JJ url:NN 
+scenario:NNS overrid:VB method:NN 
+case:NN ssl:NN acceler:NN 
+acceler:NN termin:VB ssl:NN connect:NN creat:VB http:NN connect:NN app:NN server:NN 
+option:NN pass:VB http:NN header:NN acceler:NN decrypt:VBZ https:NN packet:NNS app:NN server:NN request:NN secur:JJ redirect:VB 
+class:NN design:VBN extens:NN improv:VBN 

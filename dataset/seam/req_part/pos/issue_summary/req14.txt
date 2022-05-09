@@ -1,0 +1,4 @@
+altern:JJ dispatch:NN strategi:NNS 
+dispatch:NN asynchron:JJ call:NNS event:NNS timer:NN servic:NN 
+good:JJ reason:NNS support:VB dispatch:VBG strategi:NNS quartz:NN jbpm:NN 
+support:VBG dispatch:NN 

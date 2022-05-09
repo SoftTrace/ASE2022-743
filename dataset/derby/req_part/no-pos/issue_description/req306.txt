@@ -1,0 +1,2 @@
+derbi doesn support entir rang valid finit valu java primit type doubl float column sql type doubl real limit introduc compat request derbi user lift restrict 
+restrict enforc method normal real normal doubl org apach derbi iapi type number data type 

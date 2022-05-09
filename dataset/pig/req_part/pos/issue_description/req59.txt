@@ -1,0 +1,4 @@
+run:VB hcat:NN ddl:NN command:NN pig:NN script:NN grunt:NN 
+similar:JJ approach:NN 
+grunt:NN hcat:NN creat:VB tabl:NN 
+similar:JJ don:VBP plan:NN add:VB java:NNP api:NN 

@@ -1,0 +1,2 @@
+case write delet base pig preced delet oper 
+valid case pig base delet write tombston marker 

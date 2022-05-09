@@ -1,0 +1,6 @@
+add:VB annot:NN closur:NN paramet:NNS document:NN method:NNS resolv:VBN closur:NN 
+exec:NN 
+execut:JJ foo:NN 
+arg:NNS bar:NN baz:NN 
+class:NN project:NN 
+exec:NN closur:NNP closur:NN 

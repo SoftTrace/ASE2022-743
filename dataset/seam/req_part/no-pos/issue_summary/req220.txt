@@ -1,0 +1,1 @@
+add logic oper option queri set restrict combin 

@@ -1,0 +1,1 @@
+offset:NN fetch:NN subqueri:NNS 

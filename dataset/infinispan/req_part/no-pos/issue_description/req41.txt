@@ -1,0 +1,14 @@
+deploy custom cach store infinispan server 
+overview 
+support deploy configur custom cach store 
+client perspect 
+client deploy custom cach store jar hotrod server put hotrod server standalon deploy jar servic entri 
+meta inf servic org infinispan persist spi advanc cach writer 
+meta inf servic org infinispan persist spi advanc cach loader 
+meta inf servic org infinispan persist spi cach loader 
+meta inf servic org infinispan persist spi cach writer 
+meta inf servic org infinispan persist spi extern store 
+meta inf servic org infinispan persist spi advanc load write store 
+servic configur 
+implement overview 
+refer 

@@ -1,0 +1,1 @@
+server:NN endpoint:NNS secur:NN domain:NN ssl:NN configur:NN 

@@ -1,0 +1,9 @@
+derbi:NNP basic:JJ support:NN xml:NN consist:VBZ xml:NN datatyp:NN oper:NNS xmlpars:NNP xmlserial:NNP xmlexist:NNP 
+enhanc:VB exist:VBG function:NN move:VB derbi:NNP usabl:JJ complet:JJ xpath:NN xqueri:NN solut:NN emphasi:NN 
+attach:VBN issu:NN document:NN describ:VBG chang:NNS 
+high:JJ level:NN consist:VBP 
+easier:JJR xml:NN oper:NNS datatyp:NN jdbc:NNP 
+implicit:JJ pars:VBG serial:NN xml:NN valu:NNS 
+add:VBG oper:NN xmlqueri:NNP user:NN retriev:VB result:NNS xpath:NN express:NN determin:VBG express:NN evalu:VBZ empti:JJ sequenc:NN xmlexist:NNP 
+chang:NNS exist:VBG oper:NNS line:VB sql:NN xml:NN specif:NN step:NNS eventu:JJ hope:NN support:NN xqueri:NN oppos:VBN xpath:VB derbi:NNP 
+time:NN interest:NN document:NN provid:VB feedback:NN great:JJ 

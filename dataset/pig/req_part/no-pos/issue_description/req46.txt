@@ -1,0 +1,8 @@
+attach patch propos javascript implement pig embed udf script languag 
+similar jython implement rhino jdk 
+differ 
+output schema function schema schema javascript annot decor function class object 
+tupl convert object input schema output schema 
+attach patch final lack unit test 
+test org apach pig test data transit closur 
+jira context 

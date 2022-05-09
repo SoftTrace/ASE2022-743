@@ -1,0 +1,5 @@
+slave:NN replic:NN mode:NN start:VBN encrypt:VBN databas:NN derbi:NN fail:VBZ npe:NN hang:VBZ 
+reason:NN hang:NN scan:VB log:NN find:VB 
+encrypt:VBN databas:NNS scan:NN 
+stage:NN ltf:NN variabl:NN set:VBN 
+solut:NN set:VB variabl:NN ltf:NNP scan:VBG log:NN 

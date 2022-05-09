@@ -1,0 +1,1 @@
+charact:NN type:NN column:NNS add:VBN creat:NNP tabl:NN alter:VB tabl:NN collat:NN type:NN set:VBN schema:NN collat:NN type:NN 

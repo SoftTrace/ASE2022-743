@@ -1,0 +1,5 @@
+project:NN boss:NNP seam:NNP scanner:NN class:NN brows:VB ejb:NN class:NNS search:NN custom:NN annot:NNS 
+handleitem:NN method:NN scanner:NN class:NN packag:NN visibl:JJ 
+prevent:VBZ generic:JJ reusabl:NN power:JJ scanner:NN class:NN 
+guy:NNS handleitem:NN method:NN public:NN 
+frank:NNP 

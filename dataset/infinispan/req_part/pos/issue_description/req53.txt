@@ -1,0 +1,4 @@
+increment:NN topolog:NN rebal:VBP consist:JJ hash:NN add:VBP owner:NNS 
+optim:NNS leav:NN command:NNS owner:NNS 
+intuit:JJ doesn:VBD match:NN group:NNP work:VBZ bug:NNS 
+turn:VBZ place:NNS care:VBP node:NN leav:VBD code:NN complex:JJ handl:VB slow:JJ common:JJ case:NN leaver:NN 

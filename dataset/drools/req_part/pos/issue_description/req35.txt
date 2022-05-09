@@ -1,0 +1,3 @@
+rule:NNS obey:VBG loop:NN root:NN node:NN lian:NNP eval:NN exist:VBZ 
+parent:NN chain:NN skip:VBZ node:NNS 
+skip:VB node:NNS refer:NN chain:NN skip:VB iter:NN 

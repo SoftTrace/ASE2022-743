@@ -1,0 +1,1 @@
+appli:VB isstatetransferen:VBN attribut:NN consum:NN 

@@ -1,0 +1,1 @@
+lock:NN activ:VB rule:NN attribut:NN 

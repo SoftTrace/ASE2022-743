@@ -1,0 +1,2 @@
+configur attribut transact cluster wide lock acquir eager lazili current scheme lazi default 
+implement broadcast lock control command acquir local lock key 

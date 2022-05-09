@@ -1,0 +1,1 @@
+code:NN generat:NN time:NN collat:NN type:NN determin:VB kind:NN dvd:NN generat:VBN charact:NN type:NNS 

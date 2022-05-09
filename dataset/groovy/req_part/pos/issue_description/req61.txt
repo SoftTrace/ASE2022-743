@@ -1,0 +1,23 @@
+age:NNP write:VBD spell:NN checker:NN groovi:JJ give:VBZ inform:NN case:NN properti:NNP throw:VBN 
+pick:VBD finish:VBD patch:NN 
+reflect:NN find:VB method:NNS edit:NN distanc:NN relat:JJ request:VBN method:NN 
+edit:NN distanc:NN 
+method:NN rank:VB method:NN probabl:JJ solut:NN display:VBN 
+perform:NN impact:NN isol:VBN properti:NNS method:NNS constructor:NNS 
+don:VBP case:NN impact:VB work:VBG program:NN 
+unit:NN test:NNS partial:JJ era:NN complet:JJ string:NN array:NN metric:NNS coverag:NN weak:JJ 
+method:NN 
+groovi:JJ 
+error:NN signatur:NN method:NN static:NN applic:JJ argument:NN type:NNS valu:NNS 
+solut:NNS valueof:NN valueof:NN int:NN valueof:NN int:NN 
+run:NN 
+groovi:JJ 
+constructor:NNP 
+integ:NNP object:NN 
+error:NN find:VB match:VBG constructor:NN 
+solut:NNS int:NN 
+run:NN 
+constructor:NNP 
+error:NN properti:NN class:NN 
+solut:NNS 
+run:NN 

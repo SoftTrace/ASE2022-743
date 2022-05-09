@@ -1,0 +1,14 @@
+count:VB number:NN meet:VBP criterion:NNS 
+suppos:VBN town:NN object:NNS list:NN person:NN object:NNS 
+write:VB rule:NNS 
+find:VB town:NNS disabl:JJ peopl:NNS incom:NNS 
+town:NN resid:NNS poor:JJ child:NNS age:NN add:VB teacher:NN child:NNS 
+shaki:JJ jbr:NNP syntax:NN translat:VB 
+rule:NN disabl:JJ 
+size:NN collect:JJ person:NN disabl:JJ incom:NN 
+stuff:NN 
+rule:NN teacher:NNS 
+town:NN town:NN popul:NN 
+count:NN arraylist:NNP collect:JJ person:NN disabl:JJ incom:NN 
+count:NN size:NN 
+work:VBG town:NNS peopl:NNS understand:VBN 

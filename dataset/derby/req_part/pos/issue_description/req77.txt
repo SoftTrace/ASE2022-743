@@ -1,0 +1,14 @@
+apach:NNP roller:NNP team:NN databas:NN migrat:NN script:NNS updat:VB databas:NNS roller:NNP releas:NNS 
+common:JJ templat:NN run:VBN veloc:NN creat:VB specif:JJ script:NNS databas:NNS support:VBP 
+handicap:NN derbi:NNP databas:NNS inabl:NN renam:VB tabl:NNS 
+renam:VBG tabl:NNS return:VBZ error:NN derbi:NNP 
+renam:VB tabl:NN websit:NN weblog:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+error:NN oper:NN renam:NN perform:VBN object:NN constraint:NN depend:JJ object:NN 
+result:VBZ migrat:NN script:NNS messi:JJ drop:VBG constraint:NNS recreat:VBG rdbms:NN requir:VBZ 
+great:JJ futur:JJ releas:NN derbi:NNP code:VBN support:VB tabl:NN renam:VBZ constraint:NNS defin:VBN 

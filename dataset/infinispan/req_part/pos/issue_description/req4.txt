@@ -1,0 +1,5 @@
+current:JJ rehash:NN scheme:NNS base:VBN pull:NN state:NN 
+joiner:NNP owner:NNS leav:NN pull:VBP state:NN neighbour:NNS 
+jira:NNP reimplement:VB push:NN base:VBN scheme:NN node:NNS detect:VBP joiner:NNS leaver:NNS analys:VB intern:JJ state:NN determin:VB push:VBN 
+scheme:NN robust:JJ involv:VBG rpc:NNS coordin:NN work:VB merg:NN view:NNS detect:VBN partit:NNS heal:VBP 
+base:VBN bela:NNP prototyp:NN 

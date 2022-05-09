@@ -1,0 +1,6 @@
+john:NNP wilson:NNP suggest:VBD improv:VBN syntax:NN catch:VBG 
+suggest:VBN java:NNP 
+trivial:JJ groovi:NNP 
+field:NNP field:NN somefield:NN 
+somevalu:NN 
+catch:NN secur:NNP field:NNP 

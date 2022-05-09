@@ -1,0 +1,2 @@
+org jboss seam core jbpm compon abil jbpm configur jndi 
+

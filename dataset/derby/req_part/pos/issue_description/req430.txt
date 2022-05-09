@@ -1,0 +1,5 @@
+client:NN driver:NN limit:NN byte:NNS databas:NN 
+defin:VBN drda:NNP spec:NN discuss:NN list:NN limit:NN rais:VBN introduct:NN acr:NNP utf:NN charact:NNS 
+utf:NN charact:NNS byte:NNS reduc:VBZ limit:NN charact:NNS 
+easi:JJ chang:NN codepoint:NN defin:VBZ limit:NN 
+work:VB 

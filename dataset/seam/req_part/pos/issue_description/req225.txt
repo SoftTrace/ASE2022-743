@@ -1,0 +1,18 @@
+critic:JJ appli:VBN jsf:NNP request:NNS scan:NN occur:VBZ relat:VBN request:VBN page:NN 
+xml:NN schema:NNS compon:NN descriptor:NN recogn:VB filter:NN configur:JJ element:NN 
+configur:VBN 
+compon:NN 
+properti:NN urlpattern:NN 
+seam:NN properti:NN 
+compon:NN 
+chang:VB compon:NN add:VB hot:JJ deploy:VB filter:NN element:NN 
+web:NN deploy:VB filter:NN url:NN pattern:NN 
+seam:NN 
+move:VBG filter:NN lightweight:JJ core:NN control:VBN debug:NN mode:NN flag:NN seam:NNP 
+compon:NN introduc:VB namespac:NN correspond:VBG 
+add:VB hot:JJ deploy:VB filter:NN 
+debug:NN deploy:VB filter:NN url:NN pattern:NN 
+seam:NN 
+hate:VBP solut:NN 
+redeem:JJ qualiti:NN doesn:VBD break:NN applic:NNS reli:VB compon:NN 
+affect:VB debug:NN mode:NN product:NN app:NNS 

@@ -1,0 +1,1 @@
+queri:NNS result:NNS process:VBN reach:VBP termin:JJ node:NN 

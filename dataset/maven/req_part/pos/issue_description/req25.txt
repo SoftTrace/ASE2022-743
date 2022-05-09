@@ -1,0 +1,5 @@
+flag:NN mvn:NN set:VB snapshot:NN repo:NNS updatepolici:NN 
+build:NN instal:VBN snapshot:NNS dep:NNS download:VBN 
+creat:VB profil:NN redefin:VBZ snapshot:NN repo:NNS updatepolici:NN updatepolici:NN messi:JJ add:VB profil:NN pom:NN defin:VBZ repo:NN 
+hard:JJ implement:VB simpl:JJ cli:NN flag:NN nsu:NNP snapshot:NN updat:NNS forc:VB snap:JJ repo:NNS updat:VB 
+autom:VBN build:NNS local:JJ repo:NN cach:NN dep:NNS 

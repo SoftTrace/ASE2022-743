@@ -1,0 +1,3 @@
+run hcat ddl command pig script grunt similar approach 
+grunt hcat creat tabl 
+similar don plan add java api pig server 

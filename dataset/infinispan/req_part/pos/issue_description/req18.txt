@@ -1,0 +1,8 @@
+revamp:VB emb:VBN infinispan:NNP configur:NN 
+umbrella:NNP jira:NNP configur:NNS relat:VBN infinispan:NNP enhanc:NNS 
+client:NN read:VBN main:JJ data:NN owner:NN 
+java:NN hot:JJ rod:NN client:NN write:VBP main:JJ owner:NN 
+atm:NNP client:NN pick:VBZ random:JJ owner:NN read:VBG 
+read:NN load:NN balanc:VBG doesn:JJ assum:VBG datum:NNS spread:VBN amount:NN read:NNS distribut:VBN cluster:NN 
+forc:VBG client:NN read:VB main:JJ owner:NN guarante:VB red:JJ consist:NN async:NN replic:VBN cach:NNS 
+read:VB consist:NN problem:NN node:NN crash:VBD stronger:JJR guarante:NN async:NN replic:NN usabl:JJ scenario:NNS 

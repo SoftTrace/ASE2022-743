@@ -1,0 +1,9 @@
+groovi:JJ log:VBG annot:NNS chang:VB logger:NN instanc:NN class:NN don:VBP support:NN chang:VB log:VBG categori:NN 
+log:VBG categori:NN hardcod:VBN qualifi:JJ annot:JJ class:NN 
+nice:JJ possibl:NN chang:VB categori:NN 
+packag:NN 
+categori:NN 
+class:NN class:NNP 
+custom:NN categori:NNS log:VBG configur:NN level:NN 
+grail:NNP framework:NN special:JJ compon:NNS servic:NNS control:NN custom:NN log:VBG categori:NN default:NN prefix:NNS compon:NN 
+groovi:JJ log:VBG annot:NNS break:VBZ convent:NN log:VBG configur:NN compon:NNS chang:NNS 

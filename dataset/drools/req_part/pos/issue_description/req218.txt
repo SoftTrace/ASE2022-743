@@ -1,0 +1,3 @@
+field:NNS sink:NN memori:NN 
+larg:JJ volum:NN system:NNS memori:NN save:VB 
+answer:NN sink:NN 

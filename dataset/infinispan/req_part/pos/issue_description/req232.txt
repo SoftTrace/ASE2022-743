@@ -1,0 +1,6 @@
+view:NN chang:VBP log:NN info:NN receiv:VBN cluster:NN view:NN 
+info:NN incom:JJ receiv:VBN cluster:NN view:NN 
+larg:JJ cluster:NN environ:NN view:NN list:NN truncat:VBN prop:VBP valu:NN default:NN 
+increas:VB hard:JJ join:JJ left:NN 
+nice:JJ delta:NN view:NN chang:NN follow:VBG 
+debug:NN incom:JJ join:VBD leav:VBN 

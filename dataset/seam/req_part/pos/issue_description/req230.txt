@@ -1,0 +1,5 @@
+seam:NNP combin:NNS 
+convers:NNP 
+sens:NN problem:NNS 
+seam:NNP web:NN bean:NNS 
+check:VB warn:NN error:NN deploy:NN 

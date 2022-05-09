@@ -1,0 +1,1 @@
+properti:NNP creat:VBD prop:NNS set:VBN transport:NN 

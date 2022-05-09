@@ -1,0 +1,28 @@
+derbi support jdbc method auto generat key 
+retriev auto generat key valu 
+connect prepar statement string sql int auto generat key 
+statement execut string sql int auto generat key 
+statement execut updat string sql int auto generat key 
+retriev auto generat valu appli insert statement 
+result set statement generat key 
+current implement generat key intern map ident val local method derbi implement return generat key autoincr column default column support 
+generat key result set singl column 
+derbi autoincr column tabl 
+type singl column result set decim 
+defin ident val local 
+generat key result set singl row 
+ident val local return valu assign 
+result singl row insert statement valu claus 
+singl row insert statement autoincr valu 
+generat 
+jdbc defin method user explicit column posit column column auto generat key 
+connect prepar statement string sql string column 
+connect prepar statement string sql int column index 
+statement execut string sql string colum 
+statement execut string sql int colum index 
+statement execut updat string sql string column 
+statement execut updat string sql int column index 
+derbi throw featur support error method method map exist derbi behavior effort embed mode requir code place 
+easier applic reli column column index api work derbi assum app generat key ident autoincr column 
+note jira entail remov restrict chang behavior outlin remain jira simpli expos exist function restrict addit standard api method column index posit auto increment column insert tabl derbi throw error put differ user specifi column posit absenc error exact result invok string sql int auto generat key method 
+note jira specif embed mode harder support method derbi client plan address 

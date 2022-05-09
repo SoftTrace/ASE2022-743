@@ -1,0 +1,8 @@
+fix:NN place:NN current:JJ implement:NN fail:VB 
+patch:NN prepar:NN mention:VBN issu:NN remov:VBN intern:JJ packag:NN privat:JJ method:NNS replac:VBD singl:JJ 
+write:VBG method:NNS call:VBZ underli:VBG method:NN getinternalclob:NN return:VB intern:JJ clob:NN 
+place:NN method:NN getbytelength:NN belong:VB 
+warn:NN refer:NN intern:JJ clob:NN object:NN requir:VBZ caller:NN care:NN 
+iswrit:NN belong:VB clob:NNP writabl:JJ databas:NN connect:NN read:VBN 
+intern:JJ clob:NN represent:NN read:VBN case:NN clone:VB content:NN creat:VB writabl:JJ represent:NN 
+fix:NN leav:VBZ handl:NN implement:NN detail:NNS 

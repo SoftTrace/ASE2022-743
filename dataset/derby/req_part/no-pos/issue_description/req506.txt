@@ -1,0 +1,9 @@
+connect lowercas author doubl quot 
+connect jdbc derbi user dbo password dbo password 
+don doubl quot creat nativ credenti user 
+call sysc util sysc creat user dbo dbo password 
+attach proof concept patch nativ procedur normal usernam argument key sys sysus preserv featur current implement 
+set nativ credenti store author note differ behavior authent scheme authent scheme store set credenti upper case permut author big secur hole authent scheme 
+addit proof concept patch behavior 
+connect usernam string call sysc util sysc creat user 
+case behavior write test check 

@@ -1,0 +1,9 @@
+expand:NNP work:NN support:VB remain:VBG diagnost:JJ tabl:NNS paramet:NNS 
+syntax:NN tabl:NN constructor:NN claus:NN requir:VBN 
+select:VB tabl:NN 
+diagnost:JJ vti:NNS handl:VBN 
+string:NN log:NN file:NN 
+string:NN tablenam:NN 
+string:NN schemanam:NN string:NN tablenam:NN 
+string:NNP 
+stage:NN mention:VBN 

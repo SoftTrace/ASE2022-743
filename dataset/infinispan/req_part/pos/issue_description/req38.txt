@@ -1,0 +1,5 @@
+build:VB server:NN modul:NN base:VBN protocol:NN 
+base:VBN exist:VBG boss:NNP remot:NNP compon:NNS capabl:NN handl:VB load:NN balanc:NN faoliv:NN 
+share:VB compon:NNS protocol:NN pars:VBG code:NN isn:NN repeat:VBN 
+share:VBP compon:NNS abstract:JJ transport:NN socket:NN handl:VBG code:NN reus:VBN 
+comprehens:JJ wiki:NN page:NN detail:VBG usag:NN demonstr:NN 

@@ -1,0 +1,1 @@
+compil:VB groovi:JJ class:NNS script:NNS standard:JJ compil:NN process:NN idea:NNP class:NN path:NN output:NN path:NN modul:NNS class:NNS script:NNS defin:VBN 

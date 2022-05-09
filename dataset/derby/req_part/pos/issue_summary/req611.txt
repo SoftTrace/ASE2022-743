@@ -1,0 +1,1 @@
+updat:NN statement:NN collect:VB generat:VBN key:NNS flag:NN suppli:VBN jdbc:NNP call:NN 

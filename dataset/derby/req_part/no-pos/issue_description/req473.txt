@@ -1,0 +1,3 @@
+run derbi oracl java embed client boot engin fail 
+caus java lang class def error java nio channel overlap file lock 
+happen derbi recogn java platform cdc platform 

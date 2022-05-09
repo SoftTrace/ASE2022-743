@@ -1,0 +1,6 @@
+simplifi releas manag perform manual step feed releas note generat data 
+creat manual jira filter select issu address releas 
+save filter result disk xml 
+write modifi xml parser pars report 
+determin record jira releas note attach id issu requir releas note 
+current version soap api step remov 

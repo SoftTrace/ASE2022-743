@@ -1,0 +1,5 @@
+add:VB properti:NN type:NN princip:NN properti:NN type:NN group:NN 
+script:NNP 
+princip:NN repres:VB authent:VBN user:NN 
+group:NNP properti:NN support:VB isuserinrol:NN implement:NN 
+properti:NNS settabl:JJ overrid:VBG setup:NN method:NN script:NN 

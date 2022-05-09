@@ -1,0 +1,11 @@
+discuss:NN 
+case:NN system:NN databas:NN owner:NNS trust:VBG databas:NN 
+system:NN ensur:VB system:NN attack:VBN 
+derbi:NNP 
+boot:VBN standalon:JJ server:NN secur:NN manag:NN involv:VBD 
+instal:VB default:NN secur:NN polici:NN 
+derbi:NNP 
+java:NNP secur:NN manag:NN manag:VB system:NN privileg:NNS 
+requir:VBG familiar:JJ 
+imagin:VBP polici:NN access:NN databas:NNS 
+standalon:JJ network:NN server:NN start:VBN main:JJ method:NN command:NN line:NN 

@@ -1,0 +1,5 @@
+view chang log info ispn receiv cluster view 
+info incom localhost ispn receiv cluster view 
+larg cluster environ view list truncat max list print size sys prop valu default increas hard join left 
+nice delta view chang 
+debug incom localhost join left 

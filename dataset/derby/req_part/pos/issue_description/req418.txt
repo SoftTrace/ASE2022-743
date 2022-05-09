@@ -1,0 +1,6 @@
+find:VBN databas:NN applic:NN prevent:VBZ startup:NN corrupt:VBN 
+driver:NN report:VBZ databas:NN exist:VB 
+app:NN creat:VB databas:NN creat:VB true:JJ url:NN fail:VBZ 
+happen:VBD app:NN kill:VBN task:NNP manag:NNP creat:VBG databas:NN 
+databas:NN save:VBN reproduc:VB problem:NN 
+attach:VB 

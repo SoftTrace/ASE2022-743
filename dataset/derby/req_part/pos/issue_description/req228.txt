@@ -1,0 +1,5 @@
+jira:NN entri:NN task:NNS involv:VBN implement:VBG 
+exist:VBG datatyp:NN derbi:NNP default:NN collat:NN defin:VBN 
+derbi:NNP support:VB addit:JJ collat:NN char:NN datatyp:NNS base:VBN territori:NN 
+jira:NN issu:NN placehold:NN creat:VBG subclass:NN pass:VBN collat:NNP collat:NN 
+current:JJ class:NN derbi:NNP territori:NN base:VBN collat:NN class:NN futur:NN kind:NNS collat:NNS case:NN insensit:JJ 

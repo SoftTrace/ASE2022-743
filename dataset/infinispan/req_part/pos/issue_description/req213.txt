@@ -1,0 +1,8 @@
+relat:NN 
+scenario:NN start:VB cluster:NN entir:NNP cluster:NN start:VBN start:VB work:VB 
+cachestart:VBN viewchang:VBN notif:NNS 
+local:JJ node:NN start:VBN node:NNS process:NN start:VBG 
+view:NN chang:VBN cluster:NN start:VBN cach:NN process:NN rebalanc:NN state:NN 
+solut:NN nodejoin:JJ event:NN call:VBN node:NN finish:VBD join:VBG cluster:NN 
+finish:VBN join:VBG state:NN transfer:NN happen:VBD node:NN start:VBN 
+workaround:NN featur:NN forum:NN post:NN 

@@ -1,0 +1,1 @@
+put stern readm file log seg directori warn user corrput touch file 

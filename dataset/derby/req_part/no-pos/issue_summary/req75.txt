@@ -1,0 +1,3 @@
+set correct collat type deriv data type descriptor dtd 
+dtd type descriptor impl field collat type collat deriv field type dtd appli charact type datatyp ignor field 
+jira placehold load correct valu collat type collat deriv 

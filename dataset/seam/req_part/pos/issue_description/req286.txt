@@ -1,0 +1,26 @@
+jpdl:NN navig:NN decis:NNS java:NNP code:NN 
+lot:NN loos:JJ coupl:NN transpar:NN 
+support:VB stateless:JJ navig:NN 
+page:NN view:NN 
+action:NN express:NN 
+outcom:NN 
+outcom:NN valu:NN true:JJ 
+render:VB view:NN 
+outcom:NN 
+outcom:NN valu:NN fals:JJ 
+render:VB view:NN 
+outcom:NN 
+action:NN 
+page:NN 
+reduc:VB 
+page:NN view:NN 
+action:NN express:NN 
+outcom:NN valu:NN success:NN 
+render:VB view:NN 
+outcom:NN 
+outcom:NN valu:NN find:VBN 
+render:VB view:NN 
+outcom:NN 
+action:NN 
+page:NN 
+emul:VB normal:JJ jsf:NNP navig:NN rule:NN 

@@ -1,0 +1,5 @@
+assert:VB oper:NN datum:NNS valid:NN 
+assert:VBP write:VB script:NN follow:VBG 
+load:NN int:NN int:NN 
+assert:VB negat:JJ reason:NNS 
+script:NN fail:VB assert:VBP violat:VBN 

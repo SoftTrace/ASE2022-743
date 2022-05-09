@@ -1,0 +1,1 @@
+check:VB lock:VBG jdbc:NNP cach:NN store:NNS replac:VBN select:JJ updat:NN 

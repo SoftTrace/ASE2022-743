@@ -1,0 +1,8 @@
+error messag xci complex 
+invalid chang derbi authent provid properti set nativ authent properti chang nativ local nativ valu accept derbi authent provid properti set nativ local credenti databas owner store databas sysc util sysc creat user procedur 
+favor simplifi error messag rais specif messag error condit dbo hasn ad user 
+clear inform derbi authent provid appli set databas properti 
+messag describ problem scenario 
+turn nativ authent forbidden 
+invalid valu derbi authent provid set databas properti 
+credenti dbo 

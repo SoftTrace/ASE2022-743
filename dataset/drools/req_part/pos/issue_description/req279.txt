@@ -1,0 +1,18 @@
+write:VB constraint:NN determin:VB field:NN valu:NN member:NN collect:NN 
+invers:NN keyword:NN 
+propos:VBN syntax:NN 
+bindingvar:NN fieldnam:NN somecollect:NN 
+picki:JJ keyword:NN possibl:NNS containedbi:JJ memberof:NN singl:JJ word:NN 
+case:NN 
+class:NN field:NN expos:VBZ collect:NN record:NN 
+number:NNS 
+work:VBG memori:NN bunch:NN record:JJ object:NNS 
+object:NN 
+write:VB rule:NN fire:VBZ encount:VBZ 
+record:NNS match:VBG criterion:NNS 
+record:NNS 
+record:NN number:NN otherfield:NN somevalu:NN 
+stuff:NNP 
+current:JJ workaround:NN 
+record:NN num:NN number:NN num:NN 
+problemat:JJ predic:NN time:NN constant:JJ 

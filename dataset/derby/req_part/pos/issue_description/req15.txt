@@ -1,0 +1,7 @@
+derbi:NNP doesn:JJ call:JJ statement:NN trigger:NN bodi:NN 
+great:JJ java:NN store:VBN procedur:NN invoc:NN trigger:NN 
+derbi:NNP doesn:VBD sql:NN procedur:NN languag:NN trigger:VBZ execut:VB singl:JJ sql:NN statement:NN 
+store:VBN procedur:NNS trigger:VBZ write:VB trigger:NN involv:VBZ sql:NN statement:NN 
+function:NNS read:VBN 
+easi:JJ support:VB enhanc:NN 
+good:JJ amount:NN test:NN 
